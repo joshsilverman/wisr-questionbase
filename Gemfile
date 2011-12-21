@@ -14,7 +14,6 @@ group :assets do
   gem 'coffee-rails'
   gem 'uglifier'
   gem 'therubyracer'
-
 end
 
 gem 'haml'
