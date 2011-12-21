@@ -1,0 +1,24 @@
+- @back = link_to 'Back', books_path
+= render :partial => "shared/header", :locals => { :back => @back } 
+.content_container
+  .left_column
+    .column_content
+      = form_for(@book) do |f|
+        .field
+          = f.label :name, :class => "question_label"
+          = f.text_field :name, :class => "question_field"
+        %br/
+        .field
+          = f.label :author, :class => "question_label"
+          = f.text_field :author, :class => "question_field"
+        %br/
+        .field
+          = f.label :edition, :class => "question_label"
+          = f.number_field :edition, :class => "question_field"
+        %br/
+        .field
+          = f.check_box :public, :class => "checkbox"
+          = f.label :public, :class => "checkbox_label"
+        %br/
+        .actions
+          = f.submit

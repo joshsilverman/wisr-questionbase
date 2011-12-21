@@ -1,0 +1,19 @@
+%h1= "Select a file (.docx) to upload"
+
+= form_for :dump, :url=>{:controller=>"questions", :action=>"bandoy_parser"}, :html => { :multipart => true } do |f|
+  %table
+    %tr
+      %td
+        %label{:for => "dump_file"}
+          Select a file :
+      %td
+        = f.file_field :file
+    %tr
+      %td
+        %label
+          Add to chapter:
+      %td
+        = collection_select("chapter", "id", Chapter.all(), :id, :name)
+    %tr
+      %td{:colspan => "2"}
+        = submit_tag 'Upload'

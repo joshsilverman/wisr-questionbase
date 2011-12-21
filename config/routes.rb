@@ -1,5 +1,4 @@
 OauthClientDemo::Application.routes.draw do
-  root :to => 'home#show'
 
   # omniauth
   match '/auth/:provider/callback', :to => 'user_sessions#create'
@@ -7,4 +6,26 @@ OauthClientDemo::Application.routes.draw do
 
   # Custom logout
   match '/logout', :to => 'user_sessions#destroy'
+  
+  resources :resources
+  resources :answers
+  resources :books
+  resources :chapters
+  resources :questions
+
+  match "questions/save_question" => "questions#save_question", :as => :save_question_path
+
+  match "chapters/:id/export" => "chapters#export_to_csv"  
+  match "compare_question" => "questions#compare_question"
+  match "questions/update_question_scores/:winner_id/:loser_id/:tie" => "questions#update_question_scores"
+  match "bandoy_uploader" => "questions#bandoy_uploader"
+  match "bandoy_parser" => "questions#bandoy_parser"
+  
+  #API CALLS
+  match "api-V1/get_books/:ids" => "api_v1#get_books"
+  match "api-V1/get_book_details/:id" => "api_v1#get_book_details"
+  match "api-V1/get_lessons/:ids" => "api_v1#get_lessons"
+  match "api-V1/get_all_lesson_questions/:id" => "api_v1#get_questions"
+
+  root :to => "static#home"
 end

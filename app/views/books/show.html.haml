@@ -1,0 +1,25 @@
+- @back = link_to('Back to Books', books_path)
+= render :partial => "shared/header", :locals => { :back => @back } 
+
+.content_container
+    .left_column
+        .column_content
+            %h1{:class => "column_header"}= @book.name + " (" + @book.edition.to_s + "e)"
+            (
+            =link_to('new chapter', new_chapter_path({:book_id => @book.id}), :class => "edit_link")
+            )
+            %br
+            %hr{:class => "dotted_line"}
+            %br
+            -if @chapters.empty?
+                %p{:class => "line_placeholder"}= "- No chapters yet! -"
+            -else
+                %ul
+                    - @chapters.each do |chapter|
+                        - if chapter.name.nil?
+                            %li{:class => "line_item"}= link_to("Chapter " + chapter.number.to_s, chapter, :chapter_number => chapter.number, :class => "line_title") + " (" + link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link") + ")"
+                        - else
+                            %li{:class => "line_item"}= link_to("Chapter " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title") + " (" + link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link") + ")"
+                        - if Book.find_by_id(chapter.book_id).user_id == current_user.uid
+                            = link_to('Delete', chapter, :confirm => 'Are you sure want to delete this chapter? This cannot be undone.', :method => :delete)    
+                %br

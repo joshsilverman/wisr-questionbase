@@ -1,0 +1,12 @@
+-if current_user
+    = "Welcome " + current_user.name + "!"
+    =link_to "Sign out", signout_path 
+-else
+    =image_tag('books.jpg', :class => 'home_image')
+    .home
+        .home_box
+            .home_text
+                Welcome to Questionbase. Please log in with Facebook to get started!
+                %br
+                %br
+                =link_to image_tag('fb_login.png'), "auth/facebook", :class => "fb_button"

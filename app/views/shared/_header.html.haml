@@ -1,0 +1,12 @@
+.shadow
+    .header_container
+        .back_link
+            = @back
+        .title
+            QuestionBase
+        .login
+            %p{:class => "welcome"}= "Welcome " + current_user.name + "!"
+            (
+            =link_to "Sign out", logout_path, :class => "edit_link"
+            )
+%br

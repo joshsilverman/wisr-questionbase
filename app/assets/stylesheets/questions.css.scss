@@ -1,0 +1,113 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#templates {
+    visibility: hidden;
+}
+
+#activities {
+    margin-left: 110px;
+}
+
+.answer_field {
+    /*float: right;*/
+    /*display: block;*/
+}
+
+.answer_field {
+    width: 400px; 
+    height: 22px;
+    background-color: #F5F5F5;
+    font-size: medium; 
+}
+
+.question_area {
+    width: 500px;
+    height: 60px;
+    background-color: #F5F5F5;
+    font-size: large;
+}
+
+.answer {
+    display: block;  
+}
+
+
+/*.expandable_header {
+    padding-left: 15px;
+    padding-top: 3px;
+    padding-right: 15px;
+    font-size: 16px;
+    white-space: nowrap;  
+    overflow: hidden;  
+    text-overflow: ellipsis; 
+    opacity:0.8;
+    color: white;
+    height: 25px;
+    background-color: #872929;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;  
+    -moz-box-shadow: 20px 20px 20px 20px #ccc;
+    -webkit-box-shadow: 6px 6px 6px 6px #ccc;
+    box-shadow: 4px 4px 10px 1px #ccc;  
+}
+
+.question_container {
+    margin-left: 40px;
+}*/
+
+.menu {
+    background-color: #F5F5F5;
+    position: fixed;
+    left: 13px;
+    top: 191px;
+    width: 75px;
+    height: 75px;    
+    margin-top: -2.5em;
+    text-align: center;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;  
+    -moz-box-shadow: 20px 20px 20px 20px #ccc;
+    -webkit-box-shadow: 6px 6px 6px 6px #ccc;
+    box-shadow: 4px 4px 10px 1px #ccc;      
+}
+/*
+label {
+    display: block;
+}
+
+
+
+
+
+.question_hr {
+    width: 100%;
+    height: 2px;
+    color: gray;
+    background-color: gray;
+}
+
+.question_content {
+    padding-left: 0px;
+}
+
+.question_group {
+    
+}
+
+.question_label {
+    font-weight: bold;
+}
+
+.question_area {
+    height: 100px;
+}
+
+.question_field {
+    width: 400px;
+}*/
