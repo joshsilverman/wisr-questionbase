@@ -14,9 +14,10 @@ group :assets do
   gem 'coffee-rails'
   gem 'uglifier'
   gem 'therubyracer'
-  gem 'haml'
+
 end
 
+gem 'haml'
 gem 'rails', '3.1.3'
 gem 'jquery-rails'
 gem 'omniauth'
