@@ -9,10 +9,11 @@
             %br
             %hr{:class => "dotted_line"}
             %br
-            - if @public_books.empty?
+            - if @my_books.empty?
                 %p{:class => "line_placeholder"}= "No books yet!"
-            -else            
+            - else            
                 %ul
+                    - puts @my_books.to_json
                     - @my_books.each do |my_book|
                         %li{:class => "line_item"}= link_to(my_book.name + " by " + my_book.author + " (" + my_book.edition.to_s + "e)", my_book, :class => "line_title") + " (" + link_to('edit', edit_book_path(my_book), :class => "edit_link") + ")"
                         = link_to('Delete', my_book, :confirm => 'Are you sure want to delete this book? This cannot be undone.', :method => :delete)                        
