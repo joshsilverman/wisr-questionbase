@@ -6,12 +6,12 @@
 		.column_content
 			= form_for @chapter do |f|
 				.field
-					%td= f.label :name, "Chapter name", :class => "question_label"
-					%td= f.text_field :name, :class => "question_field"
+					%td= f.label :name, "Chapter name", :class => "form_label"
+					%td= f.text_field :name, :class => "form_field"
 				%br/			
 				.field
-					%td= f.label :number, "Chapter number", :class => "question_label"
-					%td= f.number_field :number, :class => "question_field"
+					%td= f.label :number, "Chapter number", :class => "form_label"
+					%td= f.number_field :number, :class => "form_field"
 				%br/
 				=hidden_field_tag("book_id", @current_book.id)
 

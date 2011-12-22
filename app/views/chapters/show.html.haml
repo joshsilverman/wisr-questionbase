@@ -6,109 +6,68 @@
      %br
      %br
      = link_to_function "Top", "window.control.scrollToTop()"
-
+%br
 %div{:id => "activities"}
-     - for question in @chapter.questions
-          .activity_group
-               .question_group
-                    = text_area nil, nil, :question_id => question.id, :value => question.question, :placeholder => "Question", :class => "question_area"
-                    .add_answer Add Answer 
-               .answer_group
-                    - for answer in question.answers
-                         .answer
-                              = answer.correct ? label(nil, "O", :class => "correct") : label(nil, "X", :class => "correct")
-                              = text_field nil, nil, :answer_id => answer.id, :question_id => question.id, :value => answer.answer, :placeholder => "Answer", :correct => answer.correct ? 1 : 0, :class => "answer_field"
-               .resource_group
-                    .add_resource Add Resource
+     - @chapter.questions.each_with_index do |question, i|
+          .activity_group{:id => "activity_group_" + question.id.to_s}
+               .header{:id => "header_" + question.id.to_s, :question_id => question.id.to_s}
+                    = label nil, "#{i+1}. #{question.question}", :class => "header_text"
                %br
-               %br
+               .activity_content{:id => "activity_content_" + question.id.to_s}
+                    .activity_left_column
+                         .question_group
+                              = text_area nil, nil, :question_id => question.id, :value => question.question, :placeholder => "Question", :class => "question_area"
+                              %br
+                         .answer_group
+                              - for answer in question.answers
+                                   .answer
+                                        .indicator
+                                             = answer.correct ? label(nil, "O", :class => "indicator_mark") : label(nil, "X", :class => "indicator_mark")
+                                        .answer_space
+                                             = text_field nil, nil, :answer_id => answer.id, :question_id => question.id, :value => answer.answer, :placeholder => "Answer", :correct => answer.correct ? 1 : 0, :class => "answer_field"
+                              .add_answer Add Answer                
+                    .activity_right_column
+                         - puts "q resource: #{question.resources.all(:conditions => {:contains_answer => false}).to_json}"
+                         - puts "a resource: #{question.resources.all(:conditions => {:contains_answer => true}).to_json}"
+                         .question_media_box
+                              - if question.resources.all(:conditions => {:contains_answer => false}).first
+                                   = image_tag question.resources.all(:conditions => {:contains_answer => false}).first.url, :class => "preview"
+                         .answer_media_box
+                              .resource_group
+                                   - if question.resources.all(:conditions => {:contains_answer => true}).first
+                                        = image_tag question.resources.all(:conditions => {:contains_answer => true}).first.url, :class => "preview"
+                              %br
 
 = hidden_field_tag "chapter_id", @chapter.id
 
 %div{:id => "templates"}
      %div{:id => "activity_group"}
-          .question_group
-               = text_area nil, nil, :placeholder => "Question", :class => "question_area"
-               .add_answer Add Answer
-          .answer_group
-          .resource_group
-               .add_resource Add Resource          
-          %br
-          %br
+          .header
+               = label nil, nil, :class => "header_text"
+          %br  
+          .activity_content   
+               .activity_left_column
+                    .question_group
+                         = text_area nil, nil, :placeholder => "Question", :class => "question_area"
+                    .answer_group
+                         .add_answer Add Answer  
+               .activity_right_column  
+                    .question_media_box
+                    .answer_media_box             
+                         .resource_group
+                         %br
+               / %br
      %div{:id => "answer"}
-          = label nil, "X", :class => "correct"
-          = text_field nil, nil, :id => "answer_field", :placeholder => "Answer", :class => "answer_field"
+          .indicator
+               = label(nil, "X", :class => "indicator_mark")
+          .answer_space
+               = text_field nil, nil, :id => "answer_field", :placeholder => "Answer", :class => "answer_field"    
+     = text_field nil, nil, :placeholder => "URL", :class => "resource_field", :id => "resource"         
+     %div{:id => "header"}
+          = label nil, "", :class => "header_text"
 
-
-/ %div{:id => "form_template"}
-/      %div{:id => "question_template"}
-/           = text_area nil, nil, :placeholder => "Question"
-/           %br
-/           .answer_group
-/           .add_answer Add Answer
-/%div{:id => "answer_template"}
-/ = text_field nil, nil, :placeholder => "Answer", :id => "answer_template"
-/ %br
-/%div{:id => "correct_answer_template"}
-/     = text_field nil, nil, :placeholder => "Correct answer"
-/     %br          
-
-
-/ / .menu
-/ /      = link_to_function 'Add question', "Application.addQuestionDiv('#{@chapter.id}')", :class => "edit_link"
-
-/ .column_content
-/      %br
-/      %h1{:class => "column_header"}= "Chapter #{@chapter.number}"
-/      (
-/      = link_to_function 'Add question', "Application.addQuestionDiv('#{@chapter.id}')", :class => "edit_link"
-/      )
-/      //= button_to_function "Expand All", "Application.expandOrContractAll()", :id => "expand_contract_button"
-/      //= link_to_function "Bottom", "Application.scrollToBottom()"
-/      %br
-/      %hr{:class => "dotted_line"}
-/      %br
-/      .question_content
-/           - @questions.each_with_index do |question, i|
-/                //%p{:class => "expandable_header", :question_id => question.id.to_s}= "#{i+1}. #{question.question}"
-/                .question_container{:id => "question_container_" + question.id.to_s}
-/                     %br
-/                     .question_group
-/                          = label nil, "#{i+1}. Question (" + User.find_by_id(question.user_id).name + " on " + question.created_at.strftime("%m/%d/%y at %H:%M").to_s + ")", :class => "question_label" 
-/                          = text_area nil, nil, :value => question.question, :class => "question_area", :id => "question_" + question.id.to_s, :question_id => question.id.to_s 
-/                     %br                       
-/                     .question_group
-/                          = label nil, "Correct answer", :class => "question_label"
-/                          = text_field nil, nil, :value => question.correct_answer, :class => "question_field", :id => "correct_answer_" + question.id.to_s, :question_id => question.id.to_s
-/                     %br                                   
-/                     .question_group
-/                          = label nil, "Incorrect answer #1", :class => "question_label"
-/                          = text_field nil, nil, :value => question.incorrect_answer1, :class => "question_field", :id => "incorrect_answer1_" + question.id.to_s, :question_id => question.id.to_s
-/                     %br
-/                     .question_group
-/                          = label nil, "Incorrect answer #2", :class => "question_label"
-/                          = text_field nil, nil, :value => question.incorrect_answer2, :class => "question_field", :id => "incorrect_answer2_" + question.id.to_s, :question_id => question.id.to_s
-/                     %br                            
-/                     .question_group
-/                          = label nil, "Incorrect answer #3", :class => "question_label"
-/                          = text_field nil, nil, :value => question.incorrect_answer3, :class => "question_field", :id => "incorrect_answer3_" + question.id.to_s, :question_id => question.id.to_s
-/                     %br 
-/                     .question_group 
-/                          = label nil, "Topic", :class => "question_label"
-/                          = text_field nil, nil, :value => question.topic, :class => "question_field", :id => "topic_" + question.id.to_s, :question_id => question.id.to_s                              
-/                     %br  
-/                     .question_group
-/                          = button_to_function "Saved", "Application.saveQuestion('#{question.id}', '#{@chapter.id}')", :id => "submit_" + question.id.to_s, :class => "question_label"
-/                          - if Book.find_by_id(Chapter.find_by_id(question.chapter_id).book_id).user_id == current_user.uid                         
-/                               = link_to('Delete', question, :confirm => 'Are you sure want to delete this question? This cannot be undone.', :method => :delete) 
-/                     %br
-/                     %hr{:class => "dotted_line"}
-/                     %br 
-/      %br
-/      = link_to_function 'Add question', "Application.addQuestionDiv('#{@chapter.id}')", :class => "edit_link"
-/      %br
-/      %br
-/      %br
-/      = link_to_function "Back to top", "Application.scrollToTop()"
-/      %br
-/      %br
+#media-dialog{:class => "ui-widget ui-helper-hidden"}
+     %form
+          %fieldset
+               %label{:for => "name"} Link to image:
+               %input{:id => "modal_image_link", :name => "name", :type => "text"}

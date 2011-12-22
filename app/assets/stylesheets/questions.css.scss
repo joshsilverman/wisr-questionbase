@@ -7,63 +7,143 @@
 }
 
 #activities {
-    margin-left: 110px;
+    margin: 0px 15px 0px 105px;
 }
 
-.answer_field {
-    /*float: right;*/
-    /*display: block;*/
+.activity_group {
+    display: block;
+    /*margin-left: 50px;*/
 }
 
-.answer_field {
-    width: 400px; 
-    height: 22px;
-    background-color: #F5F5F5;
-    font-size: medium; 
+.activity_content {
+    display: block;    
+}
+
+.activity_left_column {
+    width: 65%;
+    height: 500px;
+    float: left;
+    padding: 50px 0px 50px 0px;
+}
+
+.activity_right_column {
+    width: 25%;
+    height: 500px;
+    float: right;
+    margin-right: 45px;
+    padding: 50px 0px 50px 0px;
+}
+
+.question_group {
+    height: 174px;
 }
 
 .question_area {
-    width: 500px;
-    height: 60px;
-    background-color: #F5F5F5;
-    font-size: large;
+    height: 150px;
+    width: 90%;
+    float: right;
+    margin: 8px 0px 8px 0px;
+    font-size: 22px;
+    background-color: #F7F7F7;
+}
+
+
+.answer_group {
+    height: 348px;
+    width: 100%;
 }
 
 .answer {
-    display: block;  
+    width: 90%;
+    float: right;
+    display: block;
+    height: 65px;   
+}
+
+.indicator {
+    width: 10%;
+    float: left; 
+    height: 65px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.indicator_mark {
+    display: inline;
+}
+
+.answer_space {
+    width: 88%;
+    float: right;
+    height: 65px;
+}
+
+.add_answer {
+    display: block;
+    float: right;
+    text-decoration: underline;
+    width: 20%;
+    text-align: right;
+}
+
+.add_answer:hover {
+    color: blue;
 }
 
 
-/*.expandable_header {
-    padding-left: 15px;
-    padding-top: 3px;
-    padding-right: 15px;
+
+.answer_field {
+    display: inline;
+    height: 45px;
+    width: 100%;
+    float: right;
+    margin: 8px 0px 8px 0px;
+    font-size: 18px;
+    background-color: #F7F7F7;    
+}
+
+.resource_field {
+    width: 400px; 
+    height: 22px;
+    background-color: #F5F5F5;
+    font-size: medium;     
+    display: block;
+}
+
+
+
+/*.answer {
+    display: block;
+    height: 50px;  
+}*/
+
+.header {
+    margin: auto;
+    padding: 3px 15px 0px 15px;
     font-size: 16px;
     white-space: nowrap;  
     overflow: hidden;  
     text-overflow: ellipsis; 
-    opacity:0.8;
-    color: white;
+    opacity: 0.8;
+    color: black;
     height: 25px;
-    background-color: #872929;
-    -moz-border-radius: 20px;
+    display: block;
+    width: 97%;
+    background-color: #F5F5F5;
+    -moz-box-shadow: 4px 4px 10px 1px #ccc;
+    -webkit-box-shadow: 4px 4px 10px 1px #ccc;
+    box-shadow: 4px 4px 10px 1px #ccc;
+    /*-moz-border-radius: 20px;
     -webkit-border-radius: 20px;
     -khtml-border-radius: 20px;
-    border-radius: 20px;  
-    -moz-box-shadow: 20px 20px 20px 20px #ccc;
-    -webkit-box-shadow: 6px 6px 6px 6px #ccc;
-    box-shadow: 4px 4px 10px 1px #ccc;  
+    border-radius: 20px;*/
 }
-
-.question_container {
-    margin-left: 40px;
-}*/
 
 .menu {
     background-color: #F5F5F5;
     position: fixed;
-    left: 13px;
-    top: 191px;
+    left: 15px;
+    top: 127px;
     width: 75px;
     height: 75px;    
     margin-top: -2.5em;
@@ -76,14 +156,32 @@
     -webkit-box-shadow: 6px 6px 6px 6px #ccc;
     box-shadow: 4px 4px 10px 1px #ccc;      
 }
-/*
-label {
-    display: block;
+
+.preview {
+    max-width: 150px;
+    max-height: 150px;  
 }
 
+.question_media_box {
+    width: 150px;
+    height: 150px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: gray;
+    margin-top: 8px;
+}
 
+.answer_media_box {
+    width: 150px;
+    height: 150px;
+    /*height: 248px;*/
+    border-style: dashed;
+    border-width: 2px;
+    border-color: gray;
+    margin-top: 16px;  
+}
 
-
+/*
 
 .question_hr {
     width: 100%;
@@ -99,15 +197,18 @@ label {
 .question_group {
     
 }
-
-.question_label {
+*/
+.form_label {
     font-weight: bold;
+    display: block;
 }
 
-.question_area {
+/*.question_area {
     height: 100px;
-}
-
-.question_field {
-    width: 400px;
 }*/
+
+.form_field {
+    width: 400px;
+    height: 35px;
+    font-size: 18px;
+}
