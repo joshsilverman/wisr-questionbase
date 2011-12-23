@@ -15,7 +15,8 @@ class ApiV1Controller < ApplicationController
     @lesson_ids = params[:ids].split('+')
     book_ids = Chapter.where(:id => @lesson_ids).group(:book_id).collect(&:book_id)
     @books = Book.where(:id => book_ids)
-    puts @books
+    @chapter = Chapter.includes(:book).where(:id => @lesson_ids)
+    puts @chapter.inspect
     respond_to :json
   end
   
@@ -23,6 +24,12 @@ class ApiV1Controller < ApplicationController
     @chapter = Chapter.find(params[:id])
     @questions = @chapter.questions.sort!{|a, b| a.created_at <=> b.created_at}
     
+    respond_to :json
+  end
+  
+  def get_publishable
+    puts current_user
+    @book = Book.first
     respond_to :json
   end
 end
