@@ -27,9 +27,8 @@ class ApiV1Controller < ApplicationController
     respond_to :json
   end
   
-  def get_publishable
-    puts current_user
-    @book = Book.first
+  def get_public
+    @book = @books = Book.where(:public => true)
     respond_to :json
   end
 end
