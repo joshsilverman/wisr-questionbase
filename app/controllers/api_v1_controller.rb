@@ -13,7 +13,7 @@ class ApiV1Controller < ApplicationController
   
   def get_lessons
     @lesson_ids = params[:ids].split('+')
-    book_ids = Chapter.where(:id => @lesson_ids).group(:book_id).collect(&:book_id)
+    book_ids = Chapter.select(:book_id).where(:id => @lesson_ids).group("chapters.book_id, chapters.id").collect(&:book_id)
     @books = Book.where(:id => book_ids)
     @chapter = Chapter.includes(:book).where(:id => @lesson_ids)
     puts @chapter.inspect
@@ -27,9 +27,8 @@ class ApiV1Controller < ApplicationController
     respond_to :json
   end
   
-  def get_publishable
-    puts current_user
-    @book = Book.first
+  def get_public
+    @book = @books = Book.where(:public => true)
     respond_to :json
   end
 end

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111216170745) do
+ActiveRecord::Schema.define(:version => 20111228235206) do
 
   create_table "answers", :force => true do |t|
     t.integer  "question_id"
@@ -57,11 +57,12 @@ ActiveRecord::Schema.define(:version => 20111216170745) do
     t.integer  "question_id"
     t.string   "url"
     t.boolean  "contains_answer"
-    t.string   "type"
+    t.string   "media_type"
     t.integer  "begin"
     t.integer  "end"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.text     "article_text"
   end
 
 end
