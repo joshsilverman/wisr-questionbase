@@ -24,20 +24,28 @@ class Question
 			@question_id = $(@dom_group[0]).find($("textarea"))[0].getAttribute "question_id"
 			for answer_element in @dom_group.find(".answer_group").find(".answer")
 				@answers.push new Answer(this, answer_element)
-			for question_resource in $(@dom_group).find(".question_media_box").find("img")
-				@resources.push new Resource question_resource, this
-				$(question_resource).on "click", () -> console.log "update!"
-			for answer_resource in $(@dom_group).find(".answer_media_box").find("img")
-				@resources.push new Resource answer_resource, this
-				$(answer_resource).on "click", () -> console.log "update!"
+			for question_resource in $(@dom_group).find(".question_media_box")
+				if $(question_resource).find("img").attr("resource_id")
+					@question_media = new Resource $(question_resource).find("img")[0], this, false
+				$(question_resource).on "click", () => @addMedia false, @question_media 
+			for answer_resource in $(@dom_group).find(".answer_media_box")
+				if $(answer_resource).find("img").attr("resource_id")
+					@answer_media = new Resource $(answer_resource).find("img")[0], this, true			
+				$(answer_resource).on "click", () => @addMedia true, @answer_media
 		else # Creating new question
 			@dom_group = $($('#activity_group')[0]).clone().removeAttr("id").attr("class", "activity_group")
 			@dom_group.appendTo $('#activities')[0]
-			@dom_group.find(".question_area").focus()
-			$(@dom_group).find(".question_media_box").hide()
-			$(@dom_group).find(".answer_media_box").hide()
-		@question_media = $(@dom_group).find(".question_media_box")
-		@answer_media = $(@dom_group).find(".answer_media_box")			
+			question_resource = $(@dom_group).find(".question_media_box")
+			answer_resource = $(@dom_group).find(".answer_media_box").hide()
+			question_resource.hide()
+			question_resource.on "click", () => @addMedia false, @answer_media
+			answer_resource.hide()
+			answer_resource.on "click", () => @addMedia true, @answer_media
+			#$(@dom_group).find(".question_media_box").hide()
+			#$(@dom_group).find(".answer_media_box").hide()
+			@dom_group.find(".activity_content").toggle 400, () => 
+				$('html, body').animate({scrollTop: $(document).height() - $(window).height()}, 600)
+				@dom_group.find(".question_area").focus()
 		@activity_content = $(@dom_group).find(".activity_content")[0]
 		@header = $(@dom_group).find(".header")		
 		# Question listeners (save, new answer, new resource)
@@ -50,8 +58,6 @@ class Question
 			#@answers.push new Answer this if @answers.length < 1
 		$(@header).on "click", () => $(@activity_content).toggle 400
 		@dom_group.find(".question_group").on "change", @save
-		#@question_media.on "click", () => @addMedia()
-		#@answer_media.on "click", () => @addMedia()
 		@dom_group.find($('.add_answer')).on "click", () => @answers.push new Answer this if @answers.length < 4
 		@dom_group.find($(".add_resource")).on "click", () => @resources.push new Resource this
 	save: (event) =>
@@ -66,14 +72,29 @@ class Question
 			type: method
 			data: question_data
 			success: (e) => @question_id = e
-	addMedia: () => 
+	addMedia: (contains_answer, resource) =>
 		question = this
 		$("#media-dialog").dialog({
 			title: 'Add Media'
 			buttons: { 
 				"Done": () -> 
 					$(this).dialog("close")
-					question.createResource($(this).find("#modal_image_link")[0].value if $(this).find("#modal_image_link")[0].value)
+					if $(this).find("#modal_image_link")[0].value != ""
+						url = $(this).find("#modal_image_link")[0].value
+						if contains_answer
+							dom_element = $(question.dom_group).find(".answer_media_box").find("img")[0]
+							$(dom_element).attr "src", url
+						else
+							dom_element = $(question.dom_group).find(".question_media_box").find("img")[0]
+							console.log question.dom_group.find(".question_media_box")
+							$(dom_element).attr "src", url
+						if resource
+							resource.url = url
+							resource.save()
+						else 
+							resource = new Resource(dom_element, question, contains_answer)
+							resource.save()
+							if contains_answer then question.answer_media = resource else question.question_media = resource
 			}
 			closeOnEscape: true
 			draggable: false
@@ -83,11 +104,6 @@ class Question
 			width: 600
 		})
 		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')
-	createResource: (url) -> 
-		console.log "create Resource"
-		#console.log this, url
-		#@resources.push new Resource url, this
-			
 
 class Answer
 	answer_id: null
@@ -117,6 +133,8 @@ class Answer
 				@save
 				@question.save
 				console.log "yeah"
+			else if e.keyCode == 9 and @question.answers.length == 4 and $(@dom_element).next(".answer").length < 1
+				new Question
 			$(@question.dom_group).find(".answer_media_box").fadeIn 600			
 		#$(@dom_element).on "keypress", () => 
 		#	@question.answers.push new Answer @question if @number < @question.answers.length
@@ -141,15 +159,30 @@ class Answer
 class Resource
 	dom_element: null
 	url: null
+	contains_answer: null
+	resource_id: null
 	question: null # Stores the parent question object
-	constructor: (dom_element, question) -> 		
+	constructor: (dom_element, question, contains_answer) -> 
+		@contains_answer = contains_answer if contains_answer
 		@question = question
+		@resource_id = dom_element.getAttribute "resource_id"
 		@url = dom_element.getAttribute "src"
 		@dom_element = dom_element
-		#console.log @question, @url, @dom_element
-		#$(question.dom_group).find(".question_media_box").css("background-image", "url(" + url + ")")
-#		console.log $('#resource').clone().removeAttr("id")
-#		$('#resource').clone().removeAttr("id").appendTo @question.dom_group.find($(".resource_group"))
+	save: () =>
+		console.log "save resource"
+		[submit_url, method] = if @resource_id then ["/resources/" + @resource_id, "PUT"] else ["/resources", "POST"]	
+		console.log submit_url, method, @question.question_id
+		resource_data = 
+			"resource" :
+				url: @url
+				contains_answer: @contains_answer
+				question_id: @question.question_id
+		$.ajax
+			url: submit_url
+			type: method
+			data: resource_data
+			success: (e) =>
+				@resource_id = e
 
 
 

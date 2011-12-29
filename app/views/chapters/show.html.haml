@@ -30,12 +30,18 @@
                          - puts "q resource: #{question.resources.all(:conditions => {:contains_answer => false}).to_json}"
                          - puts "a resource: #{question.resources.all(:conditions => {:contains_answer => true}).to_json}"
                          .question_media_box
-                              - if question.resources.all(:conditions => {:contains_answer => false}).first
-                                   = image_tag question.resources.all(:conditions => {:contains_answer => false}).first.url, :class => "preview"
+                              - resource = question.resources.all(:conditions => {:contains_answer => false}).first
+                              - if resource
+                                   = image_tag resource.url, :class => "preview", :resource_id => resource.id
+                              - else 
+                                   = image_tag "", :class => "preview"
                          .answer_media_box
-                              .resource_group
-                                   - if question.resources.all(:conditions => {:contains_answer => true}).first
-                                        = image_tag question.resources.all(:conditions => {:contains_answer => true}).first.url, :class => "preview"
+                              /.resource_group
+                              - resource = question.resources.all(:conditions => {:contains_answer => true}).first
+                              - if resource
+                                   = image_tag resource.url, :class => "preview", :resource_id => resource.id
+                              - else 
+                                   = image_tag "", :class => "preview"
                               %br
 
 = hidden_field_tag "chapter_id", @chapter.id
@@ -53,8 +59,10 @@
                          .add_answer Add Answer  
                .activity_right_column  
                     .question_media_box
+                         = image_tag "", :class => "preview"
                     .answer_media_box             
-                         .resource_group
+                         /.resource_group
+                         = image_tag "", :class => "preview"
                          %br
                / %br
      %div{:id => "answer"}

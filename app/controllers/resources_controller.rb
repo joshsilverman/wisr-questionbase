@@ -41,32 +41,32 @@ class ResourcesController < ApplicationController
   # POST /resources.json
   def create
     @resource = Resource.new(params[:resource])
-
-    respond_to do |format|
-      if @resource.save
-        format.html { redirect_to @resource, notice: 'Resource was successfully created.' }
-        format.json { render json: @resource, status: :created, location: @resource }
-      else
-        format.html { render action: "new" }
-        format.json { render json: @resource.errors, status: :unprocessable_entity }
-      end
-    end
+    render :json => @resource.id if @resource.save 
+    # respond_to do |format|
+    #   if @resource.save
+    #     format.html { redirect_to @resource, notice: 'Resource was successfully created.' }
+    #     format.json { render json: @resource, status: :created, location: @resource }
+    #   else
+    #     format.html { render action: "new" }
+    #     format.json { render json: @resource.errors, status: :unprocessable_entity }
+    #   end
+    # end
   end
 
   # PUT /resources/1
   # PUT /resources/1.json
   def update
-    @resource = Resource.find(params[:id])
-
-    respond_to do |format|
-      if @resource.update_attributes(params[:resource])
-        format.html { redirect_to @resource, notice: 'Resource was successfully updated.' }
-        format.json { head :ok }
-      else
-        format.html { render action: "edit" }
-        format.json { render json: @resource.errors, status: :unprocessable_entity }
-      end
-    end
+    @resource = Resource.find(params[:id]).update_attributes(params[:resource])
+    render :nothing => true
+    # respond_to do |format|
+    #   if @resource.update_attributes(params[:resource])
+    #     format.html { redirect_to @resource, notice: 'Resource was successfully updated.' }
+    #     format.json { head :ok }
+    #   else
+    #     format.html { render action: "edit" }
+    #     format.json { render json: @resource.errors, status: :unprocessable_entity }
+    #   end
+    # end
   end
 
   # DELETE /resources/1
