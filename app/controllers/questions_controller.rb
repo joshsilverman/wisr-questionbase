@@ -104,20 +104,6 @@ class QuestionsController < ApplicationController
     end
     render :json => @question.id
   end
-  
-  def compare_question
-    @question1 = Question.get_random_question
-    @question2 = @question1.get_related_question
-  end
-  
-  def update_question_scores
-    winner = Question.find(params[:winner_id])
-    loser = Question.find(params[:loser_id])
-    if winner and loser
-      Question.update_scores(winner, loser, params[:tie])
-    end
-    redirect_to "/compare_question"
-  end
 
   def examview_uploader
     render "upload"
@@ -171,74 +157,74 @@ class QuestionsController < ApplicationController
   end
 
 
-  def bandoy_uploader
-    render "upload"
-  end
+  # def bandoy_uploader
+  #   render "upload"
+  # end
 
-  def bandoy_parser
-    doc = Zip::ZipFile.open(params[:dump][:file].tempfile).find_entry("word/document.xml")
-    raw_content = Nokogiri::XML.parse(doc.get_input_stream).root.xpath("//w:p")
-    current_question = nil
-    topic = ""
-    chapter_id = params["chapter"]["id"].to_i
+  # def bandoy_parser
+  #   doc = Zip::ZipFile.open(params[:dump][:file].tempfile).find_entry("word/document.xml")
+  #   raw_content = Nokogiri::XML.parse(doc.get_input_stream).root.xpath("//w:p")
+  #   current_question = nil
+  #   topic = ""
+  #   chapter_id = params["chapter"]["id"].to_i
     
-    raw_content.each do |line|
-      next if line.content.empty? || line.content.nil? || line.content =~ /Bandoy/
-      cleaned_line = clean_content(line)
-      if question_format?(line.content)
-        puts "Creating Q: #{current_question.to_json}" unless current_question.nil?
-        current_question.save unless current_question.nil?
+  #   raw_content.each do |line|
+  #     next if line.content.empty? || line.content.nil? || line.content =~ /Bandoy/
+  #     cleaned_line = clean_content(line)
+  #     if question_format?(line.content)
+  #       puts "Creating Q: #{current_question.to_json}" unless current_question.nil?
+  #       current_question.save unless current_question.nil?
 
-        current_question = Question.new
-        current_question.question = cleaned_line
-        current_question.user_id = 1
-        current_question.topic = topic
-        current_question.chapter_id = chapter_id
-      elsif answer_format?(line.content)
-        if line.content.include? "@"
-          current_question.correct_answer = cleaned_line
-        else
-          if current_question.incorrect_answer1.nil?
-            current_question.incorrect_answer1 = cleaned_line
-          elsif current_question.incorrect_answer2.nil?
-            current_question.incorrect_answer2 = cleaned_line
-          else
-            current_question.incorrect_answer3 = cleaned_line
-          end
-        end
-      else
-        topic = line.content.strip if current_question.nil? 
-      end      
-      puts "\n\n"
-    end  
-    puts "Creating Q: #{current_question.to_json}" unless current_question.nil?
-    current_question.save unless current_question.nil?
-    render "upload"
-  end
+  #       current_question = Question.new
+  #       current_question.question = cleaned_line
+  #       current_question.user_id = 1
+  #       current_question.topic = topic
+  #       current_question.chapter_id = chapter_id
+  #     elsif answer_format?(line.content)
+  #       if line.content.include? "@"
+  #         current_question.correct_answer = cleaned_line
+  #       else
+  #         if current_question.incorrect_answer1.nil?
+  #           current_question.incorrect_answer1 = cleaned_line
+  #         elsif current_question.incorrect_answer2.nil?
+  #           current_question.incorrect_answer2 = cleaned_line
+  #         else
+  #           current_question.incorrect_answer3 = cleaned_line
+  #         end
+  #       end
+  #     else
+  #       topic = line.content.strip if current_question.nil? 
+  #     end      
+  #     puts "\n\n"
+  #   end  
+  #   puts "Creating Q: #{current_question.to_json}" unless current_question.nil?
+  #   current_question.save unless current_question.nil?
+  #   render "upload"
+  # end
 
-  def answer_format?(input)
-    if input =~ /[ABCDabcd]\./ || input =~ /[ABCDabcd] \./
-      true
-    else
-      false
-    end 
-  end
+  # def answer_format?(input)
+  #   if input =~ /[ABCDabcd]\./ || input =~ /[ABCDabcd] \./
+  #     true
+  #   else
+  #     false
+  #   end 
+  # end
 
-  def question_format?(input)
-    if input =~ /[0-9]\./ || input =~ /[0-9] \./  
-      true
-    else
-      false
-    end 
-  end
+  # def question_format?(input)
+  #   if input =~ /[0-9]\./ || input =~ /[0-9] \./  
+  #     true
+  #   else
+  #     false
+  #   end 
+  # end
 
-  def create_question_component(current)
-    puts current.to_json
-  end
+  # def create_question_component(current)
+  #   puts current.to_json
+  # end
 
-  def clean_content(line)
-    clean = line.content.split(".")[1]
-    clean.strip.gsub("  ", " ") unless clean.nil?
-  end
+  # def clean_content(line)
+  #   clean = line.content.split(".")[1]
+  #   clean.strip.gsub("  ", " ") unless clean.nil?
+  # end
 
 end
