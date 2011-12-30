@@ -19,13 +19,29 @@
                               = text_area nil, nil, :question_id => question.id, :value => question.question, :placeholder => "Question", :class => "question_area"
                               %br
                          .answer_group
-                              - for answer in question.answers
+                              - correct_answer = question.answers.all(:conditions => {:correct => true}).first
+                              - if correct_answer
                                    .answer
                                         .indicator
-                                             = answer.correct ? label(nil, "O", :class => "indicator_mark") : label(nil, "X", :class => "indicator_mark")
+                                             = label(nil, "O", :class => "indicator_mark")
                                         .answer_space
-                                             = text_field nil, nil, :answer_id => answer.id, :question_id => question.id, :value => answer.answer, :placeholder => "Answer", :correct => answer.correct ? 1 : 0, :class => "answer_field"
-                              .add_answer Add Answer                
+                                             = text_field nil, nil, :answer_id => correct_answer.id, :question_id => question.id, :value => correct_answer.answer, :placeholder => "Answer", :correct => 1, :class => "answer_field"             
+                              - incorrect_answers = question.answers.all(:conditions => {:correct => false})
+                              - if incorrect_answers
+                                   - incorrect_answers.each do |incorrect_answer|
+                                        .answer
+                                             .indicator
+                                                  = label(nil, "X", :class => "indicator_mark")
+                                             .answer_space
+                                                  = text_field nil, nil, :answer_id => incorrect_answer.id, :question_id => question.id, :value => incorrect_answer.answer, :placeholder => "Answer", :correct => 0, :class => "answer_field"
+                              / .add_answer Add Answer
+                              / - for answer in question.answers
+                              /      .answer
+                              /           .indicator
+                              /                = answer.correct ? label(nil, "O", :class => "indicator_mark") : label(nil, "X", :class => "indicator_mark")
+                              /           .answer_space
+                              /                = text_field nil, nil, :answer_id => answer.id, :question_id => question.id, :value => answer.answer, :placeholder => "Answer", :correct => answer.correct ? 1 : 0, :class => "answer_field"
+                              / .add_answer Add Answer                
                     .activity_right_column
                          - puts "q resource: #{question.resources.all(:conditions => {:contains_answer => false}).to_json}"
                          - puts "a resource: #{question.resources.all(:conditions => {:contains_answer => true}).to_json}"
@@ -34,14 +50,14 @@
                               - if resource
                                    = image_tag resource.url, :class => "preview", :resource_id => resource.id
                               - else 
-                                   = image_tag "", :class => "preview"
+                                   = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "preview"
                          .answer_media_box
                               /.resource_group
                               - resource = question.resources.all(:conditions => {:contains_answer => true}).first
                               - if resource
                                    = image_tag resource.url, :class => "preview", :resource_id => resource.id
                               - else 
-                                   = image_tag "", :class => "preview"
+                                   = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "preview"
                               %br
 
 = hidden_field_tag "chapter_id", @chapter.id

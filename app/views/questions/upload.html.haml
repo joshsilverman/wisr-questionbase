@@ -1,6 +1,6 @@
-%h1= "Select a file (.docx) to upload"
+%h1= "Select an examview XML file to upload."
 
-= form_for :dump, :url=>{:controller=>"questions", :action=>"bandoy_parser"}, :html => { :multipart => true } do |f|
+= form_for :dump, :url=>{:controller=>"questions", :action=>"examview_parser"}, :html => { :multipart => true } do |f|
   %table
     %tr
       %td

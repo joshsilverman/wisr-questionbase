@@ -86,7 +86,7 @@ class Question
 							$(dom_element).attr "src", url
 						else
 							dom_element = $(question.dom_group).find(".question_media_box").find("img")[0]
-							console.log question.dom_group.find(".question_media_box")
+							console.log question.dom_group.find(".question_media_box").find()
 							$(dom_element).attr "src", url
 						if resource
 							resource.url = url

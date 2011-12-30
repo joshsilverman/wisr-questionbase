@@ -119,6 +119,58 @@ class QuestionsController < ApplicationController
     redirect_to "/compare_question"
   end
 
+  def examview_uploader
+    render "upload"
+  end
+
+  def examview_parser
+    puts current_user.to_json
+    chapter_id = params["chapter"]["id"].to_i
+    xml = Nokogiri::XML.parse(File.open(params[:dump][:file].tempfile)).remove_namespaces!  
+    activities = xml.root.xpath("//item")
+    activities.each do |activity|
+      #Check if its a logical identifier (MC)
+      if activity.xpath(".//qmd_itemtype").text == "Logical Identifier"
+        answer_index = nil
+        high_score = 0
+        #Question
+        question = Question.create(
+          :question => activity.xpath(".//mattext").first.text,
+          :chapter_id => chapter_id,
+          :user_id => current_user.uid
+        )
+        puts activity.xpath(".//mattext").first.text
+
+        #Determine correct answer comparing scores
+        activity.xpath(".//setvar").each_with_index do |answer, i|
+          if answer_index == nil
+            answer_index = i
+            high_score = answer.text
+          elsif high_score < answer.text 
+            answer_index = i
+          end
+        end
+
+        #Answers
+        activity.xpath(".//response_lid//mattext").each_with_index do |answer, i|
+          Answer.create(
+            :answer => answer.text,
+            :correct => (i == answer_index),
+            :question_id => question.id,
+            #:user_id => current_user.uid
+          )
+          puts " - #{answer.text} ( correct: #{i == answer_index} )"
+        end
+
+        puts "\n\n"
+      elsif
+        puts "Skipping non-MC question for now."
+      end
+    end
+    render "upload"
+  end
+
+
   def bandoy_uploader
     render "upload"
   end

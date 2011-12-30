@@ -20,6 +20,8 @@ OauthClientDemo::Application.routes.draw do
   match "questions/update_question_scores/:winner_id/:loser_id/:tie" => "questions#update_question_scores"
   match "bandoy_uploader" => "questions#bandoy_uploader"
   match "bandoy_parser" => "questions#bandoy_parser"
+  match "examview_uploader" => "questions#examview_uploader"
+  match "examview_parser" => "questions#examview_parser"
   
   #API CALLS
   match "api-V1/get_books/:ids" => "api_v1#get_books"
