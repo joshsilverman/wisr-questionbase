@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111228235206) do
+ActiveRecord::Schema.define(:version => 20111230171646) do
 
   create_table "answers", :force => true do |t|
     t.integer  "question_id"
@@ -55,7 +55,7 @@ ActiveRecord::Schema.define(:version => 20111228235206) do
 
   create_table "resources", :force => true do |t|
     t.integer  "question_id"
-    t.string   "url"
+    t.text     "url",             :limit => 255
     t.boolean  "contains_answer"
     t.string   "media_type"
     t.integer  "begin"
