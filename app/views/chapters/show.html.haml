@@ -11,7 +11,10 @@
      - @chapter.questions.each_with_index do |question, i|
           .activity_group{:id => "activity_group_" + question.id.to_s}
                .header{:id => "header_" + question.id.to_s, :question_id => question.id.to_s}
-                    = label nil, "#{i+1}. #{question.question}", :class => "header_text"
+                    .header_text_container
+                         = label nil, "#{i+1}. #{question.question}", :class => "header_text"
+                    .delete_question_container
+                         .delete_question X
                %br
                .activity_content{:id => "activity_content_" + question.id.to_s}
                     .activity_left_column
@@ -34,7 +37,8 @@
                                                   = label(nil, "X", :class => "indicator_mark")
                                              .answer_space
                                                   = text_field nil, nil, :answer_id => incorrect_answer.id, :question_id => question.id, :value => incorrect_answer.answer, :placeholder => "Answer", :correct => 0, :class => "answer_field"
-                              / .add_answer Add Answer
+                              .add_answer Add Answer
+                              
                               / - for answer in question.answers
                               /      .answer
                               /           .indicator
@@ -43,8 +47,6 @@
                               /                = text_field nil, nil, :answer_id => answer.id, :question_id => question.id, :value => answer.answer, :placeholder => "Answer", :correct => answer.correct ? 1 : 0, :class => "answer_field"
                               / .add_answer Add Answer                
                     .activity_right_column
-                         - puts "q resource: #{question.resources.all(:conditions => {:contains_answer => false}).to_json}"
-                         - puts "a resource: #{question.resources.all(:conditions => {:contains_answer => true}).to_json}"
                          .question_media_box
                               - resource = question.resources.all(:conditions => {:contains_answer => false}).first
                               - if resource
@@ -65,7 +67,10 @@
 %div{:id => "templates"}
      %div{:id => "activity_group"}
           .header
-               = label nil, nil, :class => "header_text"
+               .header_text_container
+                    = label nil, nil, :class => "header_text"
+               .delete_question_container
+                    .delete_question X     
           %br  
           .activity_content   
                .activity_left_column
@@ -75,10 +80,10 @@
                          .add_answer Add Answer  
                .activity_right_column  
                     .question_media_box
-                         = image_tag "", :class => "preview"
+                         = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
                     .answer_media_box             
                          /.resource_group
-                         = image_tag "", :class => "preview"
+                         = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
                          %br
                / %br
      %div{:id => "answer"}
@@ -89,9 +94,10 @@
      = text_field nil, nil, :placeholder => "URL", :class => "resource_field", :id => "resource"         
      %div{:id => "header"}
           = label nil, "", :class => "header_text"
-
+     %div{:id => "dialog-confirm", :title => "Empty the recycle bin?"}
+          %p These items will be permanently deleted and cannot be recovered. Are you sure?
 #media-dialog{:class => "ui-widget ui-helper-hidden"}
      %form
           %fieldset
                %label{:for => "name"} Link to image:
-               %input{:id => "modal_image_link", :name => "name", :type => "text"}
+               %input{:id => "modal_image_link", :name => "name", :type => "text"}        

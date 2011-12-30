@@ -12,7 +12,6 @@ class Question
 	question_resources: []
 	answer_resources: []
 	dom_group: null # Stores the div w/ the question area + add answer button
-	header: null #Stores the header div
 	activity_content: null
 	question_media: null
 	answer_media: null
@@ -47,7 +46,9 @@ class Question
 				$('html, body').animate({scrollTop: $(document).height() - $(window).height()}, 600)
 				@dom_group.find(".question_area").focus()
 		@activity_content = $(@dom_group).find(".activity_content")[0]
-		@header = $(@dom_group).find(".header")		
+		$(@dom_group).find(".header_text_container").on "click", () => $(@activity_content).toggle 400
+		$(@dom_group).find(".delete_question_container").on "click", (e) => 
+			@delete @question_id
 		# Question listeners (save, new answer, new resource)
 		$(@dom_group.find(".question_group")).on "keydown", (e) => 
 			if e.keyCode == 9 and @answers.length < 1
@@ -56,7 +57,6 @@ class Question
 				@save
 			$(@dom_group).find(".question_media_box").fadeIn 600
 			#@answers.push new Answer this if @answers.length < 1
-		$(@header).on "click", () => $(@activity_content).toggle 400
 		@dom_group.find(".question_group").on "change", @save
 		@dom_group.find($('.add_answer')).on "click", () => @answers.push new Answer this if @answers.length < 4
 		@dom_group.find($(".add_resource")).on "click", () => @resources.push new Resource this
@@ -72,6 +72,15 @@ class Question
 			type: method
 			data: question_data
 			success: (e) => @question_id = e
+	delete: (id) =>
+		#@dom_group.hide()
+		#if id
+		#	$.ajax
+		#		url: submit_url
+		#		type: method
+		#		data: question_data
+		#		success: (e) => @question_id = e					
+		#	console.log "got id!"
 	addMedia: (contains_answer, resource) =>
 		question = this
 		$("#media-dialog").dialog({

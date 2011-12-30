@@ -110,47 +110,57 @@ class QuestionsController < ApplicationController
   end
 
   def examview_parser
-    puts current_user.to_json
-    chapter_id = params["chapter"]["id"].to_i
+    # chapter_id = params["chapter"]["id"].to_i
+    book_id = params["book"]["id"].to_i
     xml = Nokogiri::XML.parse(File.open(params[:dump][:file].tempfile)).remove_namespaces!  
-    activities = xml.root.xpath("//item")
-    activities.each do |activity|
-      #Check if its a logical identifier (MC)
-      if activity.xpath(".//qmd_itemtype").text == "Logical Identifier"
-        answer_index = nil
-        high_score = 0
-        #Question
-        question = Question.create(
-          :question => activity.xpath(".//mattext").first.text,
-          :chapter_id => chapter_id,
-          :user_id => current_user.uid
+    sections = xml.root.xpath("//section")
+    sections.each do |section|
+      number = section.attribute("ident").to_s.gsub("QDB_", "").to_i
+      if number > 0
+        chapter = Chapter.create(
+          :book_id => book_id,
+          :name => section.attribute("title").to_s.split(":")[1].strip,
+          :number => number
         )
-        puts activity.xpath(".//mattext").first.text
-
-        #Determine correct answer comparing scores
-        activity.xpath(".//setvar").each_with_index do |answer, i|
-          if answer_index == nil
-            answer_index = i
-            high_score = answer.text
-          elsif high_score < answer.text 
-            answer_index = i
+        # puts "\n\n\n\n\n"
+        puts section.attribute("title").to_s.split(":")[1].strip
+        activities = section.xpath(".//item")
+        activities.each do |activity|
+          #Check if its a logical identifier (MC)
+          if activity.xpath(".//qmd_itemtype").text == "Logical Identifier"
+            answer_index = nil
+            high_score = 0
+            #Question
+            question = Question.create(
+              :question => activity.xpath(".//mattext").first.text,
+              :chapter_id => chapter.id,
+              :user_id => current_user.uid
+            )
+            # puts activity.xpath(".//mattext").first.text
+            #Determine correct answer by comparing scores
+            activity.xpath(".//setvar").each_with_index do |answer, i|
+              if answer_index == nil
+                answer_index = i
+                high_score = answer.text
+              elsif high_score < answer.text 
+                answer_index = i
+              end
+            end
+            #Answers
+            activity.xpath(".//response_lid//mattext").each_with_index do |answer, i|
+              Answer.create(
+                :answer => answer.text,
+                :correct => (i == answer_index),
+                :question_id => question.id,
+                #:user_id => current_user.uid
+              )
+              # puts " - #{answer.text} ( correct: #{i == answer_index} )"
+            end
+            # puts "\n\n"
+          # elsif
+          #   puts "Skipping non-MC question for now."
           end
-        end
-
-        #Answers
-        activity.xpath(".//response_lid//mattext").each_with_index do |answer, i|
-          Answer.create(
-            :answer => answer.text,
-            :correct => (i == answer_index),
-            :question_id => question.id,
-            #:user_id => current_user.uid
-          )
-          puts " - #{answer.text} ( correct: #{i == answer_index} )"
-        end
-
-        puts "\n\n"
-      elsif
-        puts "Skipping non-MC question for now."
+        end        
       end
     end
     render "upload"

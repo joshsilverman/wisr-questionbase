@@ -121,15 +121,12 @@
 .header {
     margin: auto;
     padding: 3px 15px 0px 15px;
-    font-size: 16px;
-    white-space: nowrap;  
-    overflow: hidden;  
-    text-overflow: ellipsis; 
     opacity: 0.8;
-    color: black;
     height: 25px;
     display: block;
     width: 97%;
+    overflow: hidden;
+    text-overflow: ellipsis;
     background-color: #F5F5F5;
     -moz-box-shadow: 4px 4px 10px 1px #ccc;
     -webkit-box-shadow: 4px 4px 10px 1px #ccc;
@@ -139,6 +136,38 @@
     -khtml-border-radius: 20px;
     border-radius: 20px;*/
 }
+
+.header_text_container {
+    width: 97%;
+    height: 100%;
+    display: inline;
+    float: left;
+    overflow: hidden;
+    text-overflow: ellipsis;   
+}
+
+.header_text {
+    font-size: 16px;
+    color: black;
+    white-space: nowrap;      
+}
+
+.delete_question_container {
+    width: 3%;
+    height: 100%;
+    float: right;
+    display: inline;
+    text-decoration: underline;
+}
+
+.delete_question {
+    float: right;  
+}
+
+.delete_question:hover {
+    color: blue;
+}
+
 
 .menu {
     background-color: #F5F5F5;

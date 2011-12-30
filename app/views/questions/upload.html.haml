@@ -11,9 +11,10 @@
     %tr
       %td
         %label
-          Add to chapter:
+          Add to book:
       %td
-        = collection_select("chapter", "id", Chapter.all(), :id, :name)
+        = collection_select("book", "id", Book.all(), :id, :name)
+        / # = collection_select("chapter", "id", Chapter.all(), :id, :name)
     %tr
       %td{:colspan => "2"}
         = submit_tag 'Upload'
