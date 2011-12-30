@@ -48,16 +48,16 @@
                          .question_media_box
                               - resource = question.resources.all(:conditions => {:contains_answer => false}).first
                               - if resource
-                                   = image_tag resource.url, :class => "preview", :resource_id => resource.id
+                                   = image_tag resource.url, :class => "media_preview", :resource_id => resource.id
                               - else 
-                                   = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "preview"
+                                   = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
                          .answer_media_box
                               /.resource_group
                               - resource = question.resources.all(:conditions => {:contains_answer => true}).first
                               - if resource
-                                   = image_tag resource.url, :class => "preview", :resource_id => resource.id
+                                   = image_tag resource.url, :class => "media_preview", :resource_id => resource.id
                               - else 
-                                   = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "preview"
+                                   = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
                               %br
 
 = hidden_field_tag "chapter_id", @chapter.id
