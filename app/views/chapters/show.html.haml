@@ -38,7 +38,6 @@
                                              .answer_space
                                                   = text_field nil, nil, :answer_id => incorrect_answer.id, :question_id => question.id, :value => incorrect_answer.answer, :placeholder => "Answer", :correct => 0, :class => "answer_field"
                               .add_answer Add Answer
-                              
                               / - for answer in question.answers
                               /      .answer
                               /           .indicator
@@ -94,10 +93,11 @@
      = text_field nil, nil, :placeholder => "URL", :class => "resource_field", :id => "resource"         
      %div{:id => "header"}
           = label nil, "", :class => "header_text"
-     %div{:id => "dialog-confirm", :title => "Empty the recycle bin?"}
-          %p These items will be permanently deleted and cannot be recovered. Are you sure?
 #media-dialog{:class => "ui-widget ui-helper-hidden"}
      %form
           %fieldset
                %label{:for => "name"} Link to image:
                %input{:id => "modal_image_link", :name => "name", :type => "text"}        
+
+#dialog-confirm{:class => "ui-widget ui-helper-hidden", :title => "Delete this question?"}
+     %p This action cannot be undone. Are you sure?

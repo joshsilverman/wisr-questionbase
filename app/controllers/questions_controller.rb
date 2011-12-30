@@ -110,19 +110,16 @@ class QuestionsController < ApplicationController
   end
 
   def examview_parser
-    # chapter_id = params["chapter"]["id"].to_i
-    book_id = params["book"]["id"].to_i
     xml = Nokogiri::XML.parse(File.open(params[:dump][:file].tempfile)).remove_namespaces!  
     sections = xml.root.xpath("//section")
     sections.each do |section|
       number = section.attribute("ident").to_s.gsub("QDB_", "").to_i
       if number > 0
         chapter = Chapter.create(
-          :book_id => book_id,
+          :book_id => params["book"]["id"].to_i,
           :name => section.attribute("title").to_s.split(":")[1].strip,
           :number => number
         )
-        # puts "\n\n\n\n\n"
         puts section.attribute("title").to_s.split(":")[1].strip
         activities = section.xpath(".//item")
         activities.each do |activity|
@@ -130,7 +127,6 @@ class QuestionsController < ApplicationController
           if activity.xpath(".//qmd_itemtype").text == "Logical Identifier"
             answer_index = nil
             high_score = 0
-            #Question
             question = Question.create(
               :question => activity.xpath(".//mattext").first.text,
               :chapter_id => chapter.id,
@@ -146,13 +142,11 @@ class QuestionsController < ApplicationController
                 answer_index = i
               end
             end
-            #Answers
             activity.xpath(".//response_lid//mattext").each_with_index do |answer, i|
               Answer.create(
                 :answer => answer.text,
                 :correct => (i == answer_index),
-                :question_id => question.id,
-                #:user_id => current_user.uid
+                :question_id => question.id
               )
               # puts " - #{answer.text} ( correct: #{i == answer_index} )"
             end

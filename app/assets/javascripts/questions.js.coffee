@@ -73,14 +73,29 @@ class Question
 			data: question_data
 			success: (e) => @question_id = e
 	delete: (id) =>
-		#@dom_group.hide()
-		#if id
-		#	$.ajax
-		#		url: submit_url
-		#		type: method
-		#		data: question_data
-		#		success: (e) => @question_id = e					
-		#	console.log "got id!"
+		question = @
+		$("#dialog-confirm").dialog({
+			resizable: false
+			modal: true
+			title: "Delete this question?"
+			buttons: { 
+				"Cancel": () -> $(this).dialog("close")
+				"Delete": () -> 
+					$(this).dialog("close")
+					question.dom_group.hide()
+					if id
+						$.ajax
+							url: "/questions/" + id
+							type: "DELETE"
+			}
+			closeOnEscape: true
+			draggable: false
+			resizable: false
+			modal: true
+			height: 180
+			#width: 600
+		})
+		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')	
 	addMedia: (contains_answer, resource) =>
 		question = this
 		$("#media-dialog").dialog({
