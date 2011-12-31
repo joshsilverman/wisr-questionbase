@@ -14,7 +14,8 @@
                     .header_text_container
                          = label nil, "#{i+1}. #{question.question}", :class => "header_text"
                     .delete_question_container
-                         .delete_question X
+                         .delete_question
+                              = image_tag "close.gif"
                %br
                .activity_content{:id => "activity_content_" + question.id.to_s}
                     .activity_left_column
@@ -37,14 +38,7 @@
                                                   = label(nil, "X", :class => "indicator_mark")
                                              .answer_space
                                                   = text_field nil, nil, :answer_id => incorrect_answer.id, :question_id => question.id, :value => incorrect_answer.answer, :placeholder => "Answer", :correct => 0, :class => "answer_field"
-                              .add_answer Add Answer
-                              / - for answer in question.answers
-                              /      .answer
-                              /           .indicator
-                              /                = answer.correct ? label(nil, "O", :class => "indicator_mark") : label(nil, "X", :class => "indicator_mark")
-                              /           .answer_space
-                              /                = text_field nil, nil, :answer_id => answer.id, :question_id => question.id, :value => answer.answer, :placeholder => "Answer", :correct => answer.correct ? 1 : 0, :class => "answer_field"
-                              / .add_answer Add Answer                
+                              .add_answer Add Answer              
                     .activity_right_column
                          .question_media_box
                               - resource = question.resources.all(:conditions => {:contains_answer => false}).first
@@ -53,7 +47,6 @@
                               - else 
                                    = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
                          .answer_media_box
-                              /.resource_group
                               - resource = question.resources.all(:conditions => {:contains_answer => true}).first
                               - if resource
                                    = image_tag resource.url, :class => "media_preview", :resource_id => resource.id
@@ -69,7 +62,8 @@
                .header_text_container
                     = label nil, nil, :class => "header_text"
                .delete_question_container
-                    .delete_question X     
+                    .delete_question
+                         = image_tag "close.gif"                        
           %br  
           .activity_content   
                .activity_left_column
@@ -81,10 +75,8 @@
                     .question_media_box
                          = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
                     .answer_media_box             
-                         /.resource_group
                          = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
                          %br
-               / %br
      %div{:id => "answer"}
           .indicator
                = label(nil, "X", :class => "indicator_mark")
@@ -92,12 +84,33 @@
                = text_field nil, nil, :id => "answer_field", :placeholder => "Answer", :class => "answer_field"    
      = text_field nil, nil, :placeholder => "URL", :class => "resource_field", :id => "resource"         
      %div{:id => "header"}
-          = label nil, "", :class => "header_text"
+          = label nil, "", :class => "header_text"  
+
 #media-dialog{:class => "ui-widget ui-helper-hidden"}
-     %form
-          %fieldset
-               %label{:for => "name"} Link to image:
-               %input{:id => "modal_image_link", :name => "name", :type => "text"}        
+     #tabs
+          %ul
+               %li
+                    %a{:href => "#tabs-1"} Image
+               %li
+                    %a{:href => "#tabs-2"} Text
+               %li
+                    %a{:href => "#tabs-3"} Video                    
+          #tabs-1
+               %form
+                    %fieldset
+                         %input{:id => "image_link_input", :name => "name", :type => "text", :placeholder => "Link to image", :class => "media_input"}
+          #tabs-2
+               %form
+                    %fieldset
+                         %input{:id => "article_link_input", :name => "name", :type => "text", :placeholder => "Link to article", :class => "media_input"}
+          #tabs-3
+               %form
+                    %fieldset
+                         %input{:id => "video_link_input", :name => "name", :type => "text", :placeholder => "Link to video", :class => "media_input"}
+                         %br
+                         %input{:id => "video_start_input", :name => "name", :type => "text", :placeholder => "Start time", :class => "media_input"}
+                         %br
+                         %input{:id => "video_end_input", :name => "name", :type => "text", :placeholder => "End time", :class => "media_input"}
 
 #dialog-confirm{:class => "ui-widget ui-helper-hidden", :title => "Delete this question?"}
      %p This action cannot be undone. Are you sure?

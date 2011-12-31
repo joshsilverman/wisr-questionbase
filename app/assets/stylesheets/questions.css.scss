@@ -157,15 +157,18 @@
     height: 100%;
     float: right;
     display: inline;
-    text-decoration: underline;
+    /*text-decoration: underline;*/
+    text-align: center;
 }
 
 .delete_question {
-    float: right;  
+    float:right;
+    margin: 2px 5px 0px 0px;
 }
 
 .delete_question:hover {
     color: blue;
+    cursor: default;
 }
 
 
@@ -188,8 +191,10 @@
 }
 
 .media_preview {
-    max-width: 150px;
-    max-height: 150px;  
+    width: 100%;
+    height: 100%;
+    /*max-width: 150px;
+    max-height: 150px;  */
 }
 
 .question_media_box {
@@ -209,6 +214,13 @@
     border-width: 2px;
     border-color: gray;
     margin-top: 16px;  
+}
+
+.media_input {
+    width: 400px;
+    height: 35px;
+    font-size: 16px;
+    margin: 5px 5px;
 }
 
 /*

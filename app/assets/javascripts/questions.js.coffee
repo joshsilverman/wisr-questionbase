@@ -1,5 +1,6 @@
 class Builder
 	constructor: -> 
+		$("#tabs").tabs()
 		for activity in $("#activities").find(".activity_group")
 			new Question activity
 	newQuestion: -> new Question
@@ -8,14 +9,14 @@ class Builder
 class Question
 	question_id: null
 	answers: []
-	resources: []
-	question_resources: []
-	answer_resources: []
+	#resources: []
+	#question_resources: []
+	#answer_resources: []
 	dom_group: null # Stores the div w/ the question area + add answer button
 	activity_content: null
 	question_media: null
 	answer_media: null
-	changed: false
+	#changed: false
 	constructor: (dom_group) ->
 		@answers = []; @resources = []
 		if dom_group # Initializing existing question
@@ -24,12 +25,22 @@ class Question
 			for answer_element in @dom_group.find(".answer_group").find(".answer")
 				@answers.push new Answer(this, answer_element)
 			for question_resource in $(@dom_group).find(".question_media_box")
-				if $(question_resource).find("img").attr("resource_id")
-					@question_media = new Resource $(question_resource).find("img")[0], this, false
+				if $(question_resource).find("img").attr("resource_id")				
+					resource =
+						"resource" :
+							url: $(question_resource).find("img")[0].getAttribute "src"
+							contains_answer: false
+							id: $(question_resource).find("img")[0].getAttribute "resource_id"
+					@question_media = new Resource resource, this
 				$(question_resource).on "click", () => @addMedia false, @question_media 
 			for answer_resource in $(@dom_group).find(".answer_media_box")
 				if $(answer_resource).find("img").attr("resource_id")
-					@answer_media = new Resource $(answer_resource).find("img")[0], this, true			
+					resource =
+						"resource" :
+							url: $(answer_resource).find("img")[0].getAttribute "src"
+							contains_answer: true
+							id: $(answer_resource).find("img")[0].getAttribute "resource_id"
+					@answer_media = new Resource resource, this	
 				$(answer_resource).on "click", () => @addMedia true, @answer_media
 		else # Creating new question
 			@dom_group = $($('#activity_group')[0]).clone().removeAttr("id").attr("class", "activity_group")
@@ -59,7 +70,7 @@ class Question
 			#@answers.push new Answer this if @answers.length < 1
 		@dom_group.find(".question_group").on "change", @save
 		@dom_group.find($('.add_answer')).on "click", () => @answers.push new Answer this if @answers.length < 4
-		@dom_group.find($(".add_resource")).on "click", () => @resources.push new Resource this
+		#@dom_group.find($(".add_resource")).on "click", () => @resources.push new Resource this
 	save: (event) =>
 		console.log "save q"
 		[submit_url, method] = if @question_id then ["/questions/" + @question_id, "PUT"] else ["/questions", "POST"]
@@ -99,32 +110,40 @@ class Question
 		question = this
 		$("#media-dialog").dialog({
 			title: 'Add Media'
-			buttons: { 
+			buttons: 
 				"Done": () -> 
 					$(this).dialog("close")
-					if $(this).find("#modal_image_link")[0].value != ""
-						url = $(this).find("#modal_image_link")[0].value
-						if contains_answer
-							dom_element = $(question.dom_group).find(".answer_media_box").find("img")[0]
-							$(dom_element).attr "src", url
-						else
-							dom_element = $(question.dom_group).find(".question_media_box").find("img")[0]
-							console.log question.dom_group.find(".question_media_box").find()
-							$(dom_element).attr "src", url
+					if $(this).find("#image_link_input")[0].value != ""
+						url = $(this).find("#image_link_input")[0].value
+						if contains_answer then $($(question.dom_group).find(".answer_media_box").find("img")[0]).attr "src", url else $($(question.dom_group).find(".question_media_box").find("img")[0]).attr "src", url
 						if resource
 							resource.url = url
 							resource.save()
 						else 
-							resource = new Resource(dom_element, question, contains_answer)
+							resource = 
+								"resource":
+									url: url
+									contains_answer: contains_answer
+									media_type: "image"
+							console.log resource						
+							resource = new Resource resource, question
 							resource.save()
-							if contains_answer then question.answer_media = resource else question.question_media = resource
-			}
+							if contains_answer then question.answer_media = resource else question.question_media = resource						
+					if $(this).find("#article_link_input")[0].value != ""
+						url = $(this).find("#article_link_input")[0].value
+						if contains_answer then $($(question.dom_group).find(".answer_media_box").find("img")[0]).attr "src", url else $($(question.dom_group).find(".question_media_box").find("img")[0]).attr "src", url
+
+						console.log url
+					if $(this).find("#video_link_input")[0].value != ""
+						console.log "add video!"												
+						console.log $("#video_start_input")[0].value
+						console.log $("#video_end_input")[0].value
 			closeOnEscape: true
 			draggable: false
 			resizable: false
 			modal: true
-			height: 400
-			width: 600
+			height: 600
+			width: 700
 		})
 		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')
 
@@ -186,12 +205,13 @@ class Resource
 	contains_answer: null
 	resource_id: null
 	question: null # Stores the parent question object
-	constructor: (dom_element, question, contains_answer) -> 
-		@contains_answer = contains_answer if contains_answer
+	#constructor: (dom_element, question, contains_answer) -> 
+	constructor: (resource, question) -> 
+		@contains_answer = resource["resource"]["contains_answer"]
+		@resource_id = resource["resource"]["id"]
+		@url = resource["resource"]["url"]		
 		@question = question
-		@resource_id = dom_element.getAttribute "resource_id"
-		@url = dom_element.getAttribute "src"
-		@dom_element = dom_element
+		#@dom_element = dom_element
 	save: () =>
 		console.log "save resource"
 		[submit_url, method] = if @resource_id then ["/resources/" + @resource_id, "PUT"] else ["/resources", "POST"]	
