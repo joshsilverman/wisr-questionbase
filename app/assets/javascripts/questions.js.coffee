@@ -82,7 +82,8 @@ class Question
 			url: submit_url
 			type: method
 			data: question_data
-			success: (e) => @question_id = e
+			success: (e) => 
+				@question_id = e
 	delete: (id) =>
 		question = @
 		$("#dialog-confirm").dialog({
@@ -185,6 +186,7 @@ class Answer
 		#	console.log @question.answers.length			
 	save: (event) =>
 		console.log "save"
+		console.log @question
 		[submit_url, method] = if @answer_id then ["/answers/" + @answer_id, "PUT"] else ["/answers", "POST"]
 		answer_data = 
 			"answer":

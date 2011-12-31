@@ -54,9 +54,9 @@ class QuestionsController < ApplicationController
   # PUT /questions/1
   # PUT /questions/1.xml
   def update
-    @question = Question.find(params[:id]).update_attributes(params[:question])
-    render :nothing => true
-    #render :json => @question.id if @question.save
+    @question = Question.find(params[:id])
+    @question.update_attributes(params[:question])
+    render :json => @question.id if @question.save
     # respond_to do |format|
     #   if @question.update_attributes(params[:question])
     #     format.html { redirect_to(@question, :notice => 'Question was successfully updated.') }

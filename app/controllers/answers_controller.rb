@@ -56,7 +56,8 @@ class AnswersController < ApplicationController
   # PUT /answers/1
   # PUT /answers/1.json
   def update
-    @answer = Answer.find(params[:id]).update_attributes(params[:answer])
+    @answer = Answer.find(params[:id])
+    @answer.update_attributes(params[:answer])
     render :nothing => true
     #render :json => @answer.id
     # respond_to do |format|
