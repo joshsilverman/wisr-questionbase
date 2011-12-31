@@ -93,7 +93,6 @@ class Question
 			resizable: false
 			modal: true
 			height: 180
-			#width: 600
 		})
 		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')	
 	addMedia: (contains_answer, resource) =>
@@ -128,6 +127,7 @@ class Question
 			width: 600
 		})
 		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')
+
 
 class Answer
 	answer_id: null
@@ -207,7 +207,6 @@ class Resource
 			data: resource_data
 			success: (e) =>
 				@resource_id = e
-
 
 
 class Controller
