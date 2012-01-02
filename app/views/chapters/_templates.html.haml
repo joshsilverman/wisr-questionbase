@@ -1,0 +1,58 @@
+%div{:id => "templates"}
+     %div{:id => "activity_group"}
+          .header
+               .header_text_container
+                    = label nil, nil, :class => "header_text"
+               .delete_question_container
+                    .delete_question
+                         = image_tag "close.gif"                        
+          %br  
+          .activity_content   
+               .activity_left_column
+                    .question_group
+                         = text_area nil, nil, :placeholder => "Question", :class => "question_area"
+                    .answer_group
+                         .add_answer Add Answer  
+               .activity_right_column  
+                    .question_media_box
+                         = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
+                    .answer_media_box             
+                         = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
+                         %br
+     %div{:id => "answer"}
+          .indicator
+               = label(nil, "X", :class => "indicator_mark")
+          .answer_space
+               = text_field nil, nil, :id => "answer_field", :placeholder => "Answer", :class => "answer_field"    
+     = text_field nil, nil, :placeholder => "URL", :class => "resource_field", :id => "resource"         
+     %div{:id => "header"}
+          = label nil, "", :class => "header_text"  
+
+#media-dialog{:class => "ui-widget ui-helper-hidden"}
+     #tabs
+          %ul
+               %li
+                    %a{:href => "#tabs-1"} Image
+               %li
+                    %a{:href => "#tabs-2"} Text
+               %li
+                    %a{:href => "#tabs-3"} Video                    
+          #tabs-1
+               %form
+                    %fieldset
+                         %input{:id => "image_link_input", :name => "name", :type => "text", :placeholder => "Link to image", :class => "media_input"}
+          #tabs-2
+               %form
+                    %fieldset
+                         %input{:id => "article_link_input", :name => "name", :type => "text", :placeholder => "Link to article", :class => "media_input"}
+          #tabs-3
+               %form
+                    %fieldset
+                         %input{:id => "video_link_input", :name => "name", :type => "text", :placeholder => "Link to video", :class => "media_input"}
+                         %br
+                         %input{:id => "video_start_input", :name => "name", :type => "text", :placeholder => "Start time", :class => "media_input"}
+                         %br
+                         %input{:id => "video_end_input", :name => "name", :type => "text", :placeholder => "End time", :class => "media_input"}
+
+#dialog-confirm{:class => "ui-widget ui-helper-hidden", :title => "Delete this question?"}
+     %p This action cannot be undone. Are you sure?

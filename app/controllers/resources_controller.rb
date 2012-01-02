@@ -56,8 +56,10 @@ class ResourcesController < ApplicationController
   # PUT /resources/1
   # PUT /resources/1.json
   def update
-    @resource = Resource.find(params[:id]).update_attributes(params[:resource])
-    render :nothing => true
+    puts params.to_json
+    @resource = Resource.find(params[:id])
+    @resource.update_attributes(params[:resource])
+    render :json => @resource.id
     # respond_to do |format|
     #   if @resource.update_attributes(params[:resource])
     #     format.html { redirect_to @resource, notice: 'Resource was successfully updated.' }

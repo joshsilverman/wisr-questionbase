@@ -1,0 +1,6 @@
+.header{:id => "header_" + question.id.to_s, :question_id => question.id.to_s}
+	.header_text_container
+		= label nil, "#{i+1}. #{question.question}", :class => "header_text"
+	.delete_question_container
+		.delete_question
+			= image_tag "close.gif"

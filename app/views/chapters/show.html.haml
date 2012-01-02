@@ -1,116 +1,19 @@
 - @back = link_to('Back to Chapters', '/books/' + @book.id.to_s)
 = render :partial => "shared/header", :locals => { :back => @back }  
 
-.menu
-     = link_to_function "Add Question", "window.builder.newQuestion()"
-     %br
-     %br
-     = link_to_function "Top", "window.control.scrollToTop()"
+= render :partial => "menu"
 %br
+
 %div{:id => "activities"}
      - @chapter.questions.each_with_index do |question, i|
           .activity_group{:id => "activity_group_" + question.id.to_s}
-               .header{:id => "header_" + question.id.to_s, :question_id => question.id.to_s}
-                    .header_text_container
-                         = label nil, "#{i+1}. #{question.question}", :class => "header_text"
-                    .delete_question_container
-                         .delete_question
-                              = image_tag "close.gif"
+               = render :partial => "header", :locals => {:question => question, :i => i}
                %br
                .activity_content{:id => "activity_content_" + question.id.to_s}
                     .activity_left_column
-                         .question_group
-                              = text_area nil, nil, :question_id => question.id, :value => question.question, :placeholder => "Question", :class => "question_area"
-                              %br
-                         .answer_group
-                              - correct_answer = question.answers.all(:conditions => {:correct => true}).first
-                              - if correct_answer
-                                   .answer
-                                        .indicator
-                                             = label(nil, "O", :class => "indicator_mark")
-                                        .answer_space
-                                             = text_field nil, nil, :answer_id => correct_answer.id, :question_id => question.id, :value => correct_answer.answer, :placeholder => "Answer", :correct => 1, :class => "answer_field"             
-                              - incorrect_answers = question.answers.all(:conditions => {:correct => false})
-                              - if incorrect_answers
-                                   - incorrect_answers.each do |incorrect_answer|
-                                        .answer
-                                             .indicator
-                                                  = label(nil, "X", :class => "indicator_mark")
-                                             .answer_space
-                                                  = text_field nil, nil, :answer_id => incorrect_answer.id, :question_id => question.id, :value => incorrect_answer.answer, :placeholder => "Answer", :correct => 0, :class => "answer_field"
-                              .add_answer Add Answer              
+                         = render :partial => "answers", :locals => {:question => question}           
                     .activity_right_column
-                         .question_media_box
-                              - resource = question.resources.all(:conditions => {:contains_answer => false}).first
-                              - if resource
-                                   = image_tag resource.url, :class => "media_preview", :resource_id => resource.id
-                              - else 
-                                   = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
-                         .answer_media_box
-                              - resource = question.resources.all(:conditions => {:contains_answer => true}).first
-                              - if resource
-                                   = image_tag resource.url, :class => "media_preview", :resource_id => resource.id
-                              - else 
-                                   = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
-                              %br
+                         = render :partial => "media", :locals => {:question => question}
 
 = hidden_field_tag "chapter_id", @chapter.id
-
-%div{:id => "templates"}
-     %div{:id => "activity_group"}
-          .header
-               .header_text_container
-                    = label nil, nil, :class => "header_text"
-               .delete_question_container
-                    .delete_question
-                         = image_tag "close.gif"                        
-          %br  
-          .activity_content   
-               .activity_left_column
-                    .question_group
-                         = text_area nil, nil, :placeholder => "Question", :class => "question_area"
-                    .answer_group
-                         .add_answer Add Answer  
-               .activity_right_column  
-                    .question_media_box
-                         = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
-                    .answer_media_box             
-                         = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
-                         %br
-     %div{:id => "answer"}
-          .indicator
-               = label(nil, "X", :class => "indicator_mark")
-          .answer_space
-               = text_field nil, nil, :id => "answer_field", :placeholder => "Answer", :class => "answer_field"    
-     = text_field nil, nil, :placeholder => "URL", :class => "resource_field", :id => "resource"         
-     %div{:id => "header"}
-          = label nil, "", :class => "header_text"  
-
-#media-dialog{:class => "ui-widget ui-helper-hidden"}
-     #tabs
-          %ul
-               %li
-                    %a{:href => "#tabs-1"} Image
-               %li
-                    %a{:href => "#tabs-2"} Text
-               %li
-                    %a{:href => "#tabs-3"} Video                    
-          #tabs-1
-               %form
-                    %fieldset
-                         %input{:id => "image_link_input", :name => "name", :type => "text", :placeholder => "Link to image", :class => "media_input"}
-          #tabs-2
-               %form
-                    %fieldset
-                         %input{:id => "article_link_input", :name => "name", :type => "text", :placeholder => "Link to article", :class => "media_input"}
-          #tabs-3
-               %form
-                    %fieldset
-                         %input{:id => "video_link_input", :name => "name", :type => "text", :placeholder => "Link to video", :class => "media_input"}
-                         %br
-                         %input{:id => "video_start_input", :name => "name", :type => "text", :placeholder => "Start time", :class => "media_input"}
-                         %br
-                         %input{:id => "video_end_input", :name => "name", :type => "text", :placeholder => "End time", :class => "media_input"}
-
-#dialog-confirm{:class => "ui-widget ui-helper-hidden", :title => "Delete this question?"}
-     %p This action cannot be undone. Are you sure?
+= render :partial => "templates"
