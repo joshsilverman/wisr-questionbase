@@ -27,6 +27,7 @@ OauthClientDemo::Application.routes.draw do
   #API CALLS
   match "api-V1/get_books/:ids" => "api_v1#get_books"
   match "api-V1/get_book_details/:id" => "api_v1#get_book_details"
+  match "api-V1/get_book_by_chapter_id/:id" => "api_v1#get_book_by_chapter_id"
   match "api-V1/get_lessons/:ids" => "api_v1#get_lessons"
   match "api-V1/get_all_lesson_questions/:id" => "api_v1#get_questions"
   match "api-V1/get_public" => "api_v1#get_public"
