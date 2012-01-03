@@ -31,7 +31,7 @@ class Question
 							id: $(question_resource).find("img")[0].getAttribute "resource_id"
 					@question_media = new Resource resource, this
 				$(question_resource).on "click", (e) => 
-					if $(e.srcElement).is("img") then @addMedia false, @question_media 
+					if $(e.srcElement).is("img") then @addMedia false, @question_media
 			for answer_resource in $(@dom_group).find(".answer_media_box")
 				if $(answer_resource).find("img").attr("resource_id")
 					resource =
@@ -76,8 +76,7 @@ class Question
 			url: submit_url
 			type: method
 			data: question_data
-			success: (e) => 
-				@question_id = e
+			success: (e) => @question_id = e
 	delete: (id) =>
 		question = @
 		$("#dialog-confirm").dialog({
@@ -117,21 +116,26 @@ class Question
 						begin = null
 						end = null
 						media_type = "image"
-						$(this).find("#image_link_input")[0].value = ""
+						article_text = null
 					else if $(this).find("#article_link_input")[0].value != ""
-						url = $(this).find("#article_link_input")[0].value
+						url = "http://en.wikipedia.org/wiki/" + $(this).find("#article_link_input")[0].value
 						preview = question.article_placeholder_url
 						begin = null
 						end = null
 						media_type = "text"
-						$(this).find("#article_link_input")[0].value = ""
+						article_text = $(this).find("#article_preview_field")[0]
 					else if $(this).find("#video_link_input")[0].value != ""
 						url = $(this).find("#video_link_input")[0].value
 						preview = question.video_placeholder_url
 						begin = $("#video_start_input")[0].value
 						end = $("#video_end_input")[0].value
 						media_type = "video"
-						$(this).find("#video_link_input")[0].value = ""
+						article_text = null
+					$(this).find("#image_link_input")[0].value = ""
+					$(this).find("#article_link_input")[0].value = ""
+					$(this).find("#video_link_input")[0].value = ""
+					$(this).find("#video_start_input")[0].value = ""
+					$(this).find("#video_end_input")[0].value = ""
 
 					# Set preview image.
 					question_preview = $($(question.dom_group).find(".question_media_box").find("img")[0])
@@ -144,6 +148,7 @@ class Question
 						resource.begin = begin
 						resource.end = end
 						resource.media_type = media_type
+						resource.article_text = article_text
 						resource.save()
 					else
                         resource = 
@@ -153,6 +158,7 @@ class Question
                                 media_type: media_type
                                 begin: begin
                                 end: end
+                                article_text: article_text
                         new_resource = new Resource resource, question
                         new_resource.save()
                         if contains_answer then question.answer_media = new_resource else question.question_media = new_resource
@@ -161,7 +167,7 @@ class Question
 			resizable: false
 			modal: true
 			height: 600
-			width: 700
+			width: 950
 		})
 		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')
 
@@ -193,7 +199,7 @@ class Answer
 				@question.save
 			else if e.keyCode == 9 and @question.answers.length == 4 and $(@dom_element).next(".answer").length < 1
 				new Question
-			$(@question.dom_group).find(".answer_media_box").fadeIn 600					
+			$(@question.dom_group).find(".answer_media_box").fadeIn 600	
 	save: (event) =>
 		[submit_url, method] = if @answer_id then ["/answers/" + @answer_id, "PUT"] else ["/answers", "POST"]
 		answer_data = 
@@ -205,8 +211,7 @@ class Answer
 			url: submit_url
 			type: method
 			data: answer_data
-			success: (e) =>
-				@answer_id = e
+			success: (e) => @answer_id = e
 
 
 class Resource
@@ -219,7 +224,6 @@ class Resource
 	start: null
 	end: null
 	constructor: (resource, question) -> 
-		console.log "contructing new resource"
 		@contains_answer = resource["resource"]["contains_answer"]
 		@resource_id = resource["resource"]["id"]
 		@url = resource["resource"]["url"]
@@ -227,8 +231,8 @@ class Resource
 		@begin = resource["resource"]["begin"]	
 		@end = resource["resource"]["end"]		
 		@question = question
+		@article_text = resource["resource"]["article_text"]
 	save: () =>
-		console.log "saving resource"
 		[submit_url, method] = if @resource_id then ["/resources/" + @resource_id, "PUT"] else ["/resources", "POST"]	
 		resource_data = 
 			"resource" :
@@ -238,12 +242,13 @@ class Resource
 				media_type: @media_type
 				begin: @begin
 				end: @end
+				article_text: String(@article_text.innerHTML)
+		console.log resource_data
 		$.ajax
 			url: submit_url
 			type: method
 			data: resource_data
-			success: (e) =>
-				@resource_id = e
+			success: (e) => @resource_id = e
 
 
 class Controller
@@ -253,7 +258,31 @@ class Controller
 	hideActivities: -> $(".activity_content").hide()	
 
 
+class MediaController
+	constructor: -> 
+		#$("#article_link_input").on "change", () => 
+		$("#image_preview_button").on "click", (e) =>
+			e.preventDefault()
+			console.log $("#article_link_input")[0].value
+			@updatePreview("http://en.wikipedia.org/wiki/" + $("#article_link_input")[0].value.replace(" ", "_"))
+		$("#article_preview_field").on "click", "p", (e) -> 
+			if $(e.srcElement).parent().is("span") then $(e.srcElement).unwrap() else
+				$(e.srcElement).wrap '<span class="highlighted" />'
+		$("#article_preview_field").on "click", "a", (e) =>
+			e.preventDefault()
+			$("#article_link_input")[0].value = $(e.srcElement).attr "title"
+			@updatePreview($(e.srcElement).attr "href")
+	updatePreview: (url) =>
+		console.log url
+		params = "url" : url
+		$.ajax
+			url: "/parse_article/"
+			type: "POST"
+			data: params
+			success: (text) => $("#article_preview_field").html text	
+
+
 $ -> 
 	window.controller = new Controller
+	window.media = new MediaController
 	window.builder = new Builder
-	

@@ -56,6 +56,7 @@ class ResourcesController < ApplicationController
   # PUT /resources/1
   # PUT /resources/1.json
   def update
+    puts params.to_json
     @resource = Resource.find(params[:id])
     @resource.update_attributes(params[:resource])
     render :json => @resource.id
@@ -86,7 +87,7 @@ class ResourcesController < ApplicationController
     net = Net::HTTP.get_response URI.parse(URI.encode("http://ftr.fivefilters.org/makefulltextfeed.php?url=#{params[:url]}"))
     nok = Nokogiri::HTML(net.body)
     text = CGI.unescapeHTML(nok.css('description').to_s.gsub(/<\/?description>/, ""))
-    text = @article.text.gsub(/^[^<]*</, "<").gsub('<p><em>This entry passed through the <a href="http://fivefilters.org/content-only/">Full-Text RSS</a> service &mdash; if this is your content and you\'re reading it on someone else\'s site, please read the FAQ at <a href="http://fivefilters.org/content-only/faq.php#publishers">fivefilters.org/content-only/faq.php#publishers</a>. <a href="http://fivefilters.org">Five Filters</a> recommends: <a href="http://shop.wikileaks.org/donate">Donate to Wikileaks</a>.</em></p>', "")
-    render :json => text
+    text = text.gsub(/^[^<]*</, "<").gsub('<p><em>This entry passed through the <a href="http://fivefilters.org/content-only/">Full-Text RSS</a> service &mdash; if this is your content and you\'re reading it on someone else\'s site, please read the FAQ at <a href="http://fivefilters.org/content-only/faq.php#publishers">fivefilters.org/content-only/faq.php#publishers</a>. <a href="http://fivefilters.org">Five Filters</a> recommends: <a href="http://shop.wikileaks.org/donate">Donate to Wikileaks</a>.</em></p>', "")
+    render :text => text
   end
 end
