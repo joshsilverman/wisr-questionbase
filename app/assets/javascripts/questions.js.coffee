@@ -260,10 +260,16 @@ class Controller
 
 class MediaController
 	constructor: -> 
-		#$("#article_link_input").on "change", () => 
+		window.wikiAutocomplete = @wikiAutocomplete
+		$("#article_link_input").autocomplete
+			source: (request, response) => 
+				$("html").append "<script src='http://en.wikipedia.org/w/api.php?action=opensearch&search=#{request.term}&namespace=0&suggest=&callback=wikiAutocompleteCallback'></script>"
+				window.wikiAutocompleteCallback = (r) -> response(r[1])
+			select: (e) => 
+				if e.which == 13 then term = e.srcElement.value else term = e.srcElement.innerText
+				@updatePreview("http://en.wikipedia.org/wiki/" + term.replace(" ", "_"))		
 		$("#image_preview_button").on "click", (e) =>
 			e.preventDefault()
-			console.log $("#article_link_input")[0].value
 			@updatePreview("http://en.wikipedia.org/wiki/" + $("#article_link_input")[0].value.replace(" ", "_"))
 		$("#article_preview_field").on "click", "p", (e) -> 
 			if $(e.srcElement).parent().is("span") then $(e.srcElement).unwrap() else
@@ -273,13 +279,12 @@ class MediaController
 			$("#article_link_input")[0].value = $(e.srcElement).attr "title"
 			@updatePreview($(e.srcElement).attr "href")
 	updatePreview: (url) =>
-		console.log url
 		params = "url" : url
 		$.ajax
 			url: "/parse_article/"
 			type: "POST"
 			data: params
-			success: (text) => $("#article_preview_field").html text	
+			success: (text) => $("#article_preview_field").html text
 
 
 $ -> 
