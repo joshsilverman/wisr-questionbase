@@ -22,6 +22,7 @@ OauthClientDemo::Application.routes.draw do
   match "bandoy_parser" => "questions#bandoy_parser"
   match "examview_uploader" => "questions#examview_uploader"
   match "examview_parser" => "questions#examview_parser"
+  match "parse_article/:url" => "resources#parse_article"
   
   #API CALLS
   match "api-V1/get_books/:ids" => "api_v1#get_books"
