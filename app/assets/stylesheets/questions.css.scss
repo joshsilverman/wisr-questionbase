@@ -223,6 +223,16 @@
     margin: 5px 5px;
 }
 
+#article_preview_field {
+    width: 100%;
+    max-height: 340px;
+    overflow-y: scroll;
+}
+
+.highlighted > p {
+    background: #E3EB5B;
+}
+
 /*
 
 .question_hr {

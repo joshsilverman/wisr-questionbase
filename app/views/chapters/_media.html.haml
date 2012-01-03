@@ -1,6 +1,5 @@
 .question_media_box
      - question_resource = question.resources.all(:conditions => {:contains_answer => false}).first
-     - puts question_resource.to_json
      - if question_resource
           - if question_resource.media_type == "image"
                = image_tag question_resource.url, :class => "media_preview", :resource_id => question_resource.id, :resource_url => question_resource.url, :resource_type => question_resource.media_type
