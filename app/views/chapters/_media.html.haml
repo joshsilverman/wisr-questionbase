@@ -8,9 +8,9 @@
           - elsif question_resource.media_type == "text"
                = image_tag "http://www.elitetranslingo.com/css/css/images/doc.png", :class => "media_preview", :resource_id => question_resource.id, :resource_url => question_resource.url, :resource_type => question_resource.media_type
                = link_to "Show resource", question_resource.url, :target => "blank"        
-          - else 
+          - elsif question_resource.media_type == "video" 
                = image_tag "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png", :class => "media_preview", :resource_id => question_resource.id, :resource_url => question_resource.url, :resource_type => question_resource.media_type  
-               = link_to "Show resource", question_resource.url, :target => "blank"       
+               = link_to "Show resource", "#{question_resource.url}&t=0m#{question_resource.begin}s", :target => "blank" 
      - else 
           = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
 .answer_media_box
@@ -22,9 +22,9 @@
           - elsif answer_resource.media_type == "text"
                = image_tag "http://www.elitetranslingo.com/css/css/images/doc.png", :class => "media_preview", :resource_id => answer_resource.id, :resource_url => answer_resource.url, :resource_type => answer_resource.media_type     
                = link_to "Show resource", answer_resource.url, :target => "blank"
-          - else 
+          - elsif answer_resource.media_type == "video" 
                = image_tag "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png", :class => "media_preview", :resource_id => answer_resource.id, :resource_url => answer_resource.url, :resource_type => answer_resource.media_type  
-               = link_to "Show resource", answer_resource.url, :target => "blank"
+               = link_to "Show resource", "#{answer_resource.url}&t=0m#{answer_resource.begin}s", :target => "blank" 
      - else 
           = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"                          
      %br
