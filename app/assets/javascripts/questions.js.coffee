@@ -169,7 +169,13 @@ class Question
 			height: 600
 			width: "70%"
 		})
-		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')
+		$(".ui-widget-overlay").click -> 
+			$(".ui-dialog-titlebar-close").trigger('click')
+			$("#image_link_input")[0].value = ""
+			$("#article_link_input")[0].value = ""
+			$("#video_link_input")[0].value = ""
+			$("#video_start_input")[0].value = ""
+			$("#video_end_input")[0].value = ""			
 
 
 class Answer
