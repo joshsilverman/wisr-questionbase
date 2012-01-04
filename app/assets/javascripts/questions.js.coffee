@@ -163,11 +163,11 @@ class Question
                         new_resource.save()
                         if contains_answer then question.answer_media = new_resource else question.question_media = new_resource
 			closeOnEscape: true
-			draggable: false
+			draggable: true
 			resizable: false
 			modal: true
 			height: 600
-			width: 950
+			width: "70%"
 		})
 		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')
 
@@ -267,7 +267,7 @@ class MediaController
 				window.wikiAutocompleteCallback = (r) -> response(r[1])
 			select: (e) => 
 				if e.which == 13 then term = e.srcElement.value else term = e.srcElement.innerText
-				@updatePreview("http://en.wikipedia.org/wiki/" + term.replace(" ", "_"))		
+				@updatePreview("http://en.wikipedia.org/wiki/" + term.replace(/\ /g, '_'))		
 		$("#image_preview_button").on "click", (e) =>
 			e.preventDefault()
 			@updatePreview("http://en.wikipedia.org/wiki/" + $("#article_link_input")[0].value.replace(" ", "_"))
