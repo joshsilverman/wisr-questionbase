@@ -100,7 +100,6 @@ class Question
 		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')	
 		
 
-
 class Answer
 	answer_id: null
 	dom_element: null # Stores the answer dom element
@@ -288,17 +287,17 @@ class MediaController
 						resource.article_text = article_text
 						resource.save()
 					else
-                        resource = 
-                            "resource":
-                                url: url
-                                contains_answer: contains_answer
-                                media_type: media_type
-                                begin: begin
-                                end: end
-                                article_text: article_text
-                        new_resource = new Resource resource, question
-                        new_resource.save()
-                        if contains_answer then question.answer_media = new_resource else question.question_media = new_resource
+	                    resource = 
+	                        "resource":
+	                            url: url
+	                            contains_answer: contains_answer
+	                            media_type: media_type
+	                            begin: begin
+	                            end: end
+	                            article_text: article_text
+	                    new_resource = new Resource resource, question
+	                    new_resource.save()
+	                    if contains_answer then question.answer_media = new_resource else question.question_media = new_resource
 			closeOnEscape: true
 			draggable: false
 			resizable: false

@@ -114,7 +114,7 @@ class QuestionsController < ApplicationController
     sections = xml.root.xpath("//section")
     sections.each do |section|
       number = section.attribute("ident").to_s.gsub("QDB_", "").to_i
-      if number >= 0
+      if number == 0
         chapter = Chapter.create(
           :book_id => params["book"]["id"].to_i,
           :name => section.attribute("title").to_s,#.split(/[\d]?[:]?[ [A-Z] ]?/)[1].strip,
