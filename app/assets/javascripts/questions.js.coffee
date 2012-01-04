@@ -13,8 +13,6 @@ class Question
 	activity_content: null
 	question_media: null
 	answer_media: null
-	article_placeholder_url: "http://www.elitetranslingo.com/css/css/images/doc.png"
-	video_placeholder_url: "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png"
 	constructor: (dom_group) ->
 		@answers = []
 		if dom_group # Initializing existing question
@@ -31,7 +29,7 @@ class Question
 							id: $(question_resource).find("img")[0].getAttribute "resource_id"
 					@question_media = new Resource resource, this
 				$(question_resource).on "click", (e) => 
-					if $(e.srcElement).is("img") then @addMedia false, @question_media
+					if $(e.srcElement).is("img") then window.media.addMedia @, false, @question_media
 			for answer_resource in $(@dom_group).find(".answer_media_box")
 				if $(answer_resource).find("img").attr("resource_id")
 					resource =
@@ -41,16 +39,16 @@ class Question
 							id: $(answer_resource).find("img")[0].getAttribute "resource_id"
 					@answer_media = new Resource resource, this	
 				$(answer_resource).on "click", (e) => 
-					if $(e.srcElement).is("img") then @addMedia true, @answer_media
+					if $(e.srcElement).is("img") then window.media.addMedia @, true, @answer_media
 		else # Creating new question
 			@dom_group = $($('#activity_group')[0]).clone().removeAttr("id").attr("class", "activity_group")
 			@dom_group.appendTo $('#activities')[0]
 			question_resource = $(@dom_group).find(".question_media_box")
 			answer_resource = $(@dom_group).find(".answer_media_box").hide()
 			question_resource.hide()
-			question_resource.on "click", () => @addMedia false, @answer_media
+			question_resource.on "click", () => window.media.addMedia @, false, @answer_media
 			answer_resource.hide()
-			answer_resource.on "click", () => @addMedia true, @answer_media
+			answer_resource.on "click", () => window.media.addMedia @, true, @answer_media
 			@dom_group.find(".activity_content").toggle 400, () => 
 				$('html, body').animate({scrollTop: $(document).height() - $(window).height()}, 600)
 				@dom_group.find(".question_area").focus()
@@ -100,82 +98,7 @@ class Question
 			height: 180
 		})
 		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')	
-	addMedia: (contains_answer, resource) =>
-		question = @
-		$("#media-dialog").dialog({
-			title: "Add Media"
-			buttons: 
-				"Done": () -> 
-					# Close modal.
-					$(this).dialog("close")
-
-					# Collect values.
-					if $(this).find("#image_link_input")[0].value != ""
-						url = $(this).find("#image_link_input")[0].value
-						preview = url
-						begin = null
-						end = null
-						media_type = "image"
-						article_text = null
-					else if $(this).find("#article_link_input")[0].value != ""
-						url = "http://en.wikipedia.org/wiki/" + $(this).find("#article_link_input")[0].value
-						preview = question.article_placeholder_url
-						begin = null
-						end = null
-						media_type = "text"
-						article_text = $(this).find("#article_preview_field")[0]
-					else if $(this).find("#video_link_input")[0].value != ""
-						url = $(this).find("#video_link_input")[0].value
-						preview = question.video_placeholder_url
-						begin = $("#video_start_input")[0].value
-						end = $("#video_end_input")[0].value
-						media_type = "video"
-						article_text = null
-					$(this).find("#image_link_input")[0].value = ""
-					$(this).find("#article_link_input")[0].value = ""
-					$(this).find("#video_link_input")[0].value = ""
-					$(this).find("#video_start_input")[0].value = ""
-					$(this).find("#video_end_input")[0].value = ""
-
-					# Set preview image.
-					question_preview = $($(question.dom_group).find(".question_media_box").find("img")[0])
-					answer_preview = $($(question.dom_group).find(".answer_media_box").find("img")[0])
-					if contains_answer then answer_preview.attr "src", preview else question_preview.attr "src", preview
-
-					# Create/update resource.
-					if resource
-						resource.url = url
-						resource.begin = begin
-						resource.end = end
-						resource.media_type = media_type
-						resource.article_text = article_text
-						resource.save()
-					else
-                        resource = 
-                            "resource":
-                                url: url
-                                contains_answer: contains_answer
-                                media_type: media_type
-                                begin: begin
-                                end: end
-                                article_text: article_text
-                        new_resource = new Resource resource, question
-                        new_resource.save()
-                        if contains_answer then question.answer_media = new_resource else question.question_media = new_resource
-			closeOnEscape: true
-			draggable: true
-			resizable: false
-			modal: true
-			height: 600
-			width: "70%"
-		})
-		$(".ui-widget-overlay").click -> 
-			$(".ui-dialog-titlebar-close").trigger('click')
-			$("#image_link_input")[0].value = ""
-			$("#article_link_input")[0].value = ""
-			$("#video_link_input")[0].value = ""
-			$("#video_start_input")[0].value = ""
-			$("#video_end_input")[0].value = ""			
+		
 
 
 class Answer
@@ -221,7 +144,6 @@ class Answer
 
 
 class Resource
-	dom_element: null
 	url: null
 	contains_answer: null
 	resource_id: null
@@ -237,7 +159,7 @@ class Resource
 		@begin = resource["resource"]["begin"]	
 		@end = resource["resource"]["end"]		
 		@question = question
-		if resource["resource"]["article_text"] then @article_text = String(resource["resource"]["article_text"].innerHTML) else @article_text = null
+		if resource["resource"]["article_text"] then @article_text = resource["resource"]["article_text"] else @article_text = null
 	save: () =>
 		[submit_url, method] = if @resource_id then ["/resources/" + @resource_id, "PUT"] else ["/resources", "POST"]	
 		resource_data = 
@@ -254,18 +176,17 @@ class Resource
 			type: method
 			data: resource_data
 			success: (e) => @resource_id = e
-
-
-class Controller
-	constructor: -> @hideActivities()
-	scrollToTop: -> $.scrollTo 0, 500
-	scrollToBottom: -> $.scrollTo document.body.scrollHeight, 500
-	hideActivities: -> $(".activity_content").hide()	
+	show: (id) =>
+		$.ajax
+			url: "/resources/" + id + ".json"
+			type: "GET"
+			success: (e) => console.log e
 
 
 class MediaController
+	article_placeholder_url: "http://www.elitetranslingo.com/css/css/images/doc.png"
+	video_placeholder_url: "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png"	
 	constructor: -> 
-		window.wikiAutocomplete = @wikiAutocomplete
 		$("#article_link_input").autocomplete
 			source: (request, response) => 
 				$("html").append "<script src='http://en.wikipedia.org/w/api.php?action=opensearch&search=#{request.term}&namespace=0&suggest=&callback=wikiAutocompleteCallback'></script>"
@@ -273,9 +194,9 @@ class MediaController
 			select: (e) => 
 				if e.which == 13 then term = e.srcElement.value else term = e.srcElement.innerText
 				@updatePreview("http://en.wikipedia.org/wiki/" + term.replace(/\ /g, '_'))		
-		$("#image_preview_button").on "click", (e) =>
+		$("#article_preview_button").on "click", (e) =>
 			e.preventDefault()
-			@updatePreview("http://en.wikipedia.org/wiki/" + $("#article_link_input")[0].value.replace(" ", "_"))
+			@updatePreview("http://en.wikipedia.org/wiki/" + $("#article_link_input")[0].value.replace(/\ /g, '_'))
 		$("#article_preview_field").on "click", "p", (e) -> 
 			if $(e.srcElement).parent().is("span") then $(e.srcElement).unwrap() else
 				$(e.srcElement).wrap '<span class="highlighted" />'
@@ -291,11 +212,115 @@ class MediaController
 			data: params
 			success: (text) => $("#article_preview_field").html text
 	removeResource: (id) =>
-		console.log $("#media_preview_" + id)
 		$.ajax
 			url: "/resources/" + id
 			type: "DELETE"
 			success: -> $($("#media_preview_" + id)[0]).attr "src", "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg"
+	addMedia: (question, contains_answer, resource) =>
+		if resource
+			$.ajax
+				url: "/resources/" + resource.resource_id + ".json"
+				type: "GET"
+				success: (resource_data) => @showMediaModal question, contains_answer, resource, resource_data
+		else @showMediaModal question, contains_answer, resource
+	showMediaModal: (question, contains_answer, resource, resource_data) =>
+		media = @
+		if resource_data
+			switch resource_data.media_type
+				when "text"
+					$("#article_link_input")[0].value = resource_data.url
+					$("#article_preview_field").html resource_data.article_text					
+					$($("#media-dialog").find("#tabs")).tabs({selected:1})
+				when "image"
+					$("#image_link_input")[0].value = resource_data.url
+					$($("#media-dialog").find("#tabs")).tabs({selected:0})
+				when "video" 
+					$("#video_link_input")[0].value = resource_data.url
+					$("#video_start_input")[0].value = resource_data.begin
+					$("#video_end_input")[0].value = resource_data.end					
+					$($("#media-dialog").find("#tabs")).tabs({selected:2})
+		$("#media-dialog").dialog({
+			title: "Add Media"
+			buttons: 
+				"Done": () -> 
+					# Close modal.
+					$(this).dialog("close")
+					# Collect values.
+					if $(this).find("#image_link_input")[0].value != ""
+						url = $(this).find("#image_link_input")[0].value
+						preview = url
+						begin = null
+						end = null
+						media_type = "image"
+						article_text = null
+					else if $(this).find("#article_link_input")[0].value != ""
+						url = "http://en.wikipedia.org/wiki/" + $(this).find("#article_link_input")[0].value.replace(/\ /g, '_')
+						preview = media.article_placeholder_url
+						begin = null
+						end = null
+						media_type = "text"
+						article_text = $(this).find("#article_preview_field")[0].innerHTML
+					else if $(this).find("#video_link_input")[0].value != ""
+						url = $(this).find("#video_link_input")[0].value
+						preview = media.video_placeholder_url
+						begin = $("#video_start_input")[0].value
+						end = $("#video_end_input")[0].value
+						media_type = "video"
+						article_text = null
+					$(this).find("#image_link_input")[0].value = ""
+					$(this).find("#article_link_input")[0].value = ""
+					$(this).find("#article_preview_field").html null
+					$(this).find("#video_link_input")[0].value = ""
+					$(this).find("#video_start_input")[0].value = ""
+					$(this).find("#video_end_input")[0].value = ""
+					
+					# Set preview image.
+					question_preview = $($(question.dom_group).find(".question_media_box").find("img")[0])
+					answer_preview = $($(question.dom_group).find(".answer_media_box").find("img")[0])
+					if contains_answer then answer_preview.attr "src", preview else question_preview.attr "src", preview
+
+					# Create/update resource.
+					if resource
+						resource.url = url
+						resource.begin = begin
+						resource.end = end
+						resource.media_type = media_type
+						resource.article_text = article_text
+						resource.save()
+					else
+                        resource = 
+                            "resource":
+                                url: url
+                                contains_answer: contains_answer
+                                media_type: media_type
+                                begin: begin
+                                end: end
+                                article_text: article_text
+                        new_resource = new Resource resource, question
+                        new_resource.save()
+                        if contains_answer then question.answer_media = new_resource else question.question_media = new_resource
+			closeOnEscape: true
+			draggable: false
+			resizable: false
+			modal: true
+			height: 600
+			width: "70%"
+		})
+		$(".ui-widget-overlay").click -> 
+			$(".ui-dialog-titlebar-close").trigger('click')
+			$("#image_link_input")[0].value = ""
+			$("#article_link_input")[0].value = ""
+			$("#video_link_input")[0].value = ""
+			$("#video_start_input")[0].value = ""
+			$("#video_end_input")[0].value = ""	
+			$("#article_preview_field").html null
+
+
+class Controller
+	constructor: -> @hideActivities()
+	scrollToTop: -> $.scrollTo 0, 500
+	scrollToBottom: -> $.scrollTo document.body.scrollHeight, 500
+	hideActivities: -> $(".activity_content").hide()	
 
 
 $ -> 
