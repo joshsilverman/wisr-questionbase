@@ -76,11 +76,11 @@ class ResourcesController < ApplicationController
   def destroy
     @resource = Resource.find(params[:id])
     @resource.destroy
-
-    respond_to do |format|
-      format.html { redirect_to resources_url }
-      format.json { head :ok }
-    end
+    render :nothing => true
+    # respond_to do |format|
+    #   format.html { redirect_to resources_url }
+    #   format.json { head :ok }
+    # end
   end
   
   def parse_article

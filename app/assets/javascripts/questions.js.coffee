@@ -237,7 +237,7 @@ class Resource
 		@begin = resource["resource"]["begin"]	
 		@end = resource["resource"]["end"]		
 		@question = question
-		@article_text = resource["resource"]["article_text"]
+		if resource["resource"]["article_text"] then @article_text = String(resource["resource"]["article_text"].innerHTML) else @article_text = null
 	save: () =>
 		[submit_url, method] = if @resource_id then ["/resources/" + @resource_id, "PUT"] else ["/resources", "POST"]	
 		resource_data = 
@@ -248,8 +248,7 @@ class Resource
 				media_type: @media_type
 				begin: @begin
 				end: @end
-				article_text: String(@article_text.innerHTML)
-		console.log resource_data
+				article_text: @article_text
 		$.ajax
 			url: submit_url
 			type: method
@@ -291,6 +290,12 @@ class MediaController
 			type: "POST"
 			data: params
 			success: (text) => $("#article_preview_field").html text
+	removeResource: (id) =>
+		console.log $("#media_preview_" + id)
+		$.ajax
+			url: "/resources/" + id
+			type: "DELETE"
+			success: -> $($("#media_preview_" + id)[0]).attr "src", "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg"
 
 
 $ -> 
