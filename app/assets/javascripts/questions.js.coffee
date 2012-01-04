@@ -299,7 +299,7 @@ class MediaController
 	                    new_resource.save()
 	                    if contains_answer then question.answer_media = new_resource else question.question_media = new_resource
 			closeOnEscape: true
-			draggable: false
+			draggable: true
 			resizable: false
 			modal: true
 			height: 600
