@@ -203,7 +203,7 @@ class MediaController
 		$("#article_preview_button").on "click", (e) =>
 			e.preventDefault()
 			@updatePreview("http://en.wikipedia.org/wiki/" + $("#article_link_input")[0].value.replace(/\ /g, '_'))
-		$("#article_preview_field").on "click", "p", (e) -> 
+		$("#article_preview_field").on "click", ["p", "li"], (e) -> 
 			if $(e.srcElement).parent().is("span") then $(e.srcElement).unwrap() else
 				$(e.srcElement).wrap '<span class="highlighted" />'
 		$("#article_preview_field").on "click", "a", (e) =>
@@ -245,29 +245,34 @@ class MediaController
 			buttons: 
 				"Done": () -> 
 					# Close modal.
-					$(this).dialog("close")
-					# Collect values.
-					if $(this).find("#image_link_input")[0].value != ""
-						url = $(this).find("#image_link_input")[0].value
-						preview = url
-						begin = null
-						end = null
-						media_type = "image"
-						article_text = null
-					else if $(this).find("#article_link_input")[0].value != ""
-						url = "http://en.wikipedia.org/wiki/" + $(this).find("#article_link_input")[0].value.replace(/\ /g, '_')
-						preview = media.article_placeholder_url
-						begin = null
-						end = null
-						media_type = "text"
-						article_text = $(this).find("#article_preview_field")[0].innerHTML
-					else if $(this).find("#video_link_input")[0].value != ""
-						url = $(this).find("#video_link_input")[0].value
-						preview = media.video_placeholder_url
-						begin = $("#video_start_input")[0].value
-						end = $("#video_end_input")[0].value
-						media_type = "video"
-						article_text = null
+					$(this).dialog("close")	
+									
+					switch $(this).find("#tabs").tabs("option", "selected")
+						when 0 
+							break if $(this).find("#image_link_input")[0].value == ""
+							url = $(this).find("#image_link_input")[0].value
+							preview = url
+							begin = null
+							end = null
+							media_type = "image"
+							article_text = null
+						when 1
+							break if $(this).find("#article_link_input")[0].value == ""
+							url = "http://en.wikipedia.org/wiki/" + $(this).find("#article_link_input")[0].value.replace(/\ /g, '_')
+							preview = media.article_placeholder_url
+							begin = null
+							end = null
+							media_type = "text"
+							article_text = $(this).find("#article_preview_field")[0].innerHTML
+						when 2
+							break if $(this).find("#video_link_input")[0].value == ""
+							url = $(this).find("#video_link_input")[0].value
+							preview = media.video_placeholder_url
+							begin = $("#video_start_input")[0].value
+							end = $("#video_end_input")[0].value
+							media_type = "video"
+							article_text = null
+									
 					$(this).find("#image_link_input")[0].value = ""
 					$(this).find("#article_link_input")[0].value = ""
 					$(this).find("#article_preview_field").html null
@@ -300,6 +305,8 @@ class MediaController
 	                    new_resource = new Resource resource, question
 	                    new_resource.save()
 	                    if contains_answer then question.answer_media = new_resource else question.question_media = new_resource
+
+                    
 			closeOnEscape: true
 			draggable: true
 			resizable: false

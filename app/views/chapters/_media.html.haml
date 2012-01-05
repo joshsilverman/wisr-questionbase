@@ -1,23 +1,23 @@
 .question_media_box
      - if question_resource = question.resources.all(:conditions => {:contains_answer => false}).first
-          - if question_resource.media_type == "image" then url = question_resource.url
-          - elsif question_resource.media_type == "text" then url = "http://www.elitetranslingo.com/css/css/images/doc.png"
-          - elsif question_resource.media_type == "video" then url = "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png"
-          = image_tag url, :id => "media_preview_#{question_resource.id}", :class => "media_preview", :resource_id => question_resource.id, :resource_url => question_resource.url, :resource_type => question_resource.media_type
+          - url = question_resource.url
+          - if question_resource.media_type == "image" then preview = question_resource.url
+          - elsif question_resource.media_type == "text" then preview = "http://www.elitetranslingo.com/css/css/images/doc.png"
+          - elsif question_resource.media_type == "video" then preview, url = "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png", "#{question_resource.url}&t=0m#{question_resource.begin}s"
+          = image_tag preview, :id => "media_preview_#{question_resource.id}", :class => "media_preview", :resource_id => question_resource.id, :resource_url => question_resource.url, :resource_type => question_resource.media_type
           = link_to "Show", url, :target => "blank"
           = link_to "Delete", nil, :id => "delete_resource_#{question_resource.id}"
-          / # = link_to_function "Delete", "window.media.removeResource(#{question_resource.id})"
      - else 
           = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
 .answer_media_box
      - if answer_resource = question.resources.all(:conditions => {:contains_answer => true}).first
-          - if answer_resource.media_type == "image" then url = answer_resource.url
-          - elsif answer_resource.media_type == "text" then url = "http://www.elitetranslingo.com/css/css/images/doc.png"
-          - elsif answer_resource.media_type == "video" then url = "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png"
-          = image_tag url, :id => "media_preview_#{answer_resource.id}", :class => "media_preview", :resource_id => answer_resource.id, :resource_url => answer_resource.url, :resource_type => answer_resource.media_type
+          - url = answer_resource.url
+          - if answer_resource.media_type == "image" then preview = answer_resource.url
+          - elsif answer_resource.media_type == "text" then preview = "http://www.elitetranslingo.com/css/css/images/doc.png"
+          - elsif answer_resource.media_type == "video" then preview, url = "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png", "#{answer_resource.url}&t=0m#{answer_resource.begin}s"
+          = image_tag preview, :id => "media_preview_#{answer_resource.id}", :class => "media_preview", :resource_id => answer_resource.id, :resource_url => answer_resource.url, :resource_type => answer_resource.media_type
           = link_to "Show", url, :target => "blank"
           = link_to "Delete", nil, :id => "delete_resource_#{answer_resource.id}"
-          / # = link_to_function "Delete", "window.media.removeResource(#{answer_resource.id})"
      - else 
           = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"                          
      %br
