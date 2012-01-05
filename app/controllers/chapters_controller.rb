@@ -16,7 +16,6 @@ class ChaptersController < ApplicationController
     @chapter = Chapter.find(params[:id])
     @book = Book.find_by_id(@chapter.book_id)
     @questions = @chapter.questions.sort!{|a, b| a.created_at <=> b.created_at}
-    puts "CALLERBACK YOUNGN #{params[:callback]}"
     respond_to do |format|
       format.html # show.html.erb
       format.json  { render :text => "#{params[:callback]}(#{@questions.to_json})", :content_type => 'text/javascript' }
