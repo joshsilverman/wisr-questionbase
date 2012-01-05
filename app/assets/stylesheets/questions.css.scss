@@ -226,7 +226,13 @@
 #article_preview_field {
     width: 100%;
     max-height: 340px;
+    /*max-width: 900px;*/
+    /*overflow: hidden;*/
     overflow-y: scroll;
+}
+
+.ui-dialog-titlebar {
+    /*display: none;*/
 }
 
 .highlighted > p {

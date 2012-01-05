@@ -21,7 +21,7 @@ class Question
 			for answer_element in @dom_group.find(".answer_group").find(".answer")
 				@answers.push new Answer(this, answer_element)
 			for question_resource in $(@dom_group).find(".question_media_box")
-				if $(question_resource).find("img").attr("resource_id")				
+				if $(question_resource).find("img").attr("resource_id")	
 					resource =
 						"resource" :
 							url: $(question_resource).find("img")[0].getAttribute "src"
@@ -55,7 +55,7 @@ class Question
 		@activity_content = $(@dom_group).find(".activity_content")[0]
 		$(@dom_group).find(".header_text_container").on "click", () => $(@activity_content).toggle 400
 		$(@dom_group).find(".delete_question_container").on "click", (e) => 
-			@delete @question_id
+			window.media.confirm("question", @delete)
 		$(@dom_group.find(".question_group")).on "keydown", (e) => 
 			if e.keyCode == 9 and @answers.length < 1
 				e.preventDefault() 
@@ -75,29 +75,11 @@ class Question
 			type: method
 			data: question_data
 			success: (e) => @question_id = e
-	delete: (id) =>
-		question = @
-		$("#dialog-confirm").dialog({
-			resizable: false
-			modal: true
-			title: "Delete this question?"
-			buttons: { 
-				"Cancel": () -> $(this).dialog("close")
-				"Delete": () -> 
-					$(this).dialog("close")
-					question.dom_group.hide()
-					if id
-						$.ajax
-							url: "/questions/" + id
-							type: "DELETE"
-			}
-			closeOnEscape: true
-			draggable: false
-			resizable: false
-			modal: true
-			height: 180
-		})
-		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')	
+	delete: () =>
+		@dom_group.hide()
+		$.ajax
+			url: "/questions/" + @question_id
+			type: "DELETE"	
 		
 
 class Answer
@@ -158,13 +140,9 @@ class Resource
 		@begin = resource["resource"]["begin"]	
 		@end = resource["resource"]["end"]		
 		@question = question
-		$(question.dom_group).find("#delete_resource_" + @resource_id).on "click", (e) =>
-		  	e.preventDefault()
-		  	$.ajax
-		  		url: "/resources/" + @resource_id
-		  		type: "DELETE"
-		  		success: =>
-		  		  	$($("#media_preview_" + @resource_id)[0]).attr "src", "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg"
+		$(question.dom_group).find("#delete_resource_" + @resource_id).on "click", (event) => 
+				event.preventDefault()
+				window.media.confirm("resource", @delete)
 		if resource["resource"]["article_text"] then @article_text = resource["resource"]["article_text"] else @article_text = null
 	save: () =>
 		[submit_url, method] = if @resource_id then ["/resources/" + @resource_id, "PUT"] else ["/resources", "POST"]	
@@ -182,6 +160,12 @@ class Resource
 			type: method
 			data: resource_data
 			success: (e) => @resource_id = e
+	delete: (e) =>
+		$.ajax
+			url: "/resources/" + @resource_id
+			type: "DELETE"
+			success: =>
+				$($("#media_preview_" + @resource_id)[0]).attr "src", "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg"		
 	show: (id) =>
 		$.ajax
 			url: "/resources/" + id + ".json"
@@ -216,7 +200,9 @@ class MediaController
 			url: "/parse_article/"
 			type: "POST"
 			data: params
-			success: (text) => $("#article_preview_field").html text
+			success: (text) => 
+				$("#article_preview_field").html text
+				$("#article_preview_field")[0].scrollTop = 0
 	addMedia: (question, contains_answer, resource) =>
 		if resource
 			$.ajax
@@ -224,6 +210,24 @@ class MediaController
 				type: "GET"
 				success: (resource_data) => @showMediaModal question, contains_answer, resource, resource_data
 		else @showMediaModal question, contains_answer, resource
+	confirm: (context, callback) =>
+		$("#dialog-confirm").dialog({
+			resizable: false
+			modal: true
+			title: "Delete this question?"
+			context: context
+			buttons: { 
+				"Cancel": -> $(this).dialog("close")
+				"Delete": -> 
+					callback()
+					$(this).dialog("close")
+			}
+			closeOnEscape: true
+			draggable: false
+			resizable: false
+			height: 180
+		})
+		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')	  	
 	showMediaModal: (question, contains_answer, resource, resource_data) =>
 		media = @
 		if resource_data
@@ -243,6 +247,7 @@ class MediaController
 		$("#media-dialog").dialog({
 			title: "Add Media"
 			buttons: 
+				"Cancel": -> $(this).dialog("close")	
 				"Done": () -> 
 					# Close modal.
 					$(this).dialog("close")	
@@ -312,7 +317,7 @@ class MediaController
 			resizable: false
 			modal: true
 			height: 600
-			width: "70%"
+			width: "80%"
 		})
 		$(".ui-widget-overlay").click -> 
 			$(".ui-dialog-titlebar-close").trigger('click')
