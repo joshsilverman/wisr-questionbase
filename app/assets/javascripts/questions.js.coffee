@@ -158,6 +158,13 @@ class Resource
 		@begin = resource["resource"]["begin"]	
 		@end = resource["resource"]["end"]		
 		@question = question
+		$(question.dom_group).find("#delete_resource_" + @resource_id).on "click", (e) =>
+		  	e.preventDefault()
+		  	$.ajax
+		  		url: "/resources/" + @resource_id
+		  		type: "DELETE"
+		  		success: =>
+		  		  	$($("#media_preview_" + @resource_id)[0]).attr "src", "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg"
 		if resource["resource"]["article_text"] then @article_text = resource["resource"]["article_text"] else @article_text = null
 	save: () =>
 		[submit_url, method] = if @resource_id then ["/resources/" + @resource_id, "PUT"] else ["/resources", "POST"]	
@@ -210,11 +217,6 @@ class MediaController
 			type: "POST"
 			data: params
 			success: (text) => $("#article_preview_field").html text
-	removeResource: (id) =>
-		$.ajax
-			url: "/resources/" + id
-			type: "DELETE"
-			success: -> $($("#media_preview_" + id)[0]).attr "src", "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg"
 	addMedia: (question, contains_answer, resource) =>
 		if resource
 			$.ajax
