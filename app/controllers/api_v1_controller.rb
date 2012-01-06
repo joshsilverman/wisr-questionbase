@@ -7,7 +7,7 @@ class ApiV1Controller < ApplicationController
 
   def get_book_details
     @book = Book.find(params[:id])
-    
+    @chapters = @book.chapters.sort{|a, b| a.number <=> b.number}
     respond_to :json
   end
   
