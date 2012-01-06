@@ -7,6 +7,6 @@ node :icon_url do
 end
 
 
-child @chapter do
-  attributes :id, :name
+child :chapters do
+  attributes :id, :name, :number
 end
