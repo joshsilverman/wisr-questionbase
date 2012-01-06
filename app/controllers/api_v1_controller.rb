@@ -23,7 +23,7 @@ class ApiV1Controller < ApplicationController
     book_ids = Chapter.select(:book_id).where(:id => @lesson_ids).group("chapters.book_id, chapters.id").collect(&:book_id)
     @books = Book.where(:id => book_ids)
     @chapter = Chapter.includes(:book).where(:id => @lesson_ids)
-    puts @chapter.inspect
+    @chapter = @chapter.sort!{|a, b| a.number <=> b.number}
     respond_to :json
   end
   
