@@ -247,7 +247,14 @@ class MediaController
 		$("#media-dialog").dialog({
 			title: "Add Media"
 			buttons: 
-				"Cancel": -> $(this).dialog("close")	
+				"Cancel": -> 
+					$(this).dialog("close")	
+					$("#image_link_input")[0].value = ""
+					$("#article_link_input")[0].value = ""
+					$("#video_link_input")[0].value = ""
+					$("#video_start_input")[0].value = ""
+					$("#video_end_input")[0].value = ""	
+					$("#article_preview_field").html null					
 				"Done": () -> 
 					# Close modal.
 					$(this).dialog("close")	
