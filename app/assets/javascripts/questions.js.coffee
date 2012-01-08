@@ -187,7 +187,7 @@ class MediaController
 		$("#article_preview_button").on "click", (e) =>
 			e.preventDefault()
 			@updatePreview("http://en.wikipedia.org/wiki/" + $("#article_link_input")[0].value.replace(/\ /g, '_'))
-		$("#article_preview_field").on "click", ["p", "li"], (e) -> 
+		$("#article_preview_field").on "click", ["p", "li", "dl"], (e) -> 
 			if $(e.srcElement).parent().is("span") then $(e.srcElement).unwrap() else
 				$(e.srcElement).wrap '<span class="highlighted" />'
 		$("#article_preview_field").on "click", "a", (e) =>
