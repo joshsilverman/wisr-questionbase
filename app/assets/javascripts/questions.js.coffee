@@ -240,7 +240,7 @@ class MediaController
 					$("#image_link_input")[0].value = resource_data.url
 					$($("#media-dialog").find("#tabs")).tabs({selected:0})
 				when "video" 
-					$("#video_link_input")[0].value = resource_data.url
+					$("#video_link_input")[0].value = "http://www.youtube.com/watch?v=#{resource_data.url}&t=0m#{resource_data.begin}s"
 					$("#video_start_input")[0].value = resource_data.begin
 					$("#video_end_input")[0].value = resource_data.end					
 					$($("#media-dialog").find("#tabs")).tabs({selected:2})
