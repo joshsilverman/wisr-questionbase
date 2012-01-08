@@ -8,16 +8,16 @@
           = link_to "Show", url, :target => "blank"
           = link_to "Delete", nil, :id => "delete_resource_#{question_resource.id}"
      - else 
-          = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
+          = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview", :title => "Click to add media to show alongside the question."
 .answer_media_box
      - if answer_resource = question.resources.all(:conditions => {:contains_answer => true}).first
           - url = answer_resource.url
           - if answer_resource.media_type == "image" then preview = answer_resource.url
           - elsif answer_resource.media_type == "text" then preview = "http://www.elitetranslingo.com/css/css/images/doc.png"
           - elsif answer_resource.media_type == "video" then preview, url = "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png", "http://www.youtube.com/watch?v=#{answer_resource.url}&t=0m#{answer_resource.begin}s"
-          = image_tag preview, :id => "media_preview_#{answer_resource.id}", :class => "media_preview", :resource_id => answer_resource.id, :resource_url => answer_resource.url, :resource_type => answer_resource.media_type
+          = image_tag preview, :id => "media_preview_#{answer_resource.id}", :class => "media_preview", :resource_id => answer_resource.id, :resource_url => answer_resource.url, :resource_type => answer_resource.media_type, :title => "yo brooo"
           = link_to "Show", url, :target => "blank"
           = link_to "Delete", nil, :id => "delete_resource_#{answer_resource.id}"
      - else 
-          = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"                          
+          = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview", :title => "Click to add media to show after the learner has answered the question."                          
      %br
