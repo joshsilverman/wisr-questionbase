@@ -79,6 +79,10 @@ class QuestionsController < ApplicationController
     end
   end
 
+  def get_permission
+    puts params.to_json
+  end
+
   def save_question
     if params[:question_id].to_i == -1
       @question = Question.create!(:question => params[:question],
