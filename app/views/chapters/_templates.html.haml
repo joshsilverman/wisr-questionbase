@@ -42,7 +42,8 @@
                %form
                     %fieldset
                          #image_search_controls
-                              %input{:id => "image_link_input", :name => "name", :type => "text", :placeholder => "Link to image", :class => "media_input"}
+                              %input{:id => "image_link_input", :name => "name", :type => "text", :placeholder => "Type to search or paste image URL", :class => "media_input"}
+                              %button{:id => "image_search_button"}= "Search"
                               #search_preview
                               #previous_page <<
                               #next_page >>

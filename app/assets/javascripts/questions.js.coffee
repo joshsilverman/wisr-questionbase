@@ -62,7 +62,7 @@ class Question
 			# 	url: "/questions/get_permission"
 			# 	type: "POST"
 			# 	data: data	
-			# window.media.confirm("question", @delete)
+			window.media.confirm("question", @delete)
 		$(@dom_group.find(".question_group")).on "keydown", (e) => 
 			if e.keyCode == 9 and @answers.length < 1
 				e.preventDefault() 
@@ -191,7 +191,7 @@ class MediaController
 				window.wikiAutocompleteCallback = (r) -> response(r[1])
 			select: (e) => 
 				if e.which == 13 then term = e.srcElement.value else term = e.srcElement.innerText
-				@updatePreview("http://en.wikipedia.org/wiki/" + term.replace(/\ /g, '_'))		
+				@updatePreview("http://en.wikipedia.org/wiki/" + term.replace(/\ /g, '_'))
 		$("#article_preview_button").on "click", (e) =>
 			e.preventDefault()
 			@updatePreview("http://en.wikipedia.org/wiki/" + $("#article_link_input")[0].value.replace(/\ /g, '_'))
@@ -205,6 +205,9 @@ class MediaController
 		$("#video_link_input").on "keyup", () => 
 			$("#video_preview_frame").attr "src", "http://www.youtube.com/embed/" + @parseYouTubeID $("#video_link_input")[0].value
 		$("#image_link_input").on "keyup", (e) =>
+			if e.which == 13 then @imageSearch.execute($("#image_link_input")[0].value)
+		$("#image_search_button").on "click", (e) =>
+			e.preventDefault()
 			@imageSearch.execute($("#image_link_input")[0].value)
 		$("#next_page").on "click", () => @imageSearch.gotoPage(@imageSearch.cursor.currentPageIndex+1)
 		$("#previous_page").on "click", () => @imageSearch.gotoPage(@imageSearch.cursor.currentPageIndex-1)	
@@ -254,6 +257,7 @@ class MediaController
 				when "image"
 					$("#image_link_input")[0].value = resource_data.url
 					$($("#media-dialog").find("#tabs")).tabs({selected:0})
+					$("#image_search_preview")[0].src = resource_data.url
 				when "video" 
 					$("#video_link_input")[0].value = "http://www.youtube.com/watch?v=#{resource_data.url}&t=0m#{resource_data.begin}s"
 					$("#video_start_input_minute")[0].value = Math.floor(resource_data.begin / 60)
@@ -265,17 +269,7 @@ class MediaController
 		$("#media-dialog").dialog({
 			title: "Add Media"
 			buttons: 
-				"Cancel": -> 
-					$(this).dialog("close")	
-					$("#image_link_input")[0].value = ""
-					$("#article_link_input")[0].value = ""
-					$("#video_link_input")[0].value = ""
-					$("#video_start_input_minute")[0].value = ""
-					$("#video_start_input_second")[0].value = ""
-					$("#video_end_input_minute")[0].value = ""
-					$("#video_end_input_second")[0].value = ""
-					$("#article_preview_field").html null	
-					$("#video_preview_frame").attr "src", null				
+				"Cancel": -> media.clearModalFields()			
 				"Done": () -> 
 					# Close modal.
 					$(this).dialog("close")	
@@ -305,16 +299,7 @@ class MediaController
 							end = (parseInt(($("#video_end_input_minute")[0].value * 60)) + parseInt(($("#video_end_input_second")[0].value)))
 							media_type = "video"
 							article_text = null
-
-					$(this).find("#image_link_input")[0].value = ""
-					$(this).find("#article_link_input")[0].value = ""
-					$(this).find("#article_preview_field").html null
-					$(this).find("#video_link_input")[0].value = ""
-					$(this).find("#video_start_input_minute")[0].value = ""
-					$(this).find("#video_start_input_second")[0].value = ""
-					$(this).find("#video_end_input_minute")[0].value = ""
-					$(this).find("#video_end_input_second")[0].value = ""
-					$(this).find("#video_preview_frame").attr "src", null
+					media.clearModalFields()
 										
 					# Set preview image.
 					question_preview = $($(question.dom_group).find(".question_media_box").find("img")[0])
@@ -340,9 +325,7 @@ class MediaController
 	                            article_text: article_text
 	                    new_resource = new Resource resource, question
 	                    new_resource.save()
-	                    if contains_answer then question.answer_media = new_resource else question.question_media = new_resource
-
-                    
+	                    if contains_answer then question.answer_media = new_resource else question.question_media = new_resource       
 			closeOnEscape: true
 			draggable: true
 			resizable: false
@@ -350,17 +333,20 @@ class MediaController
 			height: 600
 			width: "80%"
 		})
-		$(".ui-widget-overlay").click -> 
-			$(".ui-dialog-titlebar-close").trigger('click')
-			$("#image_link_input")[0].value = ""
-			$("#article_link_input")[0].value = ""
-			$("#video_link_input")[0].value = ""
-			$("#video_start_input_minute")[0].value = ""
-			$("#video_start_input_second")[0].value = ""
-			$("#video_end_input_minute")[0].value = ""
-			$("#video_end_input_second")[0].value = ""
-			$("#article_preview_field").html null
-			$("#video_preview_frame").attr "src", null
+		$(".ui-widget-overlay").click -> media.clearModalFields()
+	clearModalFields: =>
+		$(".ui-dialog-titlebar-close").trigger('click')
+		$("#image_link_input")[0].value = ""
+		$("#article_link_input")[0].value = ""
+		$("#video_link_input")[0].value = ""
+		$("#video_start_input_minute")[0].value = ""
+		$("#video_start_input_second")[0].value = ""
+		$("#video_end_input_minute")[0].value = ""
+		$("#video_end_input_second")[0].value = ""
+		$("#article_preview_field").html null
+		$("#video_preview_frame").attr "src", null
+		$("#image_search_preview").attr "src", null	
+		$("#search_preview")[0].innerHTML = ""	
 	parseYouTubeID: (url) => String(url.match("[?]v=[A-Za-z0-9_-]*")).split("=")[1]
 	imageSearchComplete: () =>
 		$("#search_preview")[0].innerHTML = ""
