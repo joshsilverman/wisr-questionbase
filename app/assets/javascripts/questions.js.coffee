@@ -55,7 +55,13 @@ class Question
 		@activity_content = $(@dom_group).find(".activity_content")[0]
 		$(@dom_group).find(".header_text_container").on "click", () => $(@activity_content).toggle 400
 		$(@dom_group).find(".delete_question_container").on "click", (e) => 
-			console.log @question_id #STOPPED HERE
+			# console.log @question_id
+			# data = 
+			# 	"id" : @question_id
+			# $.ajax
+			# 	url: "/questions/get_permission"
+			# 	type: "POST"
+			# 	data: data	
 			# window.media.confirm("question", @delete)
 		$(@dom_group.find(".question_group")).on "keydown", (e) => 
 			if e.keyCode == 9 and @answers.length < 1

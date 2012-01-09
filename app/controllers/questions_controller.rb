@@ -81,6 +81,8 @@ class QuestionsController < ApplicationController
 
   def get_permission
     puts params.to_json
+    puts Question.find(params[:id]).to_json
+    render :nothing => true
   end
 
   def save_question

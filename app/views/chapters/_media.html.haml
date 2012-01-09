@@ -3,7 +3,7 @@
           - url = question_resource.url
           - if question_resource.media_type == "image" then preview = question_resource.url
           - elsif question_resource.media_type == "text" then preview = "http://www.elitetranslingo.com/css/css/images/doc.png"
-          - elsif question_resource.media_type == "video" then preview, url = "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png", "#{question_resource.url}&t=0m#{question_resource.begin}s"
+          - elsif question_resource.media_type == "video" then preview, url = "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png", "http://www.youtube.com/watch?v=#{question_resource.url}&t=0m#{question_resource.begin}s"
           = image_tag preview, :id => "media_preview_#{question_resource.id}", :class => "media_preview", :resource_id => question_resource.id, :resource_url => question_resource.url, :resource_type => question_resource.media_type
           = link_to "Show", url, :target => "blank"
           = link_to "Delete", nil, :id => "delete_resource_#{question_resource.id}"
