@@ -188,13 +188,15 @@ class MediaController
 		$("#article_preview_button").on "click", (e) =>
 			e.preventDefault()
 			@updatePreview("http://en.wikipedia.org/wiki/" + $("#article_link_input")[0].value.replace(/\ /g, '_'))
-		$("#article_preview_field").on "click", ["p", "li"], (e) -> 
+		$("#article_preview_field").on "click", ["p", "li", "dd"], (e) -> 
 			if $(e.srcElement).parent().is("span") then $(e.srcElement).unwrap() else
 				$(e.srcElement).wrap '<span class="highlighted" />'
 		$("#article_preview_field").on "click", "a", (e) =>
 			e.preventDefault()
 			$("#article_link_input")[0].value = $(e.srcElement).attr "title"
 			@updatePreview($(e.srcElement).attr "href")
+		$("#video_link_input").on "keyup", () => 
+			$("#video_preview_frame").attr "src", "http://www.youtube.com/embed/" + @parseYouTubeID $("#video_link_input")[0].value
 	updatePreview: (url) =>
 		params = "url" : url
 		$.ajax
@@ -241,14 +243,27 @@ class MediaController
 					$("#image_link_input")[0].value = resource_data.url
 					$($("#media-dialog").find("#tabs")).tabs({selected:0})
 				when "video" 
-					$("#video_link_input")[0].value = resource_data.url
-					$("#video_start_input")[0].value = resource_data.begin
-					$("#video_end_input")[0].value = resource_data.end					
+					$("#video_link_input")[0].value = "http://www.youtube.com/watch?v=#{resource_data.url}&t=0m#{resource_data.begin}s"
+					$("#video_start_input_minute")[0].value = Math.floor(resource_data.begin / 60)
+					$("#video_start_input_second")[0].value = (resource_data.begin % 60)
+					$("#video_end_input_minute")[0].value = Math.floor(resource_data.end / 60)	
+					$("#video_end_input_second")[0].value = (resource_data.end % 60)
 					$($("#media-dialog").find("#tabs")).tabs({selected:2})
+					$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{resource_data.url}&start=#{resource_data.begin}" 
 		$("#media-dialog").dialog({
 			title: "Add Media"
 			buttons: 
-				"Cancel": -> $(this).dialog("close")	
+				"Cancel": -> 
+					$(this).dialog("close")	
+					$("#image_link_input")[0].value = ""
+					$("#article_link_input")[0].value = ""
+					$("#video_link_input")[0].value = ""
+					$("#video_start_input_minute")[0].value = ""
+					$("#video_start_input_second")[0].value = ""
+					$("#video_end_input_minute")[0].value = ""
+					$("#video_end_input_second")[0].value = ""
+					$("#article_preview_field").html null	
+					$("#video_preview_frame").attr "src", null				
 				"Done": () -> 
 					# Close modal.
 					$(this).dialog("close")	
@@ -272,20 +287,23 @@ class MediaController
 							article_text = $(this).find("#article_preview_field")[0].innerHTML
 						when 2
 							break if $(this).find("#video_link_input")[0].value == ""
-							url = $(this).find("#video_link_input")[0].value
+							url = String($(this).find("#video_link_input")[0].value.match("[?]v=[A-Za-z0-9_-]*")).split("=")[1]
 							preview = media.video_placeholder_url
-							begin = $("#video_start_input")[0].value
-							end = $("#video_end_input")[0].value
+							begin = (parseInt(($("#video_start_input_minute")[0].value * 60)) + parseInt(($("#video_start_input_second")[0].value)))
+							end = (parseInt(($("#video_end_input_minute")[0].value * 60)) + parseInt(($("#video_end_input_second")[0].value)))
 							media_type = "video"
 							article_text = null
-									
+
 					$(this).find("#image_link_input")[0].value = ""
 					$(this).find("#article_link_input")[0].value = ""
 					$(this).find("#article_preview_field").html null
 					$(this).find("#video_link_input")[0].value = ""
-					$(this).find("#video_start_input")[0].value = ""
-					$(this).find("#video_end_input")[0].value = ""
-					
+					$(this).find("#video_start_input_minute")[0].value = ""
+					$(this).find("#video_start_input_second")[0].value = ""
+					$(this).find("#video_end_input_minute")[0].value = ""
+					$(this).find("#video_end_input_second")[0].value = ""
+					$(this).find("#video_preview_frame").attr "src", null
+										
 					# Set preview image.
 					question_preview = $($(question.dom_group).find(".question_media_box").find("img")[0])
 					answer_preview = $($(question.dom_group).find(".answer_media_box").find("img")[0])
@@ -325,9 +343,13 @@ class MediaController
 			$("#image_link_input")[0].value = ""
 			$("#article_link_input")[0].value = ""
 			$("#video_link_input")[0].value = ""
-			$("#video_start_input")[0].value = ""
-			$("#video_end_input")[0].value = ""	
+			$("#video_start_input_minute")[0].value = ""
+			$("#video_start_input_second")[0].value = ""
+			$("#video_end_input_minute")[0].value = ""
+			$("#video_end_input_second")[0].value = ""
 			$("#article_preview_field").html null
+			$("#video_preview_frame").attr "src", null
+	parseYouTubeID: (url) => String(url.match("[?]v=[A-Za-z0-9_-]*")).split("=")[1]
 
 
 class Controller
