@@ -286,7 +286,7 @@ class MediaController
 							article_text = $(this).find("#article_preview_field")[0].innerHTML
 						when 2
 							break if $(this).find("#video_link_input")[0].value == ""
-							url = String($(this).find("#video_link_input")[0].value.match("[?]v=[A-Za-z0-9_]*")).split("=")[1]
+							url = String($(this).find("#video_link_input")[0].value.match("[?]v=[A-Za-z0-9_-]*")).split("=")[1]
 							preview = media.video_placeholder_url
 							begin = (parseInt(($("#video_start_input_minute")[0].value * 60)) + parseInt(($("#video_start_input_second")[0].value)))
 							end = (parseInt(($("#video_end_input_minute")[0].value * 60)) + parseInt(($("#video_end_input_second")[0].value)))
@@ -348,7 +348,7 @@ class MediaController
 			$("#video_end_input_second")[0].value = ""
 			$("#article_preview_field").html null
 			$("#video_preview_frame").attr "src", null
-	parseYouTubeID: (url) => String(url.match("[?]v=[A-Za-z0-9_]*")).split("=")[1]
+	parseYouTubeID: (url) => String(url.match("[?]v=[A-Za-z0-9_-]*")).split("=")[1]
 
 
 class Controller
