@@ -17,7 +17,7 @@
                     .question_media_box
                          = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
                     .answer_media_box             
-                         = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
+                         = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"                       
                          %br
      %div{:id => "answer"}
           .indicator
@@ -27,7 +27,8 @@
      = text_field nil, nil, :placeholder => "URL", :class => "resource_field", :id => "resource"         
      %div{:id => "header"}
           = label nil, "", :class => "header_text"  
-
+     #image_container_template
+          = image_tag nil, :id => "image_preview"   
 #media-dialog{:class => "ui-widget ui-helper-hidden"}
      #tabs
           %ul
@@ -40,7 +41,13 @@
           #tabs-1
                %form
                     %fieldset
-                         %input{:id => "image_link_input", :name => "name", :type => "text", :placeholder => "Link to image", :class => "media_input"}
+                         #image_search_controls
+                              %input{:id => "image_link_input", :name => "name", :type => "text", :placeholder => "Link to image", :class => "media_input"}
+                              #search_preview
+                              #previous_page <<
+                              #next_page >>
+                         #image_preview_container
+                              = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :id => "image_search_preview"
           #tabs-2
                %form
                     %fieldset
@@ -65,5 +72,6 @@
                               %input{:id => "video_end_input_second", :name => "name", :type => "text", :placeholder => "sec", :class => "time_input"}
                          #video_preview
                               %iframe{:id => "video_preview_frame", :width => 400, :height => 350}
+                                
 #dialog-confirm{:class => "ui-widget ui-helper-hidden", :title => "Delete this question?"}
      %p This action cannot be undone. Are you sure?

@@ -172,7 +172,7 @@ class Resource
 			url: "/resources/" + @resource_id
 			type: "DELETE"
 			success: =>
-				$($("#media_preview_" + @resource_id)[0]).attr "src", "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg"		
+				$($("#media_preview_" + @resource_id)[0]).attr "src", "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg"
 	show: (id) =>
 		$.ajax
 			url: "/resources/" + id + ".json"
@@ -183,6 +183,7 @@ class Resource
 class MediaController
 	article_placeholder_url: "http://www.elitetranslingo.com/css/css/images/doc.png"
 	video_placeholder_url: "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png"	
+	imageSearch = null
 	constructor: -> 
 		$("#article_link_input").autocomplete
 			source: (request, response) => 
@@ -203,6 +204,11 @@ class MediaController
 			@updatePreview($(e.srcElement).attr "href")
 		$("#video_link_input").on "keyup", () => 
 			$("#video_preview_frame").attr "src", "http://www.youtube.com/embed/" + @parseYouTubeID $("#video_link_input")[0].value
+		$("#image_link_input").on "keyup", (e) =>
+			@imageSearch.execute($("#image_link_input")[0].value)
+		$("#next_page").on "click", () => @imageSearch.gotoPage(@imageSearch.cursor.currentPageIndex+1)
+		$("#previous_page").on "click", () => @imageSearch.gotoPage(@imageSearch.cursor.currentPageIndex-1)	
+		$("#search_preview").on "click", "img", (e) => $("#image_search_preview").attr "src", e.srcElement.src
 	updatePreview: (url) =>
 		params = "url" : url
 		$.ajax
@@ -276,8 +282,8 @@ class MediaController
 									
 					switch $(this).find("#tabs").tabs("option", "selected")
 						when 0 
-							break if $(this).find("#image_link_input")[0].value == ""
-							url = $(this).find("#image_link_input")[0].value
+							if $(this).find("#image_link_input")[0].value.match(/(^|\s)((https?:\/\/)?[\w-]+(\.[\w-]+)+\.?(:\d+)?(\/\S*)?)/gi) then url = $(this).find("#image_link_input")[0].value else url = $("#image_search_preview")[0].src
+							break if url == ""
 							preview = url
 							begin = null
 							end = null
@@ -356,6 +362,17 @@ class MediaController
 			$("#article_preview_field").html null
 			$("#video_preview_frame").attr "src", null
 	parseYouTubeID: (url) => String(url.match("[?]v=[A-Za-z0-9_-]*")).split("=")[1]
+	imageSearchComplete: () =>
+		$("#search_preview")[0].innerHTML = ""
+		for result in @imageSearch.results
+			image_container = $("#image_container_template").clone().attr("id", "image_container")
+			$(image_container).find("img")[0].src = result.url
+			image_container.appendTo $("#search_preview")
+	initializeImageSearch: () => 
+		@imageSearch = new google.search.ImageSearch()
+		@imageSearch.setSearchCompleteCallback(@, @imageSearchComplete, null)
+		@imageSearch.setResultSetSize(8)
+		@imageSearch.setSiteRestriction("wikipedia.org")
 
 
 class Controller
@@ -368,4 +385,5 @@ class Controller
 $ -> 
 	window.controller = new Controller
 	window.media = new MediaController
+	google.setOnLoadCallback(window.media.initializeImageSearch)
 	window.builder = new Builder
