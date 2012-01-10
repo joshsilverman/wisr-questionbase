@@ -183,7 +183,7 @@ class Resource
 
 class MediaController
 	article_placeholder_url: "http://www.elitetranslingo.com/css/css/images/doc.png"
-	video_placeholder_url: "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png"	
+	video_placeholder_url: "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png"
 	imageSearch = null
 	constructor: -> 
 		$("#article_link_input").autocomplete
@@ -204,7 +204,9 @@ class MediaController
 			$("#article_link_input")[0].value = $(e.srcElement).attr "title"
 			@updatePreview($(e.srcElement).attr "href")
 		$("#video_link_input").on "keyup", () => 
-			$("#video_preview_frame").attr "src", "http://www.youtube.com/embed/" + @parseYouTubeID $("#video_link_input")[0].value
+			video_id = @parseYouTubeID
+			$("#video_preview_frame").attr "src", "http://www.youtube.com/embed/" + video_id $("#video_link_input")[0].value
+			# media.createVideoSlider(video_id)
 		$("#image_link_input").on "keyup", (e) =>
 			if e.which == 13 then @imageSearch.execute($("#image_link_input")[0].value)
 			else if $("#image_link_input")[0].value.match(/(^|\s)((https?:\/\/)?[\w-]+(\.[\w-]+)+\.?(:\d+)?(\/\S*)?)/gi)
@@ -269,6 +271,7 @@ class MediaController
 					$("#video_end_input_second")[0].value = (resource_data.end % 60)
 					$($("#media-dialog").find("#tabs")).tabs({selected:2})
 					$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{resource_data.url}&start=#{resource_data.begin}" 
+					media.createVideoSlider(resource_data.url, resource_data.begin, resource_data.end )
 		$("#media-dialog").dialog({
 			title: "Add Media"
 			buttons: 
@@ -351,6 +354,32 @@ class MediaController
 		$("#image_search_preview").attr "src", null	
 		$("#search_preview")[0].innerHTML = ""	
 	parseYouTubeID: (url) => String(url.match("[?]v=[A-Za-z0-9_-]*")).split("=")[1]
+	createVideoSlider: (id, begin, end) =>
+		if !begin then begin = 0
+		if !end then end = 0
+		$.ajax
+			url: "https://gdata.youtube.com/feeds/api/videos/#{id}?v=2&alt=jsonc"
+			type: "GET"
+			success: (e) =>
+				console.log "got duration: " + e.data.duration
+				$("#slider").slider({
+					range: true
+					values: [begin, end]
+					min: 0
+					max: e.data.duration
+					step: 1
+					slide: (e, ui) ->
+						start_minutes = Math.floor(ui.values[0] / 60)
+						start_seconds = ui.values[0] - (start_minutes * 60)
+						end_minutes = Math.floor(ui.values[1] / 60)
+						end_seconds = ui.values[1] - (end_minutes * 60)
+						if start_seconds < 10 then start_seconds = '0' + start_seconds
+						if end_seconds < 10 then end_seconds = '0' + end_seconds
+						$("#video_start_input_minute")[0].value = start_minutes
+						$("#video_start_input_second")[0].value = start_seconds
+						$("#video_end_input_minute")[0].value = end_minutes
+						$("#video_end_input_second")[0].value = end_seconds
+				})		
 	imageSearchComplete: () =>
 		$("#search_preview")[0].innerHTML = ""
 		for result in @imageSearch.results
