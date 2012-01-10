@@ -17,9 +17,15 @@
                 %ul
                     - @chapters.each do |chapter|
                         - if chapter.name.nil?
-                            %li{:class => "line_item"}= link_to("Chapter " + chapter.number.to_s, chapter, :chapter_number => chapter.number, :class => "line_title") + " (" + link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link") + ")"
+                            - if Book.find(chapter.book_id).user_id.to_i == current_user.uid.to_i
+                                %li{:class => "line_item"}= link_to("Chapter " + chapter.number.to_s, chapter, :chapter_number => chapter.number, :class => "line_title") + " (" + link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link") + ")"
+                            - else
+                                %li{:class => "line_item"}= link_to("Chapter " + chapter.number.to_s, chapter, :chapter_number => chapter.number, :class => "line_title")   
                         - else
-                            %li{:class => "line_item"}= link_to("Chapter " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title") + " (" + link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link") + ")"
-                        - if Book.find_by_id(chapter.book_id).user_id == current_user.uid
+                            - if Book.find(chapter.book_id).user_id.to_i == current_user.uid.to_i
+                                %li{:class => "line_item"}= link_to("Chapter " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title") + " (" + link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link") + ")"
+                            - else
+                                %li{:class => "line_item"}= link_to("Chapter " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title")
+                        - if Book.find_by_id(chapter.book_id).user_id.to_i == current_user.uid.to_i
                             = link_to('Delete', chapter, :confirm => 'Are you sure want to delete this chapter? This cannot be undone.', :method => :delete)    
                 %br

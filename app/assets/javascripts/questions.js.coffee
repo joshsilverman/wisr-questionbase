@@ -55,14 +55,15 @@ class Question
 		@activity_content = $(@dom_group).find(".activity_content")[0]
 		$(@dom_group).find(".header_text_container").on "click", () => $(@activity_content).toggle 400
 		$(@dom_group).find(".delete_question_container").on "click", (e) => 
-			# console.log @question_id
-			# data = 
-			# 	"id" : @question_id
-			# $.ajax
-			# 	url: "/questions/get_permission"
-			# 	type: "POST"
-			# 	data: data	
-			window.media.confirm("question", @delete)
+			if @question_id
+				data = 
+					"id" : @question_id
+				$.ajax
+					url: "/questions/get_permission"
+					type: "POST"
+					data: data	
+					success: (e) => if e then window.media.confirm("question", @delete) else alert "Cannot delete that question!"
+			else @dom_group.hide()				
 		$(@dom_group.find(".question_group")).on "keydown", (e) => 
 			if e.keyCode == 9 and @answers.length < 1
 				e.preventDefault() 
@@ -206,6 +207,8 @@ class MediaController
 			$("#video_preview_frame").attr "src", "http://www.youtube.com/embed/" + @parseYouTubeID $("#video_link_input")[0].value
 		$("#image_link_input").on "keyup", (e) =>
 			if e.which == 13 then @imageSearch.execute($("#image_link_input")[0].value)
+			else if $("#image_link_input")[0].value.match(/(^|\s)((https?:\/\/)?[\w-]+(\.[\w-]+)+\.?(:\d+)?(\/\S*)?)/gi)
+				$("#image_search_preview").attr "src", $("#image_link_input")[0].value
 		$("#image_search_button").on "click", (e) =>
 			e.preventDefault()
 			@imageSearch.execute($("#image_link_input")[0].value)

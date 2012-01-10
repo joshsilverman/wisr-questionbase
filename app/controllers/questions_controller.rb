@@ -39,6 +39,7 @@ class QuestionsController < ApplicationController
   # POST /questions.xml
   def create
     @question = Question.new(params[:question])
+    @question.user_id = current_user.uid
     render :json => @question.id if @question.save
     # respond_to do |format|
     #   if @question.save     
@@ -80,9 +81,7 @@ class QuestionsController < ApplicationController
   end
 
   def get_permission
-    puts params.to_json
-    puts Question.find(params[:id]).to_json
-    render :nothing => true
+    render :json => Question.find(params[:id]).user_id.to_i == current_user.uid.to_i
   end
 
   def save_question
