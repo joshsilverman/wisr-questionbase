@@ -6,6 +6,8 @@ class Builder
 	newQuestion: -> new Question
 
 
+
+
 class Question
 	question_id: null
 	answers: []
@@ -204,9 +206,10 @@ class MediaController
 			$("#article_link_input")[0].value = $(e.srcElement).attr "title"
 			@updatePreview($(e.srcElement).attr "href")
 		$("#video_link_input").on "keyup", () => 
-			video_id = @parseYouTubeID
-			$("#video_preview_frame").attr "src", "http://www.youtube.com/embed/" + video_id $("#video_link_input")[0].value
-			# media.createVideoSlider(video_id)
+			video_id = @parseYouTubeID $("#video_link_input")[0].value
+			$("#video_preview_frame").attr "src", "http://www.youtube.com/embed/#{video_id}"
+			 # $("#video_link_input")[0].value
+			media.createVideoSlider(video_id)
 		$("#image_link_input").on "keyup", (e) =>
 			if e.which == 13 then @imageSearch.execute($("#image_link_input")[0].value)
 			else if $("#image_link_input")[0].value.match(/(^|\s)((https?:\/\/)?[\w-]+(\.[\w-]+)+\.?(:\d+)?(\/\S*)?)/gi)
@@ -252,6 +255,7 @@ class MediaController
 		})
 		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')	  	
 	showMediaModal: (question, contains_answer, resource, resource_data) =>
+		# window.media.tabbedDialog($("#tabs"))
 		media = @
 		if resource_data
 			switch resource_data.media_type
@@ -271,7 +275,7 @@ class MediaController
 					$("#video_end_input_second")[0].value = (resource_data.end % 60)
 					$($("#media-dialog").find("#tabs")).tabs({selected:2})
 					$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{resource_data.url}&start=#{resource_data.begin}" 
-					media.createVideoSlider(resource_data.url, resource_data.begin, resource_data.end )
+					media.createVideoSlider(resource_data.url, resource_data.begin, resource_data.end)
 		$("#media-dialog").dialog({
 			title: "Add Media"
 			buttons: 
@@ -355,6 +359,7 @@ class MediaController
 		$("#search_preview")[0].innerHTML = ""	
 	parseYouTubeID: (url) => String(url.match("[?]v=[A-Za-z0-9_-]*")).split("=")[1]
 	createVideoSlider: (id, begin, end) =>
+		console.log "slider!"
 		if !begin then begin = 0
 		if !end then end = 0
 		$.ajax
@@ -391,6 +396,26 @@ class MediaController
 		@imageSearch.setSearchCompleteCallback(@, @imageSearchComplete, null)
 		@imageSearch.setResultSetSize(8)
 		@imageSearch.setSiteRestriction("wikipedia.org")
+	tabbedDialog: (element) =>
+		console.log element
+		element.tabs()
+		element.dialog({
+			'modal' : true
+			'minWidth' : 400
+			'minHeight' : 300
+			'draggable' : true
+		})
+		element.find('.ui-tab-dialog-close').append($('a.ui-dialog-titlebar-close'))
+		element.find('.ui-tab-dialog-close').css({
+			'position':'absolute'
+			'right':'0'
+			'top':'23px'
+		})
+		element.find('.ui-tab-dialog-close > a').css({'float':'none','padding':'0'})
+		tabul = element.find('ul:first')
+		element.parent().addClass('ui-tabs').prepend(tabul).draggable('option','handle',tabul);
+		element.siblings('.ui-dialog-titlebar').remove()
+		tabul.addClass('ui-dialog-titlebar')
 
 
 class Controller
