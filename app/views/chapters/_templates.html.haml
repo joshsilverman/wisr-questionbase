@@ -23,12 +23,12 @@
           .indicator
                = label(nil, "X", :class => "indicator_mark")
           .answer_space
-               = text_field nil, nil, :id => "answer_field", :placeholder => "Answer", :class => "answer_field"    
+               = text_field nil, nil, :id => "answer_field", :placeholder => "Answer", :class => "answer_field"
      = text_field nil, nil, :placeholder => "URL", :class => "resource_field", :id => "resource"         
      %div{:id => "header"}
           = label nil, "", :class => "header_text"  
      #image_container_template
-          = image_tag nil, :id => "image_preview"   
+          = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :id => "image_preview"
 #media-dialog{:class => "ui-widget ui-helper-hidden"}
      #tabs
           %ul
@@ -73,6 +73,7 @@
                               %input{:id => "video_end_input_second", :name => "name", :type => "text", :placeholder => "sec", :class => "time_input"}
                          #video_preview
                               %iframe{:id => "video_preview_frame", :width => 400, :height => 350}
+                              #slider
                                 
 #dialog-confirm{:class => "ui-widget ui-helper-hidden", :title => "Delete this question?"}
      %p This action cannot be undone. Are you sure?

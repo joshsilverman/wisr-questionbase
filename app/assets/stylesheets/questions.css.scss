@@ -287,14 +287,17 @@
     display: block;
 }
 
+
+
+
 #video_data {
-    width: 45%;
+    /*width: 45%;*/
     display: inline;
     float: left;
 }
 
 #video_preview {
-    width: 45%;   
+    /*width: 45%;   */
     display: inline;
     float: right;
     padding: 0px;
@@ -306,9 +309,16 @@
     margin: 0px;
 }
 
+#slider {
+    width: 100%;
+}
+
+
+
+
 #image_search_controls {
     float: left;   
-    width: 55%; 
+    width: 500px; 
 }
 
 #image_search_preview {
@@ -352,3 +362,4 @@
     height: 35px;
     font-size: 18px;
 }
+
