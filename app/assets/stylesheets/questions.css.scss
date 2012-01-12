@@ -127,14 +127,15 @@
     width: 97%;
     overflow: hidden;
     text-overflow: ellipsis;
-    background-color: #F5F5F5;
-    -moz-box-shadow: 4px 4px 10px 1px #ccc;
-    -webkit-box-shadow: 4px 4px 10px 1px #ccc;
-    box-shadow: 4px 4px 10px 1px #ccc;
-    /*-moz-border-radius: 20px;
-    -webkit-border-radius: 20px;
-    -khtml-border-radius: 20px;
-    border-radius: 20px;*/
+    /*background-color: #F5F5F5;*/
+    background-color: #FFFFFF;
+    -moz-box-shadow: 4px 4px 10px 1px #BFBFBF;
+    -webkit-box-shadow: 4px 4px 10px 1px #BFBFBF;
+    box-shadow: 4px 4px 10px 1px #BFBFBF;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
 }
 
 .header_text_container {
@@ -181,10 +182,10 @@
     height: 75px;    
     margin-top: -2.5em;
     text-align: center;
-    -moz-border-radius: 20px;
-    -webkit-border-radius: 20px;
-    -khtml-border-radius: 20px;
-    border-radius: 20px;  
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -khtml-border-radius: 15px;
+    border-radius: 15px;  
     -moz-box-shadow: 20px 20px 20px 20px #ccc;
     -webkit-box-shadow: 6px 6px 6px 6px #ccc;
     box-shadow: 4px 4px 10px 1px #ccc;      

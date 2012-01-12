@@ -202,8 +202,6 @@ class MediaController
 			$("#article_preview_field").wrapSelection().addClass("highlighted")
 		$("#article_preview_field").on "click", ["span"], (e) -> 
 			if $(e.srcElement).hasClass "highlighted" then $(e.srcElement).contents().unwrap()
-			# if $(e.srcElement).parent().is("span") then $(e.srcElement).unwrap() else
-		# 		$(e.srcElement).wrap '<span class="highlighted" />'
 		$("#article_preview_field").on "click", "a", (e) =>
 			e.preventDefault()
 			$("#article_link_input")[0].value = $(e.srcElement).attr "title"
