@@ -13,17 +13,24 @@ OauthClientDemo::Application.routes.draw do
   resources :chapters
   resources :questions
 
+  #QUESTIONS
   match "questions/save_question" => "questions#save_question", :as => :save_question_path
-
-  match "chapters/:id/export" => "chapters#export_to_csv"  
   match "compare_question" => "questions#compare_question"
   match "questions/update_question_scores/:winner_id/:loser_id/:tie" => "questions#update_question_scores"
+  match "questions/get_permission" => "questions#get_permission"
+
+  #RESOURCES
+  match "parse_article" => "resources#parse_article"
+  
+  #EXPORT
+  match "chapters/:id/export" => "chapters#export_to_csv"  
+
+  #UPLOADER
   match "bandoy_uploader" => "questions#bandoy_uploader"
   match "bandoy_parser" => "questions#bandoy_parser"
   match "examview_uploader" => "questions#examview_uploader"
   match "examview_parser" => "questions#examview_parser"
-  match "parse_article" => "resources#parse_article"
-  
+    
   #API CALLS
   match "api-V1/get_books/:ids" => "api_v1#get_books"
   match "api-V1/get_book_details/:id" => "api_v1#get_book_details"

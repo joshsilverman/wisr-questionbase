@@ -204,16 +204,44 @@
     border-width: 2px;
     border-color: gray;
     margin-top: 8px;
+    position: relative;
+}
+
+.question_media_box a {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    display: none;
+    color: blue;
+}
+
+.question_media_box:hover a {
+    display: block;
+    background-color: #F5F5F5;
 }
 
 .answer_media_box {
     width: 150px;
     height: 150px;
-    /*height: 248px;*/
     border-style: dashed;
     border-width: 2px;
     border-color: gray;
-    margin-top: 16px;  
+    margin-top: 16px;
+    position: relative;
+}
+
+.answer_media_box a {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    display: none;
+}
+
+.answer_media_box:hover a {
+    display: block;
+    background-color: #F5F5F5;
+    color: blue;
+
 }
 
 .media_input {
@@ -221,6 +249,13 @@
     height: 35px;
     font-size: 16px;
     margin: 5px 5px;
+}
+
+.time_input {
+    height: 35px;
+    width: 40px;
+    font-size: 16px;
+    margin: 5px 5px;   
 }
 
 #article_preview_field {
@@ -243,28 +278,81 @@
     background: #E3EB5B;    
 }
 
-/*
-
-.question_hr {
-    width: 100%;
-    height: 2px;
-    color: gray;
-    background-color: gray;
+.highlighted > dd {
+    background: #E3EB5B;    
 }
 
-.question_content {
-    padding-left: 0px;
-}
-
-.question_group {
-    
-}
-*/
 .form_label {
     font-weight: bold;
     display: block;
 }
 
+
+
+
+#video_data {
+    /*width: 45%;*/
+    display: inline;
+    float: left;
+}
+
+#video_preview {
+    /*width: 45%;   */
+    display: inline;
+    float: right;
+    padding: 0px;
+    margin: 0px;
+}
+
+#video_preview_frame {
+    padding: 0px;
+    margin: 0px;
+}
+
+#slider {
+    width: 100%;
+}
+
+
+
+
+#image_search_controls {
+    float: left;   
+    width: 500px; 
+}
+
+#image_search_preview {
+    width: 300px;
+    height: 300px;
+    margin: 15px 15px 0px 0px;
+    float: right;
+}
+
+#image_preview {
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
+
+#image_container {
+    display: inline;
+}
+
+#search_preview {
+    height: 250px;
+    /*width: 450px;*/
+    width: 100%;
+}
+
+#next_page {
+    font-size: 24px;
+    display: inline;
+}
+
+#previous_page {
+    font-size: 24px;   
+    display: inline;
+}
 /*.question_area {
     height: 100px;
 }*/
@@ -274,3 +362,4 @@
     height: 35px;
     font-size: 18px;
 }
+
