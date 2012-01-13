@@ -25,4 +25,4 @@ gem 'httparty'
 gem 'rabl'
 gem 'zip'
 gem 'nokogiri'
-
+gem 'watir-webdriver'
