@@ -29,8 +29,14 @@ class ApiV1Controller < ApplicationController
   
   def get_questions
     @chapter = Chapter.find(params[:id])
-    @questions = @chapter.questions.sort!{|a, b| a.created_at <=> b.created_at}
-    
+    @questions = @chapter.questions.includes(:answers, :resources).sort!{|a, b| a.created_at <=> b.created_at}
+#    json = @questions.to_json \
+#      :only => [:id, :question],
+#      :include => {
+#        :answers => {:only => [:id, :answer, :correct]},
+#        :resources => {:only => [:url, :contains_answer, :media_type, :begin, :end, :article_text]}
+#      }
+#    render :json => json
     respond_to :json
   end
   
