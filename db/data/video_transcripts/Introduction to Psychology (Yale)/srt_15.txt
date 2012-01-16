@@ -1,1 +1,5054 @@
-{data => {title => Introduction to Psychology (Yale)_15, id => xpmESnTeZP8}}
+{title => Introduction to Psychology (Yale)_15, video_id => xpmESnTeZP8}}1
+0:12
+Professor Paul Bloom:
+Let me begin by just reminding
+
+2
+0:16
+us where we are in this course,
+reminding us of what we've done
+
+3
+0:20
+and what we have yet to do.
+We started by talking about the
+
+4
+0:25
+brain, the physical basis of
+thought.
+
+5
+0:27
+And then we moved to some
+general introductions to some
+
+6
+0:30
+foundational ideas in the study
+of psychology,
+
+7
+0:33
+Freud and Skinner.
+We spent a bit of time on more
+
+8
+0:36
+cognitive stuff:
+development,
+
+9
+0:38
+language, vision,
+memory.
+
+10
+0:40
+Then we took a little break and
+the dean told us about love.
+
+11
+0:43
+Then we dealt with the
+emotions, rationality,
+
+12
+0:47
+and evolution,
+and a lot of that.
+
+13
+0:51
+What we learned particularly
+regarding the evolution of the
+
+14
+0:54
+mind provided supporting
+material for what follows.
+
+15
+0:58
+We learned about cognitive
+neuroscience using the study of
+
+16
+1:04
+face recognition as an important
+case study--human differences,
+
+17
+1:11
+behavioral genetics,
+nature and nurture,
+
+18
+1:14
+sex and food.
+My lecture was on sex.
+
+19
+1:18
+Dr.
+Brownell came and spoke to us
+
+20
+1:20
+about food.
+Today, morality.
+
+21
+1:23
+Next week, social thought and
+social behavior,
+
+22
+1:29
+mysteries;
+basically, a series of topics
+
+23
+1:32
+that don't fit anywhere in the
+course and really make
+
+24
+1:35
+psychologists scratch their
+heads.
+
+25
+1:38
+These topics are sleep,
+laughter, and religion,
+
+26
+1:44
+mental illness,
+two lectures on madness,
+
+27
+1:50
+what can go wrong in your
+minds, and a last lecture on
+
+28
+1:54
+happiness.
+And then you're just done.
+
+29
+1:58
+You know a lot of psychology
+and a lot of stuff and you're
+
+30
+2:02
+well prepared for your ultimate
+major in psychology,
+
+31
+2:06
+ultimately graduate training at
+a good school.
+
+32
+2:09
+How many people here are either
+psych majors or expect to become
+
+33
+2:15
+psych majors or cognitive
+science as though you could
+
+34
+2:20
+raise your hand to?
+Okay.
+
+35
+2:23
+Good.
+It's nowhere near enough
+
+36
+2:26
+[laughter]
+and so I'll ask the question
+
+37
+2:29
+again.
+Once you deal with happiness
+
+38
+2:31
+and then mysteries,
+you're really not going to want
+
+39
+2:34
+to--What is there?
+Chemistry?
+
+40
+2:36
+Anthropology?
+[laughter] Pre-med?
+
+41
+2:39
+Give me a break.
+[laughter] Okay.
+
+42
+2:41
+We're going to deal with three
+facets of morality.
+
+43
+2:46
+I'm going to talk about moral
+feelings, moral judgments,
+
+44
+2:49
+and then moral action with
+particular focus on why good
+
+45
+2:53
+people do bad things,
+which will lead us to review
+
+46
+2:57
+and discuss the Milgram study,
+which was presented in the
+
+47
+3:01
+movie on Monday.
+Now, moral feeling is what
+
+48
+3:06
+we'll start off with and we've
+already discussed this in a
+
+49
+3:12
+different context.
+The question is,
+
+50
+3:16
+'How could moral feelings
+evolve?"
+
+51
+3:18
+So, moral feelings we could
+view as feelings of
+
+52
+3:22
+condemnation,
+shame, emotions like
+
+53
+3:24
+that--shame,
+condemnation,
+
+54
+3:26
+pride, righteous anger,
+but also simple affection,
+
+55
+3:30
+caring for other people,
+wanting to do well by them,
+
+56
+3:34
+being upset if an injustice is
+to be done by them.
+
+57
+3:37
+And you might think that the
+existence of these feelings is a
+
+58
+3:41
+mystery from an evolutionary
+point of view.
+
+59
+3:45
+If evolution is survival of the
+fittest, nature red in tooth and
+
+60
+3:50
+claw, how could animals evolve
+moral feelings?
+
+61
+3:54
+But in fact,
+we know the answer to this.
+
+62
+3:58
+And there are two answers to
+this.
+
+63
+3:59
+One answer is kin selection.
+So, evolution works at a level
+
+64
+4:03
+of the genes and because of that
+it could give rise to animals
+
+65
+4:09
+that are themselves altruistic.
+And they're altruistic because
+
+66
+4:13
+they act to preserve other
+animals that share the same
+
+67
+4:16
+genes.
+And so, I'm not going to spend
+
+68
+4:18
+any time on this because we've
+discussed it in detail,
+
+69
+4:21
+but we know from previous
+lectures that people will be
+
+70
+4:25
+generous to others.
+And there's an evolutionary
+
+71
+4:28
+explanation for your generosity
+towards kin.
+
+72
+4:32
+It could be mathematically
+worked out.
+
+73
+4:34
+Your caring,
+your moral feelings towards
+
+74
+4:36
+other creatures to the extent of
+the proportion of genes that you
+
+75
+4:41
+share with them.
+The most altruistic behavior of
+
+76
+4:45
+all, giving your life to help
+another, can be explained in
+
+77
+4:49
+cold-blooded evolutionary terms.
+Animals that are altruistic
+
+78
+4:54
+even to the point of dying to
+help another,
+
+79
+4:57
+those genes will,
+under some circumstances,
+
+80
+5:01
+be preserved over the genes of
+people who are less caring.
+
+81
+5:06
+And that is one force towards
+kindness.
+
+82
+5:10
+A second force towards kindness
+is cooperation.
+
+83
+5:15
+Even if animals are unrelated,
+they are nice to one another.
+
+84
+5:20
+Animals will give warning
+cries, they will groom one
+
+85
+5:24
+another, they will exchange
+food,
+
+86
+5:26
+and the reason for this is that
+animals have evolved,
+
+87
+5:30
+our minds have evolved,
+to enter into sort of
+
+88
+5:34
+cooperative situations with
+other people and to surmount
+
+89
+5:37
+prisoner's dilemmas,
+to surmount deception and
+
+90
+5:41
+cheating.
+This gives rise to some emotion
+
+91
+5:45
+including emotions that could be
+viewed as moral emotions,
+
+92
+5:49
+like guilt and anger,
+and again, grounds altruistic
+
+93
+5:55
+behavior in an evolutionary
+perspective.
+
+94
+5:59
+This is all by means of review
+but the question you can now ask
+
+95
+6:04
+is, "Fine.
+That's why moral feelings might
+
+96
+6:07
+evolve, but what do we know as
+psychologists about the
+
+97
+6:10
+emergence in nature of moral
+feelings in individuals?
+
+98
+6:14
+What's the psychology of moral
+feeling?"
+
+99
+6:17
+And this is an issue I'm going
+to talk about now but I'm going
+
+100
+6:20
+to return to next week when we
+deal with issues such as liking
+
+101
+6:23
+and disliking,
+racial prejudice and other
+
+102
+6:26
+things.
+But I want to deal now with a
+
+103
+6:29
+couple of interesting case
+studies about moral feelings
+
+104
+6:32
+from a psychological point of
+view.
+
+105
+6:34
+The first one I want to deal
+with is empathy.
+
+106
+6:39
+And empathy has different
+definitions but we can simply
+
+107
+6:45
+view it as the feeling that your
+pain matters to me.
+
+108
+6:52
+If you are hurt,
+that is, in some sense,
+
+109
+6:55
+painful for me.
+If you are sad,
+
+110
+6:58
+that affects my own mood.
+I am not a selfish creature.
+
+111
+7:02
+I am built, I am hard wired,
+to be attuned to your pain.
+
+112
+7:06
+This is an old observation.
+Adam Smith, who is often
+
+113
+7:11
+falsely viewed as a proponent of
+selfishness and hardheadedness,
+
+114
+7:16
+was quite explicit about the
+pull this has.
+
+115
+7:19
+He notes: 
+When we see a stroke
+
+116
+7:22
+aimed and just ready to fall
+upon the leg or arm of another
+
+117
+7:25
+person,
+we naturally shrink and draw
+
+118
+7:27
+back our own leg or arm and when
+it does fall we feel it in some
+
+119
+7:30
+measure and are hurt by it as
+well as the sufferer.
+
+120
+7:33
+If you see somebody being
+kicked in the groin in a movie,
+
+121
+7:37
+you might yourself tense up.
+If you see somebody bang their
+
+122
+7:41
+thumb with a hammer,
+you might cringe.
+
+123
+7:45
+Here is a good illustration of
+somebody in anticipatory pain.
+
+124
+7:48
+
+
+125
+7:54
+[laughter]
+Now--It's a very British face
+
+126
+7:59
+actually.
+[laughter]
+
+127
+8:02
+Now, we know certain things
+about this empathy,
+
+128
+8:05
+some which might be surprising.
+The pain of others is aversive
+
+129
+8:10
+even for babies.
+We know this because if babies
+
+130
+8:15
+hear other babies crying they
+will get upset.
+
+131
+8:19
+The crying of babies is
+aversive to babies.
+
+132
+8:22
+Now, some of you may be
+sufficiently cynical to say,
+
+133
+8:26
+"That could be explained in
+other ways.
+
+134
+8:28
+For one thing,
+one theory is that babies hear
+
+135
+8:31
+other babies cry,
+because babies are so stupid
+
+136
+8:35
+they think they themselves are
+crying;
+
+137
+8:38
+if they're crying they must be
+in some sort of pain so they cry
+
+138
+8:41
+some more."
+But clever psychologists have
+
+139
+8:44
+ruled this out.
+What they did was a study where
+
+140
+8:48
+they exposed babies to
+tape-recorded sounds of other
+
+141
+8:51
+babies crying and tape recorded
+sounds of themselves crying.
+
+142
+8:56
+Babies cry more to this pain of
+other babies than they do to
+
+143
+9:01
+their own pain,
+suggesting that their response
+
+144
+9:05
+is to some extent a response to
+the "otherness" of the
+
+145
+9:08
+characters.
+We know pain is--of others is
+
+146
+9:11
+aversive for chimpanzees and we
+know this in certain ways.
+
+147
+9:16
+But we know this,
+in particular,
+
+148
+9:17
+from a series of studies that
+would be unethical if they were
+
+149
+9:20
+to be done today.
+In these studies,
+
+150
+9:23
+they put a chimpanzee in a room
+and there's a lever.
+
+151
+9:29
+And when the chimpanzee slaps
+the lever, it gets some food.
+
+152
+9:33
+Trivial, smart animal,
+piece of cake.
+
+153
+9:35
+But the room has a window
+leading to another room.
+
+154
+9:39
+And in the other room another
+chimpanzee is placed.
+
+155
+9:43
+This second chimpanzee is not a
+relative of the first chimpanzee
+
+156
+9:48
+and they've never seen each
+other before.
+
+157
+9:52
+Now, when the first chimpanzee
+hits the lever the second
+
+158
+9:55
+chimpanzee gets a painful
+electric shock,
+
+159
+9:58
+putting the first chimpanzee in
+a horrible dilemma.
+
+160
+10:02
+In order to feed himself,
+he has to torture another
+
+161
+10:05
+animal.
+Chimpanzees do not starve
+
+162
+10:07
+themselves to death.
+It's very unlikely any of you
+
+163
+10:10
+would either but they go a long
+time without food,
+
+164
+10:13
+suggesting they do not want to
+cause this other chimpanzee
+
+165
+10:17
+pain.
+It only works within species.
+
+166
+10:20
+So, in another experiment they
+put a rabbit in the other room
+
+167
+10:24
+and the chimpanzee would slap
+the lever repeatedly to make the
+
+168
+10:27
+rabbit scream in pain [laughter]
+and jump.
+
+169
+10:29
+Now, we've known for a long
+time that empathetic feeling is
+
+170
+10:36
+not logically linked to
+morality.
+
+171
+10:40
+This is a point made by
+Aristotle.
+
+172
+10:42
+I could see you writhing in
+pain.
+
+173
+10:44
+That could cause me pain but it
+doesn't mean I'm going to be
+
+174
+10:48
+nice to you.
+I could run away from you.
+
+175
+10:50
+I could turn my head or I could
+blame you for causing me this
+
+176
+10:54
+misery.
+But it does happen that
+
+177
+10:57
+emotional--that this sort of
+empathy does lead to moral
+
+178
+11:01
+concern and action.
+If we do an experiment and we
+
+179
+11:05
+induce you to feel empathetic to
+somebody, we get you to feel
+
+180
+11:09
+what they're feeling,
+you're more likely to be nice
+
+181
+11:12
+to them.
+And people differ in the extent
+
+182
+11:14
+to which they feel empathy.
+People differ to the extent it
+
+183
+11:18
+will hurt them to watch me slam
+my thumb with a hammer.
+
+184
+11:23
+If you are high empathy,
+you're more likely to be a nice
+
+185
+11:26
+person than if you're low
+empathy,
+
+186
+11:28
+suggesting there is some
+connection between empathetic
+
+187
+11:32
+feeling and liking.
+Now, empathetic feeling,
+
+188
+11:35
+like any other human capacity,
+differs across people.
+
+189
+11:41
+Some of us have a lot of it.
+Some of us don't have much of
+
+190
+11:44
+it.
+There is some reason to believe
+
+191
+11:47
+that in the population known as
+"psychopaths,"
+
+192
+11:49
+a population we'll return to
+later on when we discuss mental
+
+193
+11:54
+illness, this sort of
+instinctive empathy is broken
+
+194
+11:57
+and the pain of others just
+doesn't bother them very much.
+
+195
+12:02
+I have some illustrative quotes
+here.
+
+196
+12:04
+In Damon's book,
+a wonderful book on
+
+197
+12:07
+psychopathy, he talks about a
+thirteen-year-old mugger who
+
+198
+12:11
+specialized in mugging blind
+people.
+
+199
+12:15
+And when asked about the pain
+he caused his victims he
+
+200
+12:17
+responded, "What do I care?
+I'm not her," which is
+
+201
+12:20
+logically correct but,
+in a sense, inhuman.
+
+202
+12:24
+The fact that it's another
+person should make you care.
+
+203
+12:26
+The serial killer Gary Gilmore
+basically said the pain of
+
+204
+12:30
+others gratified him and caused
+him no unhappiness at all.
+
+205
+12:34
+"I was always capable of murder.
+I can become totally devoid of
+
+206
+12:39
+feelings of others,
+unemotional.
+
+207
+12:41
+I know I'm doing something
+grossly--" and here is a very
+
+208
+12:44
+bad word "--wrong.
+I can still go ahead and do it."
+
+209
+12:48
+And Ted Bundy,
+when interviewed at one point,
+
+210
+12:52
+said he was astonished that
+people made such a fuss about
+
+211
+12:57
+all of his murders because he
+said,
+
+212
+13:01
+"I mean, there are so many
+people."
+
+213
+13:04
+And if any of you here are
+nodding in agreement at these
+
+214
+13:08
+sentiments, [laughter]
+that's not such a good sign.
+
+215
+13:12
+These are particularly callous
+and cold-blooded statements
+
+216
+13:16
+suggesting that this instinctive
+empathy,
+
+217
+13:19
+this aspect of moral thought,
+is not--is present in most of
+
+218
+13:24
+us but not in all of us.
+The second case study of moral
+
+219
+13:29
+feeling is "in-group" and
+"out-group."
+
+220
+13:32
+In our affections,
+in our caring,
+
+221
+13:34
+who we like,
+who we feel close to,
+
+222
+13:36
+whose pain bothers us,
+we are not indiscriminate.
+
+223
+13:40
+I care a lot more about my
+children than I do about my
+
+224
+13:44
+friends and I care more about my
+friends than I care about
+
+225
+13:49
+strangers.
+We're all like that.
+
+226
+13:52
+We also favor our group over
+others in every possible way.
+
+227
+13:57
+You are a member of many groups.
+You are men.
+
+228
+14:00
+You are women.
+You're Yale students.
+
+229
+14:02
+You're young.
+You're white,
+
+230
+14:05
+you're black,
+you're Asian.
+
+231
+14:07
+You're a member of these groups
+and, as we will discuss
+
+232
+14:10
+repeatedly when we talk about
+social cognition and social
+
+233
+14:14
+behavior,
+this membership matters a lot
+
+234
+14:16
+to you.
+What's particularly interesting
+
+235
+14:19
+is even groups that are formed,
+that you were not born with,
+
+236
+14:23
+that are formed on the fly,
+exert a huge amount of control
+
+237
+14:26
+over your moral feelings and
+moral attitudes.
+
+238
+14:29
+And the best example of this is
+discussed in detail in the
+
+239
+14:33
+textbook.
+And this is the Robber's Cave
+
+240
+14:37
+study.
+And this Robber's Cave study
+
+241
+14:40
+serves as a nice illustration of
+morality in everyday life.
+
+242
+14:44
+The study was,
+eleven- and 12-year-old boys at
+
+243
+14:48
+a camping program.
+These were well-adjusted,
+
+244
+14:51
+pretty rich kids,
+racially homogeneous,
+
+245
+14:54
+and they were put into separate
+cabins.
+
+246
+14:58
+And the cabins were given
+leaders and they gave themselves
+
+247
+15:02
+names.
+Being unimaginative boys,
+
+248
+15:04
+they called themselves "The
+Eagles" and "The Rattlers" but
+
+249
+15:09
+as--what happened was,
+being separated they developed
+
+250
+15:13
+distinctive cultures.
+
+251
+15:15
+
+
+252
+15:19
+And when these groups were set
+in competition against each
+
+253
+15:24
+other, the Eagles versus the
+Rattlers, the within-group
+
+254
+15:28
+intensity grew.
+The Eaglers began--Eagles began
+
+255
+15:32
+to care a lot more about other
+Eagles than about anybody else.
+
+256
+15:35
+So, there's within-group
+solidarity.
+
+257
+15:40
+And then there were negative
+stereotypes.
+
+258
+15:42
+So, these groups developed
+different cultures.
+
+259
+15:45
+It was a randomly cut
+apart--kind of like Yale College
+
+260
+15:48
+is actually, where you get a
+random assortment of people.
+
+261
+15:51
+But despite the fact that the
+assortment is random,
+
+262
+15:54
+the division is random,
+cultures begin to emerge.
+
+263
+15:57
+The Eagles prided themselves on
+being clean living,
+
+264
+16:01
+not using cuss words and
+treating each other with
+
+265
+16:05
+respect.
+They viewed the Rattlers as
+
+266
+16:09
+dirty and tough and kind of
+slovenly slobs.
+
+267
+16:12
+The Rattlers viewed the Eagles
+as goody-goody kids.
+
+268
+16:17
+It's cruel.
+Finally, [laughter]
+
+269
+16:22
+it all evolved into
+hostilities, raids and violence.
+
+270
+16:28
+The Eagles burnt a Rattlers
+banner, cuss words were
+
+271
+16:33
+occasionally used,
+and so Sherif,
+
+272
+16:36
+the psychologist designing all
+of this, went,
+
+273
+16:39
+"Excellent," [laughter]
+and then the problem--He then
+
+274
+16:43
+says,
+"Now we've created two
+
+275
+16:45
+different warring cultures.
+That was fun.
+
+276
+16:49
+[laughter]
+What do we do to make them
+
+277
+16:52
+friends again?
+And then we figure out how
+
+278
+16:55
+to--now we've done that and
+this'll solve all sorts of
+
+279
+16:57
+problems."
+So they started off.
+
+280
+16:59
+They wanted to have--They set
+up peace talks where a
+
+281
+17:02
+representative of the Eagle and
+a representative of the Rattler
+
+282
+17:06
+were set to meet and plan ways
+so that they could disarm and
+
+283
+17:10
+stop using cuss words and
+everything like that.
+
+284
+17:13
+This failed.
+The kids who engaged in the
+
+285
+17:18
+peace talks were ostracized by
+their own groups as treasonists.
+
+286
+17:22
+That failed.
+They decided to set up
+
+287
+17:26
+individual competitions like the
+Olympics where they--where
+
+288
+17:29
+people wouldn't compete as
+Eagles or Rattlers but rather
+
+289
+17:33
+they would compete as
+individuals.
+
+290
+17:36
+That failed too.
+Like the Olympics,
+
+291
+17:39
+people--the teams took
+their--they took their
+
+292
+17:42
+individual accomplishments as
+reflecting on the group and it
+
+293
+17:46
+evolved into Eagles versus The
+Rattlers.
+
+294
+17:49
+They shared meals,
+they turned--which turned into
+
+295
+17:53
+food fights and more cuss words.
+They shared movies,
+
+296
+17:58
+more fights,
+more cuss words.
+
+297
+18:01
+They shared fun with
+firecrackers,
+
+298
+18:03
+[laughter]
+which was a disastrous thing
+
+299
+18:05
+which nearly brought the
+experiment to an end.
+
+300
+18:08
+[laughter]
+They brought in a religious
+
+301
+18:12
+figure to give them sermons on
+brotherly love.
+
+302
+18:16
+[laughter]
+The sermons were entirely
+
+303
+18:18
+unsuccessful.
+What's interesting is they--the
+
+304
+18:21
+Eagle--they took them to heart.
+These were good kids.
+
+305
+18:24
+They were respectful of
+religious authority but the
+
+306
+18:27
+lessons they took from them is
+"I should learn to love my
+
+307
+18:29
+neighbor."
+If I'm a Rattler,
+
+308
+18:31
+I should learn to love my
+fellow Rattler and appreciate
+
+309
+18:33
+him as a fellow,
+as a person.
+
+310
+18:35
+"I love him.
+It's love, not like those
+
+311
+18:38
+scummy Eagles."
+[laughter] They all failed.
+
+312
+18:44
+Here's what worked.
+
+313
+18:46
+
+
+314
+18:49
+Sherif told the kids--all of
+the kids--that the water line to
+
+315
+18:55
+the camp was cut and they all
+had to defend the camp.
+
+316
+19:00
+What this did was it
+established a super ordinate
+
+317
+19:03
+goal, that is a goal that
+everybody shared,
+
+318
+19:06
+and perhaps more important a
+common enemy.
+
+319
+19:10
+This is where the solution,
+by the way, to bringing
+
+320
+19:13
+together--and you could write
+this down--to bringing together
+
+321
+19:18
+all the warring countries and
+religions of this planet is an
+
+322
+19:22
+alien attack.
+[laughter]
+
+323
+19:24
+By the logic of the Sherif it
+will bring us all together as a
+
+324
+19:29
+group.
+A different question is,
+
+325
+19:31
+there in that experiment the
+"groupiness" was established in
+
+326
+19:36
+a very powerful way.
+They lived separately,
+
+327
+19:39
+they interacted with each
+other, they had their own names.
+
+328
+19:42
+The psychologist Tajfel after
+World War II was interested in
+
+329
+19:47
+the question of what could make
+a group.
+
+330
+19:51
+In other words,
+what do I have to do to you to
+
+331
+19:55
+put you in a different group
+from him?
+
+332
+19:57
+What do I have to do to this
+class--this side of the class to
+
+333
+20:00
+put you in a different group
+from this side and different
+
+334
+20:03
+from that side?
+And what would I have to do for
+
+335
+20:06
+those groups to matter such
+that, for instance,
+
+336
+20:10
+if I separate you in one group
+and you're in another group and
+
+337
+20:14
+I give you a hundred dollars
+will you give the money more to
+
+338
+20:18
+him or to him,
+will you give it more to your
+
+339
+20:20
+own group or to another group?
+And what he found was you don't
+
+340
+20:26
+need much.
+In one experiment he showed
+
+341
+20:30
+people pictures of modern art
+and based on their responses he
+
+342
+20:34
+described them as Klee lovers or
+Kandinsky lovers.
+
+343
+20:39
+Now, this is all made up.
+They were just random
+
+344
+20:41
+assignments but the Klee lovers
+viewed themselves as more
+
+345
+20:45
+similar to other Klee lovers.
+They thought the Klee lovers
+
+346
+20:48
+tended to be smarter than the
+Kandinsky lovers and the Klee
+
+347
+20:52
+lovers would devote more
+resources to themselves than to
+
+348
+20:56
+others.
+This is why it's called
+
+349
+20:58
+"minimal groups."
+You don't need much to make you
+
+350
+21:01
+into a group.
+And in fact,
+
+351
+21:03
+later experiments just flipped
+a coin.
+
+352
+21:06
+So the lot--the experiment goes
+like this.
+
+353
+21:09
+I ask everybody in this class
+to take out a coin.
+
+354
+21:11
+You all flip it.
+Everyone who has heads,
+
+355
+21:13
+you're one group.
+Everyone who has tails,
+
+356
+21:15
+you're the other group.
+Then I ask people in the heads
+
+357
+21:18
+group, "Which group do
+you--Putting yourself aside,
+
+358
+21:21
+which group on average do you
+think is smarter?"
+
+359
+21:23
+You'd say, "Well,
+you know, it kind of works out
+
+360
+21:25
+that the heads group is kind of
+really--heads,
+
+361
+21:28
+smart."
+Which group--"Here is some
+
+362
+21:29
+money.
+You have to distribute it."
+
+363
+21:32
+You're more likely--It's a
+subtle effect when you make the
+
+364
+21:35
+groups so minimal but you're
+more likely to give it to your
+
+365
+21:39
+own group than to others and
+this suggests that moral
+
+366
+21:42
+feelings are exquisitely attuned
+not necessarily only to
+
+367
+21:46
+individuals but also to the
+psychology of groups.
+
+368
+21:49
+
+
+369
+21:53
+Any questions at this point
+about moral feelings?
+
+370
+21:55
+
+
+371
+22:07
+Yes.
+Student:
+
+372
+22:11
+How you formed the groups--How
+is that morality?
+
+373
+22:17
+Professor Paul Bloom:
+It's morality--It bears on
+
+374
+22:19
+morality because it bears
+on--So,
+
+375
+22:20
+the question is,
+"How does group membership,
+
+376
+22:22
+how does that relate to the
+topic of morality?"
+
+377
+22:24
+And the answer is the moral
+feelings we're talking about are
+
+378
+22:27
+feelings like empathy and
+caring.
+
+379
+22:29
+For me to have a moral feeling
+towards you means you matter to
+
+380
+22:33
+me.
+If you were to be harmed,
+
+381
+22:34
+I would view it as wrong.
+And the group experiment
+
+382
+22:36
+suggests that the extent to
+which these moral feelings
+
+383
+22:39
+operate are partially determined
+by the groups to which we belong
+
+384
+22:43
+to.
+If I'm American and you're from
+
+385
+22:45
+another country,
+I will view myself--this is a
+
+386
+22:48
+very--kind of obvious
+finding--my obligations to you
+
+387
+22:52
+will be seen as less than if you
+were another American.
+
+388
+22:56
+If I'm a Klee lover and you're
+a Kandinsky lover,
+
+389
+22:59
+I don't think you quite deserve
+as much as me.
+
+390
+23:01
+
+
+391
+23:07
+Moral judgment is an area that
+is tremendously exciting and
+
+392
+23:12
+there's a lot of recent research
+on this.
+
+393
+23:16
+By moral judgment I mean not
+empathetic feelings,
+
+394
+23:19
+not feelings of caring and love
+or approval and disapproval,
+
+395
+23:23
+so they're not feelings of
+caring and love and empathy,
+
+396
+23:26
+but notions like something is
+good or bad,
+
+397
+23:29
+something--like something is
+fair or unfair.
+
+398
+23:34
+So, there are three hallmarks
+for moral judgments.
+
+399
+23:40
+So, suppose I say I don't like
+strawberry ice cream.
+
+400
+23:44
+That's an evaluation.
+That's a judgment but it's not
+
+401
+23:48
+a moral judgment.
+Why not?
+
+402
+23:51
+Because I don't think it
+carries a sense of obligation.
+
+403
+23:55
+I don't think anybody's obliged
+to eat or not to eat strawberry
+
+404
+23:58
+ice cream.
+And it doesn't carry a notion
+
+405
+24:00
+of sanctions,
+meaning I don't think anybody
+
+406
+24:03
+should be punished for eating
+strawberry ice cream.
+
+407
+24:07
+On the other hand,
+if I say I don't like baby
+
+408
+24:11
+killers, that actually is a
+moral judgment in my case.
+
+409
+24:16
+So [inaudible]
+I say, "Well,
+
+410
+24:18
+I don't like baby killers.
+You like to kill babies.
+
+411
+24:20
+I actually think we are obliged
+not to kill babies."
+
+412
+24:25
+If you disagree with me,
+you're wrong and you should
+
+413
+24:28
+stop killing those babies.
+[laughter]
+
+414
+24:31
+Should you fail to stop killing
+those babies,
+
+415
+24:33
+I think you should be punished
+for killing babies."
+
+416
+24:36
+And that's what my judgment
+about "no killing babies" makes
+
+417
+24:40
+it a moral judgment.
+Now, some people attempted to
+
+418
+24:44
+look at this the wrong way and
+say, "Look.
+
+419
+24:47
+What a weird topic, morality.
+I don't believe in morality.
+
+420
+24:51
+I believe in Nietzsche.
+I don't believe in ethics," but
+
+421
+24:56
+I don't believe you if you were
+to say that because morality
+
+422
+25:01
+isn't--morality as we talk about
+it in this context isn't just
+
+423
+25:07
+regarding your position on big
+questions like political issues
+
+424
+25:12
+or big moral questions like
+abortion or capital punishment.
+
+425
+25:18
+Rather, some sort of moral
+judgment happens all the time,
+
+426
+25:22
+often unconsciously.
+So, as you live your life you
+
+427
+25:26
+have to answer questions like
+what should you eat?
+
+428
+25:29
+Any moral vegetarians here?
+I'm just raising my hand to
+
+429
+25:35
+encourage people.
+[laughter] Okay.
+
+430
+25:39
+Anybody give to charity?
+Anybody not give to charity?
+
+431
+25:44
+Good.
+[laughter]
+
+432
+25:47
+Different from the moral
+vegetarians I noticed.
+
+433
+25:49
+Who do you socialize with?
+There's homeless people around
+
+434
+25:53
+Yale and New Haven.
+What do you give to them?
+
+435
+25:55
+Do you avoid their eyes?
+Do you--What do you want to do
+
+436
+25:59
+with your life?
+Who do you have sex with?
+
+437
+26:03
+Under what context or
+conditions?
+
+438
+26:07
+These are moral questions.
+My favorite moral dilemma is as
+
+439
+26:12
+I'm walking down the street and
+I see somebody I sort of know,
+
+440
+26:17
+do I avoid eye so we don't have
+a conversation [laughter]
+
+441
+26:21
+or do I say,
+"Hey.
+
+442
+26:22
+How are you doing?"
+or do I kind of do the nod
+
+443
+26:25
+hoping that there won't be more
+than this nod?
+
+444
+26:28
+[laughter]
+And then after I leave and I
+
+445
+26:29
+say, "Oh, I should have made eye
+contact with that person.
+
+446
+26:32
+I'm such a jerk.
+[laughter]
+
+447
+26:34
+There is a homeless person"
+[laughter]
+
+448
+26:37
+and--but these are day-to-day
+moral questions we struggle with
+
+449
+26:41
+all the time and so there's a
+centrality in the study of how
+
+450
+26:46
+we do moral reasoning.
+So, what do we know about moral
+
+451
+26:49
+reasoning?
+Well, we know that there are
+
+452
+26:54
+some universals.
+There are some aspects of moral
+
+453
+26:58
+reasoning that show up
+everywhere on earth.
+
+454
+27:00
+And there is some evidence,
+though it's not particularly
+
+455
+27:04
+strong at this point,
+that these same intuitions show
+
+456
+27:07
+up in young children and in
+nonhuman primates like
+
+457
+27:10
+chimpanzees,
+capuchins, macaques and so on.
+
+458
+27:13
+And these are things like anger
+at cheaters, gratitude toward
+
+459
+27:17
+sharers, the sort of things
+you'd expect to come out in a
+
+460
+27:20
+prisoner's dilemma,
+feelings that some things are
+
+461
+27:23
+right and some things are wrong.
+These are foundational.
+
+462
+27:29
+But at the same time the study
+of moral reasoning is a
+
+463
+27:32
+fascinated--fascinating issue
+for those of us interested in
+
+464
+27:35
+cross-cultural psychology
+because there are plain
+
+465
+27:38
+differences across cultures.
+So, the anthropologist Richard
+
+466
+27:43
+Shweder gives a list here of
+human differences:
+
+467
+27:47
+People have found it
+quite natural to be
+
+468
+27:50
+spontaneously appalled,
+outraged,
+
+469
+27:51
+indignant, proud,
+disgusted, guilty and ashamed
+
+470
+27:54
+by all sorts of things.
+Then there's a long list:
+
+471
+27:57
+"masturbation,
+homosexuality,
+
+472
+27:58
+sexual abstinence,
+polygamy,
+
+473
+28:00
+abortion, circumcision,
+corporal punishment,
+
+474
+28:02
+capital punishment,
+Islam, Christianity,
+
+475
+28:04
+Judaism, capitalism,
+democracy, flag burning,
+
+476
+28:06
+miniskirts, long hair,
+no hair,
+
+477
+28:07
+blah blah, parents and children
+sleeping in the same bed,
+
+478
+28:10
+parents and children not
+sleeping in the same bed,
+
+479
+28:13
+women being allowed to work,
+women not being allowed to
+
+480
+28:15
+work.
+If I put it down in a list and
+
+481
+28:17
+got people to tick it off,
+what you all thought,
+
+482
+28:20
+there would be some
+differences.
+
+483
+28:23
+Some of you think meat eating
+is okay.
+
+484
+28:25
+Some of you do not.
+Some of you--You might have
+
+485
+28:30
+different views about divorce.
+Most of you believe women
+
+486
+28:33
+should be allowed to work.
+Most of you will be in favor or
+
+487
+28:39
+not morally scolding of
+homosexuality.
+
+488
+28:44
+You'll be lukewarm about
+polygamy.
+
+489
+28:47
+Nobody would like abstinence
+and so on.
+
+490
+28:51
+[laughter]
+But if we gave that same list
+
+491
+28:53
+to people in a different
+culture, they'd tick off
+
+492
+28:56
+entirely different things.
+These are ways in which people
+
+493
+29:00
+vary.
+I don't think people vary in
+
+494
+29:02
+their feelings about baby
+killing.
+
+495
+29:05
+I don't think people vary about
+the feelings of I do something
+
+496
+29:08
+for you and then you don't do
+something for me.
+
+497
+29:11
+I think that's gut-level,
+hard-wired, evolved to solve
+
+498
+29:14
+prisoner's dilemmas.
+But these are important issues
+
+499
+29:18
+and these vary a lot from
+culture to culture and a good
+
+500
+29:21
+theory of psychology has to
+explain how these differences
+
+501
+29:25
+arise.
+And Shweder has a theory which
+
+502
+29:28
+is quite interesting.
+Shweder argues that there are
+
+503
+29:32
+three styles of thought,
+three different frameworks of
+
+504
+29:37
+moral thought,
+three different ethics.
+
+505
+29:40
+There's an ethics of autonomy.
+This is what moral philosophers
+
+506
+29:46
+within our culture view as
+morality, notions of rights,
+
+507
+29:50
+of equality,
+of freedom.
+
+508
+29:52
+But many cultures focus on an
+ethics of community,
+
+509
+29:56
+bringing together duty,
+status, hierarchy,
+
+510
+29:59
+and interdependence.
+Other cultures focused more on
+
+511
+30:03
+an ethics of divinity where
+notions such as purity,
+
+512
+30:08
+sanctity, pollution and sin are
+relevant.
+
+513
+30:12
+So for example,
+when we're talking about the
+
+514
+30:15
+rights of men and women and what
+they should be allowed to do,
+
+515
+30:20
+many people in our society
+following an ethics of autonomy
+
+516
+30:23
+will argue that they should have
+equal rights in all domains of
+
+517
+30:27
+behavior.
+Since they are sentient,
+
+518
+30:30
+free creatures,
+they should have a right to do
+
+519
+30:32
+whatever they want unless there
+is a compelling argument against
+
+520
+30:35
+it and a compelling argument
+would have to involve some
+
+521
+30:38
+infringement of the freedom of
+other people.
+
+522
+30:40
+On the other hand,
+if you're in an ethics of
+
+523
+30:43
+community you might argue that
+men and women have different
+
+524
+30:46
+rights and different
+responsibilities.
+
+525
+30:48
+They may be born to perform
+certain things and as such
+
+526
+30:53
+they're duty bound to follow
+them.
+
+527
+30:56
+If you're from an ethics of
+divinity, you may appeal to
+
+528
+31:00
+religious injunctions against
+certain actions and behaviors
+
+529
+31:04
+and these may differentially
+restrict the behavior of men and
+
+530
+31:09
+women.
+You might believe for instance,
+
+531
+31:12
+that women should not prepare
+food when menstruating because
+
+532
+31:15
+it would contaminate the food.
+You may believe that
+
+533
+31:18
+there's--there are severe
+restrictions about who could
+
+534
+31:21
+have sex with one another that
+don't have to do with human
+
+535
+31:24
+rights and human freedom.
+It has to do with the way
+
+536
+31:27
+things should be because of
+issues of pollution and sin.
+
+537
+31:32
+Now, Western cultures,
+as I've said,
+
+538
+31:35
+are highly invested in an
+ethics of autonomy and so
+
+539
+31:40
+debates we have in our culture
+tend to be framed in terms of an
+
+540
+31:45
+ethics of autonomy.
+If we have a debate about
+
+541
+31:50
+abortion in this class,
+people--some people might say,
+
+542
+31:53
+"Look.
+The fetus is a sentient being
+
+543
+31:56
+and as such it has a right to
+survive and shouldn't be killed
+
+544
+32:01
+by its mother."
+Other people would argue, "No.
+
+545
+32:05
+A woman has full freedom over
+her own body and as long as a
+
+546
+32:08
+fetus is within the body
+they--she has a right to control
+
+547
+32:11
+it."
+If we're arguing about hate
+
+548
+32:13
+speech, we could talk about the
+balance between the rights of
+
+549
+32:17
+the freedom of speech versus the
+right to a certain quality of
+
+550
+32:20
+education free of harassment and
+humiliation.
+
+551
+32:23
+Those are the ways we frame
+things but one of the more
+
+552
+32:27
+interesting discoveries in this
+field is that although people
+
+553
+32:31
+think that they're governed by
+the ethics of autonomy,
+
+554
+32:35
+even people within our culture,
+even highly educated people
+
+555
+32:40
+within our culture,
+even people like you show moral
+
+556
+32:44
+judgments that are not quite as
+simple.
+
+557
+32:47
+So, this is the work of
+Jonathan Haidt at University of
+
+558
+32:51
+Virginia.
+And Haidt finds if you ask
+
+559
+32:53
+people, they believe in our
+culture that they hold to an
+
+560
+32:56
+ethics of autonomy.
+If it doesn't harm anyone,
+
+561
+33:00
+it's okay.
+So, if I was to ask you your
+
+562
+33:02
+attitudes about sex,
+most of you--not all of you,
+
+563
+33:05
+you come from different
+cultures, you have different
+
+564
+33:08
+attitudes--but most of you would
+say sex between consenting
+
+565
+33:11
+adults is okay as long as nobody
+gets hurt,
+
+566
+33:13
+as long as nobody gets hurt
+people's rights are respected.
+
+567
+33:18
+So, gay marriage,
+for instance,
+
+568
+33:21
+or gay sex would be okay with
+you because it is--nobody is
+
+569
+33:26
+harmed and these are consenting
+adults.
+
+570
+33:30
+Haidt points out that there are
+certain problems with this
+
+571
+33:33
+argument and he illustrates this
+problem--these problems with
+
+572
+33:37
+stories like this:
+
+573
+33:38
+
+
+574
+33:42
+Julie and Mark are
+brother and sister.
+
+575
+33:44
+They are traveling together in
+France on summer vacation from
+
+576
+33:50
+college.
+One night they are staying
+
+577
+33:52
+alone in a cabin near the beach.
+They decide it would be
+
+578
+33:55
+interesting and fun if they
+tried making love.
+
+579
+33:58
+At the very least,
+it would be a new experience
+
+580
+34:00
+for each of them.
+Julie was already taking birth
+
+581
+34:04
+control pills but Mark uses a
+condom too just to be safe.
+
+582
+34:08
+They both enjoy making love but
+they decide not to do it again.
+
+583
+34:13
+They keep that night a special
+secret which makes them feel
+
+584
+34:17
+even closer to each other.
+What do you think about that?
+
+585
+34:20
+Was it okay for them to make
+love?
+
+586
+34:22
+Who says yes?
+Good.
+
+587
+34:31
+I know that some people would
+say yes, shoot up their hands,
+
+588
+34:33
+and they look around in
+astonishment that no one else is
+
+589
+34:35
+with them.
+[laughter] Who says no?
+
+590
+34:37
+Okay.
+Who is not sure?
+
+591
+34:39
+You're not sure.
+That's the weirdest of all.
+
+592
+34:45
+[laughter]
+Haidt finds that the
+
+593
+34:47
+distribution even among this--If
+you--Look.
+
+594
+34:51
+If you go home and you ask your
+parents, they say,
+
+595
+34:55
+"Ew.
+What is--What are you learning
+
+596
+34:59
+at Yale?"
+[laughter]
+
+597
+35:01
+This is a very unusual culture
+and where some people will say
+
+598
+35:06
+it's okay.
+What Haidt finds is most people
+
+599
+35:09
+say it doesn't and then he
+simply asks them,
+
+600
+35:12
+being a good psychologist,
+"Okay.
+
+601
+35:14
+What's wrong with it?"
+And this is the brother/sister
+
+602
+35:19
+case.
+And the responses are
+
+603
+35:21
+interesting.
+Because people view themselves
+
+604
+35:25
+as committed to an ethics of
+autonomy, they can't just say
+
+605
+35:28
+it's disgusting.
+So, they exhibit what Haidt
+
+606
+35:31
+describes as "moral
+dumbfounding," meaning that they
+
+607
+35:34
+struggle to find an explanation.
+They say it's terrible because
+
+608
+35:37
+they'll have a kid and the
+kid'll grow up freaky [laughter]
+
+609
+35:41
+and then the experimenter--it's
+an interview situation--says,
+
+610
+35:44
+"Well, no.
+Remember they're both using a
+
+611
+35:46
+lot of birth control."
+"Maybe she's under age."
+
+612
+35:50
+"No, not under age."
+And finally,
+
+613
+35:53
+"Well, it's just wrong."
+Similarly, another one of the
+
+614
+35:59
+scenarios--[laughter]
+This isn't as bad as you might
+
+615
+36:07
+expect.
+[laughter]
+
+616
+36:09
+The family dog is playing
+outside and gets hit by a car.
+
+617
+36:16
+[laughter]
+They bring it in and they say,
+
+618
+36:19
+"Oh, Fido's dead,
+Fido's dead,
+
+619
+36:21
+but what's for dinner?"
+So, they cook it and eat it.
+
+620
+36:25
+Who says it's okay?
+Good.
+
+621
+36:31
+[laughter]
+Who says it's not okay?
+
+622
+36:33
+Okay.
+Then they notice that their
+
+623
+36:38
+toilet is kind of dirty.
+"But whoa, there is an American
+
+624
+36:47
+flag."
+[laughter]
+
+625
+36:49
+They then use the toilet to
+clean the flag.
+
+626
+36:54
+Who says that's okay?
+[laughter]
+
+627
+36:58
+Anybody think it's not okay?
+And just keep in mind we're
+
+628
+37:02
+getting sort of even responses
+here.
+
+629
+37:03
+On all of these,
+the majority of people who are
+
+630
+37:06
+not college students in elite
+universities say,
+
+631
+37:09
+"Oh, that's so wrong."
+Finally, there is this one.
+
+632
+37:14
+And this one really is as bad
+as one might expect.
+
+633
+37:19
+[laughter]
+A guy is lonely so he purchases
+
+634
+37:23
+a frozen chicken from the
+supermarket, brings it home and
+
+635
+37:29
+has relations with it.
+[laughter]
+
+636
+37:32
+Then he cooks it and eats it.
+[laughter] Look.
+
+637
+37:36
+This is a scientific paper in
+the Psych Review.
+
+638
+37:43
+[laughter]
+Okay.
+
+639
+37:45
+Who says that's okay?
+[laughter] Good.
+
+640
+37:49
+And I notice there is
+consistency among people.
+
+641
+37:55
+The people who think it's okay
+have every right to say that
+
+642
+37:59
+they believe,
+if they really,
+
+643
+38:02
+sincerely believe it's okay,
+they are committed to an ethics
+
+644
+38:05
+of autonomy.
+Those of you who think it's not
+
+645
+38:08
+okay, none of these,
+should ask yourself why and
+
+646
+38:12
+should then scrutinize your
+reasons.
+
+647
+38:15
+People are very smart and they
+could present--easily present
+
+648
+38:19
+reasons why.
+They could say,
+
+649
+38:21
+"Oh, disease," but these
+reasons tend not to be sincere.
+
+650
+38:25
+If you take away the
+considerations that the reaction
+
+651
+38:28
+stays.
+And these are then interesting
+
+652
+38:31
+case studies of how our moral
+judgment is governed by factors
+
+653
+38:35
+that we might not be conscious
+of.
+
+654
+38:38
+Our moral intuitions can
+surprise us.
+
+655
+38:39
+
+
+656
+38:47
+The motivation for Milgram's
+work, and this is the final
+
+657
+38:52
+thing we'll talk about in the
+context of morality--The
+
+658
+38:57
+motivation for Milgram's work
+was the Holocaust and he was
+
+659
+39:02
+interested in exploring why such
+a thing could happen.
+
+660
+39:08
+
+
+661
+39:14
+I should note by the way--you
+know from the movie that Milgram
+
+662
+39:19
+was a Yale professor.
+He left Yale when he didn't get
+
+663
+39:24
+tenure, moved to Harvard,
+didn't get tenure there too.
+
+664
+39:30
+He was--He had a reputation by
+then as a mad doctor.
+
+665
+39:34
+He ended up at City University
+of New York, became a full
+
+666
+39:39
+professor at age thirty three,
+died in his early '50s,
+
+667
+39:44
+did not lead a good life but
+had extraordinary discoveries.
+
+668
+39:50
+Another discovery which we'll
+talk about next week is--Has
+
+669
+39:53
+anybody heard the phrase "six
+degrees of separation?"
+
+670
+39:56
+Milgram, and we'll talk about
+that later.
+
+671
+39:59
+Milgram had a powerful
+imagination.
+
+672
+40:03
+Okay.
+So we know--This is all review.
+
+673
+40:07
+There is the guy.
+How many of you laughed when
+
+674
+40:12
+you saw the movie ?
+Interesting question why and
+
+675
+40:16
+we'll talk about that in a
+little while.
+
+676
+40:19
+Shocks, "slight shock" to "XXX."
+There is--This is just
+
+677
+40:25
+repeating what you've seen.
+The learner protests as he's
+
+678
+40:29
+being shocked more and more but
+the experimenter continues to
+
+679
+40:33
+request obedience.
+For those of you who haven't
+
+680
+40:36
+seen the movie,
+again, the setup is someone is
+
+681
+40:39
+a subject.
+They don't know--They think
+
+682
+40:42
+that they're teaching somebody
+in a memory game but actually
+
+683
+40:46
+the person who is being shocked
+is a confederate who is trained
+
+684
+40:50
+to react in certain ways as he's
+being increasingly shocked.
+
+685
+40:55
+And the finding is that the
+majority of people will deliver
+
+686
+40:59
+fatal shocks to this person who
+they had never met based on the
+
+687
+41:04
+instructions of another person.
+Now, there are some immediate
+
+688
+41:10
+bad explanations for this.
+One explanation is these are
+
+689
+41:15
+really strange people.
+"These are an abnormal group of
+
+690
+41:19
+psychopaths."
+But we know that's not true.
+
+691
+41:21
+It's been replicated with many
+subjects.
+
+692
+41:24
+There's no reason to believe
+that the subjects in Milgram's
+
+693
+41:28
+original study were in any way
+unusual.
+
+694
+41:32
+It's also a misreading to say
+that people are,
+
+695
+41:34
+in general, sadistic.
+You remember from the movie
+
+696
+41:37
+nobody got pleasure from giving
+the shocks.
+
+697
+41:40
+They felt acutely
+uncomfortable,
+
+698
+41:42
+embarrassed,
+conflicted, under a huge amount
+
+699
+41:45
+of stress.
+They weren't liking doing this.
+
+700
+41:50
+There were follow-up studies.
+This is the original study.
+
+701
+41:54
+If you take it away from Yale,
+some of the authority goes
+
+702
+41:58
+away, and similarly,
+the extent to which there are
+
+703
+42:01
+fatal shocks goes down.
+As the teacher is with the
+
+704
+42:07
+learner next to him,
+it goes down.
+
+705
+42:12
+If you have to put the guy's
+hand on it, you're less likely
+
+706
+42:18
+to kill him.
+If the experimenter gives you
+
+707
+42:21
+instructions by phone,
+you're less likely to do it.
+
+708
+42:26
+If an ordinary man,
+not the guy in a white lab coat
+
+709
+42:30
+but an ordinary guy,
+says,
+
+710
+42:32
+"Hey, keep shocking him,
+that's okay," you're less
+
+711
+42:35
+likely to do it,
+and if there is a rebellion,
+
+712
+42:37
+if somebody else rebels and
+says, "I won't do it," you are
+
+713
+42:40
+much more likely not to do it
+yourself.
+
+714
+42:42
+
+
+715
+42:46
+There are some--Oh, sorry.
+Yeah, and if you could get to
+
+716
+42:51
+choose your own shock level,
+you could keep--then very,
+
+717
+42:54
+very few people go all the way.
+So, these are an important list
+
+718
+42:58
+of factors as to the factors
+that can make somebody less
+
+719
+43:02
+likely to bring it up to the
+killing level.
+
+720
+43:04
+And as a result we can look at
+those factors and think about
+
+721
+43:08
+what is the perfect situation
+for making somebody do something
+
+722
+43:12
+like this and the perfect
+situation not to.
+
+723
+43:14
+Some more serious critiques of
+Milgram: Milgram's experiment is
+
+724
+43:20
+why we have human-subjects
+committees.
+
+725
+43:23
+This is a terribly stressful
+experiment to do to people and,
+
+726
+43:28
+as I say now about a lot of
+studies that I describe in this
+
+727
+43:33
+class,
+it would not today be done.
+
+728
+43:35
+People did say they were happy
+to have participated and only 2%
+
+729
+43:41
+said that they were sorry,
+but still serious damage could
+
+730
+43:45
+have been done and perhaps was
+done.
+
+731
+43:48
+These people left the lab
+having learnt about themselves
+
+732
+43:52
+that they'll kill another person
+if someone tells them to,
+
+733
+43:56
+and as psychologists I don't
+think we have any right to do
+
+734
+44:02
+that to people.
+I think people can learn
+
+735
+44:05
+this--these things about
+themselves.
+
+736
+44:06
+We have no right to put you in
+a circumstance where you believe
+
+737
+44:10
+you killed somebody and then
+tell you it was just pretend--we
+
+738
+44:14
+just made you kill somebody.
+And that's a serious ethical
+
+739
+44:19
+criticism.
+Historians and sociologists
+
+740
+44:22
+have brought in things back to
+the questions that Milgram was
+
+741
+44:27
+interested in and argue--and
+this is controversial--the
+
+742
+44:31
+extent to which obedience really
+is a good model for acts of
+
+743
+44:36
+genocide.
+So, just to take one example
+
+744
+44:39
+among many, Goldhagen argued
+that the participants in Nazi
+
+745
+44:44
+Germany and in the Holocaust
+were actually not people who
+
+746
+44:49
+were obediently following orders
+but rather were enthusiastic,
+
+747
+44:55
+people who volunteered to do it.
+
+748
+44:57
+
+
+749
+45:01
+Still Milgram's work is
+interesting in many--for many
+
+750
+45:04
+reasons, in large part because
+he provides an illustration of
+
+751
+45:08
+the perfect situation for
+getting somebody to do a
+
+752
+45:12
+terrible thing and the perfect
+situation has certain
+
+753
+45:15
+ingredients.
+It includes authority,
+
+754
+45:19
+in this case the authority of
+Yale and the authority of
+
+755
+45:23
+science.
+"This is an experiment that
+
+756
+45:27
+must go on."
+The notion of a self-assured
+
+757
+45:30
+experimenter--The results would
+be very different if the
+
+758
+45:34
+experimenter himself seemed
+nervous,
+
+759
+45:36
+unwilling to proceed,
+confused, but he was confident
+
+760
+45:40
+and he kept saying that he will
+take responsibility.
+
+761
+45:45
+There was distance between the
+learner and the experimenter.
+
+762
+45:48
+Recall you get less of an
+effect if you have to touch the
+
+763
+45:52
+guy but distance makes it easier
+for you to kill him.
+
+764
+45:56
+And finally,
+there's a new situation and no
+
+765
+45:59
+model of how to behave.
+One of the reasons why the
+
+766
+46:03
+Milgram experiment is so nice to
+know is that if this ever
+
+767
+46:07
+happens to you,
+not as an experiment but in
+
+768
+46:10
+real life, it will no longer be
+new to you.
+
+769
+46:13
+You'll know what sort of thing
+this is and you'll be able to
+
+770
+46:17
+examine it in that light.
+I want to end this lecture
+
+771
+46:21
+summing up, drawing a lot upon
+Milgram and some other work,
+
+772
+46:27
+and talk first about two forces
+for evil and then to end by
+
+773
+46:31
+talking about two forces for
+good.
+
+774
+46:33
+The first force for evil is
+deindividuation of self.
+
+775
+46:38
+And what this means is--one
+reason why people are so bad in
+
+776
+46:45
+groups is because you could
+diffuse your responsibility.
+
+777
+46:51
+If I'm running through the
+street alone with a baseball bat
+
+778
+46:55
+smashing through windows,
+it's me and I know it's me.
+
+779
+46:58
+If I'm with twenty other
+people, it's not me anymore.
+
+780
+47:03
+It's part of the group and I
+don't feel as bad.
+
+781
+47:06
+Responsibility becomes diffuse.
+One of the powers of a group
+
+782
+47:10
+then is it diminishes
+responsibility.
+
+783
+47:12
+You could diminish
+responsibility in other ways.
+
+784
+47:15
+Another way of diminishing
+responsibility is you could
+
+785
+47:17
+accept orders.
+It's not me.
+
+786
+47:19
+I'm just an instrument of
+somebody else telling me what to
+
+787
+47:23
+do.
+And yet another way of
+
+788
+47:25
+diminishing responsibility is
+anonymity.
+
+789
+47:28
+Here's a question.
+In so many violent acts and so
+
+790
+47:34
+many people go to war,
+what they do is they paint
+
+791
+47:39
+their faces or they put on
+masks.
+
+792
+47:42
+Why?
+Well, there's anonymity from
+
+793
+47:46
+others.
+If I'm wearing a mask as I do
+
+794
+47:49
+my terrible stuff,
+nobody will know it's me,
+
+795
+47:52
+but there's also a
+psychologically liberating
+
+796
+47:56
+effect.
+If I'm anonymous,
+
+797
+47:58
+it's not me and I could do
+terrible things without feeling
+
+798
+48:03
+the same moral responsibility.
+This analysis has explained why
+
+799
+48:09
+people don't always help others
+in need.
+
+800
+48:11
+If there's a group,
+responsibility to help
+
+801
+48:14
+decreases and this is captured
+in different ways but the main
+
+802
+48:19
+idea is we all think someone
+else will help so we don't.
+
+803
+48:23
+There's a diffusion.
+This just summarizes some
+
+804
+48:27
+studies--some famous studies
+supporting this.
+
+805
+48:32
+And the classic example,
+which is discussed in detail in
+
+806
+48:36
+the textbook,
+is the Kitty Genovese case
+
+807
+48:39
+where somebody was murdered in
+the common lot that apartment
+
+808
+48:43
+buildings surrounded while
+dozens of people watched,
+
+809
+48:48
+dozens of good,
+normal people watched and did
+
+810
+48:51
+nothing.
+If there's some advice I've
+
+811
+48:53
+heard on this,
+which is pretty good advice:
+
+812
+48:57
+If you're ever in a predicament
+on a city street,
+
+813
+49:01
+you have a heart attack,
+you broke your leg,
+
+814
+49:03
+you're being mugged and
+everything,
+
+815
+49:06
+and there's--this is based on
+the research,
+
+816
+49:08
+screaming "Help" is often not
+very successful because if I'm
+
+817
+49:12
+with ten people and there's
+somebody screaming "Help,"
+
+818
+49:16
+I look at the other nine people.
+They're not doing anything.
+
+819
+49:19
+They're looking at me.
+I'm not doing anything.
+
+820
+49:21
+We keep walking.
+What is useful is point to
+
+821
+49:26
+somebody and say,
+"You in the green sweater,
+
+822
+49:30
+call the police,"
+and the psychological evidence
+
+823
+49:33
+is if you--if somebody's--if I
+am wearing the green sweater and
+
+824
+49:37
+somebody asks me to call the
+police I will call the police.
+
+825
+49:40
+I'm a good guy.
+I wouldn't sit aside when
+
+826
+49:43
+somebody's being harmed.
+On the other hand,
+
+827
+49:46
+if somebody says,
+"Somebody call the police,"
+
+828
+49:50
+well, I got things to do and so
+diffusion of responsibility
+
+829
+49:54
+explains both when we're willing
+to do terrible things and also
+
+830
+49:59
+when we're willing to help
+people who are in trouble.
+
+831
+50:04
+Denigration of others.
+There's a lot of ways to make
+
+832
+50:07
+other people matter less.
+So, this is the flip side.
+
+833
+50:10
+The way to do terrible
+things--One way to do terrible
+
+834
+50:13
+things is to lose yourself so
+you're not an individual anymore
+
+835
+50:16
+but another way to do terrible
+things is so that the person
+
+836
+50:19
+you're doing it to isn't an
+individual.
+
+837
+50:22
+How do you do that?
+Well, you have psychological
+
+838
+50:26
+distance or physical distance.
+I'm more likely to kill you if
+
+839
+50:31
+you're very far away than if
+you're close.
+
+840
+50:34
+I don't--I could describe you
+and start to think about you not
+
+841
+50:39
+as a person and language can be
+used for this.
+
+842
+50:42
+Instead of people you could use
+terms like "cargo," instead of
+
+843
+50:47
+murder, extermination.
+Humor is very powerful in
+
+844
+50:51
+denigrating and demoting people.
+When you start laughing at
+
+845
+50:56
+somebody you think of them as
+less of a person and we'll get
+
+846
+50:59
+to that a little bit more when
+we talk about laughter.
+
+847
+51:02
+You could take away their names.
+One of the more interesting
+
+848
+51:07
+things in the United Nations
+Declaration of Human Rights is a
+
+849
+51:11
+very interesting right.
+It says, "Every person has a
+
+850
+51:15
+right to a name."
+And you might think what a
+
+851
+51:19
+strange right but there's a
+cleverness to it.
+
+852
+51:23
+When you take away somebody's
+name they matter less.
+
+853
+51:27
+People have names.
+People have distinct,
+
+854
+51:30
+individual names that mark them
+as people and once you know
+
+855
+51:34
+somebody's name you are less
+likely to do bad things to them.
+
+856
+51:38
+And another option which I'm
+interested in from the
+
+857
+51:42
+standpoint of my own research is
+you could see them as
+
+858
+51:46
+disgusting.
+Disgust is what Paul Rozin has
+
+859
+51:50
+called "the body and soul
+emotion."
+
+860
+51:54
+And we know certain things
+about disgust.
+
+861
+51:56
+It is a human universal.
+It is a basic emotion with a
+
+862
+52:01
+characteristic facial
+expression.
+
+863
+52:04
+Remember Paul Ekman's work on
+the basic emotions,
+
+864
+52:07
+the universals of emotional
+expression?
+
+865
+52:09
+Disgust is one of them and it
+is universally elicited by
+
+866
+52:17
+certain things like this list.
+Wherever you go,
+
+867
+52:22
+feces, urine,
+blood, vomit,
+
+868
+52:24
+rotten flesh and most meat will
+be disgusting.
+
+869
+52:28
+Now, if that was all we had to
+say about disgust,
+
+870
+52:32
+it wouldn't affect morality
+very much but we know that
+
+871
+52:36
+people can be seen as
+disgusting.
+
+872
+52:39
+And Charles Darwin actually,
+who was an astute observer of
+
+873
+52:42
+human behavior,
+tells a nice story to
+
+874
+52:44
+illustrate this:
+how "a native touched with his
+
+875
+52:47
+finger some cold preserved meat
+and plainly showed disgust at
+
+876
+52:51
+its softness whilst I felt utter
+disgust at my food being touched
+
+877
+52:55
+by a naked savage though his
+hands did not appear dirty."
+
+878
+52:59
+People can be disgusting and if
+people are seen as disgusting
+
+879
+53:05
+they matter less.
+The philosopher and legal
+
+880
+53:08
+scholar Martha Nussbaum nicely
+summarizes this:
+
+881
+53:12
+"Thus,
+throughout history certain
+
+882
+53:14
+disgust properties have
+repeatedly and monotonously been
+
+883
+53:16
+associated with Jews,
+women, homosexuals,
+
+884
+53:18
+untouchables,
+lower class people.
+
+885
+53:21
+All of those are imagined as
+tainted by the dirt of the
+
+886
+53:25
+body."
+Any--I won't read this but this
+
+887
+53:28
+is a typical bit of Nazi
+propaganda.
+
+888
+53:32
+Any genocidal movement that has
+left behind a written record has
+
+889
+53:38
+been shown to use the mechanism
+of disgust to dehumanize people
+
+890
+53:43
+and make them easier to kill.
+I'll skip that.
+
+891
+53:49
+I want to end though on a
+positive note.
+
+892
+53:53
+And the positive note are
+forces for good.
+
+893
+53:56
+So, forces for bad are to lose
+yourself as an individual,
+
+894
+54:01
+lose yourself in a crowd,
+lose yourself because there is
+
+895
+54:05
+some authority using you as an
+instrument, lose yourself
+
+896
+54:08
+because you're anonymous,
+plus treat others not as
+
+897
+54:12
+people, as numbers,
+as objects, as disgusting
+
+898
+54:17
+things,
+but there are some forces for
+
+899
+54:23
+good.
+These include "contact" and
+
+900
+54:25
+"interdependence."
+What this often--What this can
+
+901
+54:29
+be viewed as,
+as an extended version of
+
+902
+54:32
+selfish gene theory,
+which is that to the extent
+
+903
+54:36
+you're interconnected with other
+people you care about them more
+
+904
+54:41
+for purely selfish reasons.
+Robert Wright presented this in
+
+905
+54:45
+a very blunt way,
+but I think his quote is quite
+
+906
+54:48
+moving: "One of the many reasons
+I don't want to bomb the
+
+907
+54:52
+Japanese is that they built my
+minivan."
+
+908
+54:55
+And the idea is he has economic
+codependence with these people.
+
+909
+54:58
+They're a different group.
+He might want to kill them
+
+910
+55:01
+under normal circumstances but
+the interdependence gives rise
+
+911
+55:06
+to a moral connection.
+Thomas Friedman proposed the
+
+912
+55:10
+"Golden Arches Theory of Human
+Conflict," which said that no
+
+913
+55:14
+two countries which each have a
+McDonald's will ever go to war
+
+914
+55:19
+because McDonald's forces global
+interdependence.
+
+915
+55:23
+This was falsified in the NATO
+bombing of, I think,
+
+916
+55:26
+Sarajevo but still his heart's
+in the right place,
+
+917
+55:31
+the idea that interconnection
+makes you more likely to get
+
+918
+55:35
+along with other people.
+More generally,
+
+919
+55:38
+there's what's been called "The
+Contact Hypothesis."
+
+920
+55:42
+So, interdependence is one
+thing but what's maybe more
+
+921
+55:46
+interesting is that simple
+contact with other people.
+
+922
+55:51
+Particularly if you're of equal
+status, you have a common goal,
+
+923
+55:56
+and you have social support
+makes you like people more.
+
+924
+56:00
+There are now dozens,
+probably hundreds,
+
+925
+56:02
+of studies that show that
+people who would otherwise show
+
+926
+56:05
+animosity towards one another,
+like blacks and whites in the
+
+927
+56:09
+United States,
+like each other more if they're
+
+928
+56:12
+brought together.
+And there's a lot of social
+
+929
+56:15
+psychology research as to the
+conditions in which you have to
+
+930
+56:19
+bring them together.
+The Robber's Cave study talked
+
+931
+56:22
+about before is a nice example.
+It was not easy to bring them
+
+932
+56:27
+together but when they had a
+common goal that brought
+
+933
+56:31
+them--that caused the
+interconnection and then the
+
+934
+56:34
+contact led to moral feeling.
+The military is a superb
+
+935
+56:39
+example.
+The military in the United
+
+936
+56:42
+States was a situation which
+brought together people who
+
+937
+56:45
+wouldn't otherwise have any
+contact and they liked each
+
+938
+56:49
+other.
+There has been study after
+
+939
+56:51
+study showing that people in the
+military who were otherwise,
+
+940
+56:53
+for instance,
+racists after working with
+
+941
+56:56
+people of different races liked
+them more because you had all of
+
+942
+57:00
+the right ingredients.
+You had--They had--They worked
+
+943
+57:04
+together for a common goal,
+the military supported bringing
+
+944
+57:07
+these people together,
+and they were brought together
+
+945
+57:11
+on an equal and fair footing.
+There is, of course,
+
+946
+57:14
+a lot of debate about
+universities like Yale to the
+
+947
+57:17
+extent in which they promote
+interdependence--sorry,
+
+948
+57:21
+they promote positive contact
+between groups.
+
+949
+57:24
+And you could think of yourself
+as an exercise.
+
+950
+57:27
+If these are the conditions for
+contact, to what extent are they
+
+951
+57:32
+met in the university setting
+between,
+
+952
+57:36
+say blacks and whites,
+people from the American South
+
+953
+57:39
+versus people from the American
+North,
+
+954
+57:42
+people from other countries
+versus people from the United
+
+955
+57:44
+States?
+And I know there's debate on
+
+956
+57:46
+campus about the extent to which
+there is segregation within the
+
+957
+57:50
+Yale community.
+And you could ask yourself
+
+958
+57:52
+the--about the extent of that
+segregation and how that
+
+959
+57:55
+reflects--what role that should
+play with regard to the Contact
+
+960
+57:58
+Hypothesis.
+Finally, and this is the last
+
+961
+58:01
+thing I'll say:
+If you take another person's
+
+962
+58:04
+perspective, you'll care more
+about them.
+
+963
+58:06
+This is the final force for
+good from a moral perspective.
+
+964
+58:11
+JFK, when making the plea for
+equal rights,
+
+965
+58:15
+didn't produce an abstract
+philosophical argument but
+
+966
+58:20
+rather tried to invite his
+listeners who were white to
+
+967
+58:25
+engage in perspective taking.
+If an American,
+
+968
+58:30
+because his skin is dark,
+cannot eat lunch in a
+
+969
+58:32
+restaurant open to the
+public--[and so on and so on and
+
+970
+58:34
+so on],
+then who among us would be
+
+971
+58:36
+content to have the color of his
+skin changed and stand in his
+
+972
+58:39
+place?
+Who among us would be content
+
+973
+58:41
+with the counsels of patience
+and delay?
+
+974
+58:43
+Again, Nussbaum goes on and
+talks about how in Greek
+
+975
+58:47
+dramas--Greek dramas invited
+people to take the perspectives
+
+976
+58:52
+of those who they would never
+imaginably be or even be in
+
+977
+58:57
+contact with and argue that this
+gave--led to an empathetic
+
+978
+59:02
+expansion.
+I think one of the greatest
+
+979
+59:05
+circles for moral good is
+storytelling where you're
+
+980
+59:08
+invited to take the perspective
+of another and see the world as
+
+981
+59:12
+they do.
+Finally, there are direct ways.
+
+982
+59:18
+You can ask people--and this is
+a way which we talk to our
+
+983
+59:21
+children when we try to get our
+children to expand their moral
+
+984
+59:24
+concern of compassion.
+We say, "Try to see it from
+
+985
+59:27
+their point of view.
+How would you feel if--"Then
+
+986
+59:30
+there's indirect ways.
+You can, for instance,
+
+987
+59:35
+use the power of metaphor.
+There could be familiar things
+
+988
+59:41
+that you are close to and you
+could bring in together new
+
+989
+59:44
+things as falling under the
+rubric of these familiar things.
+
+990
+59:48
+So, if I wanted to cause you to
+feel moral concern for a fetus,
+
+991
+59:52
+I would do well to describe it
+as a pre-born child.
+
+992
+59:55
+If I wanted you to care about
+an animal, I would do well to
+
+993
+60:00
+describe it as if it were human.
+If I wanted to think about all
+
+994
+60:05
+of you and get--and establish
+more of a connection with you,
+
+995
+60:10
+I would not describe you as
+unrelated strangers.
+
+996
+60:14
+Rather, you are my brothers and
+my sisters.
+
+997
+60:18
+And of course,
+any political movement that
+
+998
+60:21
+tries to bring us
+together--people together
+
+999
+60:23
+says--uses a family metaphor.
+Finally, when Steven Spielberg
+
+1000
+60:29
+tried to get us to entertain the
+notion that computers and robots
+
+1001
+60:35
+are sentient moral beings he did
+not show us one that looked like
+
+1002
+60:41
+this .
+He showed us one that looked
+
+1003
+60:45
+like that .
+Okay.
+
+1004
+60:47
+The reading response for next
+week is a simple one.
+
+1005
+60:51
+I know I've been giving
+difficult reading responses.
+
+1006
+60:53
+This is simple.
+You could write it up very
+
+1007
+60:55
+short and that will be a passing
+grade if you just write it up
+
+1008
+60:58
+very short.
+You could also write it up a
+
+1009
+61:00
+bit longer.
+Suppose the Milgram experiment
+
+1010
+61:03
+had never been done and it was
+being done for the first time
+
+1011
+61:07
+here.
+What would you do?
+
+1012
+61:11
+What do you think everyone else
+would do?
+
+1013
+61:13
+Okay.
+I'll see you next week.
+
+1014
+61:17
+
+

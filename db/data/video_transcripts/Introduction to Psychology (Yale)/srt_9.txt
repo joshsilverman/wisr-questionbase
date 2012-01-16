@@ -1,1 +1,5749 @@
-{data => {title => Introduction to Psychology (Yale)_9, id => kZoBgX8rScg}}
+{title => Introduction to Psychology (Yale)_9, video_id => kZoBgX8rScg}}1
+0:12
+Professor Paul Bloom:
+I'm delighted to introduce the
+
+2
+0:16
+first guest lecturer for this
+Introduction to Psychology
+
+3
+0:21
+course, Dean Peter Salovey.
+Peter is an old friend and
+
+4
+0:25
+colleague.
+Many of you--I think everybody
+
+5
+0:27
+here knows of him through his
+role as Dean of Yale College.
+
+6
+0:31
+I'll just, in this context of
+this introduction,
+
+7
+0:34
+mention two other things about
+him.
+
+8
+0:36
+One is prior to being dean and
+in fact, still as a dean,
+
+9
+0:39
+he's an active scientist and in
+particular,
+
+10
+0:43
+a social psychologist actively
+involved in studying health
+
+11
+0:47
+psychology, the proper use of
+psychological methods to frame
+
+12
+0:51
+health messages,
+and also is the founder and
+
+13
+0:54
+developer of the idea of
+emotional intelligence,
+
+14
+0:57
+an idea he's done a huge amount
+of research on.
+
+15
+1:00
+Secondly, Peter is or was an
+active and extremely well-known
+
+16
+1:04
+teacher at Yale College.
+He taught at one point,
+
+17
+1:08
+the largest course ever in Yale
+College – a course on
+
+18
+1:12
+Psychology in Law which broke
+every record ever had here.
+
+19
+1:16
+And before that,
+during that,
+
+20
+1:18
+and after that,
+he was a legendary Introduction
+
+21
+1:21
+to Psychology teacher.
+And I think--and he had some
+
+22
+1:25
+reason for why he was so
+legendary with his lecture today
+
+23
+1:28
+on the topic of love.
+
+24
+1:29
+
+
+25
+1:42
+[applause]
+Dean Peter Salovey:
+
+26
+1:43
+Thanks very much.
+
+27
+1:44
+
+
+28
+2:03
+Okay.
+Thank you very much,
+
+29
+2:05
+Professor Bloom.
+It really is a pleasure to come
+
+30
+2:08
+and lecture to you today on
+Valentine's Day on the topic of
+
+31
+2:12
+love.
+My main area of research is
+
+32
+2:15
+human emotion.
+And love is an emotion.
+
+33
+2:19
+It's not one that I study
+personally, at least not in the
+
+34
+2:23
+lab, and--but it is fun to talk
+about.
+
+35
+2:26
+And it is a topic that lends
+itself to many social
+
+36
+2:30
+psychological phenomena.
+It's also great to be able to
+
+37
+2:33
+come in and guest lecture.
+One of the things I very much
+
+38
+2:37
+miss since serving as dean is
+the opportunity to teach
+
+39
+2:41
+Psychology 110.
+And although I love being dean,
+
+40
+2:44
+I do miss teaching Introductory
+Psychology, the feeling of
+
+41
+2:49
+exposing people to ideas that
+maybe you hadn't heard before.
+
+42
+2:53
+Well, I suspect some of the
+ideas in this talk you'll have
+
+43
+2:57
+not heard before and for a
+variety of reasons.
+
+44
+2:59
+A couple of the things you'll
+notice is that some of the
+
+45
+3:02
+experiments I'll talk about
+today are not the kinds of
+
+46
+3:05
+experiments that can be done
+anymore.
+
+47
+3:07
+They're not considered
+ethically acceptable but they
+
+48
+3:11
+were done in the ‘50s and
+‘60s and early ‘70s when
+
+49
+3:16
+ethical standards were different
+and so we can teach them.
+
+50
+3:21
+We just can't give you the same
+experiences that some of the
+
+51
+3:24
+college students that we'll talk
+about today in these studies
+
+52
+3:27
+had.
+The other thing I will mention
+
+53
+3:31
+is that there is a certain
+androcentric and heterosexual
+
+54
+3:35
+quality to much of the social
+psychological research on
+
+55
+3:40
+romantic love.
+You'll see that in the
+
+56
+3:43
+experiments.
+Usually, the participants are
+
+57
+3:47
+men and usually the targets are
+women in these experiments.
+
+58
+3:51
+I'm not endorsing this as the
+only way to study love.
+
+59
+3:55
+It just happens to be the way
+these experiments were done and
+
+60
+3:58
+so I mention this caution right
+from the beginning.
+
+61
+4:02
+We'll have to think about--One
+of the things you should think
+
+62
+4:06
+about is do you think these
+experiments generalized to other
+
+63
+4:10
+kinds of dyadic relationships.
+And that's a question that I
+
+64
+4:15
+think you can ask throughout
+this lecture.
+
+65
+4:18
+Okay.
+So let's get started.
+
+66
+4:21
+And to start things off I think
+what we need to do is consider a
+
+67
+4:28
+definition.
+I'm going to define what love
+
+68
+4:32
+is but then most of the
+experiments I'm going to talk
+
+69
+4:36
+about are really focused more on
+attraction than love--who finds
+
+70
+4:41
+each other of romantic interest
+that might then develop into a
+
+71
+4:46
+love relationship.
+But let's start with a
+
+72
+4:49
+definition of love.
+And I'm going to pick a
+
+73
+4:51
+definition from a former
+colleague, Robert Sternberg,
+
+74
+4:56
+who is now the dean at Tufts
+University but was here on our
+
+75
+5:01
+faculty at Yale for nearly
+thirty years or so.
+
+76
+5:05
+And he has a theory of love
+that argues that it's made up of
+
+77
+5:09
+three components:
+intimacy,
+
+78
+5:12
+passion, and commitment,
+or what is sometimes called
+
+79
+5:16
+decision commitment.
+And these are relatively
+
+80
+5:20
+straightforward.
+He argued that you don't have
+
+81
+5:23
+love if you don't have all three
+of these elements.
+
+82
+5:27
+Intimacy is the feeling of
+closeness, of connectedness with
+
+83
+5:32
+someone, of bonding.
+Operationally,
+
+84
+5:35
+you could think of intimacy as
+you share secrets,
+
+85
+5:38
+you share information with this
+person that you don't share with
+
+86
+5:43
+anybody else.
+Okay.
+
+87
+5:45
+That's really what intimacy is,
+the bond that comes from
+
+88
+5:49
+sharing information that isn't
+shared with other--with many
+
+89
+5:53
+other people.
+Second element is passion.
+
+90
+5:58
+Passion is what you think it is.
+Passion is the--we would say
+
+91
+6:04
+the drive that leads to romance.
+You can think of it as physical
+
+92
+6:09
+attraction or sex.
+And Sternberg argues that this
+
+93
+6:15
+is a required component of a
+love relationship.
+
+94
+6:21
+It is not, however,
+a required component of taking
+
+95
+6:24
+a shower in Calhoun College.
+[laughter]
+
+96
+6:27
+The third element of love in
+Sternberg's theory is what he
+
+97
+6:34
+calls decision or commitment,
+the decision that one is in a
+
+98
+6:41
+love relationship,
+the willingness to label it as
+
+99
+6:45
+such,
+and a commitment to maintain
+
+100
+6:48
+that relationship at least for
+some period of time.
+
+101
+6:52
+Sternberg would argue it's not
+love if you don't call it love
+
+102
+6:55
+and if you don't have some
+desire to maintain the
+
+103
+6:58
+relationship.
+So if you have all three of
+
+104
+7:02
+these, intimacy,
+passion and commitment,
+
+105
+7:05
+in Sternberg's theory you have
+love.
+
+106
+7:09
+Now what's interesting about
+the theory is what do you have
+
+107
+7:14
+if you only have one out of
+three or two out of three?
+
+108
+7:19
+What do you have and how is it
+different if you have a
+
+109
+7:23
+different two out of three?
+These are--What's interesting
+
+110
+7:27
+about this kind of theorizing is
+it give--it gives rise to many
+
+111
+7:31
+different permutations that when
+you break them down and start to
+
+112
+7:36
+look at them carefully can be
+quite interesting.
+
+113
+7:40
+So what I've done is I've taken
+Sternberg's three elements of
+
+114
+7:44
+love, intimacy,
+passion and commitment,
+
+115
+7:47
+and I've listed out the
+different kinds of relationships
+
+116
+7:52
+one would have if you had zero,
+one, two or three out of the
+
+117
+7:57
+three elements.
+And I'm using names or types
+
+118
+8:01
+that Sternberg uses in his
+theory.
+
+119
+8:03
+These are really from him.
+Some of these are pretty
+
+120
+8:07
+obvious.
+If you don't have intimacy,
+
+121
+8:09
+if you don't have passion,
+if you don't have commitment,
+
+122
+8:12
+you don't have love.
+Sternberg calls this non-love.
+
+123
+8:16
+That's the technical term.
+And [laughs]
+
+124
+8:19
+essentially what he's saying is
+the relationship you now have to
+
+125
+8:22
+the person sitting next to you,
+presuming that you're sitting
+
+126
+8:26
+next to a random person that you
+didn't know from your college,
+
+127
+8:30
+is probably non-love.
+If it's something else,
+
+128
+8:34
+we could talk about it at the
+end of the lecture or perhaps
+
+129
+8:38
+when I get to it in a moment.
+Now let's start to add elements.
+
+130
+8:43
+Let's add intimacy.
+This is sharing secrets,
+
+131
+8:48
+a feeling of closeness,
+connectedness,
+
+132
+8:52
+bonding.
+Let's say we have that with
+
+133
+8:55
+someone but we don't have
+passion, that is,
+
+134
+8:57
+no sexual arousal,
+and no commitment to maintain
+
+135
+9:00
+the relationship.
+This is liking.
+
+136
+9:02
+Sternberg calls it liking.
+And liking is really what is
+
+137
+9:07
+happening in most typical
+friendships, not your closest
+
+138
+9:13
+friendship but friendships of a
+casual kind.
+
+139
+9:18
+You feel close,
+you share certain information
+
+140
+9:20
+with that person that you don't
+share with other--many other
+
+141
+9:23
+people,
+but you're not physically
+
+142
+9:25
+attracted and there's no
+particular commitment to
+
+143
+9:28
+maintaining this for a long
+period of time.
+
+144
+9:32
+Now, what if you're not
+intimate, you're not committed,
+
+145
+9:35
+but you're passionate;
+you feel that sexual arousal.
+
+146
+9:39
+This is what Sternberg would
+call infatuation.
+
+147
+9:44
+And that term probably works
+for you too, infatuated love,
+
+148
+9:48
+and this is love at first
+sight.
+
+149
+9:51
+"I don't know you,
+we've never shared any secrets
+
+150
+9:54
+because I don't know you,
+I'm not committed to defining
+
+151
+9:59
+this as anything,
+I'm not committed to the future.
+
+152
+10:02
+In fact, I'm not thinking about
+the future.
+
+153
+10:03
+I'm thinking about right now
+but boy, am I attracted."
+
+154
+10:06
+Right.
+That's infatuation and that's
+
+155
+10:10
+what Sternberg means by
+infatuated love.
+
+156
+10:13
+The third kind of one-element
+relationship is there's no
+
+157
+10:18
+intimacy, right,
+no bonding,
+
+158
+10:20
+no closeness,
+no secrets, no physical
+
+159
+10:24
+attraction, no sexual arousal,
+but by gosh,
+
+160
+10:28
+we are going to maintain this
+relationship,
+
+161
+10:32
+we are committed to it for all
+time.
+
+162
+10:34
+Sternberg calls that "empty
+love."
+
+163
+10:37
+Empty love is kind of
+interesting.
+
+164
+10:39
+It's often the final stage of
+long-term relationships that
+
+165
+10:44
+have gone bad.
+"We don't share information
+
+166
+10:47
+with each other anymore so
+there's no intimacy.
+
+167
+10:50
+We don't feel physically
+attracted to each other anymore,
+
+168
+10:55
+there's no passion,
+but we'd better stay together
+
+169
+11:00
+for the kids,
+right?
+
+170
+11:02
+Or we've got to stay together
+for appearance's sake or we'd
+
+171
+11:05
+better stay together because
+financially it would be a
+
+172
+11:08
+disaster if we don't" or all of
+the reasons other than intimacy
+
+173
+11:11
+and passion that people might
+commit to each other.
+
+174
+11:14
+That's what Sternberg calls
+empty love.
+
+175
+11:17
+Now what's interesting is in
+societies where marriages are
+
+176
+11:22
+arranged this is often the first
+stage of a love relationship.
+
+177
+11:28
+These two people who have maybe
+never seen each other before,
+
+178
+11:32
+who have never shared secrets
+so there's no intimacy,
+
+179
+11:35
+who have never--don't know if
+they're physically attracted to
+
+180
+11:39
+each other or on their wedding
+day revealed to each other and
+
+181
+11:43
+committed legally and sometimes
+religiously to each other.
+
+182
+11:48
+Right?
+The commitment is there but at
+
+183
+11:50
+that moment nothing else might
+be there.
+
+184
+11:53
+What's interesting of course is
+that such relationships don't
+
+185
+11:58
+seem to have any greater chance
+of ending in divorce than people
+
+186
+12:03
+who marry for love.
+But there's a big confound,
+
+187
+12:07
+there's a big problem in
+studies of those kind of
+
+188
+12:10
+relationships.
+What might it be?
+
+189
+12:13
+Anybody.
+What might be the problem in
+
+190
+12:16
+the statement I just made that
+these kind of relationships are
+
+191
+12:19
+just as likely to survive as
+people who marry for love?
+
+192
+12:22
+Yes.
+Student:
+
+193
+12:24
+[inaudible]
+Dean Peter Salovey:
+
+194
+12:25
+Yeah.
+So they may occur;
+
+195
+12:28
+they're more likely to occur in
+societies that frown on divorce.
+
+196
+12:33
+They make it very costly,
+socially costly,
+
+197
+12:36
+to divorce, so then they stay
+together for all kinds of
+
+198
+12:39
+reasons, not always such good
+ones.
+
+199
+12:42
+All right.
+Now who was it who sang the
+
+200
+12:45
+song "Two Out of Three Ain't
+Bad"?
+
+201
+12:48
+Was that Meat Loaf?
+Who was it?
+
+202
+12:53
+It was Meat Loaf.
+All right.
+
+203
+12:55
+Professor Bloom says it was
+Meat Loaf.
+
+204
+12:57
+It was Meat Loaf.
+You're all saying,
+
+205
+13:01
+"there was a singer called Meat
+Loaf?"
+
+206
+13:05
+Meat Loaf sang the song "Two
+Out of Three Ain't Bad."
+
+207
+13:07
+Let's see if two out of three
+ain't bad.
+
+208
+13:09
+What if you have intimacy,
+"we share secrets,
+
+209
+13:13
+passion, we feel physically
+attracted to each other but
+
+210
+13:17
+we're not making any commitments
+here."
+
+211
+13:21
+Sternberg calls that "romantic
+love."
+
+212
+13:23
+This is physical attraction
+with close bonding but no
+
+213
+13:28
+commitment, Romeo and Juliet
+when they first met.
+
+214
+13:32
+This is often the way
+relationships start:
+
+215
+13:34
+"We like each other,
+I'm physically attracted to
+
+216
+13:37
+each other,
+I--to you, I enjoy spending
+
+217
+13:40
+time with you but I'm not making
+any long-term commitments.
+
+218
+13:44
+So I'm not even willing to use
+the ‘L' word in describing
+
+219
+13:48
+what it is we have."
+Right?
+
+220
+13:50
+Many of you might have been in
+relationships of this sort.
+
+221
+13:53
+That's romance.
+That's romantic love.
+
+222
+13:55
+Now, what if you have intimacy,
+"we share secrets with each
+
+223
+14:00
+other, but there's no particular
+physical attraction but we are
+
+224
+14:05
+really committed to this
+relationship."
+
+225
+14:08
+This is what Sternberg calls
+"companionate love."
+
+226
+14:11
+This is your best friend.
+"We are committed to sharing
+
+227
+14:15
+intimacy, to being friends
+forever," but physical
+
+228
+14:19
+attraction is not part of the
+equation here.
+
+229
+14:22
+This is sort of the--maybe the
+Greek ideal in relationships of
+
+230
+14:28
+some kind.
+All right.
+
+231
+14:30
+What if we have passion,
+"I'm sexually attracted to
+
+232
+14:33
+you," but no intimacy.
+"I don't want to really know
+
+233
+14:36
+that much about you,
+I don't want to really share
+
+234
+14:38
+anything of me with you,
+but I am committed to
+
+235
+14:40
+maintaining this physical
+attraction to you" [laughter]
+
+236
+14:45
+Well,
+that's what Sternberg calls
+
+237
+14:47
+"fatuous love."
+It's a whirlwind courtship.
+
+238
+14:50
+It's a Hollywood romance.
+It might lead to a shotgun
+
+239
+14:53
+wedding.
+Maybe you find yourself in Las
+
+240
+14:56
+Vegas and you get married for a
+day and a half and then realize
+
+241
+15:00
+that this wasn't such a good
+idea.
+
+242
+15:03
+And maybe your name is Britney
+and you're a singer.
+
+243
+15:05
+[laughter]
+Well, anyway,
+
+244
+15:08
+you've got the idea.
+That's fatuous love.
+
+245
+15:12
+"We are basically committed to
+each other for sex" but it's
+
+246
+15:16
+very hard to make those
+relationships last a long time
+
+247
+15:19
+because we might not have
+anything in common,
+
+248
+15:23
+we might not share anything
+with each other,
+
+249
+15:25
+we might not trust each other,
+we are not particularly bonded
+
+250
+15:28
+to each other.
+On the other hand,
+
+251
+15:30
+if you have all three,
+intimacy, passion,
+
+252
+15:32
+commitment, this is "consummate
+love" according to Sternberg –
+
+253
+15:36
+complete love.
+This is how he defines love.
+
+254
+15:40
+Okay.
+So now you have a definition of
+
+255
+15:43
+love and you can now,
+as a homework assignment,
+
+256
+15:46
+sit down tonight and make a
+list of every person you know by
+
+257
+15:51
+the three elements of love and
+just start putting the check
+
+258
+15:57
+marks in the boxes and tallying
+up your personal love box score.
+
+259
+16:04
+And we don't want to collect
+those.
+
+260
+16:05
+We don't even want to see those
+but you can have fun with that.
+
+261
+16:09
+Then you can ask the other
+people to do it too and you can
+
+262
+16:12
+compare with each other.
+[laughter]
+
+263
+16:13
+And if you all survive this
+exercise you'll be better for
+
+264
+16:17
+it.
+[laughter]
+
+265
+16:18
+What doesn't kill you makes you
+stronger.
+
+266
+16:20
+That's the idea behind that
+exercise.
+
+267
+16:22
+All right.
+Now the social psychology of
+
+268
+16:26
+love really has been a social
+psychology of attraction.
+
+269
+16:31
+What makes people find each
+other attractive?
+
+270
+16:35
+What makes them want to be
+intimate?
+
+271
+16:37
+What makes them physically
+desirable to each other?
+
+272
+16:40
+What might lead to a
+commitment, a decision to make a
+
+273
+16:45
+commitment to make the
+relationship last?
+
+274
+16:49
+This is just so nice.
+I'm giving this lecture on love
+
+275
+16:52
+and the two of you are holding
+hands here in the front row.
+
+276
+16:55
+It's really-- [laughter]
+And-- [applause]
+
+277
+16:59
+All three elements present,
+intimacy, passion,
+
+278
+17:04
+and-- [laughter]
+Yeah.
+
+279
+17:07
+Okay.
+[laughter] Good.
+
+280
+17:09
+Just checking.
+[laughter] Okay.
+
+281
+17:13
+So what's interesting about the
+social psychology of attraction
+
+282
+17:18
+is it has focused on seven
+variables.
+
+283
+17:22
+And I've divided these into two
+groups, the big three and the
+
+284
+17:26
+more interesting four.
+And I call them the big--The
+
+285
+17:29
+big three are three variables
+that the effects are so powerful
+
+286
+17:33
+that they almost don't need to
+be discussed in much detail.
+
+287
+17:37
+The more interesting four are
+the ones I'm going to focus on
+
+288
+17:41
+in this lecture because they're
+a bit more subtle and they may
+
+289
+17:44
+be things that you've never
+heard of before.
+
+290
+17:47
+But let's quickly talk about
+the big three.
+
+291
+17:50
+The way to understand the big
+three is with the phrase "all
+
+292
+17:54
+other things being equal."
+All other things being equal,
+
+293
+17:59
+people who find themselves in
+close spatial proximity to each
+
+294
+18:04
+other,
+like sharing an armrest in a
+
+295
+18:08
+lecture, will be more likely to
+be attracted to each other and
+
+296
+18:15
+form a romantic relationship.
+Okay, all other things being
+
+297
+18:20
+equal.
+Now this has been tested in
+
+298
+18:22
+lots of interesting ways.
+Studies have been done in the
+
+299
+18:25
+city of New York where you
+can--if you live in Manhattan
+
+300
+18:28
+you can actually get a very nice
+metric of how far apart people
+
+301
+18:32
+live from each other in city
+blocks.
+
+302
+18:34
+Right?
+You have a nice grid pattern
+
+303
+18:36
+and you can use a city block
+metric to add up the number of
+
+304
+18:40
+blocks between people's doors.
+And people who live more
+
+305
+18:43
+closely together are more likely
+to end up in romantic
+
+306
+18:47
+relationships with each other.
+It seems kind of obvious.
+
+307
+18:51
+Right?
+This even works on college
+
+308
+18:53
+campuses.
+We can measure in feet the
+
+309
+18:56
+distance between the door to
+your room and the door to every
+
+310
+19:00
+other room of a student on
+campus and there will be a
+
+311
+19:03
+correlation between the
+likelihood of--it's a negative
+
+312
+19:07
+correlation--the likelihood of
+getting into a romantic
+
+313
+19:10
+relationship with a person and
+the number of feet between your
+
+314
+19:14
+door and that person's door.
+The fewer feet,
+
+315
+19:18
+the more likely a romantic
+relationship,
+
+316
+19:22
+all other things being equal.
+Now, all other things being
+
+317
+19:26
+equal is a big qualifier.
+Right?
+
+318
+19:29
+But if we could statistically
+control for every other
+
+319
+19:32
+variable, all I'd need to do is
+measure the distance from your
+
+320
+19:36
+door to everybody else's door on
+campus and I could chart out
+
+321
+19:40
+who's going to fall in love with
+whom on the Yale campus.
+
+322
+19:44
+Now, this idea in a way is--I
+don't know.
+
+323
+19:53
+Maybe it's a little
+counterintuitive.
+
+324
+19:55
+There is a kind of cultural
+myth around the stranger,
+
+325
+19:59
+the person you don't know,
+who you will--who you fall in
+
+326
+20:04
+love with.
+And that is not likely to be
+
+327
+20:07
+the case if it's the person who
+is nearby.
+
+328
+20:10
+Right?
+And you'll see as we go through
+
+329
+20:14
+the other big--the other two
+"big three" that there is a kind
+
+330
+20:19
+of repetition of this theme.
+It isn't the stranger you fall
+
+331
+20:23
+in love with.
+All right.
+
+332
+20:24
+Let's continue down.
+Similarity.
+
+333
+20:27
+You've probably heard the
+phrase "Birds of a feather flock
+
+334
+20:31
+together" and that's true when
+it comes to romance.
+
+335
+20:34
+On any dimension that
+psychologists have measured in
+
+336
+20:39
+these kinds of studies,
+when people are more similar
+
+337
+20:43
+they are more likely to find
+each other attractive.
+
+338
+20:47
+This could be obvious things
+like height or age but it also
+
+339
+20:51
+could be things like attitudes
+toward capital punishment,
+
+340
+20:55
+preference for the Red Sox over
+the Yankees.
+
+341
+20:58
+Right?
+All of these are dimensions of
+
+342
+21:02
+similarity.
+All things being equal,
+
+343
+21:04
+the more similar the more
+likely you'll find each other
+
+344
+21:07
+attractive.
+So, opposites don't really
+
+345
+21:11
+attract.
+Birds of a feather may flock
+
+346
+21:14
+together but opposites don't
+really attract each other.
+
+347
+21:18
+Now, usually at this point
+somebody in the lecture hall
+
+348
+21:22
+raises their hand and says,
+"Well, my boyfriend or my
+
+349
+21:26
+girlfriend and I are complete
+opposites and how do you account
+
+350
+21:31
+for that,
+Professor Salovey?"
+
+351
+21:34
+And I usually look at them and
+I say, "Good luck."
+
+352
+21:40
+[laughter]
+And of course all things might
+
+353
+21:41
+not be equal.
+There may be other variables at
+
+354
+21:44
+play but, all things being
+equal, similarity does not breed
+
+355
+21:48
+contempt.
+Similarity breeds attraction.
+
+356
+21:52
+Okay?
+Isn't it interesting?
+
+357
+21:55
+We have all of these common
+sayings that contradict each
+
+358
+21:57
+other and then empirically,
+some of them turn out to have
+
+359
+22:00
+more evidence supporting them
+than others.
+
+360
+22:02
+So "opposites attract?"
+Not much evidence.
+
+361
+22:05
+"Similarity breeds contempt?"
+Not much evidence.
+
+362
+22:09
+"Birds of a feather flock
+together?"
+
+363
+22:11
+Yeah, there's some evidence for
+that anyway.
+
+364
+22:13
+Finally, familiarity.
+Familiarity--We tend to fall in
+
+365
+22:17
+love with people in our
+environment with whom we are
+
+366
+22:20
+already familiar.
+The idea that some enchanted
+
+367
+22:24
+evening we will see a
+stranger--Where are The New Blue
+
+368
+22:29
+when you need them?
+[laughter]
+
+369
+22:32
+"Some enchanted evening you
+will see a stranger across a
+
+370
+22:35
+crowded room."
+Right?
+
+371
+22:38
+What musical is that from?
+"South Pacific."
+
+372
+22:41
+Very good.
+You will see a stranger across
+
+373
+22:44
+a crowded room.
+That's kind of a cultural myth.
+
+374
+22:48
+Of course it happens,
+but much more common is
+
+375
+22:52
+somebody you already know,
+somebody you have seen
+
+376
+22:56
+repetitively you suddenly find
+attraction--attractive and a
+
+377
+23:01
+relationship forms.
+Okay?
+
+378
+23:05
+So the big three:
+People who are similar to you,
+
+379
+23:08
+people who are already familiar
+to you, people who are nearby in
+
+380
+23:13
+space.
+These are the people,
+
+381
+23:15
+all things being equal,
+that you will find attractive.
+
+382
+23:19
+Okay?
+So those are the big three.
+
+383
+23:23
+Those are big main effects.
+Those are big,
+
+384
+23:26
+easy to observe in various ways
+in the lab.
+
+385
+23:30
+By the way, the familiarity
+idea doesn't just work for
+
+386
+23:33
+people.
+I can show you words in a
+
+387
+23:36
+language that you don't speak
+and I can flash those words to
+
+388
+23:41
+you very quickly and I can later
+repeat some of those words and
+
+389
+23:46
+mix in some new ones that you've
+never seen before and I can say,
+
+390
+23:52
+"I don't know--I know you don't
+know what any of these words
+
+391
+23:55
+mean.
+I know you can't read these
+
+392
+23:57
+characters but just,
+if you had to tell me,
+
+393
+24:00
+which ones do you like and
+which ones don't you like or how
+
+394
+24:03
+much do you like each one?"
+The ones you will like are the
+
+395
+24:07
+ones you saw earlier,
+the ones that you already have
+
+396
+24:09
+familiarity.
+Even if you don't remember
+
+397
+24:12
+having seen them,
+even if that familiarity was
+
+398
+24:15
+generated with such quick
+exposures that you don't
+
+399
+24:18
+remember even having seen
+anything,
+
+400
+24:21
+you will get that familiarity
+effect.
+
+401
+24:25
+Okay?
+Good.
+
+402
+24:28
+The more interesting four.
+These are more interesting
+
+403
+24:32
+because they're a little bit
+complicated, a little bit
+
+404
+24:35
+subtle.
+Let's start with actually the
+
+405
+24:38
+one that is my favorite.
+This is "competence."
+
+406
+24:41
+Think about other people in
+your environment.
+
+407
+24:44
+Think about people who are
+competent.
+
+408
+24:48
+Generally--And think about
+people who are incompetent.
+
+409
+24:51
+Generally, we are more
+attracted to people who seem
+
+410
+24:54
+competent to us.
+Now, that isn't very
+
+411
+24:58
+interesting.
+And it turns out that's not
+
+412
+25:01
+really the effect.
+Yes, we're more attracted to
+
+413
+25:05
+people who are competent than
+people who we think are
+
+414
+25:08
+incompetent but people who are
+super competent,
+
+415
+25:11
+people who seem competent on
+all dimensions,
+
+416
+25:13
+they're kind of threatening to
+us.
+
+417
+25:15
+They don't make us feel so good
+about ourselves.
+
+418
+25:18
+Right?
+They make us feel a bit
+
+419
+25:21
+diminished by comparison.
+So, what we really like--The
+
+420
+25:26
+kind of person we're really
+attracted to is the competent
+
+421
+25:30
+individual who occasionally
+blunders.
+
+422
+25:34
+And this is called the Pratfall
+Effect, that our liking for the
+
+423
+25:39
+competent person grows when they
+make a mistake,
+
+424
+25:43
+when they do something
+embarrassing,
+
+425
+25:45
+when they have a failure
+experience.
+
+426
+25:48
+Okay?
+You can see this with public
+
+427
+25:52
+figures.
+Public figures who are viewed
+
+428
+25:54
+as competent but who pratfall,
+who make a mistake,
+
+429
+25:58
+sometimes they are even more
+popular after the mistake.
+
+430
+26:02
+Okay?
+I think of Bill Clinton when he
+
+431
+26:07
+was President.
+His popularity at the end of
+
+432
+26:10
+his term, despite what everyone
+would agree, whether you like
+
+433
+26:13
+Bill Clinton or not,
+was a big mistake with Monica
+
+434
+26:17
+Lewinsky, his popularity didn't
+suffer very much.
+
+435
+26:21
+A lot of people in the media
+would describe him,
+
+436
+26:23
+"Well, he's just--It just shows
+he's human."
+
+437
+26:26
+He makes mistakes like the rest
+of us, even though that was a
+
+438
+26:29
+pretty big mistake.
+Right?
+
+439
+26:31
+And you could see this even
+with smaller pratfalls.
+
+440
+26:33
+Sometimes public figures are
+liked even more after their
+
+441
+26:37
+pratfall.
+Now, the classic experiment,
+
+442
+26:40
+the classic pratfall
+experiment, is just a beautiful
+
+443
+26:44
+one to describe.
+It's a work of art.
+
+444
+26:46
+So, let me tell you a little
+bit about it.
+
+445
+26:49
+You're in this experiment.
+You're brought to the lab and
+
+446
+26:53
+you're listening to a tape
+recording of interviews with
+
+447
+26:57
+people who are described as
+possible representatives from
+
+448
+27:01
+your college to appear on a quiz
+show.
+
+449
+27:04
+The quiz show is called
+"College Bowl," which I don't
+
+450
+27:07
+think is on anymore but was on
+when I was in college.
+
+451
+27:10
+And you're listening to
+interviews with possible
+
+452
+27:13
+contestants from Yale who are
+going to be on "College Bowl."
+
+453
+27:17
+You have to decide how
+much--What you're told is you
+
+454
+27:20
+have to decide who should be
+chosen to be on "College Bowl."
+
+455
+27:24
+And you listen to these
+interviews.
+
+456
+27:26
+Now what's interesting is
+there's two types of people,
+
+457
+27:30
+the nearly perfect person and
+the mediocre person.
+
+458
+27:33
+The nearly perfect person
+answered 92% of the questions
+
+459
+27:38
+correctly, admitted modestly to
+being a member of the campus
+
+460
+27:44
+honor society,
+was the editor of the yearbook,
+
+461
+27:49
+and ran varsity track.
+That's the nearly perfect
+
+462
+27:53
+person.
+The mediocre person answers
+
+463
+27:57
+only 30% of the questions
+correctly, admits that he has
+
+464
+28:02
+only average grades,
+he worked on the yearbook as a
+
+465
+28:06
+proofreader, and he tried out
+for the track team but didn't
+
+466
+28:10
+make it.
+So, you see,
+
+467
+28:12
+they're keeping a lot of the
+elements consistent but in one
+
+468
+28:15
+case he's kind of an average
+performer and in the other case
+
+469
+28:18
+nearly perfect.
+Now, which of these two people
+
+470
+28:21
+do you find more attractive in
+listening to the tape?
+
+471
+28:24
+So, when they ask you questions
+about which person should be on
+
+472
+28:28
+the quiz show,
+people say the more competent
+
+473
+28:30
+person.
+But they also ask questions
+
+474
+28:32
+like, "How attractive do you
+find this person?"
+
+475
+28:35
+Now, you're only listening to
+an audiotape.
+
+476
+28:37
+How attractive do you find this
+person?
+
+477
+28:39
+And the results are pretty
+obvious.
+
+478
+28:43
+The competent person is rated
+as much more attractive,
+
+479
+28:46
+considerably more attractive,
+than the mediocre person.
+
+480
+28:51
+Okay?
+If this were the end of the
+
+481
+28:54
+story though,
+it would be a kind of boring
+
+482
+28:56
+story and it's not the end of
+the story.
+
+483
+28:58
+Now, what happens is half of
+the participants in the
+
+484
+29:01
+experiment who have listened to
+each of these tapes--You only
+
+485
+29:05
+get to listen to one tape.
+Half of them are assigned to
+
+486
+29:09
+the blunder condition.
+And what happens in the blunder
+
+487
+29:13
+condition is the tape continues
+and what you hear is the
+
+488
+29:16
+clattering of dishes,
+a person saying--the person
+
+489
+29:20
+saying, "Oh, my goodness.
+I've spilled coffee all over my
+
+490
+29:25
+new suit."
+Okay?
+
+491
+29:27
+That's the blunder.
+That's the pratfall.
+
+492
+29:31
+Now you're asked,
+"Who do you find more
+
+493
+29:33
+attractive?"
+And look what happens.
+
+494
+29:36
+Your rating of the
+attractiveness of the competent
+
+495
+29:41
+person grows even higher.
+The competent person who
+
+496
+29:46
+blunders, this is the person
+that I love.
+
+497
+29:50
+Unfortunately,
+the mediocre person who
+
+498
+29:53
+blunders, you now think is even
+more mediocre.
+
+499
+29:56
+[laughter] Right?
+This is the sad irony in these
+
+500
+30:00
+experiments.
+The effect works both ways so
+
+501
+30:03
+the mediocre become even more
+lowered in your esteem,
+
+502
+30:08
+in your regard.
+Now, I'll tell you a little
+
+503
+30:11
+personal story about my coming
+to Yale that relates to this
+
+504
+30:14
+experiment.
+This is one of the most famous
+
+505
+30:16
+experiments in the history of
+social psychology.
+
+506
+30:19
+I wouldn't quite put it up
+there.
+
+507
+30:20
+You'll hear maybe later about,
+or maybe you've already about
+
+508
+30:24
+Milgram and maybe Asch
+conformity and maybe Robber's
+
+509
+30:28
+Cave.
+Those are even better known
+
+510
+30:30
+than this, but this is right up
+there.
+
+511
+30:32
+This is a top five experiment.
+What--So--And it was done by
+
+512
+30:35
+Elliot Aronson who has retired
+now, but for many years taught
+
+513
+30:39
+at the University of California
+at Santa Cruz.
+
+514
+30:43
+The name is not one that you
+need to know.
+
+515
+30:45
+In any case,
+I came to Yale in 1981 as a
+
+516
+30:48
+graduate student and I was
+looking for an adviser and I was
+
+517
+30:52
+kind of interviewing with a
+faculty member at Yale at the
+
+518
+30:57
+time named Judy Rodin.
+Some of you may know that name
+
+519
+31:00
+because she went on later to
+become the President of the
+
+520
+31:03
+University of Pennsylvania and
+now is the President of the
+
+521
+31:06
+Rockefeller Foundation.
+But I was interviewing with her
+
+522
+31:10
+and set up a meeting.
+And what I was trying to
+
+523
+31:13
+persuade her in this meeting was
+to take me on as one of her
+
+524
+31:17
+students, to let--to be my
+adviser.
+
+525
+31:19
+And it's about my third or
+fourth week of graduate school
+
+526
+31:22
+and I'm pretty nervous about
+this.
+
+527
+31:23
+And she could be intimidating
+to a first-year graduate
+
+528
+31:27
+student.
+And I remember I was holding
+
+529
+31:30
+this mug of coffee and I was
+pleading with her,
+
+530
+31:33
+trying to convince her to take
+me on as her student,
+
+531
+31:35
+and I was saying,
+"Judy,
+
+532
+31:36
+I'll get a lot done.
+I'll work really hard.
+
+533
+31:40
+I can analyze data.
+I can write."
+
+534
+31:43
+And I'm talking about myself
+and I'm swinging--I'm using my
+
+535
+31:46
+hands as I talk.
+I'm swinging this cup of coffee
+
+536
+31:49
+around.
+And fairly soon into the
+
+537
+31:51
+conversation I demonstrated some
+principle that you've probably
+
+538
+31:55
+learned in your physics class
+having to do with an object at
+
+539
+31:59
+rest remaining at rest unless
+acted upon by a force.
+
+540
+32:02
+Well, the object at rest was
+the coffee in the cup and when I
+
+541
+32:07
+pulled the coffee cup out from
+under the coffee it landed right
+
+542
+32:12
+on her desk and began--I watched
+in slow motion as this wave of
+
+543
+32:17
+coffee just moved from my side
+of the desk to her side of the
+
+544
+32:22
+desk.
+She jumped up and jumped back
+
+545
+32:25
+and started moving papers around
+and really was giving me this
+
+546
+32:28
+look like "Why don't you just
+leave?"
+
+547
+32:31
+So, I was trying to save the
+moment as best as I could,
+
+548
+32:35
+and I looked at her and I said,
+"Judy, do you remember that old
+
+549
+32:40
+experiment that Elliot Aronson
+did [laughter]
+
+550
+32:44
+on attractiveness?"
+[laughter]
+
+551
+32:46
+She looked at me kind of out of
+the corner of her eye and I
+
+552
+32:51
+said, "Well, that was my
+blunder.
+
+553
+32:53
+[laughter]
+Now you're going to like me
+
+554
+32:56
+even more."
+[laughter]
+
+555
+32:58
+And she just shook her head and
+she said, "Peter,
+
+556
+33:02
+Peter, Peter.
+You know that effect only works
+
+557
+33:06
+if I think you're competent
+first."
+
+558
+33:09
+[laughter]
+Anyway, that was my
+
+559
+33:10
+introduction to Yale,
+graduate school at Yale.
+
+560
+33:13
+[laughter] All right.
+So blundering.
+
+561
+33:15
+Only blunder if you're
+competent first and it will make
+
+562
+33:19
+you more attractive.
+That is the Pratfall Effect.
+
+563
+33:23
+Let's move on and I'm going to
+move a little bit quickly
+
+564
+33:27
+through all this because I want
+to leave time for a few
+
+565
+33:31
+questions at the end of the
+lecture.
+
+566
+33:33
+Let's talk about physical
+attractiveness as number two of
+
+567
+33:38
+the more interesting four.
+Now physical attractiveness is
+
+568
+33:44
+one that really bothers us.
+We don't like to believe that
+
+569
+33:48
+physical attractiveness accounts
+for much in life.
+
+570
+33:52
+It seems unfair.
+Except at the margins,
+
+571
+33:55
+there isn't much we can do
+about physical attractiveness.
+
+572
+33:58
+And when we're not pictured in
+The Rumpus it can really
+
+573
+34:02
+hurt.
+[laughter]
+
+574
+34:03
+So, we all like to believe that
+physical attractiveness matters.
+
+575
+34:09
+And the interesting thing is if
+you do surveys of college
+
+576
+34:12
+students and you say to them,
+"Rate how important different
+
+577
+34:17
+characteristics are in
+relationships that you might be
+
+578
+34:22
+involved in,"
+they will say that warmth is
+
+579
+34:25
+important, sensitivity is
+important, intelligence is
+
+580
+34:29
+important,
+compassion is important,
+
+581
+34:33
+a sense of humor is important,
+and they'll say that looks
+
+582
+34:37
+aren't important.
+But if you measure all of those
+
+583
+34:42
+things--Let's do it in a
+different order.
+
+584
+34:45
+If you send everybody out on a
+blind date and then you look at,
+
+585
+34:51
+after the blind date,
+how many of those people who
+
+586
+34:55
+are matched up blindly actually
+go on a second date,
+
+587
+34:58
+actually get together again,
+what predicts who gets together
+
+588
+35:04
+again?
+Was it the rating of warmth?
+
+589
+35:08
+No.
+Sensitivity?
+
+590
+35:09
+No.
+Intelligence?
+
+591
+35:11
+No.
+Compassion?
+
+592
+35:13
+No.
+Sense of humor?
+
+593
+35:15
+No.
+What was it?
+
+594
+35:19
+Looks.
+So we believe that looks don't
+
+595
+35:24
+matter and unfortunately they
+do.
+
+596
+35:28
+Now, the good news in all of
+this is the studies that looked
+
+597
+35:32
+at physical attractiveness in
+this way were just looking at
+
+598
+35:36
+what predicts a second date
+after a first date.
+
+599
+35:39
+Obviously, what predicts a
+long-term relationship are
+
+600
+35:43
+probably things less superficial
+than looks, or at least other
+
+601
+35:47
+things in addition to looks.
+But it is a great predictor of
+
+602
+35:51
+a second date.
+And college students year after
+
+603
+35:55
+year say, "But it's not
+important."
+
+604
+35:57
+And it's one of those classic
+disassociations between what we
+
+605
+36:01
+think is unimportant and what
+empirically turns out to be more
+
+606
+36:04
+important.
+Alright well,
+
+607
+36:06
+there are very interesting
+studies that have been done with
+
+608
+36:08
+physical attractiveness.
+At the University of Minnesota,
+
+609
+36:12
+a computer algorithm paired
+people up.
+
+610
+36:16
+It couldn't have been a very
+complicated algorithm because it
+
+611
+36:20
+basically paired people up
+randomly on the campus.
+
+612
+36:23
+But the computer--but a lot of
+data about all the students on
+
+613
+36:28
+campus were--was collected--were
+collected and people were then
+
+614
+36:33
+randomly paired up and sent to
+the dance.
+
+615
+36:36
+And then they were tracked over
+time.
+
+616
+36:39
+And just as in the thought
+experiment I just gave you,
+
+617
+36:42
+the University of Minnesota
+students acted in the same way.
+
+618
+36:45
+If the computer--If they rated
+their partner as attractive,
+
+619
+36:50
+the randomly assigned partner,
+they were more likely to
+
+620
+36:54
+continue the relationship.
+Now it's interesting to ask,
+
+621
+36:59
+"why?"
+And we have to start to look at
+
+622
+37:02
+other experiments to try to get
+at what is it about physical
+
+623
+37:06
+attractiveness that makes people
+want to pursue the relationship?
+
+624
+37:10
+And once again Elliot Aronson,
+the person who did the blunder
+
+625
+37:15
+experiment, the "Pratfall"
+experiment, he did some nice
+
+626
+37:19
+work on attractiveness as well.
+And in one experiment,
+
+627
+37:23
+which many people know as the
+"Frizzy Wig" experiment,
+
+628
+37:26
+he did the following.
+He invited a confederate,
+
+629
+37:30
+a graduate student who was
+working with him in his
+
+630
+37:33
+lab--Psychologists--Social
+psychologists always call people
+
+631
+37:37
+who are in the employ of the
+experimenter "confederates."
+
+632
+37:41
+It doesn't mean that they grew
+up south of the Mason-Dixon Line
+
+633
+37:46
+or wave a certain kind of flag
+or--but the older term for it
+
+634
+37:50
+was "stooge."
+They would say,
+
+635
+37:52
+"We hired a stooge to act in
+the following role in the
+
+636
+37:55
+experiment."
+But I think a certain
+
+637
+37:57
+generation of college students
+thought stooges were only named
+
+638
+38:01
+Moe,
+Larry, and Curly and so they
+
+639
+38:03
+started to use the phrase
+"confederate."
+
+640
+38:06
+Now, they'll usually just say,
+"We hired an actor."
+
+641
+38:08
+But anyway, the confederate
+that they hired was a woman who
+
+642
+38:12
+was naturally attractive in most
+people's view but they made her
+
+643
+38:17
+look either more attractive or
+less attractive by giving her
+
+644
+38:22
+kind of frumpy clothes,
+bad make-up, and a frizzy wig.
+
+645
+38:27
+And it was the frizzy wig that
+everybody remembers from this
+
+646
+38:30
+experiment.
+And what she does in the
+
+647
+38:33
+experiment is she poses as a
+graduate student in clinical
+
+648
+38:36
+psychology who is interviewing
+male participants – only men
+
+649
+38:40
+in this experiment.
+And at the end of the interview
+
+650
+38:44
+she gives them her own personal
+clinical evaluation of their
+
+651
+38:50
+personality.
+Okay?
+
+652
+38:52
+So, that's all it is.
+They have this interview with
+
+653
+38:54
+this woman.
+She's either made to look very
+
+654
+38:57
+good or she's made to look kind
+of ugly with this frizzy wig and
+
+655
+39:01
+they talk to her.
+She gives them an evaluation of
+
+656
+39:05
+their personality.
+Half of the subjects receive a
+
+657
+39:08
+favorable personality
+assessment.
+
+658
+39:11
+Half of them receive a kind of
+unfavorable evaluation.
+
+659
+39:15
+How do they respond?
+Well, when she was made to look
+
+660
+39:20
+attractive they were delighted
+when she gave them positive
+
+661
+39:25
+feedback about themselves.
+When she was made to--When she
+
+662
+39:30
+gave--When she was made to look
+attractive but gave them
+
+663
+39:34
+unfavorable information about
+themselves,
+
+664
+39:38
+they were really upset about it.
+When she was made to look
+
+665
+39:42
+unattractive they didn't really
+care what kind of information
+
+666
+39:48
+she gave.
+It didn't really matter whether
+
+667
+39:51
+it was positive or not.
+It didn't really make any
+
+668
+39:55
+difference.
+It was interesting.
+
+669
+39:58
+In the condition where she was
+made to look attractive but gave
+
+670
+40:01
+you bad feedback about yourself,
+often the subjects in that
+
+671
+40:05
+condition would look for an
+opportunity to interact with her
+
+672
+40:09
+in the future,
+obviously to try to prove that
+
+673
+40:12
+her evaluation was wrong.
+It mattered that much to them.
+
+674
+40:15
+So there's kind of this idea
+that attractive people,
+
+675
+40:19
+their feedback to us has more
+impact.
+
+676
+40:22
+I'm not saying this is fair,
+I'm not saying it's rational,
+
+677
+40:26
+I'm not endorsing it,
+but empirically-- excuse
+
+678
+40:30
+me--empirically we can see it,
+that somehow the
+
+679
+40:35
+attractive--the feedback from
+the attractive person matters
+
+680
+40:41
+more to us.
+Okay.
+
+681
+40:43
+Number three of the more
+interesting four.
+
+682
+40:47
+Gain, loss.
+This is really a general idea
+
+683
+40:52
+in psychology that we are in a
+way wired up to be more
+
+684
+40:57
+sensitive to change than to
+steady states.
+
+685
+41:02
+And you could imagine why that
+might be true.
+
+686
+41:04
+Change often signals danger or
+opportunity and if we are
+
+687
+41:10
+especially tuned-in to change,
+it helps us survive and it
+
+688
+41:15
+helps us pass along our genes.
+Okay?
+
+689
+41:21
+So we're more sensitive to
+change.
+
+690
+41:23
+How does that play out in love?
+Well, in love we are--what is
+
+691
+41:28
+very powerful to us is not just
+that someone always is positive
+
+692
+41:35
+toward us,
+"I love you,
+
+693
+41:37
+I love you, I love you,
+I love you, I love --" Right?
+
+694
+41:40
+It wears out its welcome.
+What's more powerful is the
+
+695
+41:45
+person who was not that positive
+to us but over time becomes more
+
+696
+41:51
+positive.
+The first derivative of their
+
+697
+41:55
+regard for us is positive.
+Okay?
+
+698
+41:59
+Aronson calls this the "Gain
+Effect."
+
+699
+42:01
+We are really attracted to
+people whose regard for us is
+
+700
+42:06
+gaining momentum over time.
+Okay?
+
+701
+42:10
+And even if over a period of
+time the average amount of their
+
+702
+42:14
+regard is lower because they
+started lower and then got
+
+703
+42:18
+higher than someone who was
+always high,
+
+704
+42:21
+it's the ones who were first
+lower who then went up that
+
+705
+42:26
+capture our attention.
+The first derivative is more
+
+706
+42:29
+important than just the position
+of their regard for us,
+
+707
+42:33
+getting better and better.
+Now, what's interesting is
+
+708
+42:37
+there is also a loss effect.
+People who really hurt us are
+
+709
+42:42
+not the people who have always
+been negative.
+
+710
+42:47
+The person who every time they
+sees you hates you,
+
+711
+42:51
+says they hate you and
+accompanies it with an obscene
+
+712
+42:55
+gesture--after a while this
+person can't hurt you.
+
+713
+42:59
+Right?
+There's a country song that
+
+714
+43:02
+Ricky Skaggs sings that has the
+phrase in it "Nothing can hurt
+
+715
+43:07
+you like the person you love."
+That's what hurts,
+
+716
+43:12
+the person who always was
+positive who now--whose regard
+
+717
+43:16
+starts to fade.
+Oh.
+
+718
+43:18
+You can only hurt the one you
+love.
+
+719
+43:20
+Right?
+You can only hurt the one you
+
+720
+43:22
+love because you are expecting
+positive feedback from the one
+
+721
+43:26
+you love.
+And when that turns negative,
+
+722
+43:29
+it's a blow.
+It's a blow to the solar plexus.
+
+723
+43:33
+Right?
+So you can only hurt the one
+
+724
+43:36
+you can love but the one who
+always loves you sometimes has
+
+725
+43:39
+trouble showing you that they
+love you.
+
+726
+43:41
+The one who didn't really love
+you that much but then starts to
+
+727
+43:46
+show you that they love you,
+that person is a powerful
+
+728
+43:49
+influence on your behavior.
+Okay.
+
+729
+43:54
+The last--Oops.
+Come back.
+
+730
+43:57
+The last set of studies--Have
+you talked about Schacter,
+
+731
+44:02
+Singer's "Emotions"?
+Okay.
+
+732
+44:04
+So let me describe to you this
+phenomenon.
+
+733
+44:08
+This is a phenomenon about the
+misattribution for the causes of
+
+734
+44:16
+arousal.
+You feel physiologically
+
+735
+44:20
+aroused but you're not
+completely sure why,
+
+736
+44:24
+and you have to make up an
+explanation for it.
+
+737
+44:29
+I think what I want to do--And
+sometimes that explanation is
+
+738
+44:33
+accurate, but the ones that are
+interesting here are the ones
+
+739
+44:37
+where you misattribute the cause
+of the arousal--you make a
+
+740
+44:41
+mistake and think it's love when
+it might be due to something
+
+741
+44:46
+else.
+So, let's do a thought
+
+742
+44:49
+experiment.
+I'm a Yale college student,
+
+743
+44:52
+for the purposes of this
+thought experiment and I live in
+
+744
+44:56
+Pierson because I need to walk a
+great distance to Chapel Street,
+
+745
+45:02
+to the Starbuck's on Chapel
+Street.
+
+746
+45:04
+And I have a friend who I don't
+know that well,
+
+747
+45:07
+somebody who was sitting next
+to me in class a few weeks in a
+
+748
+45:11
+row.
+And I said, "Would you like to
+
+749
+45:14
+go see The New Blue in concert
+and then get coffee after it
+
+750
+45:20
+Friday night?"
+And she says to me, "Sure.
+
+751
+45:24
+I would do that."
+And so The New Blue concert
+
+752
+45:27
+takes place in the
+Pierson-Davenport Theater in the
+
+753
+45:30
+basement there – what used to
+be a squash court is now a
+
+754
+45:34
+little theater – and we enjoy
+ourselves at the concert and
+
+755
+45:38
+then I say,
+"Let's go to Starbuck's and get
+
+756
+45:41
+a coffee."
+And so, we walk that distance
+
+757
+45:44
+from Pierson College down to the
+York Street Gate,
+
+758
+45:49
+over to Chapel Street,
+make the left on Chapel Street,
+
+759
+45:53
+another block down to High,
+walk into the Starbuck's.
+
+760
+45:57
+And she says to me,
+"You know, I'd better have a
+
+761
+46:01
+decaf because it's kind of late
+and I want to be able to sleep."
+
+762
+46:07
+And I say, "That's fine.
+Whatever you want."
+
+763
+46:09
+She says, "Yeah.
+So I'll have a decaf double
+
+764
+46:12
+espresso mocha skinny with a--"
+What?
+
+765
+46:16
+What other dimensions are there?
+[laughter] Right?
+
+766
+46:18
+"A double espresso mocha skinny
+frothed."
+
+767
+46:24
+[laughter] And I say, "Okay.
+Fine.
+
+768
+46:25
+I'll have a coffee."
+[laughter]
+
+769
+46:27
+And I go up there and I order
+the drinks.
+
+770
+46:30
+"I'll have a small coffee
+please and a double espresso
+
+771
+46:35
+mocha skinny frothed" except the
+barista makes a mistake.
+
+772
+46:40
+Did the word "barista" exist
+before Starbuck's?
+
+773
+46:43
+[laughter] I don't think so.
+The barista makes a mistake.
+
+774
+46:48
+The barista uses caffeinated
+coffee in the drink instead of
+
+775
+46:53
+decaf, doesn't tell anybody,
+doesn't tell me.
+
+776
+46:57
+I don't see it.
+I just come back with my black
+
+777
+47:01
+coffee and my double espresso
+mocha latte skinny frothed,
+
+778
+47:07
+except it isn't espresso.
+It's got two shots of
+
+779
+47:12
+caffeinated espresso.
+I'm sorry.
+
+780
+47:14
+It isn't decaffeinated.
+It's got two shots of
+
+781
+47:17
+caffeinated espresso in it.
+And I put it down on the table
+
+782
+47:21
+and we're having this nice
+conversation and we're drinking
+
+783
+47:25
+our beverages and it's about
+12:30/1:00 now and Starbuck's is
+
+784
+47:29
+closing and it's time to walk
+back to Pierson.
+
+785
+47:33
+And we're walking back to
+Pierson and we leave the
+
+786
+47:37
+Starbuck's, we make a left on
+Chapel Street,
+
+787
+47:41
+we're walking up to York,
+I'm getting a little sleepy,
+
+788
+47:45
+but my friend looks at me and
+says,
+
+789
+47:48
+"Huh.
+I feel a little funny."
+
+790
+47:50
+What's actually happening?
+Her heart is beating a little
+
+791
+47:55
+faster, her palms are beginning
+to sweat, her breath is coming a
+
+792
+48:00
+little shorter than it otherwise
+would.
+
+793
+48:03
+"I don't know.
+Is it warm in here?"
+
+794
+48:08
+And she said,
+"I don't think I've felt this
+
+795
+48:12
+way in a very long time.
+[laughter] "Gee.
+
+796
+48:16
+It couldn't be the coffee.
+I ordered decaf.
+
+797
+48:21
+What could this be?
+What.."
+
+798
+48:23
+And she turns and she looks at
+me [laughter]
+
+799
+48:29
+and she says,
+"What a day this has been.
+
+800
+48:34
+What a rare mood I'm in.
+Why, it's almost like being in
+
+801
+48:39
+love."
+[laughter]
+
+802
+48:41
+And it is almost like being in
+love except what it really is is
+
+803
+48:44
+two shots of caffeinated
+espresso [laughter]
+
+804
+48:46
+causing a rapid heart rate,
+an increase in respiration,
+
+805
+48:50
+sweaty palms,
+but I don't realize--she
+
+806
+48:53
+doesn't realize that's what it
+is.
+
+807
+48:57
+She turns to the most
+salient--and this is the way
+
+808
+49:00
+social psychologists would say
+it--turns to the most salient
+
+809
+49:03
+object in her immediate social
+environment--that would be
+
+810
+49:07
+me--and [laughter]
+says she's in love.
+
+811
+49:10
+That's the idea of
+misattribution--aroused due to
+
+812
+49:13
+something else,
+"don't know what that is."
+
+813
+49:16
+It's best if you don't know
+what that is or even if you do
+
+814
+49:19
+mistakenly attribute it,
+misattribute it,
+
+815
+49:22
+to physical attraction,
+romance, intimacy,
+
+816
+49:26
+passion and commitment,
+it's love.
+
+817
+49:29
+All right.
+Now, I don't necessarily
+
+818
+49:33
+recommend that you do this
+thought experiment in vivo this
+
+819
+49:39
+weekend,
+although if you're lonely you
+
+820
+49:42
+might want to try it but
+[laughter]
+
+821
+49:45
+we can go--we can take this
+idea right--We can actually do
+
+822
+49:48
+research on this.
+We could take it into the lab.
+
+823
+49:51
+But before I tell you about lab
+experiments let me tell you
+
+824
+49:54
+about the most famous field
+experiment on this idea.
+
+825
+49:57
+We call this the "Rickety
+Bridge" experiment.
+
+826
+50:00
+And there is a bridge at the
+University of British Columbia
+
+827
+50:05
+that crosses a river that runs
+through campus and the
+
+828
+50:09
+rickety--There's actually two
+bridges.
+
+829
+50:12
+The rickety bridge is one
+that's kind of a rope bridge.
+
+830
+50:16
+It's hundreds of feet above the
+river.
+
+831
+50:19
+It sways in the breeze.
+It's only about three feet wide.
+
+832
+50:23
+You kind of hold on to it
+carefully and you cross the
+
+833
+50:26
+river.
+It's a pretty scary way to
+
+834
+50:27
+cross that river.
+Has anybody been--seen this
+
+835
+50:30
+bridge?
+It's still there.
+
+836
+50:31
+Yes.
+You know this bridge.
+
+837
+50:32
+Okay.
+There's another way to cross
+
+838
+50:35
+the river.
+It's on a low bridge near the
+
+839
+50:38
+water, solid wood planks,
+nice and wide,
+
+840
+50:41
+hand railings made out of solid
+wood, and you can cross the
+
+841
+50:45
+bridge that way.
+So, what two investigators at
+
+842
+50:49
+the University of British
+Columbia did is they simply
+
+843
+50:52
+positioned,
+once again, an attractive actor
+
+844
+50:57
+or confederate on one side of
+the bridge.
+
+845
+51:03
+She was a woman and she met men
+crossing the bridge.
+
+846
+51:10
+And she would intercept them as
+they came across the rickety
+
+847
+51:13
+bridge, or the low bridge,
+and she would ask them a few
+
+848
+51:17
+questions and conclude with,
+"Can you write me a story?
+
+849
+51:20
+You would help me out with my
+experiment if you'd just write a
+
+850
+51:24
+little story right now."
+Then she would collect their
+
+851
+51:27
+story and she would say,
+"If you have any questions
+
+852
+51:30
+about this experiment,
+here is my phone number."
+
+853
+51:33
+Actually, this happens when
+you're in experiments.
+
+854
+51:35
+You get the phone number of the
+experimenter.
+
+855
+51:37
+What happens?
+Well, the men,
+
+856
+51:40
+male students,
+who cross the rickety bridge,
+
+857
+51:44
+they wrote these sexy stories
+with interesting content,
+
+858
+51:50
+with kind of little bit ribald
+themes.
+
+859
+51:56
+And the people on the solid
+bridge, they just wrote pretty
+
+860
+52:00
+boring stories.
+The people who crossed the
+
+861
+52:03
+rickety bridge were more likely
+to call her up later and say,
+
+862
+52:07
+"Yeah.
+I'd like to talk about that
+
+863
+52:08
+experiment I was in.
+Could we meet at the Starbuck's?
+
+864
+52:11
+[laughter]
+You drink decaf,
+
+865
+52:13
+don't you?"
+Right?
+
+866
+52:15
+And the people on the low
+bridge were much less likely to
+
+867
+52:19
+call her up.
+Okay?
+
+868
+52:22
+What was going on?
+Well, this was interpreted as
+
+869
+52:25
+misattributed arousal.
+On the rickety bridge you're
+
+870
+52:28
+swaying in the breeze hundreds
+of feet above the water,
+
+871
+52:31
+the bridge seems unstable.
+Maybe you'll make it.
+
+872
+52:34
+Maybe you won't.
+Your heart is beating,
+
+873
+52:36
+your palms are sweating,
+you're breathing harder.
+
+874
+52:39
+You meet this person and she
+seems more attractive because
+
+875
+52:42
+you're feeling all these things.
+And you attribute it to the
+
+876
+52:47
+attraction.
+Now, there's a reason why this
+
+877
+52:50
+study is bad science.
+There's a major flaw in this
+
+878
+52:56
+study.
+The clue to the flaw is that
+
+879
+52:59
+you can't even call this study
+an experiment.
+
+880
+53:03
+What's the flaw?
+Anybody.
+
+881
+53:05
+Yes.
+Student: The people who
+
+882
+53:11
+would take the rickety bridge
+might be more likely to be more
+
+883
+53:14
+[inaudible]
+Dean Peter Salovey:
+
+884
+53:15
+People who take the rickety
+bridge might be the kind of
+
+885
+53:18
+people who are more looking for
+adventure than the people who
+
+886
+53:20
+take the solid bridge.
+Right.
+
+887
+53:22
+Another way of saying it is
+there isn't random assignment of
+
+888
+53:26
+the subjects to the two
+conditions in the study.
+
+889
+53:30
+That's no random assignment;
+it's not an experiment.
+
+890
+53:33
+You--By not randomly assigning
+people to these two conditions,
+
+891
+53:37
+you may be capturing just
+individual differences in the
+
+892
+53:41
+kind of person who,
+when there's a perfectly
+
+893
+53:45
+stable, safe,
+low bridge, says,
+
+894
+53:47
+"Huh uh.
+I won't want to go on that
+
+895
+53:49
+bridge.
+I want to go on the bridge
+
+896
+53:51
+where I have to risk my life to
+get to class."
+
+897
+53:55
+[laughter]
+And then should it surprise us
+
+898
+53:57
+that that's the kind of person
+who would call a perfect
+
+899
+54:00
+stranger on the telephone and
+write a sexy story and give it
+
+900
+54:03
+to them?
+[laughter] Right?
+
+901
+54:04
+We're not so surprised.
+So what we have to do,
+
+902
+54:07
+of course, is take it in to the
+lab and do this in a more
+
+903
+54:11
+systematic way with random
+assignment.
+
+904
+54:14
+And this is how I'll want to
+finish up today.
+
+905
+54:17
+We have until 2:45,3:45?
+Okay.
+
+906
+54:21
+Great.
+I'll take about five more
+
+907
+54:23
+minutes to finish up and that'll
+give us some time for questions.
+
+908
+54:27
+So how do you do this in the
+lab?
+
+909
+54:30
+Well, you can bring people in
+to the lab and I can present you
+
+910
+54:36
+with a confederate who--Let's
+say you are all in condition
+
+911
+54:42
+one,
+everybody on this side of the
+
+912
+54:45
+room, and I can say to all of
+you, "Please wait here.
+
+913
+54:48
+We'll begin the experiment in a
+moment.
+
+914
+54:53
+While you're waiting please
+fill out this form."
+
+915
+54:56
+And the form includes how
+attractive--how attracted you
+
+916
+55:01
+are to the experimenter,
+to me.
+
+917
+55:04
+I can do the same thing over
+here.
+
+918
+55:06
+I can give you the form and ask
+you to rate how attractive you
+
+919
+55:10
+think I am and I can give you
+the same instruction with a
+
+920
+55:15
+crucial difference:
+"Please wait here.
+
+921
+55:18
+We will begin the painful shock
+experiment in a moment.
+
+922
+55:24
+Please fill out these forms
+while you wait."
+
+923
+55:27
+What happens?
+The people who got the painful
+
+924
+55:31
+shock instruction are more
+likely to find the confederate
+
+925
+55:35
+attractive.
+[laughter] Why?
+
+926
+55:38
+While they're sitting there
+thinking about painful shock
+
+927
+55:41
+it's making their heart beat
+faster,
+
+928
+55:43
+it's making their palms sweat,
+it's making them breathe harder
+
+929
+55:47
+maybe.
+And even though it's fairly
+
+930
+55:50
+obvious what's doing that,
+they still misattribute that
+
+931
+55:54
+arousal to "I must be falling in
+love,"
+
+932
+55:57
+even with that obvious a--even
+with that obvious an
+
+933
+56:02
+instruction.
+You can do this in other ways.
+
+934
+56:05
+You can bring--Here is one of
+my favorite ones.
+
+935
+56:08
+You bring people in the lab.
+We'll make them the control
+
+936
+56:12
+group this time.
+We bring you in the--to the lab
+
+937
+56:14
+and we say to this group of
+people, "Please wait here.
+
+938
+56:17
+We'll begin the experiment in a
+moment.
+
+939
+56:20
+You can fill out these forms in
+the meantime."
+
+940
+56:22
+The forms ask how attracted you
+are to the experimenter.
+
+941
+56:25
+You're now in the experimental
+group and I say,
+
+942
+56:30
+"Please wait here.
+We'll begin the experiment in a
+
+943
+56:33
+moment.
+I'm going to ask you to fill
+
+944
+56:35
+out some forms but first,
+to get ready for this
+
+945
+56:38
+experiment,
+I'd like you to get on this
+
+946
+56:40
+treadmill and run for ten
+minutes."
+
+947
+56:42
+So you've run on the treadmill.
+You've just sat around.
+
+948
+56:46
+The people who've run on the
+treadmill, even when that
+
+949
+56:49
+arousal is fairly obvious,
+you've got--you--doing a little
+
+950
+56:53
+bit of aerobic exercise,
+you still find the experimenter
+
+951
+56:57
+more attractive.
+Okay?
+
+952
+56:59
+This is why the fourth floor of
+Payne Whitney Gym is such a
+
+953
+57:05
+dangerous place [laughter]
+and I urge you as your dean to
+
+954
+57:10
+be very careful there.
+[laughter] Okay?
+
+955
+57:14
+It's that combination of
+aerobic exercise and spandex
+
+956
+57:18
+[laughter]
+that leads to trouble.
+
+957
+57:20
+All right.
+Now, here's the final
+
+958
+57:22
+experiment and I apologize for
+this.
+
+959
+57:24
+It is a bit sexist in 2007
+context, but let me explain.
+
+960
+57:31
+And we could never do this--and
+one could never do this
+
+961
+57:34
+experiment today but let me go
+through it with you and you'll
+
+962
+57:38
+apologize for its--some of its
+qualities.
+
+963
+57:41
+In this experiment male
+subjects were brought in to the
+
+964
+57:45
+lab and they were asked to look
+at centerfolds from
+
+965
+57:49
+Playboy magazine.
+So, these are essentially
+
+966
+57:53
+photographs of naked women.
+And they are wearing headphones
+
+967
+57:58
+that amplify their heartbeat and
+they are asked among other
+
+968
+58:04
+things how attracted are they to
+the centerfold photograph that
+
+969
+58:10
+they're looking at.
+So, maybe--I don't remember how
+
+970
+58:14
+many they look at.
+Maybe it's about 10.
+
+971
+58:16
+So, these slides are coming up.
+They've got the headphones on.
+
+972
+58:20
+The headphones are amplifying
+their heartbeat and the slides
+
+973
+58:26
+are moving one after another for
+a few seconds each slide and
+
+974
+58:32
+they're listening to their
+heartbeat.
+
+975
+58:36
+Slide one.
+Slide two.
+
+976
+58:42
+Slide three.
+Slide four.
+
+977
+58:48
+Slide five.
+Slide six.
+
+978
+58:55
+And then they're asked which
+one did you find most
+
+979
+58:58
+attractive, which one are you
+most attracted to?
+
+980
+59:02
+"Oh, slide five, absolutely.
+She's the woman I want to
+
+981
+59:07
+marry."
+[laughter] Right?
+
+982
+59:09
+And what has happened is
+they're using this bodily cue of
+
+983
+59:13
+their heartbeat to infer that
+that's who they find more
+
+984
+59:18
+attractive.
+Now, here is the twist.
+
+985
+59:22
+They're not actually listening
+to their heartbeat.
+
+986
+59:25
+They're listening to a tape
+recording of a heartbeat.
+
+987
+59:31
+And the experimenter is back
+there with the speed knob
+
+988
+59:35
+[laughter]
+and at random intervals he just
+
+989
+59:38
+speeds up the tape of their
+heart [laughter]
+
+990
+59:41
+and then slows it down.
+And it doesn't matter which
+
+991
+59:46
+slide he speeds up the tape of
+the heartbeat on,
+
+992
+59:51
+that's the one the subject is
+more likely to think is the
+
+993
+59:56
+person of their dreams,
+the person they're attracted to.
+
+994
+60:00
+So even you can misattribute
+real arousal.
+
+995
+60:04
+You can even misattribute phony
+arousal, arousal that isn't even
+
+996
+60:09
+coming from your body.
+It's just coming--It's just
+
+997
+60:13
+being played to you randomly.
+You can even misattribute that.
+
+998
+60:18
+Okay.
+I think these experiments are
+
+999
+60:20
+cute and I think there's an
+interesting phenomenon there.
+
+1000
+60:24
+And it says something,
+in a way, about how easily we
+
+1001
+60:28
+can be misled as to what things
+in our environment,
+
+1002
+60:31
+even things coming from our own
+body, mean.
+
+1003
+60:34
+But there's also some very
+serious implications of this
+
+1004
+60:38
+kind of work.
+One of them has to do with
+
+1005
+60:41
+domestic violence.
+So think about domestic
+
+1006
+60:44
+violence situations and why
+people stay in them.
+
+1007
+60:48
+Why do people stay in
+relationships that are violent?
+
+1008
+60:51
+Now the number one reason,
+and we have to acknowledge it
+
+1009
+60:55
+up front, is usually
+economically there's no
+
+1010
+60:58
+alternative or people believe
+there's no alternative.
+
+1011
+61:02
+"I can't leave because if I
+leave I'd be homeless.
+
+1012
+61:06
+If I leave I will starve,
+if my--if I leave my kids will
+
+1013
+61:10
+starve or there'll be danger to
+my kids."
+
+1014
+61:13
+And that keeps people trapped
+in abusive relationships
+
+1015
+61:17
+but--And that's number one,
+but what else might be going
+
+1016
+61:21
+on?
+Sometimes people don't realize
+
+1017
+61:24
+that the relationship they're in
+is abusive--it's psychologically
+
+1018
+61:30
+or emotionally abusive.
+They get into these fights and
+
+1019
+61:34
+screaming matches and
+name-calling and such even if
+
+1020
+61:37
+it's not physical violence.
+And they feel a certain arousal
+
+1021
+61:42
+when that happens and they
+misattribute it.
+
+1022
+61:47
+"Well, he wouldn't be yelling
+and screaming at me if he didn't
+
+1023
+61:50
+love me."
+Right?
+
+1024
+61:52
+They misattribute that,
+what might be anger,
+
+1025
+61:55
+what might even be aggression
+and violence,
+
+1026
+61:58
+to an expression of love.
+I have a friend who's a social
+
+1027
+62:03
+psychologist who told me a story
+once that really made me very
+
+1028
+62:09
+nervous, although she's fine.
+She said, "When I was dating my
+
+1029
+62:14
+husband"--this is thirty years
+ago--"we were having a tough
+
+1030
+62:18
+time.
+We were in many,
+
+1031
+62:19
+many arguments--We got into
+many, many arguments and one
+
+1032
+62:23
+time something happened where he
+came up to my car in a parking
+
+1033
+62:27
+lot and he was yelling at me
+through the window.
+
+1034
+62:31
+And I rolled up the window and
+before you know it he had
+
+1035
+62:35
+punched out the window."
+And yelling at her and punched
+
+1036
+62:39
+out the window.
+He didn't touch her.
+
+1037
+62:41
+And he--she said to me,
+"That's when I knew he really
+
+1038
+62:46
+loved me."
+And I thought that's scary and
+
+1039
+62:49
+I--and, all joking aside,
+that's scary but that's
+
+1040
+62:53
+misattributed arousal.
+"I'm feeling--when he did that
+
+1041
+62:57
+I felt something and I assumed
+it was love.
+
+1042
+62:59
+What she was misattributing as
+love--Well, she was
+
+1043
+63:03
+misattributing his aggressive
+response as love.
+
+1044
+63:07
+She was misattributing her own
+fear as mutual attraction,
+
+1045
+63:12
+as "And I must love him."
+So, although we joke about
+
+1046
+63:17
+these kinds of experiments,
+and they are fun to talk about
+
+1047
+63:22
+because they are unusual and
+cute,
+
+1048
+63:25
+there is also some serious
+implications of this kind of
+
+1049
+63:28
+work that one might think about.
+And you might think about other
+
+1050
+63:31
+possible implications as well.
+Okay.
+
+1051
+63:34
+Let me stop there and see what
+kinds of questions we might
+
+1052
+63:37
+have.
+[applause]
+
+1053
+63:38
+Dean Peter Salovey:
+Thank you.
+
+1054
+63:39
+
+
+1055
+63:47
+Thanks very much.
+That's very kind of you.
+
+1056
+63:49
+Because we are on tape I'll
+repeat any questions that come
+
+1057
+63:52
+in.
+Yeah.
+
+1058
+63:53
+Student: [inaudible]
+Dean Peter Salovey:
+
+1059
+64:06
+Right.
+So the question is in
+
+1060
+64:10
+experiments like the painful
+shock experiment if you are told
+
+1061
+64:14
+in advance,
+like you all are,
+
+1062
+64:16
+through a consent form or by
+the experimenter,
+
+1063
+64:19
+"This is an experiment
+involving painful shock,"
+
+1064
+64:22
+will you still rate the
+experimenter as more attractive
+
+1065
+64:26
+or will you not be able to
+misattribute the arousal?
+
+1066
+64:30
+It is true.
+The more salient we make the
+
+1067
+64:33
+source of the arousal,
+the less likely you can get the
+
+1068
+64:37
+effect.
+If in my thought experiment I
+
+1069
+64:40
+say to my friend,
+"Well, I know why you're
+
+1070
+64:43
+feeling that way.
+The reason why you're feeling
+
+1071
+64:47
+that way is ‘cause the barista
+made a mistake and gave you
+
+1072
+64:51
+caffeinated espresso when you
+asked for decaf or maybe you
+
+1073
+64:54
+just love me."
+Right.
+
+1074
+64:56
+The person is not likely to
+say, "Oh, I bet it's love."
+
+1075
+64:59
+They're more likely to think
+oh, caffeine,
+
+1076
+65:01
+yeah.
+That's the parsimonious
+
+1077
+65:03
+explanation here."
+So it is true.
+
+1078
+65:05
+The more salient you make the
+cause of the arousal,
+
+1079
+65:08
+the less likely you'll get the
+effect but you can see even in
+
+1080
+65:11
+experiments where the cause of
+the arousal is somewhat obvious,
+
+1081
+65:15
+at least to us,
+you can still get a
+
+1082
+65:18
+misattribution effect.
+Other questions.
+
+1083
+65:21
+Yes.
+Student: [inaudible]
+
+1084
+65:26
+Dean Peter Salovey:
+Yeah.
+
+1085
+65:31
+So the question is are any of
+these factors,
+
+1086
+65:34
+particularly the big three,
+proximity,
+
+1087
+65:37
+familiarity,
+and similarity--Do they affect
+
+1088
+65:40
+the maintenance of relationships
+or just the initial attraction?
+
+1089
+65:44
+It's interesting.
+My guess is they affect both
+
+1090
+65:48
+initial and maintenance over
+time but the literature mostly
+
+1091
+65:52
+focuses on initial attraction,
+much richer data on that
+
+1092
+65:56
+initial attraction and those
+initial stages of the
+
+1093
+65:59
+relationship in part because
+it's a little hard to follow
+
+1094
+66:03
+couples over time.
+Imagine the sort of
+
+1095
+66:06
+Heisenberg-esque problems we
+would get carefully following
+
+1096
+66:12
+romantic couples over time and
+interfering with them to ask
+
+1097
+66:18
+questions and make observations.
+It would be hard to let this
+
+1098
+66:23
+couple naturally--this
+relationship naturally unfold.
+
+1099
+66:27
+So, we really get--So,
+really the focus of many of
+
+1100
+66:30
+these experiments is on initial
+attraction.
+
+1101
+66:32
+That's why I always say my
+lecture is on love,
+
+1102
+66:36
+the definition of terms is
+about love,
+
+1103
+66:38
+but the experiments really are
+much more about attraction than
+
+1104
+66:43
+about love.
+Another question.
+
+1105
+66:45
+Yes.
+Student: Can someone
+
+1106
+66:47
+feel consummate love for more
+than one person?
+
+1107
+66:48
+Dean Peter Salovey: Oh.
+Can someone feel consummate
+
+1108
+66:51
+love for more than one person?
+That's a very good question.
+
+1109
+66:55
+It's actually a question that's
+debated in the literature.
+
+1110
+66:58
+I didn't get into it at all in
+this experiment--in this
+
+1111
+67:01
+lecture--but there's an
+interesting debate going on
+
+1112
+67:05
+about love and many other
+emotions between people who take
+
+1113
+67:09
+a kind of evolutionary
+perspective on these states
+
+1114
+67:12
+versus people who take what
+might be called a more socially
+
+1115
+67:16
+constructed perspective.
+And these aren't necessarily so
+
+1116
+67:20
+incompatible but the
+evolutionary perspective I think
+
+1117
+67:24
+would argue that you can feel
+that kind of love for more than
+
+1118
+67:28
+one person or at least it would
+facilitate the passing on of
+
+1119
+67:32
+your genetic material to a
+larger array of the next
+
+1120
+67:36
+generation.
+So I think the evolutionary
+
+1121
+67:40
+explanation is not a problem but
+we have constructed a world
+
+1122
+67:45
+where in most societies,
+except for very unusual
+
+1123
+67:50
+polygamist societies,
+the belief is that you can't
+
+1124
+67:55
+love more than one.
+Right.
+
+1125
+67:59
+And so you've got this tension
+between what might be
+
+1126
+68:03
+evolutionarily wired impulses
+and the kind of social
+
+1127
+68:07
+constraints that say this isn't
+good,
+
+1128
+68:10
+this isn't appropriate,
+this is taboo.
+
+1129
+68:12
+And my guess is the result is
+yes, you could but you're not
+
+1130
+68:17
+going to feel un-conflicted
+about it and it's because these
+
+1131
+68:21
+two are conflicting each other
+at the same time.
+
+1132
+68:25
+How about one more question and
+then we'll let you go?
+
+1133
+68:28
+I'm sorry.
+I saw him first.
+
+1134
+68:30
+Student: Wouldn't
+natural selection favor the
+
+1135
+68:33
+people who learn all these
+things and then practically try
+
+1136
+68:37
+to apply them?
+Dean Peter Salovey: So
+
+1137
+68:38
+he's making the evolutionary
+argument.
+
+1138
+68:40
+Wouldn't natural selection
+favor the people who take
+
+1139
+68:43
+introductory psychology,
+come to my Valentine's Day
+
+1140
+68:47
+lecture, listen carefully to the
+big three and the more
+
+1141
+68:50
+interesting four,
+and then go out there and put
+
+1142
+68:52
+them into practice?
+It feels a little bit like
+
+1143
+68:55
+the--like we're trying to pass
+on an acquired characteristic,
+
+1144
+68:59
+which is a little bit counter
+to Darwinian theory but if
+
+1145
+69:04
+somehow you could design a
+proclivity for learning this
+
+1146
+69:09
+kind of material,
+evolution might indeed favor it.
+
+1147
+69:14
+I can tell you this much.
+It would make the several
+
+1148
+69:17
+thousands social psychologists
+in this world very happy and
+
+1149
+69:22
+proud of their field,
+if that turned out to be true.
+
+1150
+69:26
+Anyway, thank you all very much.
+Happy Valentine's Day!
+
+1151
+69:31
+Thanks!
+

@@ -1,1 +1,5086 @@
-{data => {title => Introduction to Psychology (Yale)_17, id => S6OfFaBWtx4}}
+{title => Introduction to Psychology (Yale)_17, video_id => S6OfFaBWtx4}}1
+0:12
+Professor Paul Bloom:
+Just to review,
+
+2
+0:16
+here's where we left off.
+The discussion from last
+
+3
+0:20
+lecture and for about half of
+this lecture is going to be
+
+4
+0:24
+social psychology.
+And so, we started off by
+
+5
+0:28
+talking about certain
+fundamental biases in how we see
+
+6
+0:32
+ourselves.
+We then turned to talk about a
+
+7
+0:35
+bias and how we see other
+people, the fundamental
+
+8
+0:37
+attribution error.
+And now we're talking a little
+
+9
+0:41
+bit about some aspects of how we
+see other people.
+
+10
+0:45
+So, we quickly talked about
+certain aspects of why we like
+
+11
+0:51
+other people including
+proximity,
+
+12
+0:55
+similarity, and attractiveness,
+and where we left off was a
+
+13
+0:58
+discussion of the Matthew
+effect,
+
+14
+1:00
+which is basically that good
+things tend to compound.
+
+15
+1:04
+If you're rich you'll get a
+better education,
+
+16
+1:07
+if you're smart people will
+like you more,
+
+17
+1:09
+if you're attractive and so on.
+Nobody bring up their papers at
+
+18
+1:13
+this point.
+They'll collect them at the end
+
+19
+1:16
+of class.
+What I want to talk to--
+
+20
+1:22
+[laughter]
+Okay, except for you.
+
+21
+1:30
+Just hand me it now.
+[laughter]
+
+22
+1:34
+I'm going to ask the teaching
+fellows to stop anybody from
+
+23
+1:38
+approaching that area.
+I want to begin by talking
+
+24
+1:41
+about [laughter]
+impression formation,
+
+25
+1:44
+how we form impressions of
+others,
+
+26
+1:46
+and tell you a couple of
+interesting things about
+
+27
+1:50
+impression formation.
+The first one is,
+
+28
+1:54
+first impressions matter a lot.
+They matter a lot for different
+
+29
+2:01
+reasons.
+They might matter a lot because
+
+30
+2:04
+humans have, in general,
+a confirmation bias such that
+
+31
+2:08
+once you believe something other
+information is then encoded
+
+32
+2:12
+along the likes to support what
+you believe.
+
+33
+2:15
+So, the classic study here was
+done by Kelley where a guest
+
+34
+2:19
+speaker comes in and some of the
+students received a bio
+
+35
+2:23
+describing the speaker as very
+warm,
+
+36
+2:25
+the other as--do not bring your
+paper up if you're coming in
+
+37
+2:29
+late.
+Just--at the end of class, yeah.
+
+38
+2:34
+[laughter]
+Others got a bio
+
+39
+2:35
+saying--thanks,
+Erik--the speaker was rather
+
+40
+2:38
+cold and then it turned out
+later on [laughter]
+
+41
+2:42
+when they're asked for their
+impressions of the speaker
+
+42
+2:45
+people are very much biased by
+what they first assumed.
+
+43
+2:50
+If I'm described to you as a
+vivacious and creative person
+
+44
+2:54
+and you see me and I'm all kind
+of bouncing around and
+
+45
+2:58
+everything,
+you could then confirm this as,
+
+46
+3:02
+"Look how vivacious and
+creative he is."
+
+47
+3:04
+If I'm described as somebody
+who drinks too much,
+
+48
+3:06
+you might think he's an
+alcoholic.
+
+49
+3:08
+If he's described as somebody
+who's insecure and nervous,
+
+50
+3:12
+you could interpret my activity
+as nervous twitches.
+
+51
+3:16
+Your first impression sets a
+framework from which you
+
+52
+3:19
+interpret everything else.
+This was the theme of an
+
+53
+3:22
+excellent movie called Being
+There starring Peter
+
+54
+3:25
+Sellers.
+And the running joke of the
+
+55
+3:27
+movie "Being There" was that the
+main character,
+
+56
+3:30
+the character Chauncey Gardner,
+somehow through accident had
+
+57
+3:34
+the reputation for being a
+genius but while,
+
+58
+3:38
+in reality, he was actually
+mildly retarded.
+
+59
+3:41
+But he would go around and
+people would ask him his
+
+60
+3:45
+opinions on politics and he
+would say things like "Well,
+
+61
+3:48
+I like being in the garden."
+And because of his reputation
+
+62
+3:52
+as a genius people said,
+"Wow.
+
+63
+3:54
+That's very profound.
+I wonder what he means."
+
+64
+3:58
+And--or people would talk to
+him and he'd just stare at them
+
+65
+4:01
+and say--and people would
+say--would be intimidated by his
+
+66
+4:04
+bold and impetuous stare when
+actually he just totally didn't
+
+67
+4:08
+know anything.
+So, first impressions can shape
+
+68
+4:11
+subsequent impressions not just
+when dealing with people.
+
+69
+4:15
+A little while ago there was a
+sniper, actually a pair of
+
+70
+4:19
+snipers killing people in
+Washington and the one thing
+
+71
+4:24
+everybody knew about it was
+there was a white van involved.
+
+72
+4:29
+It turned out there was no
+white van at all but in the
+
+73
+4:32
+first incident somebody saw a
+white van,
+
+74
+4:35
+this was reported in all the
+newspapers, then every other
+
+75
+4:38
+incident people started seeing
+the white van.
+
+76
+4:41
+So, they started looking for
+them and they started to
+
+77
+4:43
+attending--attend to them.
+So, first impressions matter
+
+78
+4:46
+hugely when dealing with people
+because it sets the stage for
+
+79
+4:49
+how we interpret everything
+else.
+
+80
+4:51
+A second finding building on
+the first is that we form
+
+81
+4:58
+impressions very fast,
+very quickly,
+
+82
+5:02
+and this is a literature known
+as "thin slices."
+
+83
+5:08
+The idea is you don't have to
+see much of a person to get an
+
+84
+5:11
+impression of what they are.
+The first studies done on this
+
+85
+5:15
+were actually done on teachers,
+on university professors.
+
+86
+5:17
+So, university professors have
+teaching evaluations and you
+
+87
+5:20
+could use this as a rough and
+ready approximation of what
+
+88
+5:24
+students think of them.
+So, what you do then is--the
+
+89
+5:27
+question that these people were
+interested in,
+
+90
+5:31
+Rosenthal and Ambady,
+two social psychologists,
+
+91
+5:35
+were how long do you have to
+look at a professor to guess how
+
+92
+5:40
+popular a teacher he is?
+So, they showed these clips for
+
+93
+5:44
+a full class.
+Do you have to see them for a
+
+94
+5:46
+full class?
+Do you have to see them for two
+
+95
+5:48
+classes?
+Do you have to see them for a
+
+96
+5:51
+half hour?
+How long do you have to be
+
+97
+5:54
+around a person to see him,
+to estimate how good a lecturer
+
+98
+5:59
+that person is?
+And the answer is five seconds.
+
+99
+6:02
+So, after clips of five seconds
+people are pretty good at
+
+100
+6:06
+predicting what sort of
+evaluations that person will
+
+101
+6:10
+have.
+Remember "The Big Five," how we
+
+102
+6:14
+evaluate people on "The Big
+Five?"
+
+103
+6:17
+Well, you have a roommate and
+your roommate you could evaluate
+
+104
+6:22
+on "The Big Five."
+You've had a lot of experience
+
+105
+6:25
+with him or her.
+How much time do you need to
+
+106
+6:28
+evaluate somebody on the five
+dimensions of personality?
+
+107
+6:33
+The answer is,
+again, not much time at all.
+
+108
+6:35
+After very brief exposures to
+people, people are very accurate
+
+109
+6:40
+at identifying them on "The Big
+Five."
+
+110
+6:43
+One of the more surprising
+findings is--concerns sexual
+
+111
+6:49
+orientation or "gaydar."
+That's not a scientific term
+
+112
+6:54
+[laughter]
+but the same psychologists were
+
+113
+6:58
+interested in studying how
+quickly you can--if at all how
+
+114
+7:03
+long does it take to figure out
+somebody's sexual orientation?
+
+115
+7:09
+Now, what they did was--they
+were clever psychologists so
+
+116
+7:13
+they set it up in a study where
+the people did not know sexual
+
+117
+7:18
+orientation was at issue.
+So, for instance,
+
+118
+7:21
+they may be people like you who
+filled in a form,
+
+119
+7:24
+one question along a very long
+form was your sexual
+
+120
+7:26
+orientation,
+and then you're sitting down
+
+121
+7:28
+being interviewed by somebody
+and your interview is being
+
+122
+7:31
+filmed,
+and then other people are
+
+123
+7:33
+shown--who don't know you are
+shown the film.
+
+124
+7:36
+And the finding is that people
+based on thin slices are quite
+
+125
+7:44
+good at detecting sexual
+orientation.
+
+126
+7:48
+Everybody's good at it,
+gay people are better at it
+
+127
+7:52
+than straight people,
+and, again, you don't need much
+
+128
+7:55
+time.
+You just need about a second.
+
+129
+7:57
+You see somebody for about a
+second, you could make a guess.
+
+130
+8:01
+You're far from always right.
+In fact, you're just a bit
+
+131
+8:04
+better than chance but you are
+better than chance at telling
+
+132
+8:07
+sexual orientation.
+So, these two facts taken
+
+133
+8:09
+together, thin slices and the
+power of first impressions,
+
+134
+8:13
+means that just by a brief
+exposure to somebody it shapes
+
+135
+8:17
+so much of how you're going to
+think about them in the future.
+
+136
+8:21
+Now, we can look at this from
+the other direction.
+
+137
+8:24
+We're talking about the
+perceptions of other people,
+
+138
+8:27
+how we perceive other people,
+but social psychologists are
+
+139
+8:31
+also interested in the question
+of what happens to other people
+
+140
+8:35
+as a result of being perceived
+in a certain way.
+
+141
+8:38
+So, one question is,
+"What would cause me to
+
+142
+8:42
+perceive somebody as intelligent
+or stupid, gay or straight,
+
+143
+8:47
+anxious or level-headed?"
+A second question is,
+
+144
+8:51
+"What are the effects of being
+judged that way?"
+
+145
+8:54
+And psychologists have coined a
+term, talk about self-fulfilling
+
+146
+8:59
+prophesies,
+and the claim here more
+
+147
+9:01
+specifically is what's known as
+"the Pygmalion effect."
+
+148
+9:05
+And the Pygmalion effect is if
+I believe you have a certain
+
+149
+9:10
+characteristic this might cause
+you to behave as if you have
+
+150
+9:15
+that characteristic.
+The name comes from the play by
+
+151
+9:20
+George Bernard Shaw
+Pygmalion,
+
+152
+9:23
+and the quote here is "The
+difference between a lady and a
+
+153
+9:27
+flower girl is not how she
+behaves but how she's treated.
+
+154
+9:32
+I shall always be a flower girl
+to Professor Higgins because he
+
+155
+9:35
+always treats me as a flower
+girl and always will,"
+
+156
+9:37
+made into a better known movie,
+My Fair Lady.
+
+157
+9:41
+But I think that the same theme
+is better exemplified in a far
+
+158
+9:45
+better movie,
+La Femme Nikita,
+
+159
+9:49
+where a cold-blooded killer is
+treated with respect and
+
+160
+9:54
+affection and then she becomes a
+much more warm and accessible
+
+161
+9:59
+person,
+and then she kills a lot of
+
+162
+10:02
+people but that--[laughter]
+but still it illustrates the
+
+163
+10:06
+point.
+And this point has tons of
+
+164
+10:09
+empirical validity.
+The classic experiment was by
+
+165
+10:14
+Rosenthal and Jackson where they
+told teachers that some of their
+
+166
+10:19
+kids were really smart and other
+kids were less--were not really
+
+167
+10:24
+smart,
+they weren't expected to show a
+
+168
+10:27
+huge jump or spurt in their IQ,
+and this was of course
+
+169
+10:31
+trickery.
+The children were chosen at
+
+170
+10:34
+random but the children who were
+described as showing--as
+
+171
+10:38
+expected to show a jump in IQ,
+in fact, did show a jump in
+
+172
+10:43
+their IQ scores and this isn't
+magic.
+
+173
+10:47
+It's basically--if I am told
+that you're a genius and your
+
+174
+10:50
+genius is about to be in
+full-flower throughout this
+
+175
+10:54
+class and it's a small class as
+these classes were,
+
+176
+10:57
+I'll focus more on you,
+I'll give you more of my
+
+177
+11:00
+attention.
+If I'm told "not so much for
+
+178
+11:03
+you," you'll suffer relative to
+him.
+
+179
+11:06
+And so the Pygmalion effect
+shows how our expectations can
+
+180
+11:13
+really matter.
+This brings us to the
+
+181
+11:17
+final--the issue of expectations
+and how we judge people is a
+
+182
+11:22
+story that could be told about
+individuals but it's also a
+
+183
+11:26
+story that could be told about
+groups.
+
+184
+11:30
+And this is where I want to end
+this section on social
+
+185
+11:33
+psychology by talking about
+groups.
+
+186
+11:34
+
+
+187
+11:39
+A lot of social psychology is
+concerned with the question of
+
+188
+11:43
+how we think about human groups
+and we've already discussed this
+
+189
+11:47
+in the lecture on morality when
+we talked about the human
+
+190
+11:51
+dynamic pushing us to think in
+terms of "us" versus "them" as
+
+191
+11:55
+shown in the Robber's Cave study
+and also shown in the minimal
+
+192
+11:59
+group research by Tajfel showing
+that from a motivational,
+
+193
+12:04
+emotional standpoint it's not
+difficult for us to think in
+
+194
+12:08
+terms of "my group" versus "your
+group."
+
+195
+12:11
+And this way of thinking has
+real consequences for our
+
+196
+12:14
+emotional life,
+our affective life,
+
+197
+12:16
+and how we choose to distribute
+resources.
+
+198
+12:18
+What I want to talk about here
+though is a different aspect of
+
+199
+12:23
+how we think about human groups.
+I want to talk a little bit
+
+200
+12:27
+about stereotypes.
+Now, "stereotypes" in English
+
+201
+12:32
+often just is a bad word.
+To have a stereotype is to
+
+202
+12:38
+be--is to have something wrong
+with you.
+
+203
+12:41
+You might say it's not good to
+have stereotypes.
+
+204
+12:44
+Psychologists tend to use the
+term in a broader sense.
+
+205
+12:47
+We tend to use the term to
+refer to information we have
+
+206
+12:52
+about categories and intuitions
+we have about the typicality,
+
+207
+12:57
+our frequency of certain
+features of categories.
+
+208
+13:01
+And it turns out that
+collecting information about
+
+209
+13:05
+categories is essential to our
+survival.
+
+210
+13:08
+We see novel things all the
+time and if we were not capable
+
+211
+13:14
+of learning and making guesses,
+educated guesses,
+
+212
+13:18
+about these novel things we
+would not be able to survive.
+
+213
+13:23
+So, when you see this object
+over here you categorize it as a
+
+214
+13:28
+chair and you recognize that you
+could probably sit on it.
+
+215
+13:33
+This apple is probably edible,
+this dog probably barks and has
+
+216
+13:38
+a tail and eat me--eats me and
+doesn't speak English.
+
+217
+13:42
+These are all stereotypes about
+chairs and about apples and
+
+218
+13:46
+about dogs.
+It doesn't mean they're
+
+219
+13:49
+logically true.
+This could be a vegetarian dog,
+
+220
+13:52
+a poison apple,
+an explosive chair,
+
+221
+13:54
+but [laughter]
+they're typically true.
+
+222
+13:57
+And if you were suddenly
+stripped of your ability to make
+
+223
+14:00
+generalizations,
+you'd be at a loss.
+
+224
+14:02
+You wouldn't know what to eat,
+how to interact.
+
+225
+14:04
+So, some sort of ability to
+record information and make
+
+226
+14:09
+generalizations is absolutely
+essential to making it through
+
+227
+14:14
+life.
+What's interesting though is we
+
+228
+14:16
+also categorize types of people.
+So, we have stereotypes in our
+
+229
+14:21
+heads about men and women,
+about children,
+
+230
+14:23
+adolescents or adults,
+whites, blacks,
+
+231
+14:26
+Asians and so on.
+Now, this is not essentially a
+
+232
+14:31
+bad thing for a couple of
+reasons.
+
+233
+14:35
+First, some of these
+stereotypes are positive.
+
+234
+14:39
+You might have positive
+stereotypes about certain
+
+235
+14:44
+groups.
+You might believe some groups
+
+236
+14:46
+are unusually creative or
+intelligent.
+
+237
+14:49
+You might have a particularly
+positive stereotype about your
+
+238
+14:53
+own group even if your own group
+is Yale students or your own
+
+239
+14:57
+group is people from France or
+your own group is people from
+
+240
+15:01
+such and so college.
+You might have positive
+
+241
+15:05
+stereotypes.
+More importantly,
+
+242
+15:07
+we collect stereotypes about
+groups of people through much
+
+243
+15:10
+the same way we collect
+stereotypes about categories
+
+244
+15:13
+like chairs and apples and dogs.
+And so they're pretty often
+
+245
+15:18
+accurate.
+When there are studies which
+
+246
+15:22
+ask people who is more likely to
+be a lawyer, someone who's
+
+247
+15:27
+Jewish or someone who is
+Hispanic,
+
+248
+15:30
+who is likely to be taller,
+somebody from Japan or somebody
+
+249
+15:34
+from Sweden, people can answer
+these things.
+
+250
+15:37
+They have their stereotypes
+that guide their answers,
+
+251
+15:40
+and the answers are not
+arbitrary or random.
+
+252
+15:42
+Their answers are often correct
+and often possessing stereotypes
+
+253
+15:46
+lets us make reasonable and
+correct generalizations about
+
+254
+15:50
+the world.
+That's the sort of good news
+
+255
+15:54
+about stereotypes but there's
+also bad news.
+
+256
+15:58
+One problem is that they're not
+always accurate and there's a
+
+257
+16:02
+couple of factors that could
+lead them away from accuracy.
+
+258
+16:07
+One is what we talked about
+before regarding first
+
+259
+16:10
+impressions, which is a
+confirmation bias.
+
+260
+16:13
+If you believe that homosexuals
+are effeminate,
+
+261
+16:17
+that gay men are effeminate,
+then this is going to shape how
+
+262
+16:22
+you see future gay men.
+If you see an effeminate gay
+
+263
+16:26
+man, you'll probably say,
+"Ah, more evidence for my
+
+264
+16:30
+theory."
+If you see a man who is not
+
+265
+16:32
+effeminate, you might ignore it
+or say maybe he's not really gay
+
+266
+16:35
+after all.
+If you believe black men are
+
+267
+16:38
+criminals, then when you see a
+black man who is a criminal
+
+268
+16:41
+you'll chalk it down as support
+but you'll pay less attention to
+
+269
+16:45
+evidence that white men are
+criminals and some black men are
+
+270
+16:49
+not criminals.
+You won't look at this as a
+
+271
+16:52
+scientist objectively scanning
+data.
+
+272
+16:55
+Rather, you'll be biased in
+certain ways.
+
+273
+16:57
+You'll be biased to put extra
+weight on the cases that support
+
+274
+17:03
+your theory and diminish cases
+that refute it.
+
+275
+17:07
+Furthermore,
+our data is not always
+
+276
+17:09
+reliable.
+So--oh, and this is actually an
+
+277
+17:15
+example of this at work.
+It turns out in the world of
+
+278
+17:21
+classical music there's a
+stereotype of women being simply
+
+279
+17:26
+less proficient than men:
+they play smaller than men,
+
+280
+17:31
+they don't have the same force
+and they have smaller
+
+281
+17:34
+techniques, they're more
+temperamental and so on.
+
+282
+17:37
+If you asked somebody who was a
+judge, the judge would say,
+
+283
+17:40
+"Look.
+This is just the way things are.
+
+284
+17:41
+I'm not being biased at all."
+The test of this then is to
+
+285
+17:45
+have blind auditions where
+people do their auditions behind
+
+286
+17:49
+a screen so you can't tell
+whether they're man or a woman,
+
+287
+17:53
+or for that matter,
+white or black or Asian or
+
+288
+17:57
+whatever.
+It turns out when you do that
+
+289
+18:00
+women get hired far more
+suggesting that the stereotype
+
+290
+18:04
+is A,
+incorrect and B,
+
+291
+18:06
+has a real negative and unfair
+effect on people getting hired.
+
+292
+18:12
+A second problem is – what I
+was talking about immediately
+
+293
+18:16
+before this – is some of our
+data are misleading so we get a
+
+294
+18:20
+lot of the information about the
+world from the media.
+
+295
+18:24
+The media would include
+television and movies but would
+
+296
+18:29
+also include plays and books and
+stories.
+
+297
+18:34
+And to the extent these portray
+an unrealistic or unfair or
+
+298
+18:38
+biased perception of the world
+we could construct stereotypes
+
+299
+18:42
+that are faithful to the data
+we're getting but the data is
+
+300
+18:47
+not representative.
+And so people,
+
+301
+18:50
+for instance,
+object to the fact that when
+
+302
+18:54
+there's Italian Americans on TV
+they're often members of the
+
+303
+18:59
+Sopranos, a mobster family.
+Throughout history Jews have
+
+304
+19:04
+been upset at the portrayal of
+Shylock in "Merchant of Venice,"
+
+305
+19:07
+not a very nice guy.
+And often in response people
+
+306
+19:11
+who want to foster more positive
+views will often try to--will
+
+307
+19:16
+often put in representatives
+from other groups in unusual
+
+308
+19:20
+ways to make that point.
+Anybody here ever see the
+
+309
+19:24
+television show Battlestar
+Galactica?
+
+310
+19:28
+Okay.
+Who's that?
+
+311
+19:32
+He's the star of "Battlestar
+Galactica."
+
+312
+19:36
+You don't know because you're
+too young.
+
+313
+19:39
+In the original
+"Battlestar"--[laughter]
+
+314
+19:43
+and I hate you.
+[laughter]
+
+315
+19:45
+In the original "Battlestar
+Galactica," this was the star.
+
+316
+19:50
+This was the main character
+known as "Starbuck," who got
+
+317
+19:55
+transformed into a woman in the
+more recent one,
+
+318
+20:00
+a sort of example of how
+portrayals are shifting in
+
+319
+20:03
+interesting ways.
+There's also,
+
+320
+20:07
+of course, moral problems over
+stereotypes.
+
+321
+20:13
+So, it's fine to judge chairs
+and apples and dogs based on the
+
+322
+20:18
+stereotypes.
+It's even fine to judge breeds
+
+323
+20:22
+of dogs.
+If I told you that I decided to
+
+324
+20:25
+buy a greyhound instead of a pit
+bull because I wanted a dog of a
+
+325
+20:31
+gentle temperament,
+nobody would scream that I'm a
+
+326
+20:35
+dog racist [laughter]
+involving--and--but honestly,
+
+327
+20:38
+it's a stereotype.
+Greyhounds are supposed to be
+
+328
+20:40
+more passive and gentle than pit
+bulls.
+
+329
+20:42
+I think it's a true stereotype
+but it's a stereotype
+
+330
+20:45
+nonetheless.
+But we have no problems when it
+
+331
+20:48
+comes to things like breeds of
+dogs with stereotypes.
+
+332
+20:52
+We have serious problems
+judging people this way.
+
+333
+20:55
+So, for instance,
+it's a moral principle that
+
+334
+20:58
+some of us would hold to that
+even if stereotypes are correct
+
+335
+21:02
+it is still immoral to apply
+them in day to day life.
+
+336
+21:07
+The term for this would be
+"profiling."
+
+337
+21:10
+Now, it gets complicated
+because there are some cases
+
+338
+21:14
+where we do allow stereotypes to
+play a role.
+
+339
+21:18
+When you all go and get
+driver's licenses or when you
+
+340
+21:21
+did get driver's licenses you
+have to pay higher auto
+
+341
+21:25
+insurance premiums than I do.
+I think this is perfectly fair
+
+342
+21:29
+because young people like you
+get into a lot more accidents
+
+343
+21:34
+with your reefer and your
+alcohol [laughter]
+
+344
+21:38
+and so it is--now,
+some of you are saying "that's
+
+345
+21:41
+a stereotype."
+And it is a stereotype but it's
+
+346
+21:44
+a statistically robust one and
+nobody lines up to protest this.
+
+347
+21:47
+It's an acceptable stereotype
+to make a generalization from.
+
+348
+21:52
+On the other hand,
+what if insurance companies
+
+349
+21:55
+determined that people from Asia
+got into more accidents than
+
+350
+21:58
+people from Europe?
+Would people be equally
+
+351
+22:01
+comfortable charging people from
+Asia higher rates of insurance?
+
+352
+22:06
+Almost certainly not.
+So, the issues are complicated
+
+353
+22:09
+as to what sort of
+generalizations we're--are
+
+354
+22:13
+reasonable to make and what
+aren't.
+
+355
+22:16
+There's also a second problem.
+Stereotypes have all sorts of
+
+356
+22:21
+effects.
+Now, some of them are obvious
+
+357
+22:24
+effects.
+If people--for instance,
+
+358
+22:27
+if people pull you over while
+you're driving because you're
+
+359
+22:32
+black,
+this could have a huge effect
+
+360
+22:35
+on how you feel welcome in this
+society on race relations and so
+
+361
+22:39
+on.
+But some of the effects are
+
+362
+22:41
+more subtle and more interesting
+and you might not expect this.
+
+363
+22:45
+And this is some work done by
+the psychologist Claude Steele
+
+364
+22:49
+and his colleagues at Stanford.
+And the issue is called
+
+365
+22:53
+"stereotype threat."
+Imagine you have a math test
+
+366
+22:57
+and this is the front of the
+math test.
+
+367
+23:00
+Claude Steele made an
+interesting discovery.
+
+368
+23:04
+Here is how to make black
+people do worse on this math
+
+369
+23:09
+test.
+It's very simple.
+
+370
+23:11
+
+
+371
+23:15
+The finding is that if your
+race or your group has a
+
+372
+23:19
+negative stereotype associated
+with it in any particular
+
+373
+23:23
+domain,
+being reminded of it serves as
+
+374
+23:26
+a stereotype threat and hence
+damages your performance in all
+
+375
+23:31
+sorts of domains.
+If the stereotype is "your
+
+376
+23:34
+group doesn't do good in this,"
+if I remind you that you're a
+
+377
+23:37
+member of that group immediately
+before doing it,
+
+378
+23:40
+your performance will drop.
+Now, you know how to make women
+
+379
+23:45
+do worse on math tests too,
+like that, and this has a
+
+380
+23:51
+demonstrative effect.
+So, stereotypes are complicated
+
+381
+23:57
+and morally fraught things.
+When people study stereotypes
+
+382
+24:02
+they often make certain
+distinctions between three
+
+383
+24:07
+levels of stereotypes and this
+is nicely summarized here.
+
+384
+24:13
+There's "public."
+If I asked you:
+
+385
+24:15
+One of the people running for
+the Democratic nominee for
+
+386
+24:21
+president is black,
+another one is female--if I
+
+387
+24:24
+asked people to raise their
+hands for who thinks that
+
+388
+24:28
+because being black or because
+being female they should be
+
+389
+24:32
+automatically disqualified for
+being president,
+
+390
+24:35
+few of you would raise your
+hands.
+
+391
+24:37
+Those are your public
+presentations of stereotypes.
+
+392
+24:42
+Even if I was to ask you on a
+sheet of paper,
+
+393
+24:44
+you might deny it because you
+might be afraid that it's not
+
+394
+24:48
+anonymous.
+Then there is private.
+
+395
+24:50
+Private is what you really
+think but you don't tell people.
+
+396
+24:55
+Some of you--some of the
+population of the United States
+
+397
+24:59
+are not going to vote for
+somebody because he or she is
+
+398
+25:03
+black but they won't tell you
+but they know it to be true.
+
+399
+25:08
+That's common sense.
+What's more interesting is
+
+400
+25:12
+below even that there may be
+unconscious associations that
+
+401
+25:17
+work that people don't actually
+know about but affects their
+
+402
+25:22
+thoughts about race,
+gender and other social groups.
+
+403
+25:26
+
+
+404
+25:30
+So, here are some data about
+what people publicly say.
+
+405
+25:34
+This is the proportion of
+people who say they will
+
+406
+25:37
+vote--they would vote for an
+African American president.
+
+407
+25:41
+What's interesting is
+when--around when I was born the
+
+408
+25:45
+answer in the United States was
+about half.
+
+409
+25:48
+Now, it is as close to one
+hundred percent as you can get
+
+410
+25:52
+it.
+Here is another one.
+
+411
+25:54
+This is also public stereotypes
+of blacks, proportion of white
+
+412
+25:58
+respondents endorsing each
+trait.
+
+413
+26:00
+Now, it's infinitesimal.
+These numbers are so low they
+
+414
+26:05
+could be dismissed as people
+filling in the wrong things or
+
+415
+26:10
+making jokes or just being
+confused compared to [laughter]
+
+416
+26:15
+stunningly superstitious high
+rankings.
+
+417
+26:19
+And so, there's been a profound
+change in public presentations,
+
+418
+26:25
+public views,
+on race but what about implicit
+
+419
+26:29
+views?
+This gets more complicated.
+
+420
+26:32
+Here is a simple study.
+This is the sort of study that
+
+421
+26:35
+you might do here at Yale.
+What you might do,
+
+422
+26:38
+for instance,
+is be sitting at a computer
+
+423
+26:41
+screen and you'll be given
+incomplete words to fill out
+
+424
+26:45
+like "hos-" and you have to fill
+out this word.
+
+425
+26:49
+What you don't know is that
+pictures of black faces or
+
+426
+26:53
+pictures of white faces are
+being flashed on the screen but
+
+427
+26:57
+they're being flashed on the
+screen subliminally so fast you
+
+428
+27:01
+don't even know you're seeing
+them.
+
+429
+27:04
+Still this has an effect.
+When you see black faces
+
+430
+27:09
+subjects are more likely to fill
+this with words like "hostile"
+
+431
+27:14
+while whites more likely to fill
+it with words like "hospital."
+
+432
+27:18
+I will now welcome you to
+participate in an experiment on
+
+433
+27:24
+implicit attitudes.
+This was developed by Mahzarin
+
+434
+27:28
+Banaji who used to be at Yale
+and now is in an inferior
+
+435
+27:31
+university in Boston [laughter]
+and it's called implicit
+
+436
+27:35
+attitudes test and it's the
+biggest psychology experiment
+
+437
+27:39
+ever done in terms of people.
+I don't know.
+
+438
+27:42
+A million people have
+participated in this and you
+
+439
+27:46
+could just go online,
+implicit.harvard.edu and then
+
+440
+27:49
+you could do it yourself.
+But we'll do it now as a group.
+
+441
+27:53
+If you did it in the lab or on
+your computer screen,
+
+442
+27:56
+you would do it by pushing
+buttons.
+
+443
+27:58
+We'll do it by speaking.
+And it's very simple.
+
+444
+28:02
+You're going to see things over
+here and they're either going to
+
+445
+28:06
+be words or they're going to be
+pictures.
+
+446
+28:10
+If it's an African American or
+a bad word, a negative word,
+
+447
+28:15
+I want you to shout out
+"right," this side,
+
+448
+28:19
+"right."
+If it's a white American or a
+
+449
+28:22
+good word, I want you to shout
+out "left."
+
+450
+28:25
+People ready.
+Try to do it as fast as
+
+451
+28:28
+possible without making any
+mistakes.
+
+452
+28:30
+
+
+453
+28:33
+[laughter]
+Because of the very loud wrong
+
+454
+28:36
+person we're going to try that
+again.
+
+455
+28:40
+[laughter] Are you ready?
+[audience response] Good.
+
+456
+28:54
+That is "congruent," congruent
+according to a theory that says
+
+457
+29:00
+that people, both African
+Americans and white Americans,
+
+458
+29:06
+have biases to favor white
+Americans over African
+
+459
+29:10
+Americans.
+How do we know by this?
+
+460
+29:12
+Well, we compare it.
+That's "congruent."
+
+461
+29:14
+Now, it's different.
+If it's a white American or a
+
+462
+29:19
+bad word, say "right."
+If it's an African American or
+
+463
+29:23
+a good word, say "left."
+
+464
+29:25
+
+
+465
+29:34
+Okay.
+For all I could tell,
+
+466
+29:37
+people did equally well but
+this experiment has been done
+
+467
+29:40
+tens of thousands of times and
+you could do it yourself on a
+
+468
+29:44
+computer screen.
+And this is one way of doing it
+
+469
+29:47
+but they'll alternate and
+they'll give you different ones
+
+470
+29:49
+to shift around and everything.
+And it turns out that this
+
+471
+29:53
+version people are slower at
+than the other version
+
+472
+29:58
+suggesting that their
+associations run one way and not
+
+473
+30:02
+the other.
+And this work has been extended
+
+474
+30:06
+for all sorts of ways looking at
+for example at gender,
+
+475
+30:10
+looking at the connection
+between women and English and
+
+476
+30:16
+men and math,
+looking at age,
+
+477
+30:19
+attitudes towards people who
+are obese versus people who are
+
+478
+30:23
+thin, attitudes towards people
+who are straight versus people
+
+479
+30:27
+who are gay,
+and you could go online and do
+
+480
+30:30
+these studies and it'll give you
+some feeling for the sort of
+
+481
+30:33
+implicit attitudes that we have
+within us.
+
+482
+30:36
+Well, a legitimate question is
+"Who cares?"
+
+483
+30:41
+I mean, if you do the--If you
+look at the results for the
+
+484
+30:44
+study, it turns out that there
+is an association as bias to
+
+485
+30:48
+view white Americans as positive
+and African Americans as
+
+486
+30:52
+negative but it shows up in half
+a second difference.
+
+487
+30:55
+Who cares?
+Well, there's two answers to
+
+488
+30:58
+this.
+One answer is there are times
+
+489
+31:02
+in your life where half a second
+can matter a lot.
+
+490
+31:06
+So, studies with police
+officers using reaction time in
+
+491
+31:10
+split-second choices on who to
+shoot find that your
+
+492
+31:14
+stereotypical attitudes play a
+huge role in who you're likely
+
+493
+31:18
+to shoot when they're holding an
+object in their hand that's
+
+494
+31:23
+unclear.
+Also, more generally,
+
+495
+31:26
+it could be that these implicit
+attitudes play a role in
+
+496
+31:31
+judgment calls.
+In cases where you have a hard
+
+497
+31:35
+decision to make,
+you know you're not racist.
+
+498
+31:38
+You have no explicit racist
+attitudes, honestly you really
+
+499
+31:42
+don't, but the argument is that
+these stereotypes can affect
+
+500
+31:46
+your behavior in all sorts of
+subtle ways.
+
+501
+31:49
+Here is one example.
+What they do is they do an
+
+502
+31:52
+experiment where somebody is in
+trouble.
+
+503
+31:55
+You hear a scream from outside
+either from a black person or a
+
+504
+32:00
+white person.
+In one condition you're the
+
+505
+32:03
+only person around.
+In another condition there's
+
+506
+32:07
+other people around you.
+Now, we know from the work in
+
+507
+32:10
+the Bystander effect that in
+general which one are we more
+
+508
+32:14
+likely to help in,
+when we're the only person or
+
+509
+32:18
+multiple?
+"Only," exactly.
+
+510
+32:20
+And in fact,
+when it's the only person just
+
+511
+32:23
+about everybody helps regardless
+of the color of the person in
+
+512
+32:28
+trouble but when you're with
+other people there's a big
+
+513
+32:32
+difference.
+Now, again this isn't--these
+
+514
+32:35
+things are not done with members
+of the KKK.
+
+515
+32:38
+They're done with the standard
+university undergraduates like
+
+516
+32:43
+you and these--and if you were
+in this group you wouldn't say,
+
+517
+32:49
+"Oh.
+I didn't want to help because
+
+518
+32:51
+the person's black."
+Rather, what you would say is,
+
+519
+32:54
+"Well, I didn't think it was
+worth helping.
+
+520
+32:57
+There were other people around.
+Someone else would help," but
+
+521
+33:00
+we know by looking at it that
+this difference makes a real
+
+522
+33:04
+difference.
+A final study,
+
+523
+33:06
+and this was done by my
+colleague who just got hired
+
+524
+33:10
+here, Jack Dovidio,
+who's done some wonderful work,
+
+525
+33:15
+looked at how people judge to
+hire somebody based on their
+
+526
+33:20
+recommendations.
+This is a little bit of a
+
+527
+33:23
+confusing thing.
+The green bars are the African
+
+528
+33:26
+Americans.
+The blue bars are the white
+
+529
+33:29
+Americans.
+And in some cases these people
+
+530
+33:31
+have strong recommendations.
+When they have strong
+
+531
+33:34
+recommendations in 1989 you're
+willing to hire everybody,
+
+532
+33:38
+and this is not a difference at
+all.
+
+533
+33:40
+But when their recommendations
+are so-so, when it's a judgment
+
+534
+33:44
+call, the subjects are
+significantly more likely to
+
+535
+33:47
+hire the white American than the
+African American.
+
+536
+33:50
+Nineteen eighty-nine was a long
+time ago but the same results
+
+537
+33:55
+showed up in 1999.
+The same results also showed up
+
+538
+33:58
+about a year and a half ago.
+And again, this doesn't show
+
+539
+34:03
+that people are explicit
+terrible racists.
+
+540
+34:06
+It does show that people
+possess these stereotypes that
+
+541
+34:10
+make a difference in their
+real-world behavior.
+
+542
+34:13
+A way to put this all together
+is in Trish Devine's
+
+543
+34:17
+automaticity theory,
+which goes something like this.
+
+544
+34:21
+The idea is that everybody
+holds stereotypes.
+
+545
+34:24
+These are automatically
+activated when we come into
+
+546
+34:27
+contact with individuals.
+In order to not act in a
+
+547
+34:31
+stereotyped fashion,
+we have to consciously push
+
+548
+34:34
+them down,
+we have to consciously override
+
+549
+34:38
+them, and that's possible,
+but it takes work.
+
+550
+34:41
+It takes work both at the
+individual level and it takes
+
+551
+34:45
+work at the group level.
+Any questions or thoughts about
+
+552
+34:51
+this?
+Yes.
+
+553
+34:53
+Student: [inaudible]
+Professor Paul Bloom:
+
+554
+35:06
+It's a good question.
+These results are surprising
+
+555
+35:13
+and disturbing and I said there
+is work to be done at an
+
+556
+35:17
+individual and group level and
+this young man challenged me to
+
+557
+35:22
+be more explicit about that.
+Here is one case.
+
+558
+35:25
+We have job searches and
+sometimes job--senior job
+
+559
+35:29
+searches involve the faculty
+sitting in--around in a room and
+
+560
+35:33
+tossing out names and we use
+these names as a basis for
+
+561
+35:37
+further discussion.
+"Hey, I wonder--What about that
+
+562
+35:40
+person?
+That person does great work."
+
+563
+35:42
+What we do now in the
+psychology department is we make
+
+564
+35:45
+a special point of trying to get
+names from disadvantaged groups,
+
+565
+35:50
+not with an eye towards an
+affirmative action policy but
+
+566
+35:54
+rather because there's a lot of
+evidence suggesting that people
+
+567
+35:58
+who are just as qualified don't
+come to mind unless you make
+
+568
+36:02
+some sort of procedure to do it.
+Here's another example.
+
+569
+36:05
+A lot of journals do blind
+reviewing now because of the
+
+570
+36:08
+evidence I talked about before
+regarding sexual stereotypes,
+
+571
+36:12
+that whether it has a male name
+or a female name makes a
+
+572
+36:15
+difference.
+So those are not--those are
+
+573
+36:18
+group level in that they're not
+saying, "You get rid of your
+
+574
+36:21
+prejudices by trying harder."
+It's rather,
+
+575
+36:24
+"Let's set up a system so that
+your prejudices can't work," the
+
+576
+36:27
+blind auditions,
+for instance,
+
+577
+36:29
+being a beautiful example of
+that.
+
+578
+36:31
+At an individual level,
+your question's a harder one
+
+579
+36:34
+and I'm not exactly sure what we
+could do but I think what we
+
+580
+36:37
+should do is be conscious of
+these things and know that it's
+
+581
+36:41
+not enough to say,
+"Well, I'm explicitly not
+
+582
+36:44
+racist so I'll give everybody a
+fair shake," but to recognize we
+
+583
+36:47
+might have biases and to work
+hard to overcome them,
+
+584
+36:51
+not by overcorrecting in some
+random way but trying to--if
+
+585
+36:54
+you're interested for instance
+in qualifications setting up
+
+586
+36:57
+some system that these
+qualifications can be observed
+
+587
+37:00
+absent knowledge of race or sex.
+Yeah, in back.
+
+588
+37:04
+Student: [inaudible]
+Professor Paul Bloom:
+
+589
+37:10
+Yes.
+The question's a good one.
+
+590
+37:12
+How much of this is due to
+stereotypes and how much of this
+
+591
+37:16
+is due to an own-group bias?
+So, the fact that--so,
+
+592
+37:20
+the experiments as I have
+described them are to some
+
+593
+37:23
+extent ambiguous.
+The fact that white Americans
+
+594
+37:26
+favor white Americans over black
+Americans might be because of
+
+595
+37:31
+stereotypes but they also might
+be of in-group favoritism.
+
+596
+37:35
+I think the answer is that both
+play a role but some of the
+
+597
+37:40
+effects are due to stereotypes
+above and beyond in-group
+
+598
+37:44
+favoritism.
+And one reason why we know that
+
+599
+37:47
+is in studies like the IAT,
+the Implicit Attitudes Test.
+
+600
+37:51
+African Americans show much the
+same effect as white Americans.
+
+601
+37:56
+So, African Americans also are
+biased against African Americans
+
+602
+38:00
+and in favor of white Americans,
+showing it doesn't reduce to
+
+603
+38:04
+group favoritism though that
+probably plays a big role.
+
+604
+38:08
+Okay.
+I'm going to shift and spend
+
+605
+38:13
+the rest of this class on a
+couple of mysteries.
+
+606
+38:16
+Here's a summary.
+The first one is a minor
+
+607
+38:22
+mystery.
+I think we have some progress
+
+608
+38:24
+in explaining it.
+The second one is a total
+
+609
+38:27
+mystery.
+The first one's sleep.
+
+610
+38:29
+
+
+611
+38:33
+Sleep is a motivation.
+It is a motivation like food or
+
+612
+38:38
+drink.
+It is a form of torture.
+
+613
+38:42
+I won't get into definitions of
+what torture is but it would
+
+614
+38:45
+cause somebody tremendous pain
+and anguish to keep them from
+
+615
+38:48
+sleeping.
+When you're really tired sleep
+
+616
+38:50
+is what you want to do like when
+you're really hungry you want to
+
+617
+38:53
+eat.
+How many people here on
+
+618
+38:55
+average--from the beginning of
+the semester until now get on
+
+619
+38:59
+average more than eight hours of
+sleep a night?
+
+620
+39:02
+That's good.
+Good.
+
+621
+39:04
+There is a sort of school of
+sleep macho.
+
+622
+39:08
+A sleep macho used to be "I
+only get forty-two minutes of
+
+623
+39:12
+sleep a night."
+Now sleep macho is "I sleep
+
+624
+39:15
+eleven hours."
+[laughter]
+
+625
+39:17
+Who gets on average more than
+seven?
+
+626
+39:20
+On average more than six?
+Who here has been making it
+
+627
+39:25
+since the beginning of the
+semester on under six hours a
+
+628
+39:28
+night?
+Okay.
+
+629
+39:31
+Anybody of you that has been
+getting under five hours a
+
+630
+39:33
+night?
+Okay.
+
+631
+39:35
+There is big individual
+differences in how much sleep
+
+632
+39:39
+people need and sleep itself is
+what we spend a lot of our life
+
+633
+39:44
+on but it's very hard to study
+and we didn't used to know much
+
+634
+39:48
+of it because you can't ask
+people what's happening during
+
+635
+39:52
+it because they're sleeping so
+you need sort of clever methods.
+
+636
+39:57
+One such clever method is an
+EEG.
+
+637
+40:00
+You bring somebody in the sleep
+lab, you put electrodes on their
+
+638
+40:03
+scalp and you see what
+these--what sort of electrical
+
+639
+40:06
+activities you get in the brain.
+Right now many of you are
+
+640
+40:11
+showing irregular beta waves
+suggesting intense comprehension
+
+641
+40:18
+and great intellectual focus.
+[laughter]
+
+642
+40:22
+Some of you are awake but non
+attentive and your brain's
+
+643
+40:25
+giving you these large,
+regular alpha waves.
+
+644
+40:27
+Some of you are sound asleep,
+deep in delta.
+
+645
+40:30
+[laughter]
+When you sleep you get the
+
+646
+40:34
+following stages.
+You start off with a transition
+
+647
+40:37
+period when you're falling
+asleep.
+
+648
+40:38
+We call that stage I.
+Then you get successively
+
+649
+40:42
+deeper, II through IV,
+slow, irregular,
+
+650
+40:46
+high amplitude delta waves,
+and then once you reach stage
+
+651
+40:51
+IV you start going up again,
+up through stage III and II.
+
+652
+40:56
+Then REM sleep emerges,
+rapid eye movement sleep.
+
+653
+41:01
+REM sleep is neat because your
+brain looks like it's wide awake
+
+654
+41:05
+but – and I'm going to talk a
+little bit more in detail about
+
+655
+41:09
+this later – you're relaxed,
+your rapid eye movements occur;
+
+656
+41:13
+that's where your--the name
+comes from and dreams occur and
+
+657
+41:17
+then on a good night's sleep
+you've got four to five sleep
+
+658
+41:21
+cycles and it looks like this.
+You start off and you go down,
+
+659
+41:26
+down, down, and then you come
+up, then you get your first REM
+
+660
+41:30
+cycle,
+again, again,
+
+661
+41:32
+again, again,
+again, and then you wake up.
+
+662
+41:37
+So, the general takeaway
+message here is that there's two
+
+663
+41:41
+types of sleep.
+There is slow-wave sleep or
+
+664
+41:45
+"quiet sleep."
+Your eyes drift separately and
+
+665
+41:51
+slowly you're hard to wake up.
+Then there is REM sleep.
+
+666
+41:57
+Your brain is active as if you
+were awake, your EEGs are
+
+667
+42:03
+similar to waking,
+paralyzed except for the eyes,
+
+668
+42:08
+oh, men get erections and you
+have dreams.
+
+669
+42:13
+One sleep researcher joked that
+these two are connected because
+
+670
+42:17
+what happens is dreams fly
+around through the ether and
+
+671
+42:21
+then their erections serve as
+antennas so you pick them up.
+
+672
+42:26
+[laughter]
+Don't write that down.
+
+673
+42:32
+[laughter]
+Why do we sleep and why don't
+
+674
+42:34
+we--why aren't we always awake?
+There's a couple of answers to
+
+675
+42:40
+this.
+Probably the best answer is our
+
+676
+42:43
+body is worn out during the day
+and sleep is necessary to put it
+
+677
+42:49
+back into shape.
+So, when you sleep growth
+
+678
+42:53
+producing hormone goes through
+the body, your brain and other
+
+679
+42:57
+organs get restored,
+there are--you need less food,
+
+680
+43:02
+your immune system seems to be
+hard at work,
+
+681
+43:06
+and in fact,
+one answer--people always
+
+682
+43:08
+wonder what happens if you'd
+stop sleeping and the answer is
+
+683
+43:12
+not one discovered in the
+laboratory but it's been
+
+684
+43:15
+recorded in different cases.
+If you stop sleeping you die.
+
+685
+43:20
+You don't die in some dramatic
+way.
+
+686
+43:22
+You get sick and then you die,
+suggesting that sleeping is
+
+687
+43:27
+good to keep you healthy.
+And an analogy I like to think
+
+688
+43:31
+about is that your--when you
+bring your car in to repair
+
+689
+43:35
+it--for repairs,
+when you're repairing your car,
+
+690
+43:38
+the first thing you do is you
+stomp it and shut off the
+
+691
+43:42
+engine.
+You make it stable and at rest
+
+692
+43:44
+so you can then work on repair.
+A related view is that sleep
+
+693
+43:49
+emerged to preserve energy and
+keep you out of trouble at
+
+694
+43:54
+night.
+And these views are of course
+
+695
+43:57
+not incompatible.
+This explains why we sleep at
+
+696
+44:01
+all and this probably explains
+why we sleep at night.
+
+697
+44:04
+
+
+698
+44:08
+There are sleep disorders.
+I won't go through them.
+
+699
+44:10
+I just list a few of them here.
+They're sort of bad things that
+
+700
+44:14
+could happen to you when you're
+asleep.
+
+701
+44:15
+One particularly trendy sleep
+disorder that's been discovered
+
+702
+44:19
+recently are side effects of
+sleeping pills such as Ambien.
+
+703
+44:23
+So, one of the bizarre side
+effects is some people with
+
+704
+44:27
+Ambien while sleeping go
+downstairs, open up their
+
+705
+44:30
+refrigerator and eat huge
+amounts of food.
+
+706
+44:34
+[laughter]
+A more recent side effect of
+
+707
+44:36
+Ambien that's quite serious is
+some people become--have the
+
+708
+44:40
+compulsion while they're
+sleeping to go driving,
+
+709
+44:43
+which is not good.
+[laughter]
+
+710
+44:49
+What we're really interested in
+though when it comes to sleep is
+
+711
+44:54
+dreams.
+So, remember Hamlet.
+
+712
+44:57
+People--you've all studied
+Hamlet, "to be or not to be."
+
+713
+45:01
+That's all I know but basically
+[laughter]
+
+714
+45:04
+he was deciding--he--I wrote
+this down though.
+
+715
+45:07
+He was deciding whether or not
+to kill himself and so he made
+
+716
+45:12
+up two lists.
+The lists of reasons to kill
+
+717
+45:15
+himself were "the slings and
+arrows of outrageous fortune,"
+
+718
+45:19
+"a sea of troubles," and "the
+heartache in the thousand
+
+719
+45:24
+natural shocks that flesh is
+heir to."
+
+720
+45:27
+He only had one argument not to
+kill himself:
+
+721
+45:32
+Nightmares.
+"To sleep, perchance to dream,
+
+722
+45:35
+for in that sleep of death what
+dreams may come when we have
+
+723
+45:39
+shuffled off this mortal coil
+might give us pause."
+
+724
+45:42
+He was worried about nightmares.
+Now, dreams have always
+
+725
+45:46
+fascinated people and
+philosophers.
+
+726
+45:49
+If you take a philosophy
+course, there'll be a couple of
+
+727
+45:51
+questions about dreams that you
+will wonder about.
+
+728
+45:54
+One is "Are you dreaming right
+now?"
+
+729
+45:57
+So, Rene Descartes famously
+wondered whether the real world
+
+730
+46:01
+doesn't exist.
+Maybe right now it's just a
+
+731
+46:04
+dream.
+See also "The Matrix."
+
+732
+46:06
+And can you be immoral in a
+dream?
+
+733
+46:09
+We do all sorts of things in
+dreams that are bad.
+
+734
+46:12
+Are these sins?
+And the great theologians and
+
+735
+46:16
+philosophers like Augustine
+wondered about this,
+
+736
+46:19
+can you sin in a dream?
+I will answer both questions.
+
+737
+46:23
+You are not dreaming right now,
+unless you're asleep but if
+
+738
+46:27
+you're--and you can't usually be
+immoral in a dream.
+
+739
+46:31
+The exceptions are lucid dreams
+where you choose what to dream
+
+740
+46:35
+about, and then possibly you
+could be immoral if you
+
+741
+46:38
+encourage bad habits of thought.
+What do we know about dreams?
+
+742
+46:43
+Well, first there's a
+distinction, a distinction
+
+743
+46:47
+between real dreams versus sleep
+thought.
+
+744
+46:51
+So, real dreams are you're in a
+submarine wrestling a chicken
+
+745
+46:56
+while your grandmother looks
+disapprovingly on.
+
+746
+47:01
+Those are real dreams.
+"Sleep thought" is the sort of
+
+747
+47:04
+thing you get typically before
+you fall asleep and it's like
+
+748
+47:09
+"did I take the garbage out,
+where is the garbage,
+
+749
+47:13
+did I take the garbage out?"
+And so it's really just this
+
+750
+47:18
+kind of rumination and you could
+do this while you're sleeping.
+
+751
+47:22
+So, if you're woken up during
+slow-wave sleep you're going to
+
+752
+47:24
+be thinking "Did I take
+the--yes,
+
+753
+47:25
+while I was dreaming I was
+thinking about the garbage," but
+
+754
+47:28
+if you're woken up during REM,
+"But a monkey was eating my
+
+755
+47:30
+grandmother," and that sort of
+thing.
+
+756
+47:32
+[laughter]
+So, there is a distinction.
+
+757
+47:35
+What do people dream about?
+Well, we know some facts about
+
+758
+47:38
+dreams.
+Everybody dreams.
+
+759
+47:40
+Not everybody remembers their
+dreams.
+
+760
+47:43
+If you want to remember your
+dream by the way keep your
+
+761
+47:47
+dreams--keep a dream diary,
+very useful,
+
+762
+47:50
+but everybody dreams three to
+four times a night.
+
+763
+47:53
+That depends on how much sleep
+you get but dreams leave fragile
+
+764
+47:57
+memories.
+They fade quickly.
+
+765
+48:00
+This is why a dream diary or
+writing up--writing your dreams
+
+766
+48:03
+as soon as you wake up turns out
+to be useful.
+
+767
+48:06
+What do people dream about?
+Well, basically,
+
+768
+48:08
+the way to find that out is you
+ask people and people
+
+769
+48:12
+have--psychologists and
+sociologists have collected
+
+770
+48:15
+dream reports.
+If you go to dreambank.net,
+
+771
+48:19
+a guy named Hill collected
+50,000 dream reports;
+
+772
+48:23
+you could make some
+generalizations.
+
+773
+48:26
+Most dreams are bad.
+They're not bad,
+
+774
+48:31
+bad, they're not nightmares,
+but most dreams are from a
+
+775
+48:35
+scale of one to ten with five
+and a half in the middle they're
+
+776
+48:39
+on the negative side.
+They report misfortunes.
+
+777
+48:43
+
+
+778
+48:47
+People in tribal societies have
+dreams with more physical
+
+779
+48:51
+aggression than people in
+industrialized societies.
+
+780
+48:54
+Men have more aggressive dreams
+than women.
+
+781
+48:57
+Americans have more aggressive
+dreams than Europeans.
+
+782
+49:00
+Yeah.
+[laughter]
+
+783
+49:03
+What do people want to dream
+about?
+
+784
+49:06
+Well, psychologist--the
+findings were totally not going
+
+785
+49:08
+to surprise you.
+Women want to dream about
+
+786
+49:11
+romance and adventure.
+Men want to dream about sex
+
+787
+49:15
+with strangers.
+[laughter]
+
+788
+49:18
+Turns out that once you get
+past the hormonal blast of
+
+789
+49:23
+adolescence about 10% of dreams
+have explicit sexual content.
+
+790
+49:30
+What's the most common dream?
+Guesses.
+
+791
+49:34
+Falling.
+That's a good guess.
+
+792
+49:36
+Falling is among the top dreams
+but falling is not the winner.
+
+793
+49:40
+Somebody else.
+Flying?
+
+794
+49:43
+Also close.
+Public speaking?
+
+795
+49:47
+Good phobic dream but not it.
+Naked in public, not it.
+
+796
+49:56
+[laughter] Excellent.
+Being chased.
+
+797
+50:02
+Evolutionary psychologists and
+cognitive neuroscientists have
+
+798
+50:06
+puzzled over this one.
+It seems to be sort of a primal
+
+799
+50:10
+dream but the dream about being
+chased is a biggie.
+
+800
+50:14
+Has anybody here ever dreamt of
+being chased that you could
+
+801
+50:17
+remember?
+Yeah.
+
+802
+50:18
+Being chased is the big one.
+Naked in public?
+
+803
+50:22
+[laughter]
+Grandmother killed by a monkey?
+
+804
+50:25
+[laughter] No.
+So, what are dreams for?
+
+805
+50:35
+There are Freudian theories
+that dreams are disguised with
+
+806
+50:39
+fulfillment and other things.
+There is not much support for
+
+807
+50:43
+these.
+One theory which is popular is
+
+808
+50:46
+that dreams are a side effect of
+memory consolidation so your
+
+809
+50:51
+body,
+sort of below the neck,
+
+810
+50:53
+rebuilds itself while you're
+sleeping but also what happens
+
+811
+50:57
+while you're sleeping is your
+memories get played over and
+
+812
+51:01
+over again to consolidate them
+into different parts of the
+
+813
+51:05
+brain.
+Almost--the best analogy here
+
+814
+51:07
+is backing up a computer.
+Your brain backs itself up.
+
+815
+51:11
+In the course of backing itself
+up, there are sort of random
+
+816
+51:15
+events flash to consciousness
+and get put together in a
+
+817
+51:18
+coherent story.
+From this perspective,
+
+818
+51:21
+dreams serve no adaptive
+function at all but rather
+
+819
+51:25
+they're epiphenomena.
+They are the byproducts of
+
+820
+51:29
+another system.
+Final topic is laughter and
+
+821
+51:35
+this is a true mystery.
+I got interested in this--well,
+
+822
+51:41
+I got interested in this as a
+developmental psychologist
+
+823
+51:45
+watching my own children laugh
+and trying to figure out what it
+
+824
+51:50
+is that made them laugh.
+This is my son,
+
+825
+51:54
+Zachary, pretty young but
+[laughter]
+
+826
+52:00
+this is not the youngest record
+of laughing.
+
+827
+52:08
+I found this on the web.
+
+828
+52:10
+
+
+829
+53:01
+[laughter] It's a huge puzzle.
+From an evolutionary point of
+
+830
+53:09
+view, people's pursuit of sex
+and food and drink and sleep are
+
+831
+53:14
+not these huge mysteries,
+our abilities to understand
+
+832
+53:18
+language and make sense of the
+visual world and cohere in
+
+833
+53:22
+groups,
+but the fact that we make this
+
+834
+53:25
+weird noise at bizarre
+circumstances is a huge puzzle
+
+835
+53:31
+and typical--typically
+psychologists have failed to
+
+836
+53:36
+explain this puzzle.
+So, here's something;
+
+837
+53:40
+here's a first guess I read in
+a neuroscience textbook.
+
+838
+53:44
+"We laugh when there is
+incongruity between what we
+
+839
+53:47
+expect and what we
+actually--what actually happens
+
+840
+53:50
+unless the outcome is
+frightening."
+
+841
+53:53
+[laughter]
+Now, this is a fair effort.
+
+842
+53:55
+It is about as wrong as
+anything can be wrong in any
+
+843
+53:59
+possible way.
+[laughter]
+
+844
+54:01
+The first thing is it doesn't
+really explain "why?"
+
+845
+54:05
+So, why should a
+non-frightening incongruity
+
+846
+54:07
+cause people to make a
+distinctive loud noise consisted
+
+847
+54:11
+of staccato segments of one
+fifteenth of a second each
+
+848
+54:14
+separated by a fifth of a
+second?
+
+849
+54:17
+It doesn't explain why we make
+that loud noise when dealing
+
+850
+54:20
+with incongruity.
+It's not the case that
+
+851
+54:24
+incongruity causes laughter.
+If there was a bowl of fruit up
+
+852
+54:30
+there as you walked in,
+it'd be incongruous but people
+
+853
+54:33
+wouldn't shriek with laughter
+and point to the fruit.
+
+854
+54:38
+[laughter]
+It's also--a lot of laughter
+
+855
+54:41
+isn't caused by incongruity so a
+lot of times when we laugh
+
+856
+54:47
+there's nothing incongruous in
+any deep sense about it.
+
+857
+54:52
+So, laughter is kind of a
+puzzle.
+
+858
+54:54
+We don't know why we laugh.
+We don't know what makes us
+
+859
+54:58
+laugh.
+Over the last five,
+
+860
+55:00
+ten years there's been some
+work done on this.
+
+861
+55:04
+A lot of the work is done by
+Robert Provine who summarizes
+
+862
+55:08
+this in his excellent book
+Laughter. And Provine
+
+863
+55:12
+decided to do something that
+nobody in the history of the
+
+864
+55:17
+world has done.
+He decided to send himself and
+
+865
+55:21
+his students to different places
+including shopping malls and
+
+866
+55:26
+observe when people laughed and
+write down what made them laugh.
+
+867
+55:31
+And this is the first
+descriptive step to developing a
+
+868
+55:35
+theory of laughter.
+And his big finding is that you
+
+869
+55:39
+could separate people--you could
+separate the question of
+
+870
+55:44
+laughter from the question of a
+joke or the question of humor.
+
+871
+55:51
+Most of what people--what made
+people laugh wasn't in any sense
+
+872
+55:56
+a joke or humorous.
+So, he had over a thousand
+
+873
+56:00
+laughter-initiated situations
+and here are some typical
+
+874
+56:04
+comments that initiated
+laughter,
+
+875
+56:07
+sometimes uproarious laughter,
+on the parts of people.
+
+876
+56:11
+"I'll see you guys later."
+"Look.
+
+877
+56:14
+It's Andre."
+[laughter] "Are you sure?"
+
+878
+56:18
+"I know."
+"How are you?"
+
+879
+56:20
+"I try to lead a normal life."
+It's sort of funny.
+
+880
+56:25
+[laughter]
+It was anyway in a context
+
+881
+56:27
+where it wasn't particularly
+amusing.
+
+882
+56:29
+"It wasn't you."
+"We can handle this."
+
+883
+56:33
+Only ten percent of the
+comments were--could be re-coded
+
+884
+56:37
+later on as people--as actually
+humorous in any sense.
+
+885
+56:40
+And these included "Poor boy
+looks just like his father,"
+
+886
+56:43
+[laughter]
+"You smell like you've had a
+
+887
+56:46
+good workout,"
+[laughter]
+
+888
+56:47
+"Did you find that in your
+nose?", [laughter]
+
+889
+56:50
+a reference to dormitory food,
+[laughter], "He has a job
+
+890
+56:53
+pulling back skin in the
+operating room."
+
+891
+56:56
+[laughter]
+So, Provine suggests we
+
+892
+56:59
+separate the question of
+laughter and jokes and then ask
+
+893
+57:04
+what do we know about laughter?
+Well, here are some basic facts
+
+894
+57:09
+that--remember we're trying to
+think like evolutionary
+
+895
+57:12
+biologists here.
+Humans have this universal
+
+896
+57:15
+trait.
+There's no society without
+
+897
+57:17
+laughter.
+It's early emerging as we saw
+
+898
+57:19
+in those clips.
+So, what's it for?
+
+899
+57:22
+What does it do?
+If it's an accident,
+
+900
+57:24
+what's it an accident from?
+What properties does it have?
+
+901
+57:27
+And there are some properties
+that are important to know.
+
+902
+57:30
+It's social and communicative.
+Why do we know that?
+
+903
+57:34
+Because it's loud.
+Laughter is not like hunger.
+
+904
+57:40
+Hunger can be silent.
+Hunger is not essentially a
+
+905
+57:43
+message to other people but when
+humans – when it involves a
+
+906
+57:46
+loud noise – the reason why
+we've evolved loud noises is to
+
+907
+57:50
+communicate with other people.
+Laughter could be viewed as a
+
+908
+57:55
+form of involuntary noisemaking
+and it's contagious.
+
+909
+58:00
+That's another interesting
+thing about it.
+
+910
+58:03
+One of the great discoveries in
+television and movies was the
+
+911
+58:08
+invention of the laugh track.
+The laugh track makes things a
+
+912
+58:13
+lot funnier because people laugh
+a lot more when they're in
+
+913
+58:16
+groups.
+The rim shot after a comic
+
+914
+58:18
+remark is an attempt to
+simulate--sort of a
+
+915
+58:21
+pre-technological attempt to
+simulate the sound of laughter.
+
+916
+58:26
+Children are particularly
+influenced by the contagiousness
+
+917
+58:31
+of laughter, but just in
+general,
+
+918
+58:34
+if you hear somebody laughing,
+like the kids you saw before,
+
+919
+58:38
+it's the sort of thing that
+could easily make you laugh.
+
+920
+58:43
+Other primates do it to some
+extent and then it's interesting
+
+921
+58:47
+when they do it.
+Monkeys laugh when they attack.
+
+922
+58:53
+When monkeys get together to
+kill and eat somebody they make
+
+923
+58:58
+a kind of a laughing noise and
+chimpanzees laugh when they
+
+924
+59:02
+tickle each other.
+And then you'll see--And what's
+
+925
+59:06
+tickling?
+Well, a fair definition of
+
+926
+59:09
+tickling is touching parts of
+the body in a mock attack.
+
+927
+59:13
+You sort of attack somebody and
+they're laughing but if
+
+928
+59:16
+it's--but if somebody's trying
+to mug you you're not "Ah,
+
+929
+59:19
+this is so funny."
+[laughter]
+
+930
+59:21
+You have to realize that this
+is a mock attack;
+
+931
+59:24
+you're simulating attack.
+So one theory is--is a signal
+
+932
+59:29
+of mock aggression and
+collective aggression.
+
+933
+59:32
+It's basically--it's like a
+sound of some sort of mob
+
+934
+59:37
+attack.
+It's mock aggression in the
+
+935
+59:40
+sense that when people laugh
+they're often teasing,
+
+936
+59:44
+kidding around.
+They're throwing out insults,
+
+937
+59:47
+maybe they're tickling each
+other, maybe they're making fun
+
+938
+59:52
+of each other,
+maybe they're making fun of
+
+939
+59:54
+themselves, and there's some
+aggression to it.
+
+940
+59:57
+Most laughter is inspired by
+some degree of aggression,
+
+941
+60:01
+but it's attenuated and it's
+not real.
+
+942
+60:04
+And the laughter is a signal
+this isn't real.
+
+943
+60:07
+And collective aggression--a
+lot of mob assaults,
+
+944
+60:11
+executions, lynchings,
+rapes are accompanied with the
+
+945
+60:16
+sound of laughter.
+When you're in a group doing
+
+946
+60:19
+something terribly aggressive
+and you are not--you don't feel
+
+947
+60:22
+like you're at risk you might
+laugh and laughter is a signal
+
+948
+60:26
+to other members of your group
+as a signal of solidarity and
+
+949
+60:29
+what you're doing together.
+A different way of putting
+
+950
+60:33
+it--and none of this is going to
+come in with a sharp,
+
+951
+60:36
+decisive theory.
+These are sort of flailing away
+
+952
+60:40
+at different ideas but another
+way of doing--an older way is
+
+953
+60:43
+proposed by Plato,
+who viewed laughter as a form
+
+954
+60:47
+of bonding against a common
+enemy.
+
+955
+60:50
+It's a sound of group cohesion
+against the common enemy.
+
+956
+60:54
+Comedians have not missed the
+aggressive nature of laughter.
+
+957
+60:59
+Dave Barry writes: 
+The most important humor
+
+958
+61:03
+truth of all is that to really
+see the humor in a situation you
+
+959
+61:06
+have to have perspective.
+Perspective is derived from two
+
+960
+61:09
+ancient Greek words,
+‘pers' meaning something bad
+
+961
+61:11
+that happens to someone else and
+‘ective' meaning ideally
+
+962
+61:14
+somebody like Donald
+Trump.
+
+963
+61:16
+[laughter]
+And the idea is that it's
+
+964
+61:19
+something bad happening but not
+to you or to somebody you love.
+
+965
+61:24
+Mel Brooks puts it in somewhat
+sharper terms,
+
+966
+61:27
+distinguishing between comedy
+and tragedy: "Tragedy is when I
+
+967
+61:30
+cut my finger.
+Comedy is when you fall in an
+
+968
+61:33
+open sewer and die."
+
+969
+61:34
+
+
+970
+61:40
+[laughter]
+To sum up, ingredients of humor
+
+971
+61:43
+is there has to be a target who
+experiences some harm.
+
+972
+61:48
+It could be an enemy.
+It could be a friend.
+
+973
+61:50
+It could be yourself.
+The harm shouldn't be so
+
+974
+61:53
+serious that it elicits strong
+negative emotions like fear,
+
+975
+61:58
+grief or pity.
+So, if a stranger slips on a
+
+976
+62:02
+banana peel and lands on his
+butt, I might laugh because I'm
+
+977
+62:07
+not overcome by compassion.
+If he splits his head open and
+
+978
+62:11
+there's blood everywhere,
+I'm less likely to laugh unless
+
+979
+62:14
+I don't like him or something.
+[laughter]
+
+980
+62:16
+And this is why the humor--why
+the damage is often a certain
+
+981
+62:21
+sort of damage involving things
+like embarrassment,
+
+982
+62:25
+sex, scatology,
+a banana peel,
+
+983
+62:26
+pie in the face,
+your pants fall down or
+
+984
+62:28
+something,
+where there's no real harm.
+
+985
+62:31
+So, empathy,
+caring, sympathy don't kick in,
+
+986
+62:35
+but instead there's the
+aggression unleashed at somebody
+
+987
+62:40
+and there has to be some level
+of surprise.
+
+988
+62:44
+This is what--this is where the
+humor for that baby comes in,
+
+989
+62:49
+which is you couldn't predict
+when the sound was coming and
+
+990
+62:53
+some aspect of that was what
+made it so funny then,
+
+991
+62:58
+what elicited the laughter.
+This is--what elicited the
+
+992
+63:01
+laughter for Zachary was
+watching the classic film
+
+993
+63:05
+Winnie the Pooh and the
+Blustery Day where Rabbit
+
+994
+63:09
+climbed on a high bunch of
+shelves and it all came crashing
+
+995
+63:13
+down on him.
+But he didn't--he wasn't dead.
+
+996
+63:16
+He was just kind of stunned.
+[laughter]
+
+997
+63:20
+Final question for anybody
+interested in laughter is,
+
+998
+63:23
+"Why can't we tickle
+ourselves?"
+
+999
+63:25
+Now, I've talked about laughter
+on two separate occasions and on
+
+1000
+63:28
+each of the occasions when I
+talked in front of a large group
+
+1001
+63:31
+like this somebody came up to me
+afterwards and said,
+
+1002
+63:35
+"But I can."
+[laughter]
+
+1003
+63:39
+And [laughter]
+I don't--and they seemed
+
+1004
+63:42
+sincere but if people say,
+"I can tickle myself," how many
+
+1005
+63:47
+people here will own up to being
+able to tickle themselves?
+
+1006
+63:52
+One?
+[laughter]
+
+1007
+63:55
+It's a fascinating question why
+some people can.
+
+1008
+64:00
+The general story of why we
+can't in general is because
+
+1009
+64:03
+there's no surprise,
+there's no mock aggression,
+
+1010
+64:06
+and also there may be a general
+deadening of self-stimulation.
+
+1011
+64:10
+I'm going to end with the final
+reading response.
+
+1012
+64:18
+Think of an interesting
+testable idea about either
+
+1013
+64:22
+dreams or laughter.
+You could go into as much
+
+1014
+64:25
+detail as you want.
+If you want your thing could be
+
+1015
+64:29
+one sentence long but it could
+be longer.
+
+1016
+64:32
+I will ask the teaching fellows
+to each send me their one or two
+
+1017
+64:37
+most interesting remarks.
+I will then judge and then the
+
+1018
+64:42
+winner will win some small
+prize, either of a literary or a
+
+1019
+64:46
+food nature.
+Okay.
+
+1020
+64:50
+I'll see you all on Wednesday.
+

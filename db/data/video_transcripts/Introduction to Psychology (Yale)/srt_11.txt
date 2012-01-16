@@ -1,1 +1,4402 @@
-{data => {title => Introduction to Psychology (Yale)_11, id => 8UySWKNjw5Y}}
+{title => Introduction to Psychology (Yale)_11, video_id => 8UySWKNjw5Y}}1
+0:12
+Professor Paul Bloom:
+On Monday we--I presented an
+
+2
+0:16
+introduction to evolutionary
+psychology, the looking at
+
+3
+0:20
+psychology from an evolutionary
+perspective, and trying to make
+
+4
+0:24
+a case and give some examples of
+how it can help illuminate and
+
+5
+0:28
+illustrate certain aspects of
+how the mind works.
+
+6
+0:32
+One of the advantages of an
+evolutionary perspective on the
+
+7
+0:37
+mind is that it forces us to
+look scientifically at what we
+
+8
+0:43
+would otherwise take for
+granted.
+
+9
+0:46
+There are a lot of aspects of
+how we are and what we are and
+
+10
+0:50
+what we do that seem so natural
+to us.
+
+11
+0:52
+They come so instinctively and
+easily it's difficult,
+
+12
+0:56
+and sort of unnatural,
+to step back and explore them
+
+13
+1:00
+scientifically but if we're
+going to be scientists and look
+
+14
+1:03
+at the mind from a scientific
+perspective we have to get a
+
+15
+1:07
+sort of distance from ourselves
+and ask questions that other
+
+16
+1:10
+people would not normally think
+to ask.
+
+17
+1:13
+And the clearest case of this
+arises with the emotions.
+
+18
+1:19
+And as a starting point there's
+a lovely quote from the
+
+19
+1:23
+psychologist and philosopher
+William James that I want to
+
+20
+1:27
+begin with.
+So, he writes:
+
+21
+1:29
+To the psychologist alone
+can such questions occur as:
+
+22
+1:33
+Why do we smile when pleased
+and not scowl?
+
+23
+1:35
+Why are we unable to talk to a
+crowd as we talk to a single
+
+24
+1:39
+friend?
+Why does a particular maiden
+
+25
+1:42
+turn our wits upside down?
+The common man--[None of you
+
+26
+1:45
+are the common man.]
+The common man can only say,
+
+27
+1:48
+"Of course we smile.
+Of course our heart palpitates
+
+28
+1:51
+at the sight of the crowd.
+Of course we love the maiden.
+
+29
+1:54
+And so probably does each
+animal feel about the particular
+
+30
+1:57
+things it tends to do in the
+presence of certain objects.
+
+31
+2:00
+To the lion it is the lioness
+which is made to be loved;
+
+32
+2:03
+to the bear the she-bear.
+To the broody hen,
+
+33
+2:06
+the notion would probably seem
+monstrous that there should be a
+
+34
+2:09
+creature in the world to whom a
+nestful of eggs was not utterly
+
+35
+2:13
+fascinating and precious and
+never to be too-much-sat-upon
+
+36
+2:16
+object which it is to her.
+Now, there's a few things to
+
+37
+2:20
+note about this passage.
+First, it's incredibly sexist.
+
+38
+2:23
+It assumes not just merely in
+reflexive use of phrases.
+
+39
+2:26
+It assumes that--William James
+assumes he's talking to males,
+
+40
+2:30
+male humans who sometimes take
+the perspective of male bears.
+
+41
+2:35
+And so, it assumes a male
+audience.
+
+42
+2:39
+You wouldn't normally--You
+wouldn't actually ever write
+
+43
+2:41
+this way.
+A second point is it's
+
+44
+2:43
+beautifully written and you're
+not--;also, not allowed to write
+
+45
+2:47
+that way anymore either.
+It's poetic and lyrical and
+
+46
+2:51
+if--William James
+characteristically writes that
+
+47
+2:54
+way.
+I think he writes so much
+
+48
+2:57
+better than his brother,
+Henry James,
+
+49
+3:00
+an obscure novelist.
+[laughter]
+
+50
+3:02
+Finally though,
+the point that he makes is a
+
+51
+3:05
+terrific one,
+which is yes,
+
+52
+3:07
+all of these things seem
+natural to us but the reason why
+
+53
+3:12
+they seem natural is not because
+they are in some sense necessary
+
+54
+3:17
+or logical truths.
+Rather, they emerge from
+
+55
+3:21
+contingent aspects of our
+biological nature.
+
+56
+3:25
+And so we need to step back.
+We actually--We need to step
+
+57
+3:29
+back and ask questions like--and
+these are questions we're going
+
+58
+3:33
+to ask--Why does poop smell bad?
+Avoid the temptation to say,
+
+59
+3:37
+"Well, poop smells bad because
+it's so stinky."
+
+60
+3:40
+The stinkiness of poop is not
+an irreducible fact about the
+
+61
+3:45
+universe.
+Rather, the stinkiness of poop
+
+62
+3:47
+is a fact about human
+psychology.
+
+63
+3:50
+To a dung beetle poop smells
+just fine.
+
+64
+3:52
+Why does chocolate taste good?
+Well, chocolate--The good
+
+65
+3:56
+tastiness of chocolate isn't
+some necessary fact about the
+
+66
+4:00
+world.
+It's a fact about our minds
+
+67
+4:03
+that doesn't hold true for many
+other creatures.
+
+68
+4:06
+And so, we have to step back
+and ask why to us do we find
+
+69
+4:10
+chocolate appealing?
+Why do we love our children?
+
+70
+4:14
+Don't say they're lovable.
+Many of them are not [laughter]
+
+71
+4:19
+and, as William James points
+out, every animal,
+
+72
+4:23
+most animals,
+many animals love their
+
+73
+4:26
+children.
+They think their children are
+
+74
+4:28
+precious and wonderful.
+Why?
+
+75
+4:31
+Why do we get angry when people
+hit us?
+
+76
+4:33
+Suppose somebody walked up to
+you and slapped you in the face?
+
+77
+4:37
+You'd be afraid.
+You'd be angry.
+
+78
+4:39
+Would you get sleepy,
+feel nostalgic,
+
+79
+4:44
+suddenly desire some cold soup?
+[laughter] No.
+
+80
+4:50
+Those are stupid alternatives.
+Of course if somebody slapped
+
+81
+4:53
+us you would--we would get angry
+or afraid.
+
+82
+4:56
+Why?
+Why do we feel good when
+
+83
+5:01
+someone does us a favor?
+Why don't we feel angry?
+
+84
+5:06
+Why don't we feel fearful?
+What we're going to do
+
+85
+5:10
+throughout this course is step
+back and ask these questions.
+
+86
+5:13
+We're going to ask questions
+nobody would have otherwise
+
+87
+5:16
+thought to ask,
+where the common man wouldn't
+
+88
+5:19
+address,
+and this is,
+
+89
+5:20
+of course, standard in all
+sciences.
+
+90
+5:23
+The first step to insight is to
+ask questions like why do things
+
+91
+5:29
+fall down and not up?
+And I imagine the first person
+
+92
+5:33
+who articulated the question
+aloud probably met with the
+
+93
+5:35
+response saying,
+"What a stupid question.
+
+94
+5:37
+Of course things fall down."
+Well, yes, of course things
+
+95
+5:41
+fall down, but why?
+Why is our flesh warm?
+
+96
+5:45
+Why does water turn solid when
+it gets cold?
+
+97
+5:48
+These are natural facts about
+the universe,
+
+98
+5:50
+but the naturalness needs to be
+explained and not merely
+
+99
+5:54
+assumed.
+In this class we're going to
+
+100
+5:56
+explore, throughout the course,
+what seems natural to us and
+
+101
+6:00
+try to make sense of it.
+And to that end we have to ask
+
+102
+6:04
+questions that you wouldn't
+normally ask.
+
+103
+6:07
+We've already done this to some
+extent with domains such as
+
+104
+6:10
+visual perception,
+memory, language and
+
+105
+6:13
+rationality, but now we're going
+to move to the case where it's
+
+106
+6:19
+maybe even somewhat more
+difficult to do this.
+
+107
+6:23
+Now, we're going to start
+dealing with the emotions.
+
+108
+6:26
+We're going to talk about the
+emotions, why they exist,
+
+109
+6:29
+what they're there for,
+and how they work.
+
+110
+6:32
+I want to start off with the
+wrong theory of the emotions.
+
+111
+6:36
+And the wrong theory of the
+emotions is beautifully
+
+112
+6:40
+illustrated in the television
+and movie series Star
+
+113
+6:43
+Trek.
+In this alternative fantasy
+
+114
+6:47
+world, there are characters,
+Mr.
+
+115
+6:49
+Spock in the original Star
+Trek, Data in one of the
+
+116
+6:54
+spin-offs, who are described as
+competent,
+
+117
+6:58
+capable, in fact in many ways,
+super competent and super
+
+118
+7:03
+capable people.
+But they're described as not
+
+119
+7:06
+having emotions.
+Spock is described as not
+
+120
+7:09
+having emotions because he's
+half Vulcan, from a planet where
+
+121
+7:12
+they lack emotions.
+Data is an android who is said
+
+122
+7:16
+to lack an emotion chip.
+This lack of emotions on
+
+123
+7:19
+this--on a TV series does not
+hurt them much.
+
+124
+7:21
+They're able to fully function.
+And in fact,
+
+125
+7:24
+in a TV series emotions are
+often seen as a detriment.
+
+126
+7:28
+You do better off without them.
+And there are many people in
+
+127
+7:32
+sort of common sense who might
+think "Gee, if only I could just
+
+128
+7:35
+use my rationality,
+think reasonably and rationally
+
+129
+7:39
+and not let my emotions guide my
+behavior I'd be much better
+
+130
+7:43
+off."
+It turns out that this is a
+
+131
+7:46
+notion of how to think about the
+emotions that is deeply wrong.
+
+132
+7:51
+And in fact,
+makes no sense at all.
+
+133
+7:55
+Using the example of Star
+Trek, Steven Pinker,
+
+134
+7:58
+in his book How the Mind
+Works, nicely illustrates
+
+135
+8:01
+the problem here.
+He writes, "Spock must have
+
+136
+8:05
+been driven by some motives or
+goals.
+
+137
+8:09
+Something must have led him to
+explore strange new worlds,
+
+138
+8:12
+to seek out new civilizations
+and to boldly go where no man
+
+139
+8:16
+had gone before."
+Presumably, it was intellectual
+
+140
+8:19
+curiosity that set him to drive
+and solve problems.
+
+141
+8:22
+It was solidarity with his
+allies that led him to be such a
+
+142
+8:27
+competent and brave officer.
+What would he have done if
+
+143
+8:32
+attacked by a predator or an
+invading Klingon?
+
+144
+8:35
+Did he do a handstand,
+solve the four-color map
+
+145
+8:38
+theorem?
+Presumably, a part of his brain
+
+146
+8:40
+quickly mobilized his faculties
+to scope out how to flee and how
+
+147
+8:45
+to take steps to avoid a
+vulnerable predicament in the
+
+148
+8:49
+future.
+That is, he had fear.
+
+149
+8:52
+Spock did not walk around naked
+around the ship.
+
+150
+8:56
+Presumably, he felt modesty.
+He got out of bed.
+
+151
+9:00
+Presumably, he had some
+ambitions and drive.
+
+152
+9:02
+He engaged in conversations.
+Presumably, he had some
+
+153
+9:05
+sociable interests.
+Without emotions to drive us we
+
+154
+9:08
+would do nothing at all.
+And you could illustrate this
+
+155
+9:12
+scientifically.
+Creatures like Spock and Data
+
+156
+9:16
+don't exist in the real world
+but there are unusual and
+
+157
+9:21
+unfortunate cases where people
+lose,
+
+158
+9:24
+to some extent or another,
+their emotions.
+
+159
+9:27
+And you could look at these
+people and see what happens to
+
+160
+9:31
+them.
+The classic case,
+
+161
+9:33
+the most famous case,
+is that of a man called Phineas
+
+162
+9:37
+Gage.
+Phineas Gage is the classic
+
+163
+9:40
+Intro Psych example – an
+extremely poor guy,
+
+164
+9:43
+poor schmuck.
+In 1848--He was a construction
+
+165
+9:47
+foreman.
+In 1848 he was working at a
+
+166
+9:50
+site with explosives and iron
+rods.
+
+167
+9:54
+And due to an explosion,
+an iron rod passed through his
+
+168
+10:00
+head like so.
+Imagine that rod shooting
+
+169
+10:03
+upwards.
+It went under his eye and
+
+170
+10:05
+popped out the top of his head.
+It landed about one hundred
+
+171
+10:10
+feet away covered with blood and
+brains.
+
+172
+10:13
+The rod itself weighed thirteen
+pounds.
+
+173
+10:17
+Amazingly, Gage was not killed.
+In fact, he was knocked
+
+174
+10:23
+unconscious only for a short
+period and then he got up and
+
+175
+10:27
+his friends surrounded him and
+asked, "Are you okay?"
+
+176
+10:30
+And they--And then they took
+him to the hospital.
+
+177
+10:33
+On the way to the hospital,
+they stopped by a tavern and he
+
+178
+10:37
+had a little pint of cider to
+drink, sat down and talked to
+
+179
+10:40
+people.
+And then he had an infection,
+
+180
+10:43
+had to have surgery.
+But when it was all said and
+
+181
+10:47
+done he wasn't blind,
+he wasn't deaf,
+
+182
+10:50
+didn't lose language,
+didn't become aphasic,
+
+183
+10:53
+no paralysis,
+no retardation.
+
+184
+10:56
+In some sense,
+what happened was much worse.
+
+185
+11:00
+He lost his character.
+Here's a description at the
+
+186
+11:06
+time of what Gage was like.
+And this is from Damasio's
+
+187
+11:10
+excellent book Descartes'
+Error:
+
+188
+11:14
+He used to be a really
+responsible guy,
+
+189
+11:17
+a family man,
+very reliable,
+
+190
+11:19
+very trustworthy.
+But after the accident he was
+
+191
+11:23
+fitful, irreverent,
+indulging at times in the
+
+192
+11:27
+grossest profanity,
+manifesting but little
+
+193
+11:30
+deference for his fellows,
+impatient of restraint or
+
+194
+11:34
+advice,
+a child in his intellectual
+
+195
+11:37
+capacities and manifestations.
+He had the animal pleasures of
+
+196
+11:41
+a strong man.
+His foul language is so debased
+
+197
+11:45
+that women are advised not to
+stay long in his presence.
+
+198
+11:50
+And he couldn't hold a job.
+He lost his family,
+
+199
+11:55
+couldn't hold a job.
+He ended up in the circus.
+
+200
+11:58
+He was in the circus going
+around the country with his big
+
+201
+12:01
+iron rod telling everybody the
+story as they surrounded him and
+
+202
+12:05
+clapped.
+There are other cases like
+
+203
+12:08
+Phineas Gage,
+cases where people have had
+
+204
+12:12
+damage to that same part of the
+brain, parts of the frontal
+
+205
+12:17
+cortex.
+And what they've lost is they
+
+206
+12:22
+basically lost a good part of
+their emotions.
+
+207
+12:26
+And what this means is they
+don't really care that much
+
+208
+12:30
+about things.
+They can't prioritize.
+
+209
+12:33
+Damasio tells a case of one of
+his patients who was under the
+
+210
+12:37
+pseudonym here of Elliot.
+And Elliot had a tumor in his
+
+211
+12:42
+frontal lobe.
+And the tumor had to be removed
+
+212
+12:45
+and with it came a lot of
+Elliot's frontal lobe.
+
+213
+12:48
+And again, as a result of this,
+Elliot was not struck blind or
+
+214
+12:52
+deaf or retarded,
+and he didn't become the sort
+
+215
+12:56
+of profane character that
+Phineas Gage became,
+
+216
+12:59
+but he lost the ability to
+prioritize.
+
+217
+13:04
+He lost the ability to set
+goals.
+
+218
+13:05
+Damasio describes him here:
+
+219
+13:07
+
+
+220
+13:10
+At his job at an activity
+he would read and fully
+
+221
+13:14
+understand the significance of
+the material [He works in an
+
+222
+13:18
+office.]
+but the problem was he was
+
+223
+13:20
+likely,
+all of a sudden,
+
+224
+13:22
+to turn from the task he had
+initiated to doing something
+
+225
+13:25
+else and spending an entire day
+doing that.
+
+226
+13:27
+He might spend an entire
+afternoon deliberating on which
+
+227
+13:30
+principle of categorization he
+should apply to files.
+
+228
+13:34
+Should it be the date or the
+size of the document,
+
+229
+13:36
+pertinence to the case or
+another?
+
+230
+13:39
+He couldn't set his goals.
+He couldn't--He ended up not
+
+231
+13:42
+being able to keep a job,
+not being able to deal with
+
+232
+13:45
+people.
+And these are not men who have
+
+233
+13:48
+lost their emotions.
+There is no case around where
+
+234
+13:51
+you could have your emotions
+entirely blotted out.
+
+235
+13:54
+But they lost a large part of
+their emotional capacity and as
+
+236
+13:59
+a result, their rationality
+failed.
+
+237
+14:01
+Emotions set goals and
+establish priorities.
+
+238
+14:05
+And without them you wouldn't
+do anything, you couldn't do
+
+239
+14:10
+anything.
+Your desire to come to class to
+
+240
+14:12
+study, to go out with friends,
+to read a book,
+
+241
+14:15
+to raise a family,
+to be--to do anything are
+
+242
+14:20
+priorities set by your emotions.
+Life would be impossible
+
+243
+14:26
+without those emotions.
+And so, there's certain themes
+
+244
+14:30
+we're going to explore here.
+The first is this,
+
+245
+14:33
+that emotions are basically
+mechanisms that set goals and
+
+246
+14:36
+priorities and we're going to
+talk a lot about--in this class
+
+247
+14:40
+and the next class about
+universals.
+
+248
+14:42
+We're also going to talk about
+culture.
+
+249
+14:46
+It turns out that cultures,
+different cultures,
+
+250
+14:49
+including differences between
+America and Japan and the
+
+251
+14:52
+American South and the American
+North,
+
+252
+14:55
+have somewhat different
+emotional triggers and emotional
+
+253
+14:59
+baselines to respond to.
+But at the same time,
+
+254
+15:03
+as Darwin well knew,
+emotions have universal roots
+
+255
+15:07
+that are shared across all
+humans and across many animals.
+
+256
+15:11
+So, the agenda for this class
+and the next class is going to
+
+257
+15:15
+go like this.
+First, I want to talk a little
+
+258
+15:18
+bit about facial expressions,
+which are ways in which we
+
+259
+15:21
+communicate our emotions – not
+the only way,
+
+260
+15:24
+but an important way – and
+look, in particular,
+
+261
+15:27
+at the case of smiling because
+it's kind of interesting.
+
+262
+15:30
+Then I want to look at one case
+study of a nonsocial emotion,
+
+263
+15:34
+that of fear.
+I want to then deal with
+
+264
+15:37
+feelings towards our kin,
+people we're genetically
+
+265
+15:40
+related to,
+and then--and this will take us
+
+266
+15:43
+to the next class,
+feelings towards non kin.
+
+267
+15:45
+So first, faces.
+And as an introduction to faces
+
+268
+15:50
+I have a brief film clip from
+Paul Ekman, who is one of the
+
+269
+15:54
+world's great scholars in the
+study of facial expressions.
+
+270
+15:58
+In Ekman's work,
+he presents us with
+
+271
+16:01
+instructions on how to make
+different faces and identify
+
+272
+16:06
+faces.
+Ekman actually has a sort of
+
+273
+16:08
+more practical career along with
+his scientific career.
+
+274
+16:11
+He trains police and secret
+service members to try to figure
+
+275
+16:15
+out cues to honesty and
+dishonesty.
+
+276
+16:18
+There's a very interesting
+New Yorker profile on him
+
+277
+16:21
+by Malcolm Gladwell a few years
+ago, something you might be
+
+278
+16:23
+interested in.
+But let's do one of his faces.
+
+279
+16:26
+
+
+280
+16:31
+Please lower your brows and
+draw them together.
+
+281
+16:33
+
+
+282
+16:38
+That means even those who
+aren't making eye contact with
+
+283
+16:40
+me now.
+
+284
+16:41
+
+
+285
+16:44
+Tense your lower and upper
+eyelids.
+
+286
+16:47
+Don't pop out contact lenses
+but just tense them.
+
+287
+16:50
+
+
+288
+16:53
+Stare.
+Your eyes can bulge somewhat.
+
+289
+16:56
+[laughter] Okay.
+Now, the last part is important.
+
+290
+16:59
+Press your lips together with
+the corners straight or down.
+
+291
+17:02
+That's good.
+You got it.
+
+292
+17:05
+[laughter] Okay.
+Just because you are not making
+
+293
+17:09
+eye contact with me doesn't mean
+I can't see you.
+
+294
+17:11
+Okay. .
+And what face is that?
+
+295
+17:20
+What emotion does that
+correspond to?
+
+296
+17:23
+Anger.
+There's all sorts of databases
+
+297
+17:28
+of different faces from around.
+This guy--I don't know who he
+
+298
+17:33
+is but he seems to be on a lot
+of these things [laughter]
+
+299
+17:38
+but the thing is you don't need
+to rely on him.
+
+300
+17:42
+You don't need to rely on
+Western faces.
+
+301
+17:43
+Even if you go on line there's,
+by now, a lot of databases from
+
+302
+17:47
+faces from all sorts of genders
+and national origins.
+
+303
+17:50
+This is from a Japanese women
+facial expressions.
+
+304
+17:54
+And there are some subtle and
+very interesting differences
+
+305
+17:57
+across countries and across
+people, but there's also deep
+
+306
+18:00
+universals.
+You don't have to work very
+
+307
+18:03
+hard to figure out what these
+different facial expressions
+
+308
+18:08
+mean.
+I want to give one more face
+
+309
+18:10
+example because I want to focus
+on this a little bit.
+
+310
+18:13
+This one's a little bit easier.
+Raise the corners of your lips
+
+311
+18:16
+back and up, please.
+
+312
+18:17
+
+
+313
+18:21
+[laughter] Raise your cheeks.
+Raise your lower eyelids if you
+
+314
+18:27
+can.
+[laughter] They're smiling.
+
+315
+18:30
+You're smiling.
+You can stop [laughter] smiling.
+
+316
+18:35
+Yale is actually really big on
+smiling.
+
+317
+18:39
+We have two of the world's
+experts on smiling.
+
+318
+18:41
+This is Angus Trumble,
+the curator at the British Art
+
+319
+18:46
+Gallery who wrote this wonderful
+book,
+
+320
+18:49
+A Brief History of the
+Smile looking at the smile
+
+321
+18:52
+in art.
+And this is my colleague,
+
+322
+18:54
+Marianne LaFrance,
+who is actually not smiling in
+
+323
+18:57
+that picture but she studies
+smiling and smiling in adults,
+
+324
+19:01
+smiling in children,
+smiling across cultures,
+
+325
+19:04
+and the different social uses
+of smiling.
+
+326
+19:07
+And there are some interesting
+discoveries people have made
+
+327
+19:10
+about smiles and about smiles
+and the emotions.
+
+328
+19:14
+One--Oh.
+Well, one is that smiles are
+
+329
+19:18
+universal.
+We know, for instance,
+
+330
+19:21
+that young children smile.
+This is my son,
+
+331
+19:25
+Zachary, when he was younger,
+not that weird-looking kid
+
+332
+19:31
+[laughs]
+next to him.
+
+333
+19:34
+[laughter] Thank God.
+[laughter]
+
+334
+19:40
+And even blind children,
+children blind from birth,
+
+335
+19:44
+will smile.
+They'll smile appropriately,
+
+336
+19:48
+making an important point that
+smiling is not learned by
+
+337
+19:51
+looking at other people's faces.
+Smiling is also not uniquely
+
+338
+19:56
+human.
+Nonhuman primates smile as well.
+
+339
+20:01
+Smiles are social signals.
+You might imagine that people
+
+340
+20:07
+smile when they're happy.
+This is actually not the case.
+
+341
+20:12
+It's not as simple as that.
+Rather, people smile when they
+
+342
+20:17
+wish to communicate happiness
+and we know that from several
+
+343
+20:23
+studies.
+There are some studies of
+
+344
+20:25
+bowlers and the studies are very
+nice.
+
+345
+20:27
+What they do is they film
+bowlers.
+
+346
+20:29
+So, the bowlers do their
+bowling and sometimes they knock
+
+347
+20:33
+down all the pins,
+which is called a what?
+
+348
+20:36
+A strike.
+So a strike--and that's good in
+
+349
+20:39
+the bowling world.
+So, they knock down all the
+
+350
+20:41
+pins but what they don't do,
+is they don't smile after they
+
+351
+20:44
+knock down the pins.
+They are being filmed.
+
+352
+20:46
+They don't smile.
+Then they turn around to their
+
+353
+20:50
+friends and give a big grin.
+Other studies have looked at
+
+354
+20:55
+films of people who have just
+won Olympic gold medals.
+
+355
+20:59
+Now, not surprisingly,
+people who have won Olympic
+
+356
+21:03
+gold medals are very happy.
+This is good news to win an
+
+357
+21:07
+Olympic gold medal.
+But they don't actually stand
+
+358
+21:11
+on the podium grinning.
+Rather, they stand there with
+
+359
+21:15
+their faces in a normal
+expression.
+
+360
+21:18
+Then when they stand up and
+face the crowds,
+
+361
+21:21
+there's a big smile.
+You can ask yourself whether
+
+362
+21:26
+during sex, an activity where
+many people enjoy,
+
+363
+21:30
+whether or not people smile
+during sex.
+
+364
+21:35
+And you can discover this
+yourself with [laughter]
+
+365
+21:43
+a partner or a mirror.
+[laughter]
+
+366
+21:48
+So, there are other things we
+know about smiles.
+
+367
+21:54
+There are different types of
+smiles.
+
+368
+21:58
+There are actually quite a few
+different types of smiles that
+
+369
+22:01
+are different in interesting
+ways.
+
+370
+22:03
+This is Paul Ekman again.
+
+371
+22:05
+
+
+372
+22:09
+Which one's a better smile?
+Who votes for the one on the
+
+373
+22:13
+right?
+Who votes for the one on the
+
+374
+22:16
+left?
+There are two different sorts
+
+375
+22:18
+of smiles.
+The one on the right is a smile
+
+376
+22:22
+of greeting.
+It's sometimes known as a "Pan
+
+377
+22:26
+Am" smile.
+Pan Am is a now defunct airline
+
+378
+22:29
+which had at that time--They
+were--They don't call them
+
+379
+22:32
+stewardesses anymore but
+they're--the stewardesses would
+
+380
+22:35
+come in and they would smile.
+That was part of their job.
+
+381
+22:39
+But it was a big,
+fake smile, the Pan Am smile,
+
+382
+22:42
+a smile to communicate "hello"
+and--but it's as opposed to a
+
+383
+22:47
+smile where the communication is
+that of genuine happiness.
+
+384
+22:52
+The difference is around the
+eyes.
+
+385
+22:54
+It's not the mouth.
+It's the eyes.
+
+386
+22:57
+A real happiness smile,
+what's known as a Duchenne
+
+387
+23:01
+smile, after a neurophysiologist
+who studied it,
+
+388
+23:05
+involves moving the eyes.
+What's interesting is about
+
+389
+23:10
+only one out of every ten people
+can fake a Duchenne smile.
+
+390
+23:15
+So, if you smile at somebody,
+and you just hate their guts
+
+391
+23:20
+but you want to smile at them,
+it's--unless you're quite
+
+392
+23:26
+gifted it's difficult to fake a
+really good, really happy smile.
+
+393
+23:33
+You could--It's not difficult
+to study smiles in the real
+
+394
+23:38
+world.
+You could look at politicians,
+
+395
+23:40
+for instance.
+Politicians are often in
+
+396
+23:43
+contexts where they have to
+smile a lot.
+
+397
+23:46
+And what they do is they simply
+give the Pan Am smile.
+
+398
+23:50
+The mouth moves up,
+particularly if somebody is
+
+399
+23:53
+attacking their record or
+ridiculing them,
+
+400
+23:55
+and they'll smile and--but it's
+not a sincere smile.
+
+401
+23:58
+The eyes don't move.
+My favorite example of this was
+
+402
+24:01
+a few years ago when there was a
+huge battle for the House
+
+403
+24:05
+majority leader.
+And a guy named--a Republican
+
+404
+24:09
+named John Boehner won this
+position in quite a heated
+
+405
+24:12
+battle.
+And they took a picture of the
+
+406
+24:15
+guy--This is not very nice.
+They took a picture of the guy,
+
+407
+24:18
+Roy Blunt, as he stepped out.
+And he had lost and this was
+
+408
+24:22
+his expression.
+[laughter]
+
+409
+24:25
+And he's not really very happy
+[laughter]
+
+410
+24:30
+as opposed to a smile like
+this, which is a real smile.
+
+411
+24:36
+So, you have two sorts of
+smiles: A real happiness smile a
+
+412
+24:42
+Duchenne smile--called--also
+known as the Duchenne smile,
+
+413
+24:48
+and then a Pan Am smile,
+or greeting smile.
+
+414
+24:55
+And you'll use each of those
+smiles at different points in
+
+415
+24:58
+your day and in your life.
+It turns out that these
+
+416
+25:01
+different smiles have real
+psychological validity.
+
+417
+25:05
+They seem to sort of reflect
+deep differences in your mood
+
+418
+25:09
+and emotions and thoughts.
+Ten-month-olds,
+
+419
+25:11
+for instance,
+give different sorts of smiles.
+
+420
+25:15
+When their mother approaches
+there they give a real happiness
+
+421
+25:19
+smile.
+Then when a stranger approaches
+
+422
+25:21
+or someone else approaches there
+they'll tend to give more of a
+
+423
+25:24
+greeting smile.
+John Gottman studied married
+
+424
+25:28
+couples.
+And John Gottman does a lot of
+
+425
+25:31
+work--Well, what he does is he
+looks at film clips of couples.
+
+426
+25:34
+And by analyzing the film clips
+he tries to predict will their
+
+427
+25:40
+marriages survive.
+And one of his cues--There's
+
+428
+25:43
+different cues.
+Incidentally,
+
+429
+25:45
+sort of side topic:
+The death knell for a marriage
+
+430
+25:49
+for Gottman--This is his big
+finding.
+
+431
+25:52
+It's not if they fight a lot.
+It's not they scream at each
+
+432
+25:56
+other.
+It's not even if they hate each
+
+433
+26:00
+other.
+The death knell of a marriage
+
+434
+26:03
+is contempt.
+And so, if he shows these
+
+435
+26:07
+clips: I walk in,
+"Honey, I'm home," and my
+
+436
+26:11
+spouse has the look of contempt,
+it's a bad sign.
+
+437
+26:16
+[laughter]
+But another clue is the sort of
+
+438
+26:18
+smiles they give when they see
+each other when they walk into
+
+439
+26:21
+the lab.
+If it's a true happiness smile,
+
+440
+26:24
+that's actually bodes better
+for the relationship than a Pan
+
+441
+26:29
+Am, or greeting smile.
+Finally, studies have been done
+
+442
+26:34
+of college yearbook photos
+looking at people thirty years
+
+443
+26:39
+later.
+And it turns out that there's a
+
+444
+26:42
+correlation, a reliable
+relationship between how happy
+
+445
+26:46
+somebody is now and back thirty
+years ago in their yearbook
+
+446
+26:50
+photo--what sort of smile
+they're giving.
+
+447
+26:53
+There is some evidence for a
+third sort of smile.
+
+448
+26:58
+This is known as a coy smile or
+an appeasement smile.
+
+449
+27:04
+This is sort of a very
+specialized sort of smile.
+
+450
+27:08
+This is a smile of
+embarrassment or stress.
+
+451
+27:13
+You give it when you want
+people to like you,
+
+452
+27:18
+you want to join in;
+you want to make people feel
+
+453
+27:22
+positive about you.
+But you're in,
+
+454
+27:24
+sort of, a high-stress
+situation often with some sort
+
+455
+27:27
+of risk.
+And what you do is you sort of
+
+456
+27:31
+you turn away.
+There's no eye contact.
+
+457
+27:34
+You turn away and kind of give
+this-- And this actually shows
+
+458
+27:37
+up in other primates.
+Here's a nice picture.
+
+459
+27:43
+[laughter]
+So, the rhesus monkey bites her
+
+460
+27:45
+own infant, and the infant gives
+a scream and then the
+
+461
+27:47
+submissive, coy smile.
+And it also shows up in human
+
+462
+27:51
+infants.
+Here's a nice clip of a coy
+
+463
+27:53
+baby smile.
+I'll walk you through it.
+
+464
+27:55
+The baby is being approached,
+[laughter]
+
+465
+27:58
+goes like this ,
+smiles like this ,
+
+466
+28:01
+and then the aversion .
+Yeah.
+
+467
+28:04
+Babies are cute.
+[laughter]
+
+468
+28:08
+Any questions at this point
+about smiling?
+
+469
+28:11
+
+
+470
+28:17
+What are your smiling questions?
+[laughter] Yeah.
+
+471
+28:22
+Student: Do nonhuman
+primates' smiles [inaudible]
+
+472
+28:25
+Professor Paul Bloom:
+That's a good question.
+
+473
+28:27
+I don't know.
+There's evidence that the coy
+
+474
+28:30
+smile shows up in non--The
+question was,
+
+475
+28:33
+"Do nonhuman primates give the
+same smiles that humans do?"
+
+476
+28:37
+such as a distinction between
+the Pan Am smile,
+
+477
+28:40
+a greeting smile,
+versus a genuine smile of
+
+478
+28:42
+happiness?
+I don't know.
+
+479
+28:44
+I'll find out for you for next
+class though.
+
+480
+28:46
+That's a good question.
+Yeah.
+
+481
+28:48
+Student: How come some
+people's smiles are better than
+
+482
+28:52
+other people's smiles?
+Professor Paul Bloom:
+
+483
+28:54
+How come some people's smiles
+are better than other people's
+
+484
+28:56
+smiles?
+The non-interesting
+
+485
+28:57
+psychological answer,
+some people are better looking
+
+486
+29:02
+and there's more thing--
+[laughter]
+
+487
+29:05
+but the deeper answer is some
+people are better able to smile.
+
+488
+29:10
+Some people are better able to
+use the cues to express true
+
+489
+29:14
+happiness.
+There's something else about
+
+490
+29:17
+smiles which is going to come
+up, which your question raises,
+
+491
+29:20
+I think, which is going to come
+up in--when we talk about
+
+492
+29:24
+emotional contagion and
+actually,
+
+493
+29:27
+some issues of morality.
+Smiles are extremely contagious.
+
+494
+29:32
+So, what I'd like people to
+do--If you're sitting next to
+
+495
+29:35
+somebody, please turn around and
+find someone next to you and
+
+496
+29:39
+look at them.
+Don't do anything.
+
+497
+29:40
+Just look at them.
+Whoever is being looked at,
+
+498
+29:43
+look back.
+[laughter]
+
+499
+29:45
+This is not-- [laughter]
+Please arbitrarily decide.
+
+500
+29:49
+Okay.
+Please arbitrarily decide on
+
+501
+29:52
+the smiler.
+That will be--No,
+
+502
+29:54
+not at me, at each other,
+[laughter]
+
+503
+29:56
+and that will be the person--If
+you are unable to resolve this
+
+504
+30:00
+dispute--yes,
+you two, please--if you are
+
+505
+30:03
+unable to resolve this dispute,
+the person to the right of me
+
+506
+30:06
+will be the smiler.
+So, look at each other
+
+507
+30:10
+expressionless.
+[laughter]
+
+508
+30:13
+Now, the person who is the
+mandated smiler,
+
+509
+30:16
+[laughter]
+on three, please smile.
+
+510
+30:19
+One, two, three.
+[laughter] Okay.
+
+511
+30:28
+[laughter]
+Worst class demo ever
+
+512
+30:33
+[laughter]
+but if one could imagine more
+
+513
+30:38
+restrained circumstances,
+it is actually extremely
+
+514
+30:44
+difficult to be facing somebody
+who's really smiling at you and
+
+515
+30:50
+not smile.
+This is true,
+
+516
+30:52
+by the way, for virtually every
+other emotion.
+
+517
+30:55
+The phenomena is known as
+"emotional contagion," where if
+
+518
+30:59
+you're facing somebody,
+for instance,
+
+519
+31:02
+and they're--they look at you
+in a face of absolute rage,
+
+520
+31:05
+it is very difficult to just
+sit there without your own face
+
+521
+31:09
+molding in accord to their own.
+And the reasons why this
+
+522
+31:13
+happens and how that works is
+something we'll talk about later
+
+523
+31:17
+on.
+So that's--One more question.
+
+524
+31:23
+Yes.
+Student: [inaudible]
+
+525
+31:26
+Professor Paul Bloom: I
+don't know if that's--The
+
+526
+31:30
+question is,
+"Is there a difference between
+
+527
+31:33
+smiling with your teeth versus
+just your lips closed?"
+
+528
+31:37
+There probably is.
+That's not a main smile
+
+529
+31:40
+difference but my bet is that
+there probably is a difference.
+
+530
+31:44
+And my bet also is that that
+sort of distinction,
+
+531
+31:47
+how much teeth you show when
+you smile,
+
+532
+31:50
+is the sort of thing that would
+show regional and country by
+
+533
+31:54
+country differences.
+For instance,
+
+534
+31:55
+there's been research finding
+that people in England smile
+
+535
+31:58
+different from people in the
+United States.
+
+536
+32:00
+And I think that those are the
+sort of contrasts that you would
+
+537
+32:03
+expect to find in cross-cultural
+differences.
+
+538
+32:05
+Every culture is going to have
+Pan Am smiles,
+
+539
+32:07
+happiness smiles,
+coy smiles, but the variation
+
+540
+32:10
+of that sort is something which
+will vary as a result of how
+
+541
+32:13
+you're raised and the people
+around you.
+
+542
+32:16
+
+
+543
+32:23
+I want to deal with a few
+emotions in this class and next
+
+544
+32:27
+and the first case study of an
+emotion I want to deal with is
+
+545
+32:31
+the emotion of fear.
+And I want to deal with fear
+
+546
+32:34
+for different reasons.
+One reason is it's a basic
+
+547
+32:37
+emotion, it's universal.
+All humans have it.
+
+548
+32:41
+Many nonhumans,
+probably most nonhuman,
+
+549
+32:43
+species have it too.
+And it also brings us back to
+
+550
+32:46
+the lecture on behaviorism where
+we talked about classical
+
+551
+32:50
+conditioning and different
+theories of what people are
+
+552
+32:53
+afraid of.
+It's a nonsocial emotion.
+
+553
+32:59
+What I mean by this is it's
+possible, of course,
+
+554
+33:02
+to be afraid of a person,
+but unlike an emotion like
+
+555
+33:06
+gratitude, it's not
+intrinsically social.
+
+556
+33:09
+You could be afraid of falling
+off a cliff or something.
+
+557
+33:12
+It has a distinctive facial
+expression again.
+
+558
+33:14
+This is a famous picture of Lee
+Harvey Oswald who was being
+
+559
+33:21
+assassinated by Jack Ruby.
+And this is the detective's
+
+560
+33:26
+face standing there,
+a mixture of fear and anger –
+
+561
+33:30
+the face being drawn back in a
+universal expression that every
+
+562
+33:34
+human everywhere would be able
+to recognize.
+
+563
+33:37
+So, the basic question to ask
+is "What are we afraid of?"
+
+564
+33:41
+And the answer's a little bit
+interesting.
+
+565
+33:46
+We're afraid of spiders,
+snakes, heights,
+
+566
+33:48
+storms, large animals,
+darkness, blood,
+
+567
+33:51
+strangers, humiliation,
+deep water, and leaving home
+
+568
+33:54
+alone.
+We are afraid of other things
+
+569
+33:56
+too but those are big things to
+be afraid of.
+
+570
+34:00
+I'm not even going to ask.
+If there's somebody who--in
+
+571
+34:02
+this room, who's not afraid of
+any of those things?
+
+572
+34:05
+You're a tougher person than I
+am.
+
+573
+34:07
+These are universal fear
+elicitors.
+
+574
+34:10
+Why?
+What do they have in common?
+
+575
+34:13
+Why would you be afraid of
+those things?
+
+576
+34:15
+And the answer is--And why
+would--why are there so few
+
+577
+34:19
+people afraid of guns,
+cars, and electrical outlets?
+
+578
+34:23
+The answer is not particularly
+surprising.
+
+579
+34:27
+These are things
+that--something's ticking over
+
+580
+34:31
+there.
+These are things that are scary
+
+581
+34:34
+in our ancestral environment.
+More particularly,
+
+582
+34:37
+these are things that through
+the course of human evolution
+
+583
+34:41
+have been dangerous to us.
+And so, we are afraid of these
+
+584
+34:45
+things and not so afraid of
+these things;
+
+585
+34:50
+similarly for nonhuman primates.
+So, chimpanzees are afraid of
+
+586
+34:55
+certain things and they can
+often develop phobias for
+
+587
+34:58
+certain things,
+but the phobias they develop,
+
+588
+35:01
+the fears they develop,
+are things like spiders and
+
+589
+35:04
+snakes.
+There was a nice study done in
+
+590
+35:07
+urban Chicago,
+in the inner city of Chicago.
+
+591
+35:10
+And they asked children raised
+in the inner city,
+
+592
+35:12
+"What are you most afraid of?"
+And you might think they would
+
+593
+35:16
+say, "I'm afraid of being shot.
+I'm afraid of guns.
+
+594
+35:20
+I'm afraid of being killed by
+somebody or being harmed by
+
+595
+35:24
+somebody.
+I'm afraid of being run over by
+
+596
+35:27
+a car."
+The two biggest fears of
+
+597
+35:30
+children in urban Chicago are
+that , snakes and spiders,
+
+598
+35:36
+even though many of these
+children have probably never
+
+599
+35:40
+seen a snake outside of a zoo in
+their lives.
+
+600
+35:43
+These are natural fears.
+There is some research done by
+
+601
+35:46
+the psychologist Judy DeLoache
+at University of Virginia where
+
+602
+35:50
+she's studying babies' fears of
+spiders and snakes,
+
+603
+35:54
+babies obviously who,
+since their parents are normal,
+
+604
+35:57
+have not yet seen spiders and
+snakes.
+
+605
+36:00
+There are various ethical
+reasons why you can't show
+
+606
+36:04
+babies--you can't try to
+construct phobias in babies of
+
+607
+36:09
+spiders and snakes but the
+research she's finding using
+
+608
+36:13
+more indirect methods finds,
+as one would expect,
+
+609
+36:17
+these are what psychologists
+would call "pre-potent stimuli";
+
+610
+36:20
+that is, these are things that
+naturally elicit fear and
+
+611
+36:24
+concern.
+And that's all I have to say
+
+612
+36:28
+about fear.
+I want to turn for the rest of
+
+613
+36:32
+this lecture and for next
+lecture next week to the social
+
+614
+36:39
+emotions.
+And the social emotions can be
+
+615
+36:42
+broken down into two categories.
+Bless you, bless you.
+
+616
+36:47
+Those emotions you feel towards
+your kin, towards your genetic
+
+617
+36:51
+relatives, and those emotions
+that you feel towards the people
+
+618
+36:56
+you're not related to but
+interact with.
+
+619
+37:00
+And I want to focus
+particularly on emotions that
+
+620
+37:06
+generate kind or altruistic
+behavior.
+
+621
+37:12
+"Altruism" is the biologists'
+term meaning kindness,
+
+622
+37:16
+generosity, and evolutionary
+biologists have worked really
+
+623
+37:20
+hard to explain why animals
+might evolve to be kind.
+
+624
+37:25
+
+
+625
+37:28
+A very old, very wrong view of
+evolution is that evolution has
+
+626
+37:33
+shaped animals such that they're
+merely survival machines.
+
+627
+37:38
+If so, then from an
+evolutionary standpoint any
+
+628
+37:42
+kindness towards an animal--that
+an animal shows towards another
+
+629
+37:47
+animal--is a mystery.
+If evolution wired us up simply
+
+630
+37:51
+to survive, then it's a puzzle
+why animals would relate
+
+631
+37:56
+positively to other animals.
+But of course, that's not true.
+
+632
+38:03
+Here's a simple example showing
+it's not true.
+
+633
+38:07
+Imagine two genes,
+two sorts of animals each
+
+634
+38:10
+containing their own gene.
+Gene "A" makes an animal care
+
+635
+38:13
+for its offspring.
+Gene "B" makes an animal care
+
+636
+38:17
+only for itself.
+Imagine what will happen in the
+
+637
+38:20
+next generation.
+Plainly, Gene "A" will win out.
+
+638
+38:24
+It's a very simple case.
+An animal who has evolved a
+
+639
+38:28
+brain that says,
+"Take care of your offspring"
+
+640
+38:31
+will do much better from a
+natural selection point of view
+
+641
+38:35
+from an animal who has evolved a
+brain that says,
+
+642
+38:38
+"Eat your offspring."
+The animal that eats its
+
+643
+38:41
+offspring, those genes are a
+biological dead end.
+
+644
+38:44
+What matters then is not
+survival, per se.
+
+645
+38:48
+What matters is reproduction.
+And so, that simple fact is why
+
+646
+38:54
+we would expect animals to care
+for their children,
+
+647
+38:58
+because children are the means
+through which genes replicate.
+
+648
+39:03
+But it gets a little bit richer
+than that.
+
+649
+39:06
+And this is one of the major
+revolutions in evolutionary
+
+650
+39:10
+biology over the last half
+century.
+
+651
+39:13
+Forget about the animal a bit
+and take another perspective.
+
+652
+39:18
+Take a perspective of the cold
+virus.
+
+653
+39:21
+People have been sneezing in
+the front row.
+
+654
+39:24
+Now, you're coughing.
+Thank you.
+
+655
+39:27
+Why do you sneeze when you get
+a cold?
+
+656
+39:29
+Here's not a-- Point made.
+Here is--Here's not a bad
+
+657
+39:36
+answer.
+You sneeze because you've got
+
+658
+39:39
+all these germs inside you and
+your body wants to get the germs
+
+659
+39:42
+out, so you sneeze.
+It's not that it's totally
+
+660
+39:45
+wrong, but it's not bad.
+The real answer is a little bit
+
+661
+39:49
+more interesting.
+Don't look at it from the
+
+662
+39:52
+person's perspective.
+If you have a cold,
+
+663
+39:54
+try to get away from your own
+selfish perspective,
+
+664
+39:57
+"I have a cold."
+Look at it from the perspective
+
+665
+40:01
+of the cold virus.
+The cold virus has evolved just
+
+666
+40:04
+as much as you evolved.
+And it's evolved due to
+
+667
+40:08
+survival and reproduction.
+What the cold virus does is
+
+668
+40:11
+evolve different strategies to
+cause it to reproduce.
+
+669
+40:15
+And what it does is--one way to
+reproduce is to occupy other
+
+670
+40:20
+animals and manipulate their
+bodies so as to expel it.
+
+671
+40:25
+From this point of view then,
+the reason why you sneeze when
+
+672
+40:29
+you have a cold is that your
+cold--the cold virus is using
+
+673
+40:33
+your body as a tool to replicate
+itself.
+
+674
+40:36
+From this person--this
+perspective, a person is just a
+
+675
+40:40
+germ's way of making other
+germs.
+
+676
+40:42
+And there's tons of other
+examples of this.
+
+677
+40:45
+There's a parasite known as
+toxoplasmosis that lives in the
+
+678
+40:50
+bodies of rats.
+But it gets passed on when the
+
+679
+40:53
+rats get eaten by cats.
+And then it ends up in the
+
+680
+40:57
+cats' feces and then it ends up
+back in rats.
+
+681
+40:59
+If you are a rat and you have
+toxoplasmosis,
+
+682
+41:03
+you are perfectly healthy
+except for one thing.
+
+683
+41:07
+The toxoplasmosis rewires your
+brain and it makes you less
+
+684
+41:11
+afraid of cats.
+Now, again, this is not some
+
+685
+41:16
+sort of bizarre quirk of a
+humorous god.
+
+686
+41:20
+Rather, it's because this is a
+perfectly--this is the adaptive
+
+687
+41:24
+strategy of the toxoplasmosis
+virus.
+
+688
+41:27
+In fact, a real powerful virus
+would skip the respiratory
+
+689
+41:32
+system altogether,
+even better than a cold virus.
+
+690
+41:36
+What it would do is it would
+take over the brain and it will
+
+691
+41:39
+make people want to run around
+and have sex with other people
+
+692
+41:43
+and kiss them on the mouth.
+And in fact,
+
+693
+41:46
+there is some evidence that
+this happens.
+
+694
+41:50
+There's some evidence,
+for instance,
+
+695
+41:52
+that one of the effects of
+sexually transmitted diseases
+
+696
+41:55
+like syphilis is it arouses the
+libido,
+
+697
+41:57
+makes people more sexually
+engaged, because this is part of
+
+698
+42:01
+the strategy through which these
+viruses replicate themselves.
+
+699
+42:04
+Imagine a virus,
+for instance,
+
+700
+42:07
+that captured an animal's brain
+and then modified the animal's
+
+701
+42:11
+brain such that the animal would
+run out and bite other animals
+
+702
+42:16
+so as to pass on the virus.
+And then, of course,
+
+703
+42:20
+you would call that virus
+"rabies."
+
+704
+42:23
+Along these lines,
+the evolutionary biologist
+
+705
+42:27
+Richard Dawkins took the general
+step of suggesting that animals
+
+706
+42:32
+are the vehicles through which
+genes exploit to reproduce.
+
+707
+42:37
+From this perspective,
+an animal is just the
+
+708
+42:40
+person's--is just the gene's way
+of creating another animal.
+
+709
+42:45
+Well, as psychologists,
+what benefit does that--does
+
+710
+42:49
+this way of analysis give us?
+It actually can help us explain
+
+711
+42:53
+altruism.
+So, which genes are going to
+
+712
+42:56
+survive?
+Well, the genes that survive
+
+713
+42:58
+are going to be the ones that
+make the most copies of
+
+714
+43:01
+themselves.
+Animals are vehicles through
+
+715
+43:02
+which genes reproduce.
+An animal's merely the gene's
+
+716
+43:06
+way of making another gene.
+Hence, selfish genes will lead
+
+717
+43:09
+to altruistic animals because,
+to the extent that evolution
+
+718
+43:13
+operates at the level of the
+genes,
+
+719
+43:15
+there's no hard and fast
+distinction between your own
+
+720
+43:20
+body and someone else's body.
+And here's an illustration by
+
+721
+43:25
+the biologist Haldane.
+So, Haldane was once asked,
+
+722
+43:28
+"Would you lay down your life
+for your brother?"
+
+723
+43:32
+And he responded,
+"No, but I would gladly give my
+
+724
+43:36
+life for three brothers or five
+nephews or nine first cousins."
+
+725
+43:41
+Now, he's joking.
+You don't actually do the math
+
+726
+43:46
+if you're normal.
+But what he's capturing is the
+
+727
+43:49
+logic, the ultimate causation of
+our feelings towards our kin.
+
+728
+43:55
+Our genes have wired us up--our
+brains up to love our children
+
+729
+44:00
+and love our kin because,
+in this way,
+
+730
+44:03
+our genes manage to replicate
+themselves.
+
+731
+44:06
+And in fact,
+you get his calculations by
+
+732
+44:11
+looking at genetic relatedness.
+The genetic relatedness,
+
+733
+44:16
+from an evolutionary
+standpoint, affects how much you
+
+734
+44:19
+care for other people.
+From the standpoint of your
+
+735
+44:23
+genes, you dying for the life of
+three brothers is an excellent
+
+736
+44:28
+compromise because the genes
+replicate by fifty percent more.
+
+737
+44:33
+If you imagined--;So,
+here is his calculations.
+
+738
+44:37
+If you imagined a choice
+between this one gene that makes
+
+739
+44:40
+the animal choose to die and the
+other gene that makes an animal
+
+740
+44:44
+choose for its brothers to die,
+the gene that sacrifices the
+
+741
+44:48
+body it belongs to will make
+more copies in the future.
+
+742
+44:52
+And there's an interesting
+irony to this.
+
+743
+44:54
+The selfish gene theory is
+often seen as sort of a
+
+744
+44:57
+cold-blooded evolutionary
+analysis,
+
+745
+44:59
+but it provides a scientific
+basis for real,
+
+746
+45:03
+genuine altruism,
+for really arguing that,
+
+747
+45:07
+from the standpoint of the
+genes, there really is no hard
+
+748
+45:11
+and fast difference between
+yourself and another person.
+
+749
+45:15
+From this perspective,
+we can start to answer some
+
+750
+45:19
+interesting questions at least
+about nonhumans.
+
+751
+45:22
+When a new male lion takes over
+a pride what he does is kill all
+
+752
+45:27
+the remaining cubs and any
+lionesses undergo spontaneous
+
+753
+45:32
+abortions.
+This all might seem very cruel
+
+754
+45:35
+but from a genetic standpoint it
+makes sense.
+
+755
+45:39
+The other cubs are genetic
+competition for him.
+
+756
+45:43
+They do not have his genes.
+Moreover, only once they're out
+
+757
+45:48
+of the way can he reproduce and
+copulate with the females.
+
+758
+45:52
+The females do their
+spontaneous abortions because
+
+759
+45:56
+that's a reliable adaptive
+trick.
+
+760
+45:59
+These cubs are not going to
+survive once they are born so
+
+761
+46:02
+the female's best strategy is to
+get rid of them and start anew.
+
+762
+46:06
+From a psychological point
+then, animals have evolved to be
+
+763
+46:09
+nice to their kin,
+particularly their children,
+
+764
+46:12
+and particularly in birds and
+mammals.
+
+765
+46:15
+Birds and mammals invest in
+quality and not quantity,
+
+766
+46:19
+as opposed to fish and
+reptiles.
+
+767
+46:21
+For birds and mammals,
+we don't have many kids but--so
+
+768
+46:27
+we devote a huge amount of
+psychological energy to
+
+769
+46:32
+protecting the ones that we
+have.
+
+770
+46:36
+Moreover, the kids we have are
+vulnerable for long periods of
+
+771
+46:40
+time and require our resources.
+So, there's various
+
+772
+46:44
+psychological mechanisms that
+this gives rise to.
+
+773
+46:47
+One is how parents or how
+adults in general respond to
+
+774
+46:51
+children.
+Another one is how children
+
+775
+46:54
+respond to parents.
+And I'll briefly talk about a
+
+776
+46:56
+few of these phenomena.
+
+777
+46:57
+
+
+778
+47:06
+Small animals make distress
+calls.
+
+779
+47:10
+They chirp, they mew,
+they bleat or they cry.
+
+780
+47:13
+The governing of a distress
+call is actually an extremely
+
+781
+47:17
+delicate high-wire act for any
+young organism from an
+
+782
+47:20
+evolutionary point of view.
+It has to on the one hand be
+
+783
+47:25
+annoying enough to actually
+generate help,
+
+784
+47:28
+to get people to help you,
+to feed you,
+
+785
+47:31
+to pick you up,
+to take you and put them next
+
+786
+47:33
+to you.
+On the other hand,
+
+787
+47:35
+it can't be so annoying that
+the people around you kill you
+
+788
+47:39
+[laughter]
+and so it's complicated.
+
+789
+47:41
+But, from your point of view,
+you're wired up to respond to
+
+790
+47:45
+them.
+That sound is,
+
+791
+47:47
+at very minimum,
+extremely annoying.
+
+792
+47:50
+And it's more--it's not
+annoying because of its volume
+
+793
+47:54
+or pitch.
+It's annoying because your
+
+794
+47:57
+brains are wired up so that that
+baby cry is going to drive you
+
+795
+48:01
+up the wall.
+On the more positive side,
+
+796
+48:05
+babies are cute.
+I got this from Google Images,
+
+797
+48:10
+typing in "cute baby,"
+[laughter]
+
+798
+48:12
+getting rid of the porn and
+[laughter]
+
+799
+48:16
+coming on to that.
+No, no, Playboy,
+
+800
+48:20
+but anyway it was over that.
+[laughter]
+
+801
+48:23
+And do not be tempted to say,
+"Isn't it wonderful that the
+
+802
+48:27
+way nature works is that babies
+are cute?
+
+803
+48:30
+Otherwise we would have killed
+them."
+
+804
+48:34
+[laughter]
+That's not the right story.
+
+805
+48:36
+If--Babies are not--Human
+babies are not,
+
+806
+48:39
+sort of, metaphysically cute.
+If Martians came down they
+
+807
+48:42
+wouldn't say,
+"Oh, cute baby."
+
+808
+48:44
+Rather, they're cute because of
+how our brains are wired up.
+
+809
+48:47
+They're cute because there are
+certain cues that correspond to
+
+810
+48:52
+the way our brains work.
+And in fact,
+
+811
+48:55
+this is how it works for all
+mammals.
+
+812
+48:57
+So, babies have these big,
+protruding foreheads,
+
+813
+49:02
+an upturned little nose,
+chubby cheeks and big eyes.
+
+814
+49:07
+Those are the ingredients for
+cute.
+
+815
+49:10
+Stephen Jay Gould has a
+wonderful essay where he
+
+816
+49:12
+discussed this,
+looking at the evolution of
+
+817
+49:14
+Mickey Mouse from the Walt
+Disney character.
+
+818
+49:17
+Mickey Mouse starts off as an
+ugly, little rodent.
+
+819
+49:20
+[laughter]
+Over time he gets cuter and
+
+820
+49:23
+cuter and cuter as the artist
+converged on more and more
+
+821
+49:26
+baby-like features.
+Studies of adults show what's
+
+822
+49:30
+known as a baby-face bias.
+This is not unique to the
+
+823
+49:34
+United States.
+The same studies have been done
+
+824
+49:37
+in Asia.
+You find a baby face in an
+
+825
+49:40
+adult, Leonardo DiCaprio,
+to be particularly naive,
+
+826
+49:45
+helpless, kind and warm.
+And in mock trials,
+
+827
+49:49
+people with baby faces are more
+likely to be found innocent than
+
+828
+49:54
+people like Ben Affleck,
+[laughter]
+
+829
+49:57
+who do not have baby faces.
+[laughter]
+
+830
+50:00
+Now, one question which is
+going to come up for an entire
+
+831
+50:05
+lecture later on is "who is
+sexier, the baby faced man or
+
+832
+50:10
+Testosterone Man?"
+here .
+
+833
+50:14
+[laughter]
+And I am going to ask actually
+
+834
+50:15
+for a vote because I'm going to
+return to this.
+
+835
+50:17
+I do not--I only want the men
+to vote, please.
+
+836
+50:22
+Who would go for--And forget
+the fact that he looks sort of
+
+837
+50:26
+unhappy.
+Who would go for Ben Affleck
+
+838
+50:28
+here?
+Okay.
+
+839
+50:31
+[laughter]
+Who would go for Leonardo?
+
+840
+50:33
+Okay.
+[laughter]
+
+841
+50:35
+Well, the women votes would
+actually be more complicated.
+
+842
+50:39
+We will discuss when we get the
+lecture on sex.
+
+843
+50:41
+Your choice will depend on
+where you are in the menstrual
+
+844
+50:46
+cycle.
+[laughter]
+
+845
+50:48
+Now, so far,
+we're talking about how babies
+
+846
+50:53
+respond to--We're talking about
+our responses to babies.
+
+847
+51:01
+What about babies' responses to
+us?
+
+848
+51:04
+Well, there's a very old theory
+known as the "Cupboard Theory"
+
+849
+51:09
+proposed by the behaviorist B.F.
+Skinner which argues that
+
+850
+51:13
+babies' attachment to their
+parents is because the parent
+
+851
+51:17
+provides food,
+characteristically breast milk,
+
+852
+51:21
+but it could be food from a
+bottle or whatever.
+
+853
+51:23
+And because of operant
+conditioning,
+
+854
+51:26
+the baby is driven towards the
+adult.
+
+855
+51:29
+
+
+856
+51:33
+An alternative theory is that
+of Bowlby, which is that they're
+
+857
+51:37
+drawn to their mother for
+comfort and social interaction
+
+858
+51:41
+as well as fear of strangers.
+To test this,
+
+859
+51:45
+the psychologist Harlow
+performed a series of ingenious
+
+860
+51:50
+experiments with nonhuman
+primates distinguishing between
+
+861
+51:55
+what he called "wire mothers"
+and "cloth mothers."
+
+862
+52:00
+And you'll see illustrations of
+this to follow.
+
+863
+52:03
+Wire mothers are mothers that
+are built that they give food.
+
+864
+52:07
+They have a little nipple
+attached and you can drink from
+
+865
+52:10
+it and give food to the baby.
+And that's the baby's source of
+
+866
+52:13
+food.
+Cloth mothers don't give any
+
+867
+52:15
+food but they give warmth and
+comfort.
+
+868
+52:18
+There was a while in the
+psychology department where one
+
+869
+52:21
+professor was known to be
+extremely supportive to his
+
+870
+52:24
+students but didn't really
+provide much warmth.
+
+871
+52:26
+And he was known as the cloth
+mother.
+
+872
+52:28
+And another one was very
+productive and everything but
+
+873
+52:32
+provided no love.
+And she was known as the wire
+
+874
+52:35
+mother.
+But anyway, I'll show you the
+
+875
+52:39
+movies.
+I have to warn you this third
+
+876
+52:41
+and final movie is an example of
+why this research is not
+
+877
+52:45
+currently done,
+but it illustrates an important
+
+878
+52:54
+scientific point.
+Oh.
+
+879
+52:59
+Now him-- I think I'm-- They're
+just more Google Images.
+
+880
+53:02
+[laughter]
+I think I'll--I want to begin
+
+881
+53:04
+next class by wrapping up and
+explaining the Harlow studies in
+
+882
+53:07
+more detail and what they tell
+us.
+
+883
+53:09
+And then we'll move towards
+altruism, towards non kin.
+
+884
+53:13
+I'll see you next week.
+
