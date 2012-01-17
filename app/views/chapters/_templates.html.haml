@@ -24,7 +24,9 @@
                = label(nil, "X", :class => "indicator_mark")
           .answer_space
                = text_field nil, nil, :id => "answer_field", :placeholder => "Answer", :class => "answer_field"
-     = text_field nil, nil, :placeholder => "URL", :class => "resource_field", :id => "resource"         
+     = text_field nil, nil, :placeholder => "URL", :class => "resource_field", :id => "resource"  
+     #video_search_result_template{:class => "video_search_result"}
+          = label nil, "", :class => "video_search_result_label" 
      %div{:id => "header"}
           = label nil, "", :class => "header_text"  
      #image_container_template
@@ -59,21 +61,24 @@
           #tabs-3
                %form
                     %fieldset
-                         #video_data
-                              %input{:id => "video_link_input", :name => "name", :type => "text", :placeholder => "Link to YOUTUBE video", :class => "media_input"}
-                              %br
-                              Start time
-                              %input{:id => "video_start_input_minute", :name => "name", :type => "text", :placeholder => "min", :class => "time_input"}
-                              \:
-                              %input{:id => "video_start_input_second", :name => "name", :type => "text", :placeholder => "sec", :class => "time_input"}
-                              %br
-                              End time
-                              %input{:id => "video_end_input_minute", :name => "name", :type => "text", :placeholder => "min", :class => "time_input"}
-                              \:
-                              %input{:id => "video_end_input_second", :name => "name", :type => "text", :placeholder => "sec", :class => "time_input"}
-                         #video_preview
-                              %iframe{:id => "video_preview_frame", :width => 400, :height => 350}
-                              #slider
+                         #video_area
+                              #video_data
+                                   %input{:id => "video_link_input", :name => "name", :type => "text", :placeholder => "Search or paste link to YOUTUBE video", :class => "media_input"}
+                                   %button{:id => "video_search_button"}= "Search"
+                                   %br
+                                   #video_search_results
+                              #video_preview
+                                   %iframe{:id => "video_preview_frame", :width => 400, :height => 325}             
+                                   / #slider
+                                   #video_time_container
+                                        Start
+                                        %input{:id => "video_start_input_minute", :name => "name", :type => "text", :placeholder => "min", :class => "time_input"}
+                                        \:
+                                        %input{:id => "video_start_input_second", :name => "name", :type => "text", :placeholder => "sec", :class => "time_input"}
+                                        End
+                                        %input{:id => "video_end_input_minute", :name => "name", :type => "text", :placeholder => "min", :class => "time_input"}
+                                        \:
+                                        %input{:id => "video_end_input_second", :name => "name", :type => "text", :placeholder => "sec", :class => "time_input"}
                                 
 #dialog-confirm{:class => "ui-widget ui-helper-hidden", :title => "Delete this question?"}
      %p This action cannot be undone. Are you sure?

@@ -18,8 +18,7 @@ task :index do
         path = "#{Rails.root}/db/data/video_transcripts/#{course[:name]}"
         Dir.mkdir path unless File.exists? path
         course[:video_ids].each_with_index do |video_id, j|
-            file = File.open("#{path}/srt_#{j+1}.txt", "w")
-            file.write("{title => #{course[:name]}_#{j+1}, video_id => #{video_id}}}")
+            file = File.open("#{path}/#{video_id}.txt", "w")
             browser.goto "http://www.youtube.com/watch?v=#{video_id}"
             browser.button(:id => "watch-transcript").click
             sleep 1
