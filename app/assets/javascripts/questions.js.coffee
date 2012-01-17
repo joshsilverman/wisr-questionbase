@@ -428,12 +428,8 @@ class MediaController
 						start_minutes = Math.floor($(source).attr("time") / 60)
 						start_seconds = $(source).attr("time") - (start_minutes * 60)
 						if start_seconds < 10 then start_seconds = '0' + start_seconds
-
 						$("#video_start_input_minute")[0].value = start_minutes
 						$("#video_start_input_second")[0].value = start_seconds
-						console.log start_minutes, start_seconds
-						# $("#video_end_input_minute")[0].value = start_minutes
-						# $("#video_end_input_second")[0].value = start_seconds + 30						
 					element.appendTo $("#video_search_results")
 	# tabbedDialog: (element) =>
 	# 	element.tabs()
