@@ -89,4 +89,35 @@ class ResourcesController < ApplicationController
     text = text.gsub(/^[^<]*</, "<").gsub('<p><em>This entry passed through the <a href="http://fivefilters.org/content-only/">Full-Text RSS</a> service &mdash; if this is your content and you\'re reading it on someone else\'s site, please read the FAQ at <a href="http://fivefilters.org/content-only/faq.php#publishers">fivefilters.org/content-only/faq.php#publishers</a>. <a href="http://fivefilters.org">Five Filters</a> recommends: <a href="http://shop.wikileaks.org/donate">Donate to Wikileaks</a>.</em></p>', "")
     render :text => text
   end
+
+  def search_videos
+    term = params[:term]
+    term = term.downcase
+    results = []
+    Dir.glob("#{Rails.root}/db/data/video_transcripts/\*").each do |course|
+      Dir.glob("#{course}/\*").each do |lecture|
+        sections = File.read(lecture).split(/\n\n/)
+        (0..sections.length).each do |i|
+          current_section = sections[i].to_s.split(/:\d\d\n/)[1]
+          next unless current_section
+          if current_section.downcase.match(term)
+            results << {"text" => current_section.strip, "time" => convert_time(/\d*:\d*/.match(sections[i]).to_s), "video_id" => Pathname.new(lecture).basename.to_s.split(".")[0]}
+          else
+            next_section = sections[i+1].to_s.split(/:\d\d\n/)[1] unless (i+1) > sections.length
+            next unless next_section 
+            next if next_section.downcase.match(term)    
+            text = "#{current_section.downcase} #{next_section.downcase}".strip
+            results << {"text" => "#{current_section} #{next_section}".strip, "time" => convert_time(/\d*:\d*/.match(sections[i]).to_s), "video_id" => Pathname.new(lecture).basename.to_s.split(".")[0]} if text.match(term)   
+          end 
+        end
+      end
+    end
+    render :json => results
+  end
+
+  def convert_time(input)
+    mins, seconds = input.split ":"
+    (mins.to_i * 60) + seconds.to_i
+  end
+
 end

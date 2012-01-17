@@ -21,6 +21,7 @@ OauthClientDemo::Application.routes.draw do
 
   #RESOURCES
   match "parse_article" => "resources#parse_article"
+  match "search_videos" => "resources#search_videos"
   
   #EXPORT
   match "chapters/:id/export" => "chapters#export_to_csv"  

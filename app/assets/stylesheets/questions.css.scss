@@ -279,6 +279,7 @@
     background: #E3EB5B;       
 }
 
+
 .highlighted {
     background: #E3EB5B;    
 }
@@ -290,11 +291,35 @@
 
 
 
-
 #video_data {
-    /*width: 45%;*/
+    height: 400px; 
+    width: 54%; 
     display: inline;
-    float: left;
+    float: left;    
+}
+
+
+#video_search_results {
+    height: 330px;
+    overflow: auto;   
+}
+
+.video_search_result {
+    padding: 10px 15px 10px 8px;
+    background: #CCC;
+    margin: 10px 15px 0px 5px;    
+    -moz-box-shadow: 1px 3px 2px 0px #ccc;
+    -webkit-box-shadow: 1px 3px 2px 0px #ccc;
+    box-shadow: 1px 3px 2px 0px #ccc;      
+}
+
+#video_time_container {
+    text-align: center;
+    padding-top: 10px;    
+}
+
+.video_search_result_label{
+    overflow: hidden;
 }
 
 #video_preview {
@@ -308,10 +333,12 @@
 #video_preview_frame {
     padding: 0px;
     margin: 0px;
+    display: block;
 }
 
 #slider {
-    width: 100%;
+    width: 97%;
+    margin: auto;
 }
 
 
