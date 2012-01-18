@@ -1,0 +1,4627 @@
+1
+0:12
+Professor Paul Bloom: I
+am extremely pleased to
+
+2
+0:15
+introduce the fourth and final
+guest lecture of the semester.
+
+3
+0:18
+Professor Susan Nolen-Hoeksema.
+Susan is a professor in the
+
+4
+0:24
+Department of Psychology and the
+Director of Graduate Studies.
+
+5
+0:28
+She is well known for her work
+in clinical psychology and
+
+6
+0:33
+especially her research in
+depression,
+
+7
+0:35
+the nature and causes of people
+with depression,
+
+8
+0:39
+with special focus on sex
+differences in depression.
+
+9
+0:43
+She basically does everything
+someone can do.
+
+10
+0:48
+She is a noted scientist,
+winning many awards and
+
+11
+0:51
+publishing massive amounts of
+work in scientific journals.
+
+12
+0:54
+She is an award-winning teacher
+and has authored what,
+
+13
+0:58
+in my mind, is the very best
+textbook in her area.
+
+14
+1:02
+And she's a noted popular
+writer who has written popular
+
+15
+1:06
+and accessible books bringing
+the message and ideas and
+
+16
+1:10
+theories of clinical psychology
+to the broader public.
+
+17
+1:14
+The only other thing I'll
+mention before we welcome her is
+
+18
+1:17
+that she's going to teach next
+year her course in clinical
+
+19
+1:20
+psychology,
+which has a superb reputation
+
+20
+1:22
+as an extremely interesting
+course.
+
+21
+1:24
+If you are interested in what
+you hear today and you want to
+
+22
+1:27
+learn more about it,
+that's the course you should
+
+23
+1:29
+take.
+So, let's please welcome Dr.
+
+24
+1:34
+Susan Nolen-Hoeksema.
+[applause]
+
+25
+1:37
+Professor Susan
+Nolen-Hoeksema: Thank you
+
+26
+1:38
+Paul.
+Can everybody hear me okay?
+
+27
+1:40
+Okay.
+So, what I want to do today is
+
+28
+1:43
+to give you a very brief
+overview of how modern clinical
+
+29
+1:46
+psychology looks at mental
+disorders,
+
+30
+1:49
+some of the ways we think about
+what constitutes a mental
+
+31
+1:52
+disorder, some of the
+characteristics that kind of cut
+
+32
+1:55
+across mental disorders,
+and then I'm going to use the
+
+33
+1:59
+case of mood disorders,
+that is depression and what is
+
+34
+2:02
+now called bipolar disorder,
+what you may know more
+
+35
+2:05
+popularly as manic-depression,
+as sort of examples of how we
+
+36
+2:09
+think about a particular set of
+disorders and some of the ways
+
+37
+2:13
+we go about researching the
+theories -- different theories
+
+38
+2:17
+for the disorders and some of
+the prominent treatments for
+
+39
+2:21
+disorders these days.
+Okay?
+
+40
+2:24
+So, I'm going to do both a fair
+amount of lecturing,
+
+41
+2:28
+and then I've got lots of video
+clips to show you as well.
+
+42
+2:31
+So, I'm going to be roaming
+around and changing venues here
+
+43
+2:36
+fairly often.
+So, the first and most
+
+44
+2:38
+fundamental question in clinical
+psychology is,
+
+45
+2:42
+"What is abnormality?"
+Where do we draw the line
+
+46
+2:46
+between normal,
+healthy, typical behavior and
+
+47
+2:49
+what we might want to call
+abnormal,
+
+48
+2:52
+atypical, deviant,
+unhealthy, maladaptive mental
+
+49
+2:57
+problems?
+We tend to have an intuitive
+
+50
+3:01
+sense of what we mean by
+abnormality, and we'd like to
+
+51
+3:04
+believe--a lot of people who
+come into my course say,
+
+52
+3:09
+"Well, of course,
+you know, you guys have figured
+
+53
+3:10
+it out.
+You know where to draw the line.
+
+54
+3:12
+You have criteria.
+You have blood tests, right?
+
+55
+3:15
+--that tell me whether I have
+depression or schizophrenia or
+
+56
+3:18
+one of the things I've read
+about."
+
+57
+3:19
+Well, the reality is that we
+don't.
+
+58
+3:22
+First of all,
+there is no biological test for
+
+59
+3:25
+any of the known mental
+disorders right now.
+
+60
+3:28
+And instead what we have is a
+set of behavioral criteria for
+
+61
+3:34
+how to diagnose different mental
+disorders.
+
+62
+3:38
+And what I mean by behavioral
+criteria is a set of symptoms
+
+63
+3:42
+that the person reports to you
+about how they feel,
+
+64
+3:46
+how they think,
+and a set of observations about
+
+65
+3:49
+their behavior and how typical
+or atypical it is.
+
+66
+3:53
+And you take the sort of set of
+symptoms the person shows or
+
+67
+3:57
+reports, and you match them up
+against the existing criteria
+
+68
+4:00
+for different mental disorders.
+And then it comes down to a
+
+69
+4:05
+fairly subjective judgment call
+about whether the person meets
+
+70
+4:10
+the criteria or not.
+Unfortunately,
+
+71
+4:13
+these judgment calls,
+because they are so subjective,
+
+72
+4:15
+can be influenced by a lot of
+factors.
+
+73
+4:18
+And we won't have a chance to
+go into these too much today,
+
+74
+4:21
+but just to highlight a few of
+them.
+
+75
+4:24
+The first is social norms.
+Whether you get labeled as
+
+76
+4:28
+having a mental disorder or a
+problem depends very heavily on
+
+77
+4:32
+what your social or cultural
+norms are.
+
+78
+4:35
+So, a woman wearing a veil in a
+Muslim community or culture
+
+79
+4:41
+would be seen as typical,
+even prescribed,
+
+80
+4:45
+behavior.
+Whereas a woman wearing a veil
+
+81
+4:48
+in a non-Muslim culture,
+especially until fairly
+
+82
+4:51
+recently, was often looked upon
+as very atypical or abnormal
+
+83
+4:56
+behavior.
+The second kind of thing that
+
+84
+4:59
+gets--that influences whether
+something is called normal or
+
+85
+5:03
+abnormal is certain
+characteristics of the target
+
+86
+5:07
+person.
+In particular,
+
+87
+5:09
+I've highlighted here,
+gender.
+
+88
+5:11
+Whether you're a man or you're
+a woman really influences how
+
+89
+5:16
+unusual a certain behavior is.
+So, crying is a good example.
+
+90
+5:22
+A man crying in our culture is
+seen as fairly unusual,
+
+91
+5:26
+whereas a woman crying is seen
+as much less unusual.
+
+92
+5:30
+On the other hand,
+a woman beating up someone is
+
+93
+5:33
+taken as quite unusual behavior
+where it's less unusual for a
+
+94
+5:38
+man.
+So, we have gender stereotypes,
+
+95
+5:41
+gender roles for what is
+acceptable behavior,
+
+96
+5:45
+and our judgments as to whether
+something is normal or abnormal
+
+97
+5:48
+get influenced by those gender
+roles.
+
+98
+5:50
+And the third thing that can
+influence whether something is
+
+99
+5:55
+labeled abnormal or not is the
+context.
+
+100
+5:59
+And here I'm giving you the
+example of "paranoia."
+
+101
+6:02
+If you're paranoid and
+hyper-vigilant,
+
+102
+6:05
+looking for threat in downtown
+Baghdad,
+
+103
+6:08
+that's considered very adaptive
+behavior these days because it
+
+104
+6:12
+could prevent you from getting
+hurt or killed.
+
+105
+6:15
+Whereas, if you're in a quiet
+little farm in Central
+
+106
+6:19
+Connecticut, being extremely
+paranoid and believing there's
+
+107
+6:23
+someone who's going to shoot you
+around the corner is not
+
+108
+6:27
+considered as normal or as
+acceptable or adaptive behavior.
+
+109
+6:31
+So, the context in which you
+exhibit a particular behavior
+
+110
+6:35
+also can heavily influence
+whether it gets labeled by
+
+111
+6:39
+others as normal or abnormal.
+In the field of clinical
+
+112
+6:44
+psychology we have a number of
+different ways,
+
+113
+6:48
+kind of heuristics that we use
+to label things as abnormal or
+
+114
+6:55
+unhealthy or troubling.
+And three of these
+
+115
+6:59
+characteristics are what we
+often call the three Ds:
+
+116
+7:03
+distress, dysfunction,
+and deviance.
+
+117
+7:07
+So, behaviors that cause the
+individual or others significant
+
+118
+7:11
+distress often get labeled as
+abnormal or unhealthy.
+
+119
+7:16
+Depression is a prime example,
+as we'll see when we talk about
+
+120
+7:19
+the characteristics of it.
+It's a miserable state of being;
+
+121
+7:22
+you're unhappy,
+you're sad, you may even feel
+
+122
+7:26
+so badly you want to kill
+yourself.
+
+123
+7:28
+And that very,
+very high level of distress is
+
+124
+7:32
+part of the reason why it's
+labeled as a mental disorder.
+
+125
+7:36
+Other mental disorders don't
+cause the individual distress,
+
+126
+7:39
+but they may cause other people
+distress.
+
+127
+7:42
+So, one example of this is
+something called "antisocial
+
+128
+7:46
+personality disorder,"
+where the individual has no
+
+129
+7:50
+regard for the rights of other
+people, has no hesitation to
+
+130
+7:56
+steal or--steal from or hurt
+other people,
+
+131
+8:01
+has no empathy or sympathy for
+other people's feelings and so
+
+132
+8:05
+can inflict a lot of harm on
+other people and has absolutely
+
+133
+8:09
+no distress over this
+whatsoever.
+
+134
+8:11
+But this behavior causes other
+people distress,
+
+135
+8:15
+and that's one of the reasons
+why that's labeled an abnormal
+
+136
+8:19
+behavior or a mental health
+problem.
+
+137
+8:22
+The second general criterion is
+"dysfunction."
+
+138
+8:26
+If a set of behaviors prevents
+the person from functioning in
+
+139
+8:30
+daily life, then it might be
+labeled as abnormal or might end
+
+140
+8:35
+up being labeled as a mental
+health problem.
+
+141
+8:39
+Again, depression is a good
+example.
+
+142
+8:41
+People who are depressed often
+become completely
+
+143
+8:44
+non-functional.
+They can't get up and go to
+
+144
+8:47
+class;
+they can't go to work;
+
+145
+8:49
+they can't interact with their
+friends;
+
+146
+8:51
+they withdraw and become
+totally isolated socially.
+
+147
+8:55
+So, they might lose their job;
+they might flunk out of school.
+
+148
+8:58
+And this complete decline in
+functioning is one of the major
+
+149
+9:02
+reasons that we consider
+depression one of the most
+
+150
+9:06
+debilitating disorders.
+And then finally,
+
+151
+9:10
+"deviance," the behaviors or
+feelings are highly unusual.
+
+152
+9:14
+This is probably the most
+controversial of the three
+
+153
+9:18
+because it weighs,
+it is so heavily influenced by
+
+154
+9:21
+the social norms.
+What's deviant in one culture
+
+155
+9:24
+is not deviant in another
+culture.
+
+156
+9:27
+But if a set of behaviors is
+completely unacceptable to a
+
+157
+9:31
+culture, highly unusual,
+they're more likely to end up
+
+158
+9:35
+getting labeled as abnormal.
+Okay.
+
+159
+9:40
+So, how do we pull this all
+together?
+
+160
+9:42
+Well, these days the manual for
+making diagnoses in clinical
+
+161
+9:47
+psychology and psychiatry in the
+United States is called the
+
+162
+9:51
+Diagnostic and Statistical
+Manual or the DSM,
+
+163
+9:55
+and it's in its fourth revision.
+It's been around since the,
+
+164
+10:01
+I believe the '50s,
+and the early editions in the
+
+165
+10:05
+'50s and '60s were highly
+subjective and based on Freudian
+
+166
+10:10
+theory.
+But since 1980 there's been
+
+167
+10:13
+real effort to make the criteria
+much more objective,
+
+168
+10:16
+to make the set of behaviors or
+observations that are required
+
+169
+10:22
+to diagnose someone be things
+that are observable,
+
+170
+10:26
+that you can see in other
+people that they can report on
+
+171
+10:31
+reliably, and that one clinician
+and another clinician will agree
+
+172
+10:36
+upon.
+So, the DSM gives lists
+
+173
+10:38
+of symptoms with the required
+symptoms for a diagnosis,
+
+174
+10:42
+the number of symptoms that
+have to be present,
+
+175
+10:45
+and the notions of deviation,
+dysfunction and distress are
+
+176
+10:49
+built into these criteria.
+And I'm going to give you a
+
+177
+10:52
+couple of examples of these
+criteria when we talk about the
+
+178
+10:56
+specific types of mood disorder.
+So as I said,
+
+179
+10:59
+I'm going to use mood disorders
+as kind of a case example here
+
+180
+11:03
+of how we go about diagnosing
+and understanding
+
+181
+11:06
+psychopathology,
+but I also just want to impart
+
+182
+11:09
+some information because mood
+disorders are one of the most
+
+183
+11:13
+common problems that people
+face.
+
+184
+11:16
+As many as one in four women
+will have an episode of serious
+
+185
+11:20
+depression at some time in her
+life,
+
+186
+11:22
+and about 13% of men will have
+an episode of serious depression
+
+187
+11:26
+in their lives.
+So, these are extremely common
+
+188
+11:29
+kinds of problems that people
+experience, particularly at your
+
+189
+11:34
+age.
+The college years are one of
+
+190
+11:37
+the peak times of onset,
+first onset,
+
+191
+11:40
+of depression in particular.
+And also, for bipolar disorder,
+
+192
+11:45
+or manic-depression,
+the late adolescent,
+
+193
+11:48
+early 20s are the peak onset
+times for these disorders as
+
+194
+11:53
+well.
+So, the mood disorders divide
+
+195
+11:55
+into what's called unipolar
+depression disorders,
+
+196
+11:59
+which is depression only and
+then bipolar disorders where the
+
+197
+12:03
+person cycles between depression
+and mania.
+
+198
+12:06
+And here are the DSM
+criteria for major depression,
+
+199
+12:09
+one of the most severe forms of
+depression.
+
+200
+12:12
+And as I said,
+the DSM sets up these
+
+201
+12:15
+relatively observable criteria
+and how many you have to have
+
+202
+12:19
+and what absolutely has to be
+present in order to get the
+
+203
+12:23
+diagnosis.
+So, the first criterion in the
+
+204
+12:26
+DSM for major depression
+is that the individual has to
+
+205
+12:31
+either show sadness or a
+diminished interest or pleasure
+
+206
+12:34
+in their usual activities,
+which is referred to as
+
+207
+12:39
+anhedonia.
+So, you have to have one or the
+
+208
+12:41
+other of these to sort of pass
+the first criterion.
+
+209
+12:44
+So, you might say that you feel
+sad and blue and just--or
+
+210
+12:49
+actually say you feel depressed.
+Some people feel those feelings
+
+211
+12:54
+very strongly.
+Other people don't really feel
+
+212
+12:57
+so sad or blue,
+but what they'll say is that
+
+213
+13:00
+nothing interests them anymore.
+It's like the emotion has been
+
+214
+13:03
+sucked out of their life
+altogether.
+
+215
+13:06
+They don't have any fun doing
+the activities they used to do
+
+216
+13:09
+before.
+They don't want to hang with
+
+217
+13:11
+their friends.
+They just--they don't care
+
+218
+13:13
+about eating.
+Just nothing feels right,
+
+219
+13:17
+feels good, anymore.
+And then the individual has to
+
+220
+13:21
+have four of the--at least four
+of the following symptoms in
+
+221
+13:25
+addition to sadness or
+anhedonia.
+
+222
+13:27
+First, they can show
+significant weight or appetite
+
+223
+13:31
+change.
+So, you may completely lose
+
+224
+13:34
+your interest in eating and lose
+a lot of weight,
+
+225
+13:36
+or some people go on eating
+binges.
+
+226
+13:39
+I had a very good friend who
+was depressed for about a year,
+
+227
+13:41
+and she gained fifty pounds
+because she would just eat.
+
+228
+13:44
+She would binge eat,
+especially at night.
+
+229
+13:48
+There are sleep
+disturbances--insomnia,
+
+230
+13:50
+which is having trouble
+sleeping, or hypersomnia,
+
+231
+13:54
+which is sleeping all the time.
+There's a particular form of
+
+232
+13:58
+insomnia that's especially
+likely in depression where you
+
+233
+14:02
+can go to sleep at night,
+but then you wake up at about
+
+234
+14:05
+three or four in the morning
+every night and you can't go
+
+235
+14:08
+back to sleep at all.
+You're just up for the rest of
+
+236
+14:12
+the night.
+But other people want to sleep
+
+237
+14:14
+all day long,
+and in the clip I'm going to
+
+238
+14:16
+show you in just a minute the
+woman talks about sleeping
+
+239
+14:19
+twenty,
+twenty-two hours a day,
+
+240
+14:21
+getting up, eating a little
+bit, and then going back to bed
+
+241
+14:25
+because she was exhausted still.
+The third criterion is
+
+242
+14:29
+psychomotor retardation or
+agitation.
+
+243
+14:32
+The retardation is much more
+common, and what this means is
+
+244
+14:35
+that sort of everything about
+the person's movement is slowed
+
+245
+14:39
+down.
+They'll walk more slowly.
+
+246
+14:43
+Their reaction times will be
+slowed down.
+
+247
+14:46
+And because they're so much
+more slow moving,
+
+248
+14:49
+depressed people are often more
+prone to accidents.
+
+249
+14:53
+They just can't react as
+quickly as they need to when
+
+250
+14:56
+they're driving or when they're
+crossing the road and a car is
+
+251
+14:59
+coming at them suddenly.
+So, they get into more
+
+252
+15:02
+accidents.
+And their speech may be slowed
+
+253
+15:06
+down.
+They may talk very,
+
+254
+15:08
+very slowly and it's as though
+it just takes a tremendous
+
+255
+15:13
+amount of energy to get even a
+common sentence out.
+
+256
+15:19
+A much more,
+much smaller number of people
+
+257
+15:22
+get agitated instead of slow
+down.
+
+258
+15:24
+They may be hyper and just feel
+like they can't sit still and
+
+259
+15:29
+such, but the agitation is much
+more rare than the retardation.
+
+260
+15:34
+People feel really tired,
+fatigued and like they have
+
+261
+15:38
+absolutely no energy.
+They can't get up and can't get
+
+262
+15:41
+moving.
+As I said, they may want to
+
+263
+15:44
+just sleep all of the time.
+Number five is feelings of
+
+264
+15:48
+worthlessness or excessive
+guilt.
+
+265
+15:50
+They may feel as though
+everything is their fault,
+
+266
+15:53
+and the guilt feelings or sense
+of worthlessness can even get
+
+267
+15:57
+psychotic.
+They can lose touch with
+
+268
+16:00
+reality.
+When a person loses touch with
+
+269
+16:02
+reality when they're depressed,
+it typically has really
+
+270
+16:05
+depressing themes.
+They may believe that they are
+
+271
+16:08
+Satan and that they have to
+commit suicide because they're
+
+272
+16:13
+inflicting evil on the world.
+They may believe as though
+
+273
+16:18
+random events are their fault,
+you know, that a flood that
+
+274
+16:23
+just happened somehow they
+caused.
+
+275
+16:26
+So, the feelings of
+worthlessness and guilt can get
+
+276
+16:29
+completely out of touch with
+reality, psychotic.
+
+277
+16:33
+More commonly,
+they're just unrealistic.
+
+278
+16:35
+They're negative self-esteem,
+just being down on yourself,
+
+279
+16:41
+feeling stupid and worthless
+and ugly and bad.
+
+280
+16:46
+Number six is diminished
+ability to concentrate or
+
+281
+16:49
+indecisiveness.
+When you are depressed it's
+
+282
+16:53
+really hard to pay attention.
+You'll read a passage over and
+
+283
+16:57
+over again and you just can't
+process it at all.
+
+284
+17:00
+You can't concentrate on a
+lecture so going to class is
+
+285
+17:04
+just useless.
+You have to make a decision
+
+286
+17:07
+about what a paper topic is,
+and it just seems like the most
+
+287
+17:11
+monumental thing on earth.
+You just can't decide anything,
+
+288
+17:14
+you can't think anything;
+your thoughts are completely
+
+289
+17:18
+clouded and overwhelmed.
+And then suicidal ideation or
+
+290
+17:23
+behavior;
+it means you think about
+
+291
+17:24
+committing suicide,
+you think about dying.
+
+292
+17:26
+And a subset of people actually
+take action to try to hurt
+
+293
+17:30
+themselves or kill themselves.
+Now, it should be said that
+
+294
+17:34
+suicidal thoughts and behavior
+don't only happen in depression.
+
+295
+17:38
+They actually happen in all
+types of psychopathology,
+
+296
+17:42
+but they're particularly common
+in depression.
+
+297
+17:46
+So, you have to have at least
+one--four of those symptoms plus
+
+298
+17:50
+sadness or anhedonia,
+and these symptoms--it can't
+
+299
+17:53
+just be a bad day that you're
+having.
+
+300
+17:56
+These symptoms have to be
+present persistently for at
+
+301
+17:59
+least two weeks to get the
+diagnosis.
+
+302
+18:02
+Now, truth be told,
+most episodes of major
+
+303
+18:04
+depression actually last a lot
+longer than two weeks.
+
+304
+18:07
+In fact, the average length of
+an episode, if it's not treated,
+
+305
+18:11
+is at least six months.
+So, people stay this miserable
+
+306
+18:16
+for a very long period of time,
+but the minimum criterion in
+
+307
+18:20
+the DSM is at least two
+weeks.
+
+308
+18:23
+So, what I want to do is to
+just show you a short clip of a
+
+309
+18:28
+woman who has had a lot of
+episodes of depression.
+
+310
+18:31
+Fortunately,
+at the moment she's not in an
+
+311
+18:34
+episode.
+But she can speak very
+
+312
+18:37
+articulately about what it's
+like to be in the midst of an
+
+313
+18:41
+episode and some of the
+significant symptoms that she
+
+314
+18:45
+had.
+Okay.
+
+315
+18:46
+There are couple of things she
+talks about that I just want to
+
+316
+18:48
+comment on.
+One is this differentiation
+
+317
+18:50
+between everyday sad mood and
+the kind of depressions we all
+
+318
+18:55
+experience and the kind of
+debilitating,
+
+319
+18:58
+overwhelming depression that
+she experiences.
+
+320
+19:01
+And it is true that there is
+this continuum from getting
+
+321
+19:05
+bummed out because you didn't do
+well on a test or because you
+
+322
+19:08
+broke up with a boyfriend or
+girlfriend or something like
+
+323
+19:12
+this and being completely not
+functional,
+
+324
+19:15
+vegetative, the way that this
+woman becomes whenever she gets
+
+325
+19:19
+depressed.
+And it would be nice if we were
+
+326
+19:22
+really sure where the cutoff was
+between those normal everyday
+
+327
+19:26
+depressions and what's really a
+disorder.
+
+328
+19:30
+But the reality is we don't
+really have real clear
+
+329
+19:33
+demarcation lines.
+There are a lot of people who
+
+330
+19:37
+have more moderate forms of
+depression than Tara here talks
+
+331
+19:41
+about but who still would
+qualify for a diagnosis and are
+
+332
+19:45
+still suffering and impaired by
+their symptoms.
+
+333
+19:49
+So, I don't want you to get the
+sense that if you don't have the
+
+334
+19:53
+kind of horrible version on the
+extreme end of the continuum of
+
+335
+19:57
+depression that Tara has,
+then there's nothing wrong with
+
+336
+20:00
+you, because that's not the
+case.
+
+337
+20:02
+People who are really slowed,
+whom their functioning is
+
+338
+20:07
+interfered with--they're just
+really unhappy with life--have
+
+339
+20:12
+problems that can be helped and
+do need attention.
+
+340
+20:17
+And it is the case that much
+more moderate forms of
+
+341
+20:20
+depression can morph into more
+serious forms if they're left
+
+342
+20:24
+untreated.
+So, there is this continuum.
+
+343
+20:26
+The other things I wanted to
+comment on that she talks about
+
+344
+20:30
+early on in this piece is the
+fact that she hauls herself up
+
+345
+20:34
+and goes through her day,
+even when she's feeling really,
+
+346
+20:37
+really depressed.
+And there is this
+
+347
+20:39
+characteristic of a lot of
+depressed people that I call the
+
+348
+20:43
+"walking wounded."
+They just haul themselves
+
+349
+20:46
+through the day trying to act
+normal, trying not to let
+
+350
+20:49
+anybody know that there's
+anything wrong with them,
+
+351
+20:53
+trying to keep up with their
+schoolwork or their employment.
+
+352
+20:58
+But they're miserable and
+they're not functioning at the
+
+353
+21:01
+level that they're capable of
+and such.
+
+354
+21:03
+And that's something that's
+very, very common,
+
+355
+21:06
+and it's in part because people
+don't feel as though they should
+
+356
+21:10
+have to get treatment or they're
+ashamed of getting treatment or
+
+357
+21:14
+seeking help for depression.
+And so, they just keep going on
+
+358
+21:18
+and going on,
+sometimes for years,
+
+359
+21:20
+in a very sorry state
+before--sometimes they
+
+360
+21:23
+just--they end up actually
+falling apart to the point where
+
+361
+21:27
+they have to get help.
+Okay.
+
+362
+21:31
+The other category of mood
+disorders that I mentioned is
+
+363
+21:35
+bipolar disorders.
+And as I said,
+
+364
+21:38
+bipolar disorder involves
+symptoms or periods of
+
+365
+21:41
+depression but then also
+distinct periods of the opposite
+
+366
+21:46
+of depression,
+which we call "mania."
+
+367
+21:48
+So, the person cycles back and
+forth between debilitating
+
+368
+21:53
+depressions and manic episodes.
+So, let me describe manic
+
+369
+21:57
+episodes to you now.
+So, the first criterion is that
+
+370
+22:00
+instead of feeling down,
+blue or depressed the person
+
+371
+22:04
+has an abnormally and
+persistently elevated expansive
+
+372
+22:07
+or irritable mood that isn't
+just,
+
+373
+22:10
+again, a good day because you
+won a prize or got an "A," but
+
+374
+22:15
+rather, it's this unusually
+positive,
+
+375
+22:18
+expansive mood for at least one
+week persistently.
+
+376
+22:24
+And then the person has to have
+three or more of the following
+
+377
+22:27
+symptoms.
+First, inflated self-esteem or
+
+378
+22:30
+grandiosity.
+The individual may feel as
+
+379
+22:33
+though they are the smartest,
+the most creative,
+
+380
+22:37
+insightful,
+powerful person on earth,
+
+381
+22:39
+and they are perfectly happy to
+tell you this.
+
+382
+22:42
+So, there is no problem with
+self-esteem, thank you very
+
+383
+22:46
+much.
+"If you can't keep up with me
+
+384
+22:48
+it's your fault."
+There's a decreased need for
+
+385
+22:51
+sleep;
+they may only sleep a couple of
+
+386
+22:53
+hours a night and get up raring
+to go.
+
+387
+22:56
+They tend to be more talkative
+than usual, and there's a really
+
+388
+22:59
+pressure to their talk.
+They'll talk really pressured,
+
+389
+23:02
+and they'll talk really,
+really fast.
+
+390
+23:04
+And one of the reasons they're
+talking really,
+
+391
+23:05
+really fast is they have this
+flight of ideas.
+
+392
+23:07
+The thoughts are just racing
+through their mind,
+
+393
+23:09
+and they can't talk fast enough
+to get them out.
+
+394
+23:11
+And if you can't follow them,
+that--well, that's because
+
+395
+23:13
+you're not smart enough to
+follow them.
+
+396
+23:14
+But they've just got too many
+good ideas and they've got to
+
+397
+23:18
+get them out.
+They're highly distractible.
+
+398
+23:21
+And then there is this increase
+in this--what the DSM
+
+399
+23:25
+calls this "goal-directed
+activity."
+
+400
+23:28
+Out of their grandiosity will
+come these grand schemes
+
+401
+23:32
+for--often for making a lot of
+money and they'll pursue these
+
+402
+23:36
+with great vigor no matter how
+totally irrational they are.
+
+403
+23:40
+So, it's not at all uncommon
+for them to cash out all the
+
+404
+23:43
+family bank accounts,
+to sell the house,
+
+405
+23:46
+to sell the car,
+to sell the kids so that they
+
+406
+23:49
+can finance this great scheme
+for making a zillion dollars on
+
+407
+23:53
+the Internet tomorrow.
+Right?
+
+408
+23:55
+Okay.
+And they'll pursue this with
+
+409
+23:58
+tremendous vigor.
+They'll also get involved in
+
+410
+24:01
+all kinds of,
+what the DSM discreetly
+
+411
+24:04
+calls "pleasurable but dangerous
+activities."
+
+412
+24:07
+There's a lot of sexual
+promiscuity, a lot of drug
+
+413
+24:11
+abuse, a lot of,
+as I said,
+
+414
+24:14
+getting--going and gambling,
+believing that you're on a hot
+
+415
+24:17
+streak, there's nothing can stop
+you.
+
+416
+24:19
+You know, you're just so
+brilliant and you've got this
+
+417
+24:22
+scheme, you've got the plan.
+You're going to make it.
+
+418
+24:24
+Okay?
+So, the individual has three of
+
+419
+24:28
+more of these kinds of symptoms
+plus this elevated,
+
+420
+24:32
+expansive and often quite
+irritable mood.
+
+421
+24:34
+It's not just that they're
+happy, you know,
+
+422
+24:37
+and sort of upbeat.
+It's just that they're just
+
+423
+24:40
+impatient and irritable and
+trigger-fire.
+
+424
+24:43
+And sometimes they can become
+violent because they're
+
+425
+24:46
+just--they're so incredibly
+agitated and irritable.
+
+426
+24:50
+So, let me show you a couple of
+clips.
+
+427
+24:53
+I have one really short one.
+It's not a real high quality
+
+428
+24:56
+clip, but it's a very,
+very nice example of an older
+
+429
+24:58
+woman who is in the midst of a
+manic episode.
+
+430
+25:01
+And it shows what this kind of
+agitation and flight of ideas
+
+431
+25:07
+and racing thoughts can look
+like.
+
+432
+25:10
+And then the other one is--I'll
+introduce whenever you--we do
+
+433
+25:16
+it.
+So while she was at the
+
+434
+25:18
+hairdresser's it's a nice
+example of how she was just
+
+435
+25:22
+pressured to speak.
+Nobody was telling her that she
+
+436
+25:25
+had to say all of these things.
+They were just standing there
+
+437
+25:28
+with a camera and she was going
+on and on and on about these
+
+438
+25:31
+things.
+And as you could see she was
+
+439
+25:33
+getting more and more agitated
+and more and more irritated as
+
+440
+25:36
+she was retelling her story.
+And then what?
+
+441
+25:39
+In the last little bit there
+you saw her flip from her mania
+
+442
+25:44
+into a more depressed state.
+And this poor lady,
+
+443
+25:47
+unfortunately,
+is having a hard time finding a
+
+444
+25:51
+stable point.
+He talked about lithium there,
+
+445
+25:54
+and I'll talk about it in a
+little bit--about the use of
+
+446
+25:56
+lithium as a drug to try to
+stabilize these mood swings.
+
+447
+25:59
+But at this point in this
+video, it's not working for this
+
+448
+26:03
+lady.
+And so, she's flipping back and
+
+449
+26:06
+forth, but they're having a hard
+time finding that middle ground.
+
+450
+26:10
+So, I want to show you another
+clip--it's a little bit
+
+451
+26:13
+longer--of a man who has bipolar
+disorder.
+
+452
+26:16
+He is not currently in an
+episode of either depression or
+
+453
+26:21
+mania, but again,
+he can talk about some of the
+
+454
+26:25
+things he got himself into and
+how it manifested in his
+
+455
+26:30
+behavior.
+Okay.
+
+456
+26:33
+Just a couple of things that
+Bernie talks about that I want
+
+457
+26:36
+to comment on.
+One is that just as in
+
+458
+26:38
+depression, mania has--runs
+along a continuum.
+
+459
+26:42
+So, it can be relatively mild
+all the way to extremely severe
+
+460
+26:48
+and even psychotic.
+So, when a person with mania
+
+461
+26:53
+loses touch with reality,
+instead of having beliefs that
+
+462
+26:57
+they are Satan or they've done
+some horrible thing,
+
+463
+27:01
+they'll believe that they are
+some supernatural being.
+
+464
+27:06
+They may believe that they are
+the Messiah or that they are
+
+465
+27:09
+Albert Einstein,
+you know, come back to life,
+
+466
+27:12
+or that they have supernatural
+powers or something of this
+
+467
+27:16
+sort,
+so that their false beliefs,
+
+468
+27:19
+their delusions and their
+hallucinations,
+
+469
+27:21
+the things that they see and
+hear that aren't really there
+
+470
+27:26
+tend to be very grandiose in
+their themes.
+
+471
+27:29
+Bernie's mania is not on the
+far end of the continuum by any
+
+472
+27:33
+stretch, but you can see it
+still gets him into trouble.
+
+473
+27:36
+Now, there are people who
+have--who cycle between fairly
+
+474
+27:40
+low levels of mania and fairly
+low levels of depression,
+
+475
+27:44
+back and forth.
+And there's been some argument
+
+476
+27:47
+that people who are kind of
+chronically, mildly
+
+477
+27:50
+manic--especially if they're
+really smart or they have a
+
+478
+27:54
+special talent – can make it
+work for them.
+
+479
+27:57
+And there is a wonderful book
+by Kay Jamison,
+
+480
+28:02
+who is a professor at Johns
+Hopkins where she
+
+481
+28:06
+chronicles--She does sort of
+historical biographies on a
+
+482
+28:11
+number of well-known authors and
+poets and musicians,
+
+483
+28:17
+Robert Schumann and a number of
+politicians, Winston Churchill
+
+484
+28:22
+and such, arguing that they
+actually had mild forms of
+
+485
+28:26
+bipolar disorder and that they
+were able to sort of channel the
+
+486
+28:31
+manic episodes through
+extraordinary talent or
+
+487
+28:34
+intelligence in ways that made
+it work for them.
+
+488
+28:39
+There are also a number of
+arguments that very,
+
+489
+28:42
+very successful CEOs sometimes
+are people who are chronically
+
+490
+28:47
+slightly manic.
+They can go on a couple of
+
+491
+28:50
+hours a night of sleep;
+they're obviously really quite
+
+492
+28:53
+grandiose and self-confident,
+and that they can maintain this
+
+493
+28:57
+kind of moderate level of mania,
+keep it under control and
+
+494
+29:01
+channel it in ways that work for
+them.
+
+495
+29:03
+So, if you're interested in
+that book, send me an email and
+
+496
+29:07
+I'm happy to send you the
+citation for it.
+
+497
+29:10
+But for the most part,
+mania can get people into
+
+498
+29:14
+tremendous trouble.
+They can, as I said,
+
+499
+29:17
+get involved in sexual
+promiscuity that puts them at
+
+500
+29:21
+risk for sexually transmitted
+diseases.
+
+501
+29:24
+They can get involved in drug
+activity.
+
+502
+29:25
+They can get themselves
+arrested.
+
+503
+29:28
+They can certainly send
+themselves and their family into
+
+504
+29:30
+bankruptcy.
+And these kinds of negative
+
+505
+29:33
+consequences of the mania often
+are what motivates the person to
+
+506
+29:37
+get help because the mania
+itself can be rather pleasurable
+
+507
+29:41
+to have.
+Also, what motivates them to
+
+508
+29:44
+get help is the plunge into
+depression, the knowledge that
+
+509
+29:48
+they will,
+at some point,
+
+510
+29:50
+come out of the mania and go
+into a debilitating depression.
+
+511
+29:54
+Bipolar disorder is much less
+common than depression.
+
+512
+29:57
+I said that about 22% of women
+and about 13% of men will have
+
+513
+30:01
+an episode of serious depression
+at some time in their lives.
+
+514
+30:05
+Bipolar disorder occurs in only
+about 1% of the population,
+
+515
+30:10
+and it's equally prevalent in
+women and men.
+
+516
+30:13
+So, it's a really quite
+different disorder in many ways
+
+517
+30:18
+from depression alone.
+I want to give you some other
+
+518
+30:22
+statistics about depression per
+se, and this only applies to
+
+519
+30:25
+depression.
+There are quite large age
+
+520
+30:29
+differences in the prevalence of
+depression.
+
+521
+30:33
+These are data from a
+nationwide study of people
+
+522
+30:36
+between the ages of fifteen and
+fifty-five, and these are the
+
+523
+30:41
+percentages of people in this
+study.
+
+524
+30:43
+And there were several thousand
+people in the study.
+
+525
+30:46
+These are not people who have
+sought treatment for depression
+
+526
+30:50
+but just a random community
+sample.
+
+527
+30:52
+And this is the percentage
+who've had an episode of major
+
+528
+30:55
+depression in the past month.
+And as you can see,
+
+529
+30:58
+the fifteen to twenty-four age
+range has the highest rates,
+
+530
+31:03
+and then they go down somewhat,
+although the thirty-five to
+
+531
+31:07
+forty-four is fairly high as
+well with age.
+
+532
+31:10
+You might be surprised to learn
+that the rates of major
+
+533
+31:13
+depression in the elderly are
+actually quite low by most
+
+534
+31:17
+national statistics.
+And that's true up to about age
+
+535
+31:22
+eighty or eighty-five.
+And the arguments for why this
+
+536
+31:27
+is the case are very
+interesting.
+
+537
+31:30
+There are some people who argue
+that as you get older you get
+
+538
+31:34
+wiser, and so that's why we see
+lower rates of depression in
+
+539
+31:38
+older age.
+There are other people who
+
+540
+31:41
+argue that current
+generation--younger generations
+
+541
+31:44
+now;
+your generation and the one
+
+542
+31:46
+above you--are more prone to
+depression and will be for the
+
+543
+31:50
+rest of your life compared to
+your grandparents,
+
+544
+31:53
+because of historical changes
+in the kinds of social support
+
+545
+31:58
+and family networks available
+and a number of other historical
+
+546
+32:02
+cultural changes.
+The other sort of side of the
+
+547
+32:06
+argument is that because
+depression is known to impact
+
+548
+32:10
+negatively your physical health
+– depression is associated
+
+549
+32:14
+with higher rates of
+cardio-vascular disease,
+
+550
+32:18
+stroke, immune system diseases,
+a whole host of diseases that
+
+551
+32:21
+people die from--that people who
+have a lifelong history of
+
+552
+32:24
+depression are actually more
+likely to die at an earlier age,
+
+553
+32:28
+and that's why we see
+relatively low rates in older
+
+554
+32:31
+age people.
+We don't know yet which of
+
+555
+32:33
+these explanations is true.
+It may be that they're all true
+
+556
+32:36
+to some extent.
+There are also gender
+
+557
+32:39
+differences in depression.
+These are data from a
+
+558
+32:44
+compilation of hundreds of
+studies of children and
+
+559
+32:48
+adolescents,
+looking at not full-blown
+
+560
+32:51
+depression but levels of
+depression on self-report
+
+561
+32:55
+questionnaires.
+Probably most of you have
+
+562
+32:57
+filled out these questionnaires,
+like the Beck Depression
+
+563
+33:00
+Inventory that ask you how
+you've been feeling in the last
+
+564
+33:04
+month.
+And there's a kiddy version of
+
+565
+33:06
+this, and these are data from
+that, from several thousand
+
+566
+33:09
+children.
+And as you can see here,
+
+567
+33:11
+prior to the age of about
+thirteen, boys and girls have
+
+568
+33:15
+relatively similar levels of
+depression.
+
+569
+33:17
+But beginning around the
+pubertal years,
+
+570
+33:20
+girls' rates of depression go
+up quite dramatically and boys'
+
+571
+33:25
+rates stay the same or go down.
+And by the time they're
+
+572
+33:29
+eighteen or twenty you get
+almost a two-to-one ratio of
+
+573
+33:32
+depressed girls to depressed
+boys.
+
+574
+33:34
+And then this is true for the
+rest of the adult age span.
+
+575
+33:38
+There are lots of hypotheses
+about this, why it's true.
+
+576
+33:42
+There are biological hypotheses
+that have to do with hormones.
+
+577
+33:46
+There are sociological
+hypotheses that have to do with
+
+578
+33:49
+the kinds of stress,
+and particularly abuse,
+
+579
+33:52
+in girls' lives relative to
+boys'.
+
+580
+33:55
+We don't know exactly why.
+It's probably a lot of these
+
+581
+33:59
+things coming together that make
+this huge two-to-one ratio true.
+
+582
+34:04
+So, let's talk a little bit
+about the major theories and
+
+583
+34:07
+treatments for the mood
+disorders.
+
+584
+34:10
+There are biological theories
+and treatments,
+
+585
+34:12
+what are known as cognitive
+behavioral theories and
+
+586
+34:14
+treatments and then
+interpersonal theories and
+
+587
+34:17
+treatments.
+And I'll walk you through
+
+588
+34:19
+examples of each of these.
+So, first, genetics.
+
+589
+34:24
+It's pretty clear that genetics
+are involved in the mood
+
+590
+34:27
+disorders, especially bipolar
+disorder.
+
+591
+34:30
+There is very strong evidence
+in bipolar disorder,
+
+592
+34:33
+and there are a number of
+ways--Have you talked about how
+
+593
+34:37
+you do genetic studies?
+Okay.
+
+594
+34:39
+So, you guys know about twin
+studies for example and family
+
+595
+34:44
+history studies.
+So, this is actually a
+
+596
+34:47
+compilation of a group of
+studies.
+
+597
+34:49
+And here you've got some of
+them – twin studies--compared.
+
+598
+34:54
+So, in monozygotic twins,
+if your identical twin has
+
+599
+34:58
+bipolar disorder,
+you have over a 60% chance of
+
+600
+35:01
+having the disorder yourself.
+In contrast,
+
+601
+35:05
+if it's your--if you're just a
+fraternal twin of a person with
+
+602
+35:09
+bipolar disorder,
+you only have about a 12%
+
+603
+35:12
+chance of having the disorder.
+So, that massive difference
+
+604
+35:16
+there is very strong evidence
+that there's a genetic component
+
+605
+35:19
+to the transmission of the
+disorder.
+
+606
+35:22
+Similarly, the more distant you
+get in terms of your biological
+
+607
+35:27
+relation to a person with
+bipolar disorder,
+
+608
+35:31
+the lower your rate or your
+risk of the disorder is.
+
+609
+35:35
+So, the second degree relatives
+of a person with bipolar
+
+610
+35:40
+disorder only have about 2%
+chance of getting the disorder.
+
+611
+35:44
+And that's barely above what's
+in the general population,
+
+612
+35:48
+which is about a 1% chance of
+getting the disorder.
+
+613
+35:52
+So, it's very clear that
+bipolar disorder has a genetic
+
+614
+35:55
+component to it.
+With depression alone,
+
+615
+35:58
+major depression,
+there are probably versions of
+
+616
+36:02
+the disorder that have a
+stronger genetic component to
+
+617
+36:06
+them than others.
+And in particular,
+
+618
+36:09
+folks who have what's called
+"early onset depression," where
+
+619
+36:14
+their first episodes come on in
+childhood or very early
+
+620
+36:18
+adolescence,
+seem to have a form of
+
+621
+36:21
+depression that has a stronger
+genetic component to it.
+
+622
+36:25
+Whereas, people who have
+depression that is clearly
+
+623
+36:29
+triggered by a major life event
+like a trauma or a loss--those
+
+624
+36:33
+types of depression are less
+clearly linked strongly to
+
+625
+36:37
+genetic factors.
+There are also a number of
+
+626
+36:41
+neurotransmitters that have been
+implicated in the mood
+
+627
+36:44
+disorders.
+And the class of
+
+628
+36:46
+neurotransmitters that's been
+researched most often is what's
+
+629
+36:50
+called the monoamines.
+I'm sure you've heard about the
+
+630
+36:54
+link between serotonin and
+depression, but there are two
+
+631
+36:57
+other monoamines,
+norepinephrine and dopamine,
+
+632
+37:00
+that have also been linked to
+both of the mood disorders,
+
+633
+37:04
+both bipolar disorder and
+depression.
+
+634
+37:09
+And it used to be thought that
+it was just that in people with
+
+635
+37:12
+depression they didn't have
+enough of these
+
+636
+37:15
+neurotransmitters,
+enough serotonin,
+
+637
+37:17
+in particular,
+in the system,
+
+638
+37:20
+in the brain,
+in order to function normally.
+
+639
+37:24
+But now the theories on what
+the role of neurotransmitters is
+
+640
+37:29
+have a lot more to do with the
+receptors for these
+
+641
+37:33
+neurotransmitters and their
+functioning.
+
+642
+37:36
+And the notion is that the
+receptors for neurotransmitters
+
+643
+37:40
+like serotonin don't function
+efficiently.
+
+644
+37:43
+So, even if there's enough of
+the chemicals in the synapses in
+
+645
+37:48
+the brain, the neurons can't
+make use of them because the
+
+646
+37:52
+receptors aren't functioning
+appropriately.
+
+647
+37:56
+And so what the drugs that help
+relieve depression do is to
+
+648
+38:01
+improve the functioning of these
+neurotransmitters.
+
+649
+38:05
+There's a very interesting line
+of work that's going on right
+
+650
+38:09
+now looking at the intersection
+of genetic predisposition
+
+651
+38:13
+neurotransmitter functioning and
+stress.
+
+652
+38:16
+And we have one of the world's
+experts on this kind of work now
+
+653
+38:20
+here at Yale,
+Julia Kim-Cohen,
+
+654
+38:22
+who just joined us in the last
+year.
+
+655
+38:25
+But there are several recent
+studies.
+
+656
+38:27
+There's another person in
+psychiatry, Joan Kaufman,
+
+657
+38:30
+who's done some of this work.
+But there are several recent
+
+658
+38:33
+studies that find that certain
+variations or polymorphisms on
+
+659
+38:37
+the serotonin transporter gene
+predict who will become
+
+660
+38:41
+depressed in the face of stress.
+So, a classic study was done by
+
+661
+38:46
+Avshalom Caspi and colleagues,
+and they found that people who
+
+662
+38:51
+have one or two of what's called
+the short allele on the
+
+663
+38:55
+serotonin transporter gene--so
+this is a particular variation
+
+664
+39:00
+on the serotonin transporter
+gene--if they had one or two of
+
+665
+39:04
+these short alleles and they
+were confronted with stress,
+
+666
+39:09
+they were more likely to
+develop depression.
+
+667
+39:17
+But it's important to sort of
+dissect this.
+
+668
+39:21
+So people who had--it didn't
+really matter which of these
+
+669
+39:25
+genes you had.
+If you were never confronted
+
+670
+39:28
+with major kinds of stress,
+like maltreatment,
+
+671
+39:32
+if you weren't confronted with
+stress,
+
+672
+39:35
+you were no more likely to have
+depression regardless of what
+
+673
+39:40
+kind of serotonin gene you had.
+But if you had either one short
+
+674
+39:46
+allele or two short alleles and
+you were confronted with
+
+675
+39:50
+maltreatment as a child,
+you had a much greater
+
+676
+39:53
+probability of becoming
+depressed at some time in your
+
+677
+39:56
+life.
+And this has been replicated
+
+678
+39:59
+with other samples,
+with other forms of major
+
+679
+40:02
+trauma.
+And basically the story is,
+
+680
+40:05
+it takes the intersection of a
+genetic predisposition and major
+
+681
+40:10
+stress to create full-blown
+depression in some people.
+
+682
+40:15
+Now, that may not be true for
+all genetic predispositions or
+
+683
+40:18
+all forms of depression,
+but this serotonin finding has
+
+684
+40:21
+actually been replicated now in
+at least four different studies.
+
+685
+40:26
+So, it seems to be a pretty
+reliable effect.
+
+686
+40:30
+So again, genes do not
+determine the disorder,
+
+687
+40:34
+but the intersection of genes
+and stress seems to be a major
+
+688
+40:40
+risk factor for the disorder.
+There are a number of brain
+
+689
+40:44
+areas that seem to be involved
+in the mood disorders where
+
+690
+40:48
+there is just dysregulation or
+dysfunction.
+
+691
+40:52
+The prefrontal cortex,
+as you probably have studied,
+
+692
+40:55
+is an area of the brain that's
+very involved in higher order
+
+693
+41:00
+complex thinking and problem
+solving and in goal-directed
+
+694
+41:04
+behavior.
+In people with depression,
+
+695
+41:07
+there's lowered activity in the
+prefrontal cortex,
+
+696
+41:10
+suggesting that--which may play
+a role in the difficulties in
+
+697
+41:16
+concentration,
+in goal-directed behavior,
+
+698
+41:20
+in planning and problem solving
+and in regulating emotion.
+
+699
+41:26
+The amygdala is an area of the
+brain that is involved in the
+
+700
+41:29
+processing of emotional
+information.
+
+701
+41:31
+And people with mood disorders
+show overactive amygdala
+
+702
+41:37
+responses to emotional
+information.
+
+703
+41:41
+This is true in both bipolar
+and in depression.
+
+704
+41:47
+The hippocampus is an area of
+the brain that's very involved
+
+705
+41:51
+in memory and in concentration.
+And in people with chronic
+
+706
+41:55
+depression, you often see
+shrinkage in the hippocampus,
+
+707
+41:59
+and this may be related to
+their problems in concentration
+
+708
+42:03
+and attention.
+And then finally,
+
+709
+42:05
+the anterior cingulate is an
+area of the brain that's
+
+710
+42:08
+involved in a lot of different
+activities,
+
+711
+42:10
+but pertinent to the mood
+disorders, particularly in
+
+712
+42:14
+responses to distress--to stress
+and in sort of the choice of
+
+713
+42:19
+behaviors.
+And it may be that
+
+714
+42:21
+dysregulation of the anterior
+cingulate may be involved in the
+
+715
+42:25
+person's difficulty in
+responding appropriately to
+
+716
+42:28
+stress,
+in choosing good coping
+
+717
+42:30
+behaviors and changing their
+behaviors whenever their
+
+718
+42:34
+behaviors aren't working well.
+
+719
+42:36
+
+
+720
+42:40
+So, from the biological
+theories come a number of
+
+721
+42:43
+different drugs to treat the
+mood disorders.
+
+722
+42:45
+Two of the older classes are
+called the monoamine oxidase
+
+723
+42:49
+inhibitors and the tricyclic
+antidepressants.
+
+724
+42:51
+The tricyclics are still used
+these days to some extent.
+
+725
+42:55
+They're relatively effective.
+About 60% of people respond
+
+726
+42:59
+well to the tricyclics,
+but they have a lot of side
+
+727
+43:02
+effects, and they can be fatal
+in overdose.
+
+728
+43:05
+And so there was a--has been
+always a search for other
+
+729
+43:09
+alternatives to them.
+The drugs that have really
+
+730
+43:13
+taken over the market are the
+selective serotonin re-uptake
+
+731
+43:16
+inhibitors or SSRIs.
+This is Paxil,
+
+732
+43:19
+Prozac and the like.
+They were introduced in
+
+733
+43:22
+1987--Prozac was--in the U.S.
+market and truly took over the
+
+734
+43:26
+market in the treatment of
+depression and anxiety and a
+
+735
+43:29
+number of other disorders.
+Now, they're not that much more
+
+736
+43:33
+effective than the sort of old
+style antidepressants,
+
+737
+43:36
+but they have fewer side
+effects and they tend to be
+
+738
+43:38
+easier for people to tolerate.
+More recently,
+
+739
+43:41
+there are selective
+serotonin/norepinephrine
+
+740
+43:44
+re-uptake inhibitors.
+These drugs,
+
+741
+43:47
+by the way, what these drugs
+supposedly do is to prevent the
+
+742
+43:52
+re-uptake of serotonin or
+serotonin and norepinephrine
+
+743
+43:56
+back into the sending neuron.
+So, it creates more of the
+
+744
+44:01
+neurotransmitter there in the
+synapse.
+
+745
+44:04
+And these are reasonably
+effective drugs,
+
+746
+44:06
+although, again,
+there's a substantial number of
+
+747
+44:08
+people who don't respond to
+them, especially immediately.
+
+748
+44:11
+And they'll often have to cycle
+through a number of drugs before
+
+749
+44:15
+they find one that works.
+Lithium is the drug of choice
+
+750
+44:19
+for the treatment of bipolar
+disorder.
+
+751
+44:21
+It seems to stabilize the mood
+swings by stabilizing the number
+
+752
+44:26
+of different neurotransmitter
+systems.
+
+753
+44:28
+But the lithium is problematic
+because there are tremendous
+
+754
+44:34
+side effects.
+It's also dangerous for women
+
+755
+44:37
+to take while they're pregnant
+in terms of fetal development.
+
+756
+44:40
+So, it's a very tough drug to
+stay on.
+
+757
+44:44
+There are lots of
+gastrointestinal side effects
+
+758
+44:47
+and such, and people are often
+on lithium and the
+
+759
+44:50
+antidepressants because lithium
+often only affects the manic
+
+760
+44:54
+episodes but it doesn't really
+relieve the depression.
+
+761
+44:58
+And then finally anti-psychotic
+medications, that is those help
+
+762
+45:02
+people who've lost touch with
+reality,
+
+763
+45:05
+are sometimes used to treat the
+mood disorders whenever the
+
+764
+45:10
+person has lost touch with
+reality.
+
+765
+45:13
+I'm going to go through and
+talk about some of the
+
+766
+45:18
+psychosocial treatments because
+I want to get to them as well.
+
+767
+45:23
+The cognitive behavioral
+therapies are based on Aaron
+
+768
+45:28
+Beck's Negative Cognitive Theory
+of Depression.
+
+769
+45:33
+Aaron Beck is a psychiatrist at
+the University of Pennsylvania
+
+770
+45:36
+who really founded this whole
+line of work.
+
+771
+45:39
+And according to Beck,
+this--now, this applies to
+
+772
+45:42
+depression alone.
+It doesn't really apply to
+
+773
+45:44
+bipolar disorder.
+People who are depressed have a
+
+774
+45:46
+negative view of the self,
+of the future and of the world,
+
+775
+45:49
+and he calls this the "negative
+cognitive triad."
+
+776
+45:51
+And this negative cognitive
+triad is fed by specific
+
+777
+45:56
+cognitive deficits or biases.
+So, depressed people show a lot
+
+778
+46:00
+of distortions in thinking.
+"All-or-nothing thinking" is
+
+779
+46:04
+thinking that things are either
+all good or all bad.
+
+780
+46:07
+They can't sort of see the gray
+areas in between.
+
+781
+46:11
+There's "emotional reasoning,"
+and an example of that is just
+
+782
+46:15
+if I feel like a loser I must be
+a loser.
+
+783
+46:18
+Of if I feel stupid,
+I must be stupid.
+
+784
+46:21
+And then "personalization,"
+that is the self-blame that you
+
+785
+46:25
+often see in depressed people.
+And these kinds of distortions
+
+786
+46:29
+in thinking, these distorted
+ways of interpreting situations,
+
+787
+46:32
+feed a kind of general negative
+view of the self and
+
+788
+46:36
+hopelessness about the future.
+People who are depressed also
+
+789
+46:40
+make attributions for negative
+events that are internal,
+
+790
+46:43
+that is, they blame
+themselves--that are stable.
+
+791
+46:46
+They see bad things as lasting
+forever and that are global.
+
+792
+46:50
+They see bad events as
+affecting many areas of their
+
+793
+46:54
+life, which, again,
+feeds their depression and
+
+794
+46:57
+their general assumption that
+life is terrible.
+
+795
+47:01
+And evidence that these--for
+these cognitive theories,
+
+796
+47:04
+that these negative cognitive
+styles predict depression--one
+
+797
+47:07
+of the best studies predicting
+this was a study that was
+
+798
+47:10
+jointly done at Temple
+University and the University of
+
+799
+47:13
+Wisconsin where they identified
+first year college students with
+
+800
+47:17
+a negative cognitive or
+attributional style.
+
+801
+47:20
+But these were people who had
+never experienced an episode of
+
+802
+47:23
+depression yet.
+They then tracked them for the
+
+803
+47:25
+next two years,
+and the bars here--the red bars
+
+804
+47:28
+are the percent of those with a
+negative cognitive style who
+
+805
+47:31
+developed an episode of major
+depression in that two and a
+
+806
+47:35
+half years versus the percent of
+those without a negative
+
+807
+47:38
+cognitive style.
+And as you can see,
+
+808
+47:41
+there's quite a substantial
+difference between the two.
+
+809
+47:43
+So prospectively,
+these characteristics seem to
+
+810
+47:47
+predict your risk for
+depression.
+
+811
+47:51
+In turn, there is a cognitive
+behavioral therapy that's based
+
+812
+47:55
+on Beck's theory.
+And the major steps in this
+
+813
+47:58
+involve identifying the themes
+in a person's negative thoughts
+
+814
+48:02
+and triggers for them and in
+helping the person challenge
+
+815
+48:05
+those thoughts by asking them
+what the evidence is for their
+
+816
+48:09
+interpretations,
+whether there are other ways of
+
+817
+48:12
+looking at the situation,
+how they could cope with the
+
+818
+48:15
+situation if a bad thing really
+did happen.
+
+819
+48:18
+So, the therapist helps the
+client recognize negative
+
+820
+48:22
+beliefs or assumptions and then
+challenges the truth value of
+
+821
+48:26
+these,
+and then change aspects of the
+
+822
+48:29
+environment that are related to
+depressive symptoms.
+
+823
+48:32
+So, they challenge your
+rational thinking,
+
+824
+48:33
+but they also recognize that
+there are really bad things that
+
+825
+48:36
+sometimes are going on the life
+of a person who is depressed,
+
+826
+48:40
+and they help them engage in
+more active problem solving to
+
+827
+48:43
+change those environments.
+They also teach the person ways
+
+828
+48:48
+to manage their mood so that
+they don't tumble down into
+
+829
+48:52
+depression.
+And these cognitive behavioral
+
+830
+48:56
+therapies have been shown to be
+extremely effective and as
+
+831
+49:01
+effective in some ways as the
+drug treatments.
+
+832
+49:05
+So, this is a recent study in
+which they had 240 patients with
+
+833
+49:09
+major depressive disorder.
+They gave them four months of
+
+834
+49:13
+acute treatment with either
+cognitive behavioral therapy or
+
+835
+49:17
+Paxil, which is an SSRI.
+And in eight weeks here--they
+
+836
+49:20
+also had a placebo control group
+where they just got a pill,
+
+837
+49:23
+but it was a sugar pill.
+At eight weeks,
+
+838
+49:26
+the Paxil group,
+which is in red,
+
+839
+49:28
+and the CBT group,
+which is in yellow,
+
+840
+49:31
+were relatively even,
+although the Paxil group had a
+
+841
+49:33
+little bit of an edge over the
+CBT group.
+
+842
+49:35
+But by sixteen weeks the Paxil
+and CBT group were absolutely
+
+843
+49:40
+even in terms of the percent of
+people who were no longer
+
+844
+49:44
+depressed.
+So, both of them resulted in
+
+845
+49:47
+about 60% of people not being
+depressed.
+
+846
+49:49
+And then one of the things
+that's been found over and over
+
+847
+49:52
+again with cognitive behavioral
+therapy is that it not only
+
+848
+49:55
+helps people get out of a
+current episode of depression,
+
+849
+49:58
+it helps to prevent future
+episodes of depression because
+
+850
+50:02
+it teaches the person new coping
+skills for dealing with new
+
+851
+50:06
+stressors that arise.
+So, in this same study they
+
+852
+50:09
+followed the patients for an
+additional twelve months.
+
+853
+50:12
+And of the Paxil group,
+half were left on full-dose
+
+854
+50:15
+medications to see if you could
+prevent depression by just
+
+855
+50:18
+keeping people on the meds,
+and half of the Paxil group
+
+856
+50:22
+were withdrawn to a placebo.
+And let's look at the placebo
+
+857
+50:26
+group first here.
+This is the sad news about
+
+858
+50:30
+depression.
+If you just take drugs to get
+
+859
+50:32
+out of a current episode and you
+go off of the drugs without
+
+860
+50:35
+having any kind of
+psychotherapy,
+
+861
+50:37
+your rate of relapse tends to
+be very high.
+
+862
+50:40
+So, in this group of 240,
+almost 80% relapsed in the
+
+863
+50:45
+first year after going off of
+the active medication.
+
+864
+50:49
+Again, these were people who
+did not get any cognitive
+
+865
+50:52
+behavioral therapy.
+Of those people who stayed on
+
+866
+50:56
+Paxil alone, about 50% relapsed.
+But of those people who got
+
+867
+51:00
+cognitive behavioral therapy,
+only about 35% relapsed.
+
+868
+51:04
+And this kind of finding has
+been replicated over and over
+
+869
+51:08
+again, namely that CBT can
+reduce the rate of relapse in
+
+870
+51:13
+depression quite dramatically.
+I want to give you a flavor for
+
+871
+51:18
+what CBT looks like,
+and I've got a short clip of a
+
+872
+51:22
+therapist who is actually,
+interestingly,
+
+873
+51:25
+the daughter of Aaron Beck and
+his heir in terms of the
+
+874
+51:29
+practice and development of
+cognitive behavioral therapy.
+
+875
+51:34
+And she's demonstrating CBT.
+This is actually a role play,
+
+876
+51:39
+but it's a pretty realistic
+role play, of how she goes after
+
+877
+51:43
+and helps to challenge a
+gentleman's negative cognitions
+
+878
+51:47
+about himself.
+This is a guy in the role who's
+
+879
+51:51
+recently lost his job and is
+really depressed over his job
+
+880
+51:57
+loss.
+Okay.
+
+881
+51:58
+I'm going to stop there because
+we're running out of time.
+
+882
+52:00
+But I just want to comment on a
+couple of things that she's
+
+883
+52:02
+doing.
+So, you see that she's having
+
+884
+52:04
+him generate his own challenges
+to his negative thoughts and
+
+885
+52:08
+write them down.
+And the whole--one of the major
+
+886
+52:12
+premises in CBT is it's not just
+what goes on in the therapy
+
+887
+52:16
+session that is effective.
+In fact, that's a minor part of
+
+888
+52:20
+it, but what the person
+practices in the time between
+
+889
+52:23
+therapy sessions.
+And so, what she's doing is
+
+890
+52:26
+helping him come up with a
+series of phrases he can say to
+
+891
+52:29
+himself when he feels
+discouraged and plunging down.
+
+892
+52:33
+She's also helping him do
+what's called "anticipatory
+
+893
+52:36
+coping," anticipating those
+situations that are going to
+
+894
+52:39
+trigger negative feelings and
+negative thoughts and coming up
+
+895
+52:42
+with ways of combating them in
+the moment that he can enact at
+
+896
+52:46
+the time.
+Cognitive behavioral therapy is
+
+897
+52:48
+very structured,
+it's very focused and it's
+
+898
+52:51
+designed to be relatively
+short-term.
+
+899
+52:53
+The one other major kind of
+psychotherapy for depression is
+
+900
+52:57
+interpersonal therapy.
+It's based on the theory that
+
+901
+53:00
+negative views of the self and
+expectations about the self and
+
+902
+53:04
+relationships are based on
+upbringings that really fostered
+
+903
+53:08
+these kinds of negative
+self-views.
+
+904
+53:10
+And so, what you need to do is
+to help clients understand their
+
+905
+53:14
+negative self-views and how
+they're rooted in their past
+
+906
+53:18
+relationships.
+Interpersonal therapy is less
+
+907
+53:21
+structured than cognitive
+behavioral therapy,
+
+908
+53:24
+and it's more focused on the
+past.
+
+909
+53:27
+CBT is very focused on the
+present and dealing with the
+
+910
+53:30
+current situation that you're
+facing and combating that and
+
+911
+53:33
+developing coping styles for
+that.
+
+912
+53:36
+There are a few studies
+comparing interpersonal therapy
+
+913
+53:40
+with CBT, but much less research
+has been done on IPT than CBT.
+
+914
+53:45
+But it is a positive
+alternative for some people,
+
+915
+53:48
+particularly those who find
+that their depression is very
+
+916
+53:52
+tied-up in recurrent themes in
+their relationships that seem to
+
+917
+53:56
+happen over and over and over
+again.
+
+918
+53:58
+But to end, the good news about
+depression is that there are
+
+919
+54:01
+these alternative therapies.
+There is a number of drug
+
+920
+54:04
+therapies and there are at least
+two psychotherapies that good
+
+921
+54:08
+controlled research has shown
+can be very helpful.
+
+922
+54:11
+So, people have a choice,
+and there is absolutely no need
+
+923
+54:15
+for people to stay in depression
+but rather to seek out the kind
+
+924
+54:19
+of therapy that applies to and
+appeals to them the most.
+
+925
+54:24
+Good.
+Thanks very much.
+
+926
+54:26
+
+

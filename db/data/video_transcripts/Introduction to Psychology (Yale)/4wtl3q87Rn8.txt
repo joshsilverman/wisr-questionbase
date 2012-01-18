@@ -1,0 +1,4682 @@
+1
+0:12
+Professor Paul Bloom:
+The final topic of the course
+
+2
+0:16
+is clinical psychology,
+also known as abnormal
+
+3
+0:18
+psychology or psychopathology,
+and this, for many of us,
+
+4
+0:22
+is what psychology is really
+about.
+
+5
+0:24
+It's about mental illness.
+It's about clinical
+
+6
+0:26
+psychologists.
+
+7
+0:27
+
+
+8
+0:30
+And we started talking about
+this when Dr.
+
+9
+0:34
+Nolen-Hoeksema gave her guest
+lecture last week and I want to
+
+10
+0:38
+continue through this today.
+It is a topic of tremendous
+
+11
+0:43
+scientific importance but also a
+topic of great personal
+
+12
+0:47
+importance for many of us.
+Many of the people in this room
+
+13
+0:52
+have been mentally ill,
+strictly speaking,
+
+14
+0:55
+at some point in their lives.
+Some of you are under some sort
+
+15
+1:00
+of therapy or treatment or
+medical intervention right now.
+
+16
+1:05
+Some of you are on Prozac or
+Zoloft or Ambien or Wellbutrin
+
+17
+1:10
+or any of those other
+medications to deal with
+
+18
+1:13
+psychological problems you are
+facing.
+
+19
+1:16
+Others are also talking to
+psychiatrists,
+
+20
+1:20
+psychologists,
+social workers,
+
+21
+1:22
+and other people.
+Many of you who are not at this
+
+22
+1:27
+point mentally ill will become
+mentally ill during your stay at
+
+23
+1:31
+Yale.
+[laughter]
+
+24
+1:33
+And this is a difficult period
+in many people's lives and it's
+
+25
+1:38
+a period of people's lives where
+mental illness emerges in many
+
+26
+1:42
+of us.
+By one estimate,
+
+27
+1:44
+one half of all college
+graduates in the United States
+
+28
+1:47
+– and the number is very high
+with college graduates,
+
+29
+1:50
+highly educated people – one
+half of you will have some sort
+
+30
+1:56
+of mental illness in your life
+serious enough to require some
+
+31
+2:01
+sort of treatment.
+Those of you not directly
+
+32
+2:05
+affected with mental illness
+yourselves will no doubt
+
+33
+2:10
+experience your loved ones,
+your family,
+
+34
+2:14
+your friends getting some sort
+of illness, be it Alzheimer's or
+
+35
+2:18
+schizophrenia or depression or
+some sort of anxiety disorder.
+
+36
+2:23
+So the personal importance of
+clinical psychology,
+
+37
+2:26
+the personal importance of
+understanding what can go wrong
+
+38
+2:30
+and how best to treat it,
+simply can't be underestimated.
+
+39
+2:35
+Now, when we talk about mental
+disorders, the scope of this is
+
+40
+2:39
+very broad.
+It includes the prototypical
+
+41
+2:42
+schizophrenic which you could
+see on the streets of New Haven,
+
+42
+2:46
+somebody walking and gesturing
+and talking to themselves and
+
+43
+2:49
+sometimes screaming.
+It includes alcohol addiction
+
+44
+2:53
+and cocaine addiction and other
+addictions.
+
+45
+2:57
+It includes somebody with Down
+syndrome or autism,
+
+46
+3:01
+an old person losing his
+memory,
+
+47
+3:04
+a teenager falling into a deep
+depression, somebody with a
+
+48
+3:07
+severe social phobia to the
+extent that he or she can't
+
+49
+3:10
+leave the house.
+Then there are also very hard
+
+50
+3:14
+cases where it's difficult to
+say one way or another--that
+
+51
+3:18
+guy's photographing me as I'm
+talking and it's freaking me out
+
+52
+3:22
+[laughs]
+[laughter]
+
+53
+3:23
+in kind of a social phobia way.
+There's difficult cases where
+
+54
+3:29
+it's just hard to tell mental
+illness from just bad behavior
+
+55
+3:34
+in general.
+So, consider a killer without a
+
+56
+3:39
+conscience or a mobster like
+John Gotti.
+
+57
+3:44
+Is he mentally ill?
+And this is a question which is
+
+58
+3:48
+a deep one and we'll wrestle
+with it a little bit actually
+
+59
+3:50
+towards the end of this lecture.
+What about somebody who acts in
+
+60
+3:55
+a kind of unusual or zany way?
+This is originally supposed to
+
+61
+3:59
+be a picture of the character
+Kramer on "Seinfeld" but,
+
+62
+4:03
+given his unusual antics in the
+last few months,
+
+63
+4:05
+it could be a picture of the
+actor who plays him who got into
+
+64
+4:08
+all sorts of trouble.
+What about someone who is just
+
+65
+4:11
+kind of wacky?
+At what point does wackiness
+
+66
+4:13
+move into the domain of mental
+illness?
+
+67
+4:16
+What about unusual lifestyles
+such as extreme altruism?
+
+68
+4:21
+Batman devotes most of his life
+to helping others.
+
+69
+4:26
+He sleeps one hour a night and
+this hour is fraught with
+
+70
+4:30
+nightmares and then he fights
+crime.
+
+71
+4:33
+What about somebody,
+and this was a case reported in
+
+72
+4:35
+The New Yorker a few
+months ago,
+
+73
+4:37
+who has lots of money and a
+loving family and has his kidney
+
+74
+4:43
+removed to help a stranger?
+And he says,
+
+75
+4:46
+"I have two kidneys.
+It's minor pain,
+
+76
+4:49
+a minor operation.
+I could save someone's life."
+
+77
+4:51
+And his wife says,
+"You're mentally ill.
+
+78
+4:54
+That's just crazy to do that."
+Where do we draw the line?
+
+79
+4:59
+And so, there are these great
+philosophical and moral
+
+80
+5:02
+questions over the boundaries
+and how to think about mental
+
+81
+5:05
+illness.
+So, how should we think about
+
+82
+5:08
+mental illness?
+Well, there are some answers we
+
+83
+5:11
+could quickly dispense with.
+It used to be thought that
+
+84
+5:14
+severe mental illness was a
+result of demonic possession.
+
+85
+5:18
+If you read the Gospels,
+Jesus Christ wandered around a
+
+86
+5:21
+lot, met crazy people and
+exorcised the demons from their
+
+87
+5:25
+bodies.
+It was a common way of thinking
+
+88
+5:27
+about craziness.
+We now believe that this is not
+
+89
+5:30
+true.
+What about--yeah, it's not true.
+
+90
+5:35
+What about social deviants?
+Some people including the
+
+91
+5:40
+psychiatrist Thomas Szasz claim
+that when we label somebody as
+
+92
+5:45
+mentally ill this is not a
+medical decision.
+
+93
+5:49
+It's rather a social decision
+designed to ostracize people who
+
+94
+5:54
+deviate from society's norms,
+to ostracize them and rid them
+
+95
+5:59
+of moral agency.
+It's not that we disagree with
+
+96
+6:03
+them.
+It's not even that we see them
+
+97
+6:05
+as evil.
+Rather, we see them as sick and
+
+98
+6:07
+as such we don't even have to
+accord to them the respect that
+
+99
+6:12
+we accord to criminals.
+Now, this is not entirely an
+
+100
+6:17
+unreasonable view.
+In many countries around the
+
+101
+6:21
+world, dissidents,
+people who argue against the
+
+102
+6:26
+state, are often determined to
+be mentally ill and thrown in
+
+103
+6:31
+asylums.
+Blacks in the United States who
+
+104
+6:35
+tried to escape from slavery
+were described as having a
+
+105
+6:39
+mental illness.
+Why would they want to do so
+
+106
+6:42
+unless they were mentally ill?
+Up until 1973,
+
+107
+6:45
+to be a homosexual,
+to be gay, would count in the
+
+108
+6:50
+official records of how we
+classify illness as being
+
+109
+6:56
+mentally ill.
+And many people saw this,
+
+110
+7:00
+and we see this now,
+not so much as reflecting a
+
+111
+7:04
+sort of unbiased medical
+analysis but rather as
+
+112
+7:08
+reflecting biases that people
+have against gay people.
+
+113
+7:13
+And these are political and
+social and moral biases.
+
+114
+7:16
+They are not objective medical
+judgments.
+
+115
+7:19
+Even now I've been recording
+every president that has been
+
+116
+7:24
+the president of the United
+States in my memory including
+
+117
+7:28
+Bush and particularly Clinton
+has been described by his
+
+118
+7:33
+opponents not merely as awful,
+evil, terrible,
+
+119
+7:37
+"hate his policies," but as
+mentally ill.
+
+120
+7:40
+Every president at some point
+or another, some bright,
+
+121
+7:43
+intelligent person figures to
+call him a psychopath and put
+
+122
+7:47
+that in Time magazine.
+Now, put aside whether--the
+
+123
+7:51
+extent to which these things are
+accurate, point being that we
+
+124
+7:55
+often use medical labels,
+particularly labels like
+
+125
+7:59
+"psychopath," "schizophrenic,"
+"delusional," to ostracize and
+
+126
+8:05
+pick out people we disagree
+with.
+
+127
+8:08
+At the same time though,
+this is not entirely right.
+
+128
+8:13
+People go too far when they say
+there's no such thing as mental
+
+129
+8:17
+illness.
+Some people are mentally ill in
+
+130
+8:19
+a very real sense of "illness,"
+in the same sense we would
+
+131
+8:23
+describe somebody as physically
+ill if they were to have cancer.
+
+132
+8:27
+This illness damages their
+functioning.
+
+133
+8:32
+They cannot function well.
+They do not tend to be more
+
+134
+8:35
+creative or more productive or
+more vivacious.
+
+135
+8:38
+Rather, for – with very few
+exceptions;
+
+136
+8:41
+possibly some exceptions
+revolving around mania as Dr.
+
+137
+8:44
+Nolen-Hoeksema discussed –
+with very few exceptions being
+
+138
+8:48
+mentally ill is just very bad
+for you in every possible way.
+
+139
+8:52
+Moreover, when people are
+treated, when people get better,
+
+140
+8:57
+they become more competent,
+happier, better able to
+
+141
+9:02
+participate in the world,
+and they do not choose to go
+
+142
+9:05
+back to their mental illness,
+suggesting that it really is
+
+143
+9:09
+illness in the serious sense.
+And so the modern treatment of
+
+144
+9:14
+psychological disorders treats
+them as disorders like medical
+
+145
+9:19
+disorders.
+Schizophrenia is as much a
+
+146
+9:22
+disease as is cancer and should
+be thought of in the same way.
+
+147
+9:27
+There's a whole field of
+abnormal psychology of
+
+148
+9:31
+tremendous scope.
+We've already discussed many
+
+149
+9:36
+mental illnesses in the context
+of other things.
+
+150
+9:41
+So, for instance,
+we talked about amnesia in the
+
+151
+9:44
+context of memory and how it
+works.
+
+152
+9:46
+We talked about autism in the
+context of social reasoning.
+
+153
+9:49
+There are many more and I'm not
+going to read through them.
+
+154
+9:53
+These are the major categories
+just for people's interest from
+
+155
+9:58
+The Diagnostic and Standard
+Manual. You don't have
+
+156
+10:02
+to--you're not responsible for
+all of these.
+
+157
+10:05
+And this is an illustration,
+which people might find
+
+158
+10:08
+interesting, of sex differences
+in these--in the major
+
+159
+10:10
+disorders.
+And the patterns,
+
+160
+10:12
+as you could see,
+are kind of neat.
+
+161
+10:15
+Women are more prone to have
+anxiety disorders and mood
+
+162
+10:19
+disorders.
+Men are much more likely to
+
+163
+10:22
+suffer from substance disorders,
+particularly alcoholism.
+
+164
+10:27
+Schizophrenia is sort of evenly
+matched but antisocial
+
+165
+10:30
+personality disorders,
+sometimes known as sociopathy
+
+166
+10:34
+or psychopathy,
+is predominantly male.
+
+167
+10:36
+And we'll turn to that a bit
+later.
+
+168
+10:39
+Here are the major ones which I
+want to review today.
+
+169
+10:43
+I'm not going to talk about
+mood disorders at all because
+
+170
+10:46
+this was the topic of the superb
+lecture we heard last week but I
+
+171
+10:50
+want to quickly review
+schizophrenia,
+
+172
+10:52
+the class of disorders known as
+anxiety disorders,
+
+173
+10:55
+the class of disorders known as
+dissociative disorders,
+
+174
+10:59
+and the class of disorders
+known as personality disorders.
+
+175
+11:03
+And these are the main
+psychological problems.
+
+176
+11:07
+When a psychologist or
+psychiatrist does his or her
+
+177
+11:10
+work, they're predominantly
+focused on somebody who has one
+
+178
+11:15
+of these problems.
+Some of them are rare but some
+
+179
+11:18
+of them such as anxiety
+disorders and the mood disorders
+
+180
+11:22
+are very common.
+
+181
+11:23
+
+
+182
+11:30
+About 1% of the world's
+population suffers from
+
+183
+11:35
+schizophrenia and this is the
+most common reason for being in
+
+184
+11:41
+a mental hospital.
+And the reason for that is
+
+185
+11:45
+because of its severity,
+because of how terrible an
+
+186
+11:49
+illness it is.
+Schizophrenics have been
+
+187
+11:52
+described as the lepers of the
+twentieth century by people who
+
+188
+11:55
+pointed out that in the last
+hundred years people who are
+
+189
+11:58
+schizophrenics are just--there's
+no place for them in society.
+
+190
+12:01
+They're shunned.
+They're rejected.
+
+191
+12:03
+We have no idea how to treat
+them or how to help them.
+
+192
+12:07
+The roots of schizophrenia come
+from the terms "split" and
+
+193
+12:12
+"mind" but the idea is there is
+a split from reality.
+
+194
+12:17
+It's important to stress the
+sort of etymological point
+
+195
+12:21
+because sometimes people confuse
+schizophrenia with
+
+196
+12:24
+something--with split
+personality and they somehow
+
+197
+12:27
+think schizophrenia refers to
+having multiple personalities.
+
+198
+12:32
+This is incorrect.
+A multiple personality disorder
+
+199
+12:35
+is an entirely different
+disorder.
+
+200
+12:37
+It's a sort of dissociative
+disorder.
+
+201
+12:40
+Split personality--people with
+schizophrenia do not have
+
+202
+12:44
+multiple personalities.
+What they have is a problem
+
+203
+12:48
+with relating to reality.
+It's roughly equally split
+
+204
+12:53
+between the genders but it
+strikes men earlier and it
+
+205
+12:58
+happens between--around these
+ages and as you could see
+
+206
+13:04
+roughly--and,
+as you could see,
+
+207
+13:06
+it is the sort of thing that
+could make its first occurrence
+
+208
+13:09
+while you're in college or
+university.
+
+209
+13:11
+
+
+210
+13:14
+There are five symptoms –
+main symptoms of schizophrenia.
+
+211
+13:18
+Four of them are the positive
+symptoms, meaning things that
+
+212
+13:21
+you do, that you have that's
+unusual.
+
+213
+13:24
+One is a negative symptom,
+something that you don't have,
+
+214
+13:27
+something that a schizophrenic
+lacks.
+
+215
+13:29
+So, just to walk through them,
+a hallucination is an
+
+216
+13:34
+experience, a sensory
+experience, that isn't real.
+
+217
+13:38
+So, the most typical
+hallucinations are auditory.
+
+218
+13:41
+Schizophrenics hear voices.
+They hear sounds,
+
+219
+13:45
+particularly people telling
+them to do things,
+
+220
+13:48
+that aren't real.
+Sometimes there are
+
+221
+13:51
+auditory--there are visual
+hallucinations or hallucinations
+
+222
+13:55
+of smell and taste but a typical
+hallucination is auditory.
+
+223
+13:59
+Sometimes the voices are seen
+from coming from oneself and so
+
+224
+14:04
+you could sometimes stop the
+hallucinations by doing things
+
+225
+14:09
+like humming or counting or
+holding your mouth open.
+
+226
+14:13
+And some schizophrenics will do
+this in an attempt to block
+
+227
+14:17
+auditory hallucinations.
+There are delusions.
+
+228
+14:21
+The difference between a
+hallucination and a delusion is
+
+229
+14:24
+a hallucination is a sensory
+experience that's wrong,
+
+230
+14:27
+that just didn't really happen.
+A delusion is a belief that
+
+231
+14:32
+isn't right.
+It's a belief that you
+
+232
+14:35
+shouldn't be having.
+Now, again, the question of
+
+233
+14:39
+what counts as a delusion and
+what counts as accuracy can be a
+
+234
+14:43
+controversial one.
+Richard Dawkins titled his
+
+235
+14:46
+recent book The God
+Delusion, describing this
+
+236
+14:48
+mass delusion that many people
+have that they believe there's a
+
+237
+14:52
+supernatural being who created
+the universe and who is watching
+
+238
+14:55
+them.
+Some people find that
+
+239
+14:57
+offensive, to call it a delusion
+and people will have different
+
+240
+15:01
+views.
+The delusions schizophrenics
+
+241
+15:04
+have tend to be pretty clearly
+weird and wrong.
+
+242
+15:09
+They often tend to believe they
+are famous people.
+
+243
+15:12
+Many schizophrenics have a
+religious bent and believe that
+
+244
+15:16
+they are Jesus Christ.
+In 1959, there was a Michigan
+
+245
+15:19
+hospital that had three Jesus
+Christs in it and they would
+
+246
+15:23
+meet and talk.
+One theme of delusions is
+
+247
+15:28
+what's called "ideas of
+reference."
+
+248
+15:32
+And ideas of reference are you
+think that there's all sorts of
+
+249
+15:36
+things happening that revolve
+around you.
+
+250
+15:39
+You hear people whispering and
+you think they're talking about
+
+251
+15:43
+you.
+You pick up the newspaper and
+
+252
+15:45
+you believe that there's coded
+messages in it that are directed
+
+253
+15:48
+towards you.
+You might believe that there is
+
+254
+15:52
+some sort of omnipotent,
+powerful force conspiring
+
+255
+15:56
+against you or trying to
+manipulate you like aliens or
+
+256
+16:00
+the FBI,
+the CIA, the government.
+
+257
+16:03
+You might believe that they
+have some sort of evil plan in
+
+258
+16:06
+mind for you.
+There is disorganized speech.
+
+259
+16:10
+Some schizophrenics babble.
+They talk and it's nonsense.
+
+260
+16:14
+If you listen to a
+schizophrenic on the street,
+
+261
+16:17
+sometimes what they're saying
+makes no sense at all,
+
+262
+16:20
+not merely that they're
+conveying ideas that are
+
+263
+16:22
+unreasonable but it's just
+garbled,
+
+264
+16:24
+it's just a mess.
+And sometimes there is
+
+265
+16:27
+disorganized behavior too,
+odd motor movements.
+
+266
+16:31
+And the most extreme cases of
+this are motor movements
+
+267
+16:35
+described as "catatonic" where
+the person doesn't move,
+
+268
+16:39
+often freezes in a position.
+Those are all positive symptoms.
+
+269
+16:44
+A major negative symptom in
+schizophrenia is absence of
+
+270
+16:48
+normal thought or affect,
+affect meaning emotion.
+
+271
+16:51
+So some schizophrenics might
+just not talk.
+
+272
+16:54
+They might have very low
+emotional responses.
+
+273
+16:57
+They might not care about
+anything.
+
+274
+17:02
+The basic psychological
+misfunction--oh,
+
+275
+17:05
+sorry.
+
+276
+17:05
+
+
+277
+17:10
+There are different subtypes of
+schizophrenia.
+
+278
+17:14
+There are five major subtypes
+but I'm going to focus on the
+
+279
+17:17
+three major ones,
+the three most interesting
+
+280
+17:20
+ones.
+The first one is paranoid
+
+281
+17:22
+schizophrenia.
+So, paranoid schizophrenics
+
+282
+17:25
+believe that others are spying
+and plotting against them.
+
+283
+17:30
+And they often have delusions
+of grandeur.
+
+284
+17:32
+They often believe that other
+people are jealous of them.
+
+285
+17:36
+They might believe they have
+supernatural powers.
+
+286
+17:38
+They might believe that they're
+God or a messiah.
+
+287
+17:42
+The catatonic schizophrenics
+are unresponsive to their
+
+288
+17:46
+surroundings and often they'll
+just repeat what people say to
+
+289
+17:51
+them,
+they won't generate their own
+
+290
+17:53
+speech.
+And finally,
+
+291
+17:54
+the disorganized schizophrenics
+are maybe what you most think of
+
+292
+17:59
+when you think of somebody who
+is insane.
+
+293
+18:02
+They make no sense.
+They have delusions and
+
+294
+18:06
+hallucinations.
+They babble.
+
+295
+18:08
+They--their actions--they could
+be dangerous.
+
+296
+18:11
+They could be perceived as
+dangerous.
+
+297
+18:13
+They're unable to help
+themselves.
+
+298
+18:15
+They're unable to do anything
+in their lives.
+
+299
+18:18
+
+
+300
+18:21
+It's hard to pin down exactly
+what's at root of all of these
+
+301
+18:25
+problems but a very general
+summary is that there is a
+
+302
+18:29
+problem – an inability to put
+together your thoughts and
+
+303
+18:32
+perceptions,
+to sequence them and coordinate
+
+304
+18:36
+them, to impose a logical
+structure and a reasonable,
+
+305
+18:41
+realistic temporal sequence on
+your experience.
+
+306
+18:47
+This is the core thing going
+wrong but what happens as a
+
+307
+18:51
+result of this is you lose
+contact with others,
+
+308
+18:54
+you lose social contact.
+Losing social contact means you
+
+309
+18:58
+don't get much reality checking.
+If I start acting weird and
+
+310
+19:02
+nobody cares,
+I could just get weirder and
+
+311
+19:06
+weirder,
+while if I'm in a good social
+
+312
+19:08
+group of people who care about
+me often the situation could be
+
+313
+19:11
+brought under control.
+So, schizophrenia is sort of a
+
+314
+19:13
+vicious circle where you have
+this cognitive problem.
+
+315
+19:16
+Then you have problems losing
+contact with others,
+
+316
+19:19
+exaggerating the cognitive
+problem, and so on.
+
+317
+19:22
+A lot of people have studied
+the genetics of schizophrenia.
+
+318
+19:27
+It's clear enough that there is
+a powerful genetic component.
+
+319
+19:30
+I could--you can tell how much
+at risk somebody is for becoming
+
+320
+19:35
+schizophrenic based on the
+schizophrenia and illness of
+
+321
+19:40
+their family members.
+In particular,
+
+322
+19:43
+if you have an identical twin
+who's schizophrenic,
+
+323
+19:46
+your odds are about a half of
+becoming schizophrenic yourself.
+
+324
+19:50
+At the same time,
+and we dealt with this as well
+
+325
+19:53
+when we talked about issues of
+sexual orientation,
+
+326
+19:56
+the fact that identical twins
+the odds are only 50% means
+
+327
+20:01
+there has to be an environmental
+component to it.
+
+328
+20:05
+If it was entirely genetic,
+it would be 100%.
+
+329
+20:08
+And so one claim--one way of
+looking at it is your genes make
+
+330
+20:12
+you vulnerable to schizophrenia
+but whether or not you become
+
+331
+20:16
+schizophrenic depends on what
+happens in your environment.
+
+332
+20:20
+You're sensitive to certain
+triggers.
+
+333
+20:23
+Some triggers might happen
+early.
+
+334
+20:26
+There is some evidence that
+schizophrenia is associated with
+
+335
+20:30
+trauma even at the point of
+birth.
+
+336
+20:32
+And there's some other evidence
+that schizophrenia is linked to
+
+337
+20:37
+viral infections.
+As an example,
+
+338
+20:39
+there are more schizophrenics
+born in the winter,
+
+339
+20:43
+subtle--a subtle difference but
+there seems to be a reliable
+
+340
+20:47
+effect of more schizophrenics
+born in the winter.
+
+341
+20:51
+More people get sick in the
+winter.
+
+342
+20:53
+At times when there's been some
+sort of epidemic or some sort of
+
+343
+20:57
+plague, this seems to cause a
+jump in the frequency of
+
+344
+21:00
+schizophrenics born at that
+time.
+
+345
+21:03
+There's some recent research
+that ties schizophrenia to the
+
+346
+21:07
+possibility of toxoplasmosis,
+which is a disorder carried by
+
+347
+21:12
+cat feces.
+The experiment basically
+
+348
+21:14
+involved asking the parents of
+schizophrenics one question:
+
+349
+21:18
+"Did you own a cat when your
+child was born?"
+
+350
+21:21
+And if the answer was "yes," it
+seemed to correspond to a bit
+
+351
+21:25
+higher odds for schizophrenic
+families than for
+
+352
+21:28
+non-schizophrenic families.
+A different sort of trigger is
+
+353
+21:33
+stressful family environments.
+Schizophrenics seem to really
+
+354
+21:39
+have more stressful family
+environments than
+
+355
+21:41
+non-schizophrenics.
+Now, we have to be careful
+
+356
+21:46
+about this.
+We have to bring--we have to
+
+357
+21:49
+return to the sort of
+methodological cautions we had
+
+358
+21:52
+in mind when we talked about
+individual difference research
+
+359
+21:55
+in general.
+Remember we talked about the
+
+360
+21:58
+worst study in the world and one
+of the features of this was it
+
+361
+22:02
+was failing to pull apart cause
+and effect.
+
+362
+22:05
+It might be that having a
+difficult family environment ups
+
+363
+22:09
+your odds of becoming
+schizophrenic.
+
+364
+22:11
+On the other hand,
+it might also be that
+
+365
+22:13
+schizophrenic children or
+children who will become
+
+366
+22:16
+schizophrenic are difficult to
+deal with in certain ways
+
+367
+22:19
+causing a family environment.
+So, it's not clear whether the
+
+368
+22:23
+effect is from difficult family
+environment to later
+
+369
+22:26
+schizophrenia or from
+schizophrenia to difficult
+
+370
+22:29
+family environment.
+There used to be a very popular
+
+371
+22:32
+theory of schizophrenia,
+which is that it was caused by
+
+372
+22:36
+excess dopamine.
+Dopamine, you'll remember,
+
+373
+22:39
+is a neurotransmitter.
+And there is some reason to
+
+374
+22:43
+take this seriously.
+Drugs that reduce dopamine
+
+375
+22:47
+provide some help in reducing
+symptoms.
+
+376
+22:50
+And if I give you a drug that
+shoots up your dopamine that
+
+377
+22:56
+will turn you into a temporary
+schizophrenic.
+
+378
+23:02
+You get what's called
+"amphetamine psychosis" and it'd
+
+379
+23:05
+give you--it can give you
+schizophrenic-like symptoms,
+
+380
+23:09
+hallucinations,
+delusions, that sort of thing.
+
+381
+23:12
+This--There might be something
+to this theory but we know now
+
+382
+23:15
+it can't be complete for at
+least two reasons.
+
+383
+23:18
+First, it doesn't explain the
+negative symptoms.
+
+384
+23:22
+It explains hallucinations and
+delusions and so on but it
+
+385
+23:27
+doesn't explain the loss of
+affect, the quietness,
+
+386
+23:32
+the stillness.
+Also, there seemed to be some
+
+387
+23:36
+sort of structural brain
+differences involving enlarged
+
+388
+23:40
+cerebral ventricles,
+involving reduced frontal lobe
+
+389
+23:44
+activity, suggesting that the
+problem with schizophrenia is a
+
+390
+23:48
+lot more complicated than others
+might have it,
+
+391
+23:51
+than the dopamine theory would
+have it.
+
+392
+23:53
+I'll end with a mystery.
+And this mystery is discussed
+
+393
+23:58
+nicely in the Gray textbook.
+The symptoms of schizophrenia,
+
+394
+24:03
+the prevalence of
+schizophrenics,
+
+395
+24:06
+is similar wherever you go but
+less industrialized countries
+
+396
+24:11
+have a better rate of recovery
+from schizophrenia than
+
+397
+24:16
+industrialized countries.
+And nobody really knows why.
+
+398
+24:20
+I listed here three
+possibilities.
+
+399
+24:22
+One is that the families that
+were--that--in a less
+
+400
+24:25
+industrialized country there's
+more latitude and so there's
+
+401
+24:29
+less critical- less criticism.
+There's less use of
+
+402
+24:32
+antipsychotic medication.
+Antipsychotic medications help
+
+403
+24:35
+with the symptoms but they might
+also impair recovery.
+
+404
+24:38
+And finally,
+if you think of schizophrenia
+
+405
+24:41
+as a transient disorder,
+maybe that will in some sense,
+
+406
+24:44
+in some way,
+make that more likely to
+
+407
+24:46
+actually happen.
+
+408
+24:47
+
+
+409
+24:52
+The second sort of disorder I
+want to talk about,
+
+410
+24:55
+much more common than the 1%
+that's schizophrenia,
+
+411
+24:58
+is the classic disorders known
+as "anxiety disorders."
+
+412
+25:02
+
+
+413
+25:09
+The primary disturbance in
+anxiety disorders is anxiety;
+
+414
+25:13
+you have a lot of anxiety.
+It's persistent,
+
+415
+25:16
+either anxiety or maladaptive
+behaviors to reduce anxiety.
+
+416
+25:25
+Now, everybody experiences
+anxiety.
+
+417
+25:28
+If you didn't experience
+anxiety, you'd be a very strange
+
+418
+25:30
+person and you probably wouldn't
+function very well in the world,
+
+419
+25:33
+but you have an anxiety
+disorder when you experience too
+
+420
+25:37
+much of it, it's uncontrollable,
+it's unreasonable and it messes
+
+421
+25:41
+up your life.
+And there's quite a few anxiety
+
+422
+25:43
+disorders.
+The simplest one is this
+
+423
+25:46
+generalized anxiety disorders
+where--and this is about one in
+
+424
+25:50
+twenty people will get it at
+some point in their lives and
+
+425
+25:53
+you worry all the time.
+You're just very anxious.
+
+426
+25:56
+You're just worried all the
+time and it could be paralyzing.
+
+427
+26:00
+It could give you physical
+symptoms like headaches,
+
+428
+26:03
+stomachaches,
+muscle tension and
+
+429
+26:05
+irritability.
+There is some evidence that
+
+430
+26:08
+generalized anxiety disorder has
+a genetic component,
+
+431
+26:12
+that it's somehow related to
+major depression.
+
+432
+26:16
+And it does seem to have its
+possible roots in some sort of
+
+433
+26:21
+childhood trauma.
+And so the model some people
+
+434
+26:25
+give for this is when you are
+young something really bad
+
+435
+26:30
+happens to you.
+This makes you hyper-vigilant.
+
+436
+26:34
+You don't trust the world,
+bad things could always happen
+
+437
+26:37
+around the corner.
+And because you're
+
+438
+26:40
+hyper-vigilant you are more
+prone to develop generalized
+
+439
+26:45
+anxiety disorder after a
+difficult life event.
+
+440
+26:49
+A second sort of anxiety
+disorder, which we already
+
+441
+26:52
+discussed in class are phobias
+and phobias are intense,
+
+442
+26:56
+irrational fears.
+They could focus on objects,
+
+443
+26:59
+events, and social settings.
+Here's a nice diagram of
+
+444
+27:02
+different phobia,
+different things,
+
+445
+27:04
+and their proportion of people
+who are afraid of it.
+
+446
+27:07
+And the point of this diagram
+isn't with the details.
+
+447
+27:11
+It's really--It's rather to
+give you a feeling for the fact
+
+448
+27:14
+that some things most everybody
+is afraid of or a lot of people
+
+449
+27:17
+are afraid of and some things
+not many at all.
+
+450
+27:20
+The big phobic object we know
+from previous lectures is
+
+451
+27:23
+snakes.
+About 40% of the population say
+
+452
+27:26
+they're afraid of snakes.
+How many people here are afraid
+
+453
+27:29
+of snakes?
+Okay.
+
+454
+27:33
+And then there's a really
+terrifying thing,
+
+455
+27:36
+mice.
+How many people are afraid of
+
+456
+27:39
+mice?
+Mice are the worst things in
+
+457
+27:41
+the world.
+[laughter]
+
+458
+27:43
+And then cats and if you're
+afraid of cats that's really
+
+459
+27:47
+unusual.
+Not many people are afraid of
+
+460
+27:50
+cats.
+There is a classical
+
+461
+27:52
+conditioning model of phobias,
+which we are all familiar with,
+
+462
+27:56
+but we are all familiar with
+why it is not a very good
+
+463
+28:00
+theory.
+A lot of people who are afraid
+
+464
+28:02
+of snakes have never had a bad
+experience with snakes.
+
+465
+28:06
+Moreover, a lot of people who
+have had bad experiences with
+
+466
+28:09
+things like car crashes and
+being electrocuted on a socket
+
+467
+28:13
+or a shooting,
+seeing a gun during a shooting,
+
+468
+28:16
+do not develop phobias.
+This lead--gives rise to a much
+
+469
+28:20
+more plausible theory known as
+the "preparedness theory,"
+
+470
+28:23
+which says that we have evolved
+to be sensitive to certain
+
+471
+28:26
+phobic objects,
+objects that were dangerous to
+
+472
+28:29
+us in our evolutionary history.
+And we're prone to develop
+
+473
+28:33
+phobic responses to this.
+The final anxiety disorder is
+
+474
+28:38
+obsessive-compulsive disorder.
+Obsessions are irrational
+
+475
+28:42
+disturbing thoughts that intrude
+into your consciousness.
+
+476
+28:48
+This is--hits about two to
+three percent of the population
+
+477
+28:53
+and it leads to compulsions,
+repetitive actions performed to
+
+478
+28:58
+alleviate the obsessions.
+For instance,
+
+479
+29:02
+you might be obsessed with the
+idea of being dirty,
+
+480
+29:04
+your hands are dirty,
+you're filthy.
+
+481
+29:06
+That might lead to compulsive
+washing.
+
+482
+29:09
+You might believe that God is
+angry at you and that might lead
+
+483
+29:15
+to compulsive prayer.
+Cleanliness and religion are
+
+484
+29:19
+common themes of
+obsessive-compulsive disorder.
+
+485
+29:24
+You often know,
+rationally, that these are
+
+486
+29:27
+unreasonable behaviors but you
+can't help yourself from doing
+
+487
+29:32
+them.
+Sometimes I get the worry that
+
+488
+29:34
+I left my door unlocked and I
+run back and checked it--check
+
+489
+29:38
+it.
+But I feel it's a little bit of
+
+490
+29:40
+OCD coming on because I know I
+locked it, but did I really lock
+
+491
+29:44
+it?
+And then you get--now I'm
+
+492
+29:46
+worried if I locked my door.
+Checking and washing.
+
+493
+29:51
+Checking is what I'm talking
+about here- most common
+
+494
+29:54
+compulsions, and it seems to
+have a neuropsychological
+
+495
+29:58
+phenomena.
+At least it's related to
+
+496
+30:00
+heightened neural activity in
+the caudate nucleus.
+
+497
+30:03
+What's interesting is you might
+think obsessive-compulsive
+
+498
+30:07
+disorder is a very sort of
+Freudian,
+
+499
+30:10
+psychoanalytic sort of disorder
+but actually it's treated quite
+
+500
+30:14
+well with drugs,
+drugs that affect the serotonin
+
+501
+30:18
+level.
+Serotonin, being a
+
+502
+30:19
+neurotransmitter,
+can often do good work for
+
+503
+30:21
+obsessive-compulsive disorders.
+So, if you develop a disorder,
+
+504
+30:24
+an OCD problem,
+you might find yourself being
+
+505
+30:27
+cured simply with medications.
+
+506
+30:29
+
+
+507
+30:36
+We've talked about
+schizophrenia and anxiety
+
+508
+30:39
+disorders.
+Any questions or thoughts so
+
+509
+30:43
+far?
+Yes.
+
+510
+30:44
+Student: What's the
+difference between OCD and
+
+511
+30:46
+Tourette's or are they
+[inaudible]
+
+512
+30:47
+Professor Paul Bloom:
+It's a good question.
+
+513
+30:49
+The question was the
+relationship between OCD and
+
+514
+30:52
+Tourette's.
+Tourette's is--I don't know
+
+515
+30:54
+much about it but it's a very
+specific neurophysiological
+
+516
+30:59
+syndrome that doesn't have--you
+don't have obsessive thoughts.
+
+517
+31:04
+What it leads to is involuntary
+tics and tremors and sometimes
+
+518
+31:08
+sort of shouted obscenities or
+taboo words.
+
+519
+31:12
+And it seems to be very
+specific to that while OCD is
+
+520
+31:15
+much broader and involves both
+behaviors but also the behaviors
+
+521
+31:19
+are in the service of thoughts.
+That's one way of thinking
+
+522
+31:23
+about the difference.
+Yes.
+
+523
+31:25
+Student: Can individuals
+have multiple disorders like be
+
+524
+31:28
+bipolar and schizophrenic?
+Professor Paul Bloom:
+
+525
+31:32
+Yes.
+The question is can individuals
+
+526
+31:33
+have multiple disorders?
+Absolutely, and in fact some
+
+527
+31:37
+disorders are "comorbid."
+And that's just a fancy way of
+
+528
+31:40
+saying they often go together.
+So, if you have a severe
+
+529
+31:43
+depression for instance,
+which is a mood disorder,
+
+530
+31:46
+you may also have an anxiety
+disorder.
+
+531
+31:48
+So yes, having one
+unfortunately doesn't immunize
+
+532
+31:51
+you against having another.
+Yes.
+
+533
+31:54
+Student: Where does
+superstition [inaudible]
+
+534
+31:57
+Professor Paul Bloom:
+The question was about
+
+535
+32:01
+superstitions.
+I think--it's an interesting
+
+536
+32:04
+question which I have never
+thought of before.
+
+537
+32:08
+I think it depends on the
+severity of superstitions.
+
+538
+32:11
+So, if you just have a
+superstition saying "Step on a
+
+539
+32:15
+crack, break your mother's
+back,"
+
+540
+32:17
+which has never been
+scientifically proven,
+
+541
+32:19
+[laughter]
+but suppose you--and then so
+
+542
+32:21
+you're just kind of "Oh,
+I kind of--I just kind of--" or
+
+543
+32:24
+it's bad luck to break a mirror
+and that's it,
+
+544
+32:26
+you just have it and it doesn't
+make a big deal to you,
+
+545
+32:29
+that's harmless.
+On the other hand,
+
+546
+32:31
+if your superstition is such
+that you develop weird rituals;
+
+547
+32:37
+you might have to carefully
+walk so you don't step on any
+
+548
+32:40
+other--on any cracks or you
+might have to do--or if you do
+
+549
+32:43
+you might have to go back and
+start your whole walk to work
+
+550
+32:46
+over again.
+When it gets to that level it
+
+551
+32:49
+could creep into OCD.
+And often obsessive-compulsive
+
+552
+32:53
+disorders have a religious or a
+magical manifestation where you
+
+553
+32:57
+believe there are certain things
+you must do or terrible things
+
+554
+33:01
+will happen and in that way you
+could view them as extreme and
+
+555
+33:06
+build from superstitions,
+but simple superstitions don't
+
+556
+33:11
+tend to be of that type.
+Yes, in back.
+
+557
+33:14
+Student: [inaudible]
+Professor Paul Bloom:
+
+558
+33:18
+The question is "are people with
+schizophrenia dangerous?"
+
+559
+33:22
+As a rule statistically,
+it tends not to be the case.
+
+560
+33:27
+They tend to be more likely
+victims than harmful.
+
+561
+33:30
+They tend to be fairly helpless.
+You can have a case where a
+
+562
+33:34
+schizophrenic might harm
+somebody.
+
+563
+33:36
+A paranoid schizophrenic,
+for instance,
+
+564
+33:39
+might develop a delusion to
+harm somebody and so there are
+
+565
+33:43
+definitely such cases but for
+the most part,
+
+566
+33:46
+again, they are more victims
+than oppressors.
+
+567
+33:51
+They're more--they're very
+vulnerable because they aren't
+
+568
+33:53
+capable of dealing with other
+people.
+
+569
+33:55
+They often aren't capable of
+defending themselves.
+
+570
+33:59
+One more.
+Yes.
+
+571
+34:01
+Student: How permanent
+are the effects of the
+
+572
+34:05
+medications?
+Professor Paul Bloom:
+
+573
+34:06
+The question is,
+"How permanent is the effect of
+
+574
+34:08
+the medication?"
+Do you mean for schizophrenia?
+
+575
+34:10
+Student: Do they have to
+stay on the medication for
+
+576
+34:13
+[inaudible]
+Professor Paul Bloom:
+
+577
+34:14
+Yes.
+In general, I think.
+
+578
+34:16
+I can't think of any exceptions.
+The effects of medication are
+
+579
+34:21
+temporary.
+Now, that doesn't mean if you
+
+580
+34:23
+have a bout of OCD or depression
+you have to be on medication the
+
+581
+34:26
+rest of your life.
+What could happen is,
+
+582
+34:29
+for instance,
+somebody--if you had a mild
+
+583
+34:31
+depression, go on something like
+Prozac or Wellbutrin,
+
+584
+34:35
+use that time to kind of get
+your life back together,
+
+585
+34:38
+cheer up a bit,
+and then when they go off the
+
+586
+34:41
+medication they are fine.
+But as Professor Nolen-Hoeksema
+
+587
+34:45
+pointed out, unless they've
+developed coping skills they're
+
+588
+34:48
+likely to relapse and get the
+problem again.
+
+589
+34:51
+So, the physical effects of
+medication are always temporary,
+
+590
+34:54
+particularly with anybody with
+schizophrenia,
+
+591
+34:57
+but they can often help people
+get out of a problem,
+
+592
+35:00
+anxiety or depression.
+Okay.
+
+593
+35:03
+Dissociative disorders.
+I'll show you a movie clip and
+
+594
+35:08
+then we'll go back and talk a
+little bit about it.
+
+595
+35:13
+Let me ask you a question that
+might seem somewhat uncaring.
+
+596
+35:20
+How many of you think he's
+faking?
+
+597
+35:22
+
+
+598
+35:25
+How many of you [laughter]
+are confident there are many
+
+599
+35:30
+people living inside his head
+as--in the way it's depicted?
+
+600
+35:35
+Okay.
+How many of you are unsure?
+
+601
+35:39
+How many of you have two minds?
+There is one part of you
+
+602
+35:43
+struggling-- [laughter]
+It's--let's go--we'll go back
+
+603
+35:47
+to him.
+Dissociative disorder are
+
+604
+35:51
+disorders involving
+dissociation.
+
+605
+35:54
+And what people mean by that is
+literally a dissociation of
+
+606
+35:58
+memory;
+that is, you become somehow
+
+607
+36:02
+unaware, separated from some
+part of your identity or history
+
+608
+36:08
+and you're unable to recall
+those parts of your identity and
+
+609
+36:14
+history except sometimes under
+special circumstances.
+
+610
+36:20
+Now, some degree of
+dissociation is normal.
+
+611
+36:25
+There is--I will--I have here
+in, actually,
+
+612
+36:28
+Dr.
+Nolen-Hoeksema's excellent
+
+613
+36:31
+abnormal psychology textbook a
+checklist of dissociative
+
+614
+36:36
+experiences many of which normal
+people have: "Not sure whether
+
+615
+36:42
+one has done something or only
+thought about it."
+
+616
+36:47
+Anybody ever have that?
+Common.
+
+617
+36:50
+"So involved in the fantasy
+that it seems real."
+
+618
+36:57
+[laughter]
+"Feeling as though one's body
+
+619
+37:02
+is not one's own."
+I will also add that
+
+620
+37:07
+experiments with pharmaceuticals
+can often lead to dissociative
+
+621
+37:13
+experiences.
+[laughter]
+
+622
+37:15
+"Driving a car and realizing
+that one doesn't remember part
+
+623
+37:20
+of the trip.
+Talking out loud to oneself
+
+624
+37:24
+when alone."
+Okay.
+
+625
+37:27
+"Not recognizing one's
+reflection in a mirror."
+
+626
+37:31
+Okay.
+That's not very common
+
+627
+37:36
+[laughter]
+but it is--it's within the
+
+628
+37:39
+normal range but then you get
+more severe cases and there is
+
+629
+37:45
+three different types:
+dissociative amnesia,
+
+630
+37:50
+dissociative fugue,
+and dissociative identity
+
+631
+37:54
+disorder.
+Dissociative amnesia is
+
+632
+37:57
+illustrated in a story of a
+woman who sees something
+
+633
+38:02
+terrible and as a result her
+memory of that experience was no
+
+634
+38:08
+longer accessible.
+It's often known as
+
+635
+38:12
+"psychogenic amnesia."
+The only thing wrong in here is
+
+636
+38:17
+you have memory loss.
+And sometimes it's a selective
+
+637
+38:22
+memory loss but sometimes it
+could be global.
+
+638
+38:26
+It's as in these movies cases
+where you lose your memory
+
+639
+38:29
+because something terrible has
+happened and you would get it
+
+640
+38:32
+back later but you have a
+temporary loss of identity.
+
+641
+38:36
+The idea is that something so
+terrible has happened you
+
+642
+38:39
+separate yourself from your
+previous identity and your
+
+643
+38:42
+memory.
+Over half of people charged
+
+644
+38:45
+with homicide claim to have some
+degree of dissociative amnesia.
+
+645
+38:52
+The problem here is that many,
+many, many of those cases
+
+646
+38:56
+involve alcohol and drugs,
+which can lead to some sort of
+
+647
+39:00
+alcoholic blackout.
+Also, people could be lying.
+
+648
+39:04
+If you're charged with murder,
+it's often a reasonable thing
+
+649
+39:08
+to say, "I don't remember any of
+this,"
+
+650
+39:10
+to just kind of--and--as a way
+to distance yourself from it.
+
+651
+39:14
+Dissociative fugue is kind of
+weird and interesting.
+
+652
+39:19
+The guy's wife leaves him for
+another man.
+
+653
+39:22
+Six months later he was
+discovered tending bar in Miami
+
+654
+39:26
+Beach and calling himself
+Martin.
+
+655
+39:28
+And he totally wiped out his
+past memory and developed a new
+
+656
+39:33
+identity.
+This is also known as
+
+657
+39:36
+"psychogenic fugue."
+So, it's global amnesia but
+
+658
+39:40
+there's also identity
+replacement.
+
+659
+39:43
+You leave home,
+you develop a new identity,
+
+660
+39:47
+and it's called a fugue state.
+This is my favorite mental
+
+661
+39:52
+disorder.
+If I had to get a serious
+
+662
+39:54
+mental disorder,
+I would get this because I'd
+
+663
+39:57
+get to travel.
+When it wears off your old
+
+664
+40:00
+identity comes back and your new
+identity is forgotten.
+
+665
+40:03
+Then there's dissociative
+identity disorder and this is a
+
+666
+40:08
+story of this woman who goes
+back and forth from her regular
+
+667
+40:14
+personality to a personality of
+Donna who is only six years old.
+
+668
+40:20
+
+
+669
+40:25
+This was originally known as
+""multiple personality disorder"
+
+670
+40:29
+and the idea is you have two or
+more distinct people in one
+
+671
+40:32
+head.
+It is--there are--It is a rare
+
+672
+40:35
+and controversial disorder but
+it includes some very famous
+
+673
+40:40
+cases and has been illustrated
+in many movies and books
+
+674
+40:44
+including the wonderful movie
+Primal Fear where--Ed
+
+675
+40:48
+Norton's first big movie,
+highly recommend it.
+
+676
+40:52
+And it's been tried as a
+criminal defense.
+
+677
+40:55
+The Hillside Strangler claimed
+to be two people but he was
+
+678
+40:59
+still convicted,
+both of them.
+
+679
+41:02
+It typically starts early,
+the pattern of dissociation.
+
+680
+41:08
+Mostly it's women.
+And mostly, it involves some
+
+681
+41:11
+sort of recollection of torture
+or sexual abuse.
+
+682
+41:15
+Also, and to get back to your
+question, can you have more than
+
+683
+41:19
+one mental disorder at the same
+time,
+
+684
+41:21
+people with dissociative
+disorder often show symptoms of
+
+685
+41:24
+posttraumatic stress disorder or
+PTSD.
+
+686
+41:27
+What causes it?
+Well, it is often argued to be
+
+687
+41:33
+the cause--caused by severe
+abuse, often sexual or physical
+
+688
+41:38
+abuse.
+The problem is most people who
+
+689
+41:41
+get abused don't develop
+dissociative identity disorder.
+
+690
+41:45
+And one idea is that it's abuse
+plus some sort of genetic or
+
+691
+41:50
+biological predisposition to
+dissociate and in fact,
+
+692
+41:54
+people with dissociative
+identity disorder seem to be
+
+693
+41:57
+very susceptible.
+They're easier to hypnotize
+
+694
+42:00
+than other people.
+And so it might begin as sort
+
+695
+42:03
+of a self--an act of
+self-hypnosis.
+
+696
+42:06
+You put yourself in a hypnotic
+trance to cope with some
+
+697
+42:10
+terrible situation and you begin
+to develop new and separate and
+
+698
+42:14
+distinct personalities.
+Now, of the many things I'm
+
+699
+42:18
+going to talk to you,
+I've talked--spoken about,
+
+700
+42:21
+some have been very
+controversial.
+
+701
+42:24
+One issue of controversy which
+we talked about was the
+
+702
+42:27
+existence in nature of so-called
+"repressed memories."
+
+703
+42:31
+This is another very
+controversial case related to
+
+704
+42:34
+the repressed memory case.
+In a recent poll,
+
+705
+42:37
+less than one quarter of
+psychiatrists believe there is
+
+706
+42:42
+such a thing as dissociative
+identity disorder.
+
+707
+42:47
+Why would you doubt that?
+Well, there are some curious
+
+708
+42:50
+statistics.
+Between 1930 and 1960,
+
+709
+42:52
+there were two cases in the
+United States.
+
+710
+42:56
+In the 1980s,
+there were 20,000 cases.
+
+711
+42:59
+You cannot go elsewhere from
+the United States and find
+
+712
+43:02
+people with dissociative
+identity disorder.
+
+713
+43:05
+It seems to be an American
+phenomena.
+
+714
+43:07
+And it varies by therapists.
+Some therapists,
+
+715
+43:11
+indeed some hospitals,
+some medical units go decades
+
+716
+43:15
+without ever seeing anybody that
+approaches dissociative identity
+
+717
+43:20
+disorder.
+Other therapists,
+
+718
+43:22
+virtually every patient they
+have has multiple personalities.
+
+719
+43:26
+One worry based on these facts
+is dissociative identity
+
+720
+43:31
+disorder is in a sense real,
+that Richard really does
+
+721
+43:36
+believe he's moving from
+personality to personality but
+
+722
+43:39
+he didn't come in to therapy
+with that problem.
+
+723
+43:43
+Rather, his therapist gave it
+to him.
+
+724
+43:45
+The claim is that it's the
+result of suggestion by the
+
+725
+43:49
+therapist.
+The therapists,
+
+726
+43:51
+and they're typically good
+people who wish to help,
+
+727
+43:54
+but the therapists might be in
+the grips of a theory involving
+
+728
+43:57
+repression and multiple
+personalities and different
+
+729
+44:01
+selves and encourage,
+either tacitly or overtly,
+
+730
+44:05
+their patients to develop these
+separate personalities.
+
+731
+44:10
+Related to this,
+it's not clear to what extent
+
+732
+44:13
+dissociative identity disorder
+is an extreme version of normal
+
+733
+44:17
+psychopathology--sorry,
+of normal psychology.
+
+734
+44:21
+So people, from the philosopher
+Dan Dennett to the psychologist
+
+735
+44:26
+Judith Harris,
+have pointed out that we're
+
+736
+44:29
+different selves in different
+situations.
+
+737
+44:32
+We can consciously play act the
+different selves but we could
+
+738
+44:35
+also just shift personalities
+depending on whether we're with
+
+739
+44:39
+our friends or our family or
+with strangers.
+
+740
+44:42
+The claim is that dissociative
+identity disorder,
+
+741
+44:45
+however dramatic it looks,
+might merely be an extended
+
+742
+44:49
+version of this where people as
+well are to some extent play
+
+743
+44:53
+acting to make their therapists
+and doctors happy.
+
+744
+44:56
+
+
+745
+45:00
+Any questions about
+dissociative identity disorder?
+
+746
+45:06
+Yes.
+Student: [inaudible]
+
+747
+45:09
+Professor Paul Bloom:
+Yes.
+
+748
+45:13
+Dissociative amnesia--the
+question involves the
+
+749
+45:15
+relationship between
+dissociative amnesia and the
+
+750
+45:18
+retrograde and anterograde
+amnesia discussed before.
+
+751
+45:21
+Those other amnesias are the
+result of brain damage.
+
+752
+45:23
+They tend to be if not
+permanent long lasting and
+
+753
+45:28
+severe.
+Dissociative amnesia is
+
+754
+45:30
+apparently caused by specific
+life events and can often be
+
+755
+45:34
+very short-lived.
+They're, of course,
+
+756
+45:37
+all brain events but in the
+crude sense the dissociative
+
+757
+45:40
+amnesia is more of a
+psychological happening than the
+
+758
+45:44
+other sorts of amnesias that we
+talked about involving Korsakoff
+
+759
+45:48
+syndrome and the patient "HM"
+and so on.
+
+760
+45:50
+
+
+761
+45:56
+Other questions.
+Yes, in back.
+
+762
+45:59
+Student: [inaudible]
+Professor Paul Bloom:
+
+763
+46:08
+Yes.
+What happened in 1960--There
+
+764
+46:11
+was a very famous case.
+I think the case was the case
+
+765
+46:14
+of Sybil.
+Does anybody know?
+
+766
+46:17
+The teaching fellows are
+nodding but there was a very
+
+767
+46:19
+famous case which I think was of
+Sybil which was made into a
+
+768
+46:23
+movie and discussed and had a
+huge influence on people and
+
+769
+46:26
+then they started to believe
+that it was real.
+
+770
+46:28
+
+
+771
+46:32
+There is a type--The fourth and
+final type of disorder is
+
+772
+46:36
+something which is not actually
+discussed in the Gray textbook
+
+773
+46:41
+but it has to do with
+personality and this is
+
+774
+46:45
+interesting because it probably
+extends to some extent to many
+
+775
+46:49
+of these people--the people in
+this room.
+
+776
+46:53
+Personality,
+as you remember,
+
+777
+46:55
+is your way of dealing with the
+world, in particular the way you
+
+778
+47:00
+have of dealing with other
+people.
+
+779
+47:03
+The notion of personality
+disorders is that some
+
+780
+47:07
+personalities are so bad that
+they veer off into mental
+
+781
+47:12
+illness so one personality
+disorder is a narcissistic
+
+782
+47:16
+personality disorder.
+Everyone likes to talk about
+
+783
+47:20
+themselves and thinks they're
+terrific to some extent,
+
+784
+47:24
+some people to a little bit too
+much, but if it's really extreme
+
+785
+47:28
+they could talk--they--you could
+get labeled with a narcissistic
+
+786
+47:32
+personality disorder.
+You might have an avoidant
+
+787
+47:36
+personality disorder,
+dependent, histrionic,
+
+788
+47:41
+borderline.
+Borderline is really bad.
+
+789
+47:44
+When people describe you as a
+borderline personality disorder,
+
+790
+47:48
+that just means you're just
+awful to be with,
+
+791
+47:50
+you're kind of awful.
+[laughter]
+
+792
+47:52
+There is the paranoid
+personality disorder which is
+
+793
+47:56
+not that you're paranoid
+schizophrenic,
+
+794
+47:59
+very clearly no signs of
+schizophrenia,
+
+795
+48:02
+no hallucinations,
+nothing like that.
+
+796
+48:04
+You are just paranoid.
+You're just--to a greater
+
+797
+48:07
+extent than normal,
+you think other people are
+
+798
+48:10
+against you and plotting against
+you.
+
+799
+48:13
+The most interesting
+personality disorders in my mind
+
+800
+48:17
+have to do with violence and
+crime and they have to do in
+
+801
+48:21
+particular with something called
+"antisocial personality
+
+802
+48:25
+disorder."
+Now, most murderers are not
+
+803
+48:29
+mentally ill in a medical sense.
+They're not mentally ill
+
+804
+48:34
+according to how clinicians
+categorize things.
+
+805
+48:37
+To some extent,
+most people who kill are just
+
+806
+48:41
+normal people being driven by
+normal desires,
+
+807
+48:45
+rage, jealousy,
+hate, just taken to an extreme.
+
+808
+48:50
+Even mass murderers do not as a
+rule appear to be substantively
+
+809
+48:55
+different from a psychological
+point of view.
+
+810
+48:58
+In every society--and honestly,
+I wrote the lecture on this
+
+811
+49:03
+quite a while ago but,
+given the recent events,
+
+812
+49:07
+they stand as a perfectly good
+example of what I'm going to
+
+813
+49:11
+say.
+In every society there is a
+
+814
+49:14
+notion of somebody who has been
+deeply humiliated,
+
+815
+49:17
+usually male,
+and he's been humiliated over
+
+816
+49:21
+and over again.
+He sees himself as losing
+
+817
+49:24
+status and losing status and
+losing status and he tries to
+
+818
+49:27
+get it all back,
+to gain face with one act of
+
+819
+49:31
+terrible violence where he takes
+his revenge over everybody and
+
+820
+49:36
+then is known as--and as a
+result,
+
+821
+49:39
+even though he might die,
+he probably will die,
+
+822
+49:43
+makes his way to a level of
+social status he would have
+
+823
+49:46
+never gotten before.
+The American term for this used
+
+824
+49:51
+to be "going postal" and--but
+this is an old idea.
+
+825
+49:56
+Stone Age tribes in Papua,
+New Guinea, had a term for
+
+826
+50:00
+this.
+They call it "running amok" and
+
+827
+50:03
+this is--and every society has
+this.
+
+828
+50:06
+So, there's normal murderers,
+there's mass murderers,
+
+829
+50:09
+and then there's the
+interesting cases like serial
+
+830
+50:13
+killers like Dahmer or Son of
+Sam,
+
+831
+50:16
+Ted Bundy, John Wayne Gacy,
+even the imaginary Hannibal
+
+832
+50:20
+Lecter.
+Many of these sort of serial
+
+833
+50:22
+killers do have some sort of
+mental illness but the mental
+
+834
+50:26
+illnesses are all over the
+place.
+
+835
+50:28
+There was a guy,
+Jerome Brudos,
+
+836
+50:30
+who had such a severe fetish
+for women's feet that he killed
+
+837
+50:34
+young women and severed their
+feet and then kept their feet
+
+838
+50:38
+around his house.
+Son of Sam was pretty clearly a
+
+839
+50:43
+paranoid schizophrenic.
+He did his murders because a
+
+840
+50:47
+barking dog told him to.
+Jeffrey Dahmer is a cannibal
+
+841
+50:51
+killer and he killed people so
+he could eat them and then--and
+
+842
+50:55
+I asked one of my colleagues in
+clinical--colleagues what
+
+843
+50:59
+exactly was wrong with him and
+the person immediately
+
+844
+51:02
+responded,
+"He has a severe eating
+
+845
+51:05
+disorder."
+[laughter]
+
+846
+51:07
+So, it's--it was a joke.
+It was in very, very bad taste.
+
+847
+51:11
+[laughter]
+A lot of [laughter]
+
+848
+51:14
+murderers claim to have
+dissociative disorders,
+
+849
+51:17
+"it wasn't me who killed the
+guy, it was my alter ego,
+
+850
+51:22
+Fred."
+It's not clear how often
+
+851
+51:24
+they're telling the truth,
+if ever or whether this is a
+
+852
+51:28
+way of escaping responsibility.
+There is a mental
+
+853
+51:32
+illness--There's an extreme,
+specific version of a
+
+854
+51:36
+personality disorder that
+revolves around violence,
+
+855
+51:40
+and this is known as
+"antisocial personality
+
+856
+51:43
+disorder."
+
+857
+51:43
+
+
+858
+51:47
+It is--it used to be called
+moral insanity.
+
+859
+51:50
+Now it's often called
+psychopathy.
+
+860
+51:54
+Some people make a distinction
+between psychopath and
+
+861
+51:58
+sociopath.
+For the purposes here others
+
+862
+52:01
+don't, and for the purposes here
+I'm going to blend them into one
+
+863
+52:04
+category.
+Then I'll use the term
+
+864
+52:07
+"psychopath."
+They're typically male.
+
+865
+52:11
+They are defined as selfish,
+callous, impulsive,
+
+866
+52:15
+they're sexually promiscuous.
+They seem to lack love,
+
+867
+52:20
+loyalty, normal feelings of
+affiliation and compassion,
+
+868
+52:25
+and they get into all sorts of
+trouble because they're easily
+
+869
+52:30
+bored and they seek out
+stimulation.
+
+870
+52:33
+Now, when you hear this,
+you've got to realize that this
+
+871
+52:37
+sort of person is not
+necessarily an unattractive
+
+872
+52:41
+person to imagine or think about
+or even under some circumstances
+
+873
+52:46
+to encounter.
+You have to avoid the
+
+874
+52:48
+temptation when you think about
+psychopath to think about a guy
+
+875
+52:51
+like this, to think about
+Hannibal Lecter.
+
+876
+52:53
+The most famous psychopath,
+of course, is James Bond who is
+
+877
+52:59
+a perfect psychopath in every
+regard as played by him also by
+
+878
+53:04
+Sean Connery.
+The Roger Moore and Timothy
+
+879
+53:07
+Dalton characters were not
+psychopaths.
+
+880
+53:10
+I could give a whole course on
+that.
+
+881
+53:12
+Is this an illness?
+Well, again,
+
+882
+53:16
+this is one of the hard cases.
+Psychopaths don't come in for
+
+883
+53:21
+treatment.
+James Bond would never go to a
+
+884
+53:24
+therapist and say,
+"I have a problem with
+
+885
+53:26
+promiscuity and my life of
+adventure.
+
+886
+53:28
+[laughter]
+Why is it that I don't have
+
+887
+53:30
+this need to settle down and
+have kids and be a one-woman
+
+888
+53:34
+man?"
+They don't have a problem with
+
+889
+53:37
+it.
+Other people often have a
+
+890
+53:38
+problem with it but it's not
+clear that's enough to make it a
+
+891
+53:42
+mental disorder.
+Also, a lot of psychopaths are
+
+892
+53:46
+reasonably successful.
+Now, this gets complicated
+
+893
+53:49
+because psychologists study
+psychopaths but the psychopaths
+
+894
+53:54
+that they study are by
+definition unsuccessful
+
+895
+53:57
+psychopaths.
+And what some people have
+
+896
+54:00
+argued is the real psychopaths,
+the successful ones,
+
+897
+54:04
+are the ones that run the
+world, that excel in every field
+
+898
+54:08
+because they are successful
+enough that they don't look like
+
+899
+54:11
+psychopaths.
+They have no conscience,
+
+900
+54:13
+no compassion,
+love, loyalty.
+
+901
+54:15
+They are cold-blooded and
+ambitious but they don't go
+
+902
+54:19
+around making this so obvious
+that we throw them in prison.
+
+903
+54:23
+And so, it's an interesting and
+subtle and complicated case.
+
+904
+54:28
+
+
+905
+54:33
+The final section – and I'll
+start this and we'll go five
+
+906
+54:37
+minutes into this and then
+move--continue it next week with
+
+907
+54:40
+the final class – concerns
+therapy.
+
+908
+54:43
+
+
+909
+54:48
+Now, the most interesting thing
+for us to deal with is the
+
+910
+54:52
+question of, "Does therapy
+work?"
+
+911
+54:54
+And there's a lot to be said
+about this.
+
+912
+54:57
+The history of therapy has been
+gruesome and unsuccessful.
+
+913
+55:00
+Again, to be mad was to be
+viewed as to be in league with
+
+914
+55:04
+the devil and so people with
+mental illnesses were tortured
+
+915
+55:07
+to death,
+burnt, sent out to sea and so
+
+916
+55:11
+on.
+In the eighteenth century they
+
+917
+55:12
+were thought of as degenerates
+and sent away from society.
+
+918
+55:15
+In the nineteenth century there
+was a brief blast of compassion
+
+919
+55:21
+where Pinel tried to have mental
+hospitals and then there were
+
+920
+55:27
+all sorts of--since then all
+sorts of medical treatments that
+
+921
+55:33
+were considerably less
+successful and this brief video
+
+922
+55:38
+will summarize some of the
+previous medical treatments.
+
+923
+55:44
+I often wonder a hundred years
+from now how they're going to
+
+924
+55:48
+look at our current therapies
+and then whether they'll see
+
+925
+55:51
+them as equally barbaric and
+stupid as we look at the
+
+926
+55:55
+therapies in the past.
+What I'll begin next lecture
+
+927
+55:59
+with is a very quick discussion
+of what therapies work of the
+
+928
+56:03
+ones currently available and
+then I'll end the class.
+
+929
+56:08
+And this will be a somewhat
+short class.
+
+930
+56:09
+I'll end the class with a
+discussion of happiness.
+
+931
+56:13
+There is an optional thing I'll
+add, which is your reading
+
+932
+56:17
+responses are done and you'll
+have the opportunity to make
+
+933
+56:20
+comments on the class in
+anonymous evaluations but what
+
+934
+56:24
+I'm kind of interested in is if
+people could send me an e-mail,
+
+935
+56:29
+and this is entirely optional,
+about the most interesting
+
+936
+56:32
+thing that we've covered in this
+class.
+
+937
+56:34
+I'm curious what people think
+it is and it's something which I
+
+938
+56:37
+could try to build up on for
+future classes.
+
+939
+56:39
+So, again, this is optional.
+Just give it a subject heading
+
+940
+56:43
+"Intro Psych" and send it to me
+if you choose to do it and I'll
+
+941
+56:45
+see you on Wednesday.
+
