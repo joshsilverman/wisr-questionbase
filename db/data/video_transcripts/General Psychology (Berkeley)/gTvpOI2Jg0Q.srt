@@ -1,0 +1,4530 @@
+﻿1
+00:00:08,799 --> 00:00:10,879
+okay on
+
+2
+00:00:10,879 --> 00:00:13,730
+in the last several lecturers
+
+3
+00:00:13,730 --> 00:00:17,119
+we've been looking at fundamental
+psychological processes involved in
+
+4
+00:00:17,119 --> 00:00:18,510
+learning
+
+5
+00:00:18,510 --> 00:00:21,789
+perceiving and remembering
+
+6
+00:00:21,789 --> 00:00:26,140
+and one of the things that we have
+uncovered in these
+
+7
+00:00:26,140 --> 00:00:26,899
+discussions
+
+8
+00:00:26,899 --> 00:00:28,210
+is that
+
+9
+00:00:28,210 --> 00:00:31,690
+learning proceeding and remembering
+require more
+
+10
+00:00:31,690 --> 00:00:36,370
+than merely forming associations between
+stimuli and responses
+
+11
+00:00:36,370 --> 00:00:39,030
+more than the extracting information
+
+12
+00:00:39,030 --> 00:00:40,350
+from armed
+
+13
+00:00:40,350 --> 00:00:42,470
+of the stimulus objects
+
+14
+00:00:42,470 --> 00:00:45,429
+more than retrieving memory traces
+
+15
+00:00:45,429 --> 00:00:46,130
+encoded
+
+16
+00:00:46,130 --> 00:00:47,960
+are in the past
+
+17
+00:00:47,960 --> 00:00:48,900
+rather
+
+18
+00:00:48,900 --> 00:00:51,189
+and each of these prophecies
+
+19
+00:00:51,189 --> 00:00:55,700
+the person is actively trying to figure
+out what's going on
+
+20
+00:00:55,700 --> 00:00:56,889
+in learning
+
+21
+00:00:56,889 --> 00:01:01,479
+the organism is trying to predict in
+control environmental events to learn
+
+22
+00:01:01,479 --> 00:01:02,969
+what follows what
+
+23
+00:01:02,969 --> 00:01:05,000
+and what's gonna happen next
+
+24
+00:01:05,000 --> 00:01:06,270
+in perception
+
+25
+00:01:06,270 --> 00:01:08,050
+the perceive urs apt
+
+26
+00:01:08,050 --> 00:01:11,240
+trying to figure out what objects are in
+the environment
+
+27
+00:01:11,240 --> 00:01:13,820
+where they are and what they're doing
+
+28
+00:01:13,820 --> 00:01:18,659
+in memory the remember is actively
+trying to figure out what
+
+29
+00:01:18,659 --> 00:01:22,750
+and in the past so he or she can use
+that information
+
+30
+00:01:22,750 --> 00:01:25,360
+on you know in in the future
+
+31
+00:01:25,360 --> 00:01:26,670
+the point of this
+
+32
+00:01:26,670 --> 00:01:30,000
+is that yet is fundamental
+
+33
+00:01:30,000 --> 00:01:34,619
+cognitive processes these basic
+functions of learning and perceiving and
+
+34
+00:01:34,619 --> 00:01:36,299
+remembering
+
+35
+00:01:36,299 --> 00:01:37,439
+dependent to medley
+
+36
+00:01:37,439 --> 00:01:40,700
+on the so called a higher mental
+processes
+
+37
+00:01:40,700 --> 00:01:42,909
+involving the reasoning
+
+38
+00:01:42,909 --> 00:01:44,130
+judgment
+
+39
+00:01:44,130 --> 00:01:46,780
+inference and a problem solving
+
+40
+00:01:46,780 --> 00:01:50,590
+and what we want to do not go in that
+this next series of lectures
+
+41
+00:01:50,590 --> 00:01:53,409
+is to focus on these aspects of thinking
+
+42
+00:01:53,409 --> 00:01:55,070
+to try to think about
+
+43
+00:01:55,070 --> 00:01:58,130
+hobby rezant about objects and events
+
+44
+00:01:58,130 --> 00:01:59,820
+in order to make a judgment
+
+45
+00:01:59,820 --> 00:02:01,250
+and decisions
+
+46
+00:02:01,250 --> 00:02:02,990
+concerning them
+
+47
+00:02:02,990 --> 00:02:07,520
+gary hankins then philosophy end in
+psychology
+
+48
+00:02:07,520 --> 00:02:12,540
+of very popular model for this judgment
+and reasoning process
+
+49
+00:02:12,540 --> 00:02:17,439
+that's known as the normative model all
+of a judgment and reasoning
+
+50
+00:02:17,439 --> 00:02:22,959
+and what does normative model basically
+says is that when people engage in
+
+51
+00:02:22,959 --> 00:02:26,180
+problem solving when people reason about
+events
+
+52
+00:02:26,180 --> 00:02:30,419
+they follow the principles of logical
+inference
+
+53
+00:02:30,419 --> 00:02:34,519
+principles of logical inference that
+have been with us since roughly the time
+
+54
+00:02:34,519 --> 00:02:37,029
+of aristotle
+
+55
+00:02:37,029 --> 00:02:38,029
+furthermore
+
+56
+00:02:38,029 --> 00:02:40,610
+this enormous model argues
+
+57
+00:02:40,610 --> 00:02:41,970
+rather of sorts
+
+58
+00:02:41,970 --> 00:02:45,250
+that judgments and decisions and choices
+
+59
+00:02:45,250 --> 00:02:50,520
+are based on a principle of rational
+self interest which is to say
+
+60
+00:02:50,520 --> 00:02:54,150
+that we make the choices we make because
+we think that they're going to benefit
+
+61
+00:02:54,150 --> 00:02:56,359
+as in some way
+
+62
+00:02:56,359 --> 00:02:57,590
+this principle
+
+63
+00:02:57,590 --> 00:03:01,660
+of rational self-interest is intern
+
+64
+00:03:01,660 --> 00:03:04,079
+based on a principal of
+
+65
+00:03:04,079 --> 00:03:05,230
+optimality
+
+66
+00:03:05,230 --> 00:03:08,160
+which means that in making choices
+
+67
+00:03:08,160 --> 00:03:09,009
+making judgments
+
+68
+00:03:09,009 --> 00:03:11,719
+we want to maximize our gains
+
+69
+00:03:11,719 --> 00:03:16,620
+and minimize our losses that's the
+principle of optimality
+
+70
+00:03:16,620 --> 00:03:20,180
+maximize games andrew and minimize
+losses
+
+71
+00:03:20,180 --> 00:03:24,819
+but our judgments are also based on a
+principle of utility
+
+72
+00:03:24,819 --> 00:03:27,900
+which is to say that we want to achieve
+our goals
+
+73
+00:03:27,900 --> 00:03:31,609
+in the most you fish and matter possible
+
+74
+00:03:31,609 --> 00:03:34,709
+but i want to take forever to figure out
+the all-new
+
+75
+00:03:34,709 --> 00:03:37,579
+the uh... oh god answered assault
+
+76
+00:03:37,579 --> 00:03:40,450
+we want to get to the correct to the
+correct judgment
+
+77
+00:03:40,450 --> 00:03:42,969
+are just as easily as we can
+
+78
+00:03:42,969 --> 00:03:46,250
+this enormous model of judgment and
+reasoning
+
+79
+00:03:46,250 --> 00:03:50,869
+isn shrine to in economics for those of
+you of how to economics course
+
+80
+00:03:50,869 --> 00:03:54,579
+a set of principles known as rational
+choice
+
+81
+00:03:54,579 --> 00:03:58,449
+and all uh... according to traditional
+economic theory
+
+82
+00:03:58,449 --> 00:04:01,970
+alm assumes the existence of a kind of
+creature
+
+83
+00:04:01,970 --> 00:04:04,569
+or they call it homo economic times
+
+84
+00:04:04,569 --> 00:04:06,440
+or economic man
+
+85
+00:04:06,440 --> 00:04:08,259
+all who basically
+
+86
+00:04:08,259 --> 00:04:09,229
+behaves
+
+87
+00:04:09,229 --> 00:04:10,959
+chooses reasons
+
+88
+00:04:10,959 --> 00:04:12,360
+makes judgments
+
+89
+00:04:12,360 --> 00:04:13,199
+based on
+
+90
+00:04:13,199 --> 00:04:15,440
+this idealize description
+
+91
+00:04:15,440 --> 00:04:20,049
+of how judgments and reza means are made
+
+92
+00:04:20,049 --> 00:04:21,839
+one
+
+93
+00:04:21,839 --> 00:04:27,520
+cleaner expression of this normative
+model of judgment and reasoning is an
+
+94
+00:04:27,520 --> 00:04:30,169
+emphasis on the use of algorithms
+
+95
+00:04:30,169 --> 00:04:32,140
+in reasoning band
+
+96
+00:04:32,140 --> 00:04:33,159
+our judgment
+
+97
+00:04:33,159 --> 00:04:35,219
+and problem solving
+
+98
+00:04:35,219 --> 00:04:39,369
+we define algorithms as logical
+
+99
+00:04:39,369 --> 00:04:40,849
+systematic rules
+
+100
+00:04:40,849 --> 00:04:42,150
+for making trip
+
+101
+00:04:42,150 --> 00:04:44,490
+this and inferences
+
+102
+00:04:44,490 --> 00:04:46,870
+and the idea behind it
+
+103
+00:04:46,870 --> 00:04:47,520
+algorithms
+
+104
+00:04:47,520 --> 00:04:48,610
+is that
+
+105
+00:04:48,610 --> 00:04:52,509
+if you're confronted with a problem
+that's soluble
+
+106
+00:04:52,509 --> 00:04:55,270
+problem that can be solved
+
+107
+00:04:55,270 --> 00:05:00,960
+application all of the appropriate
+algorithm will inevitably lead too
+
+108
+00:05:00,960 --> 00:05:02,610
+the correct
+
+109
+00:05:02,610 --> 00:05:07,289
+okay if a problem a salary will
+application of the appropriate algorithm
+
+110
+00:05:07,289 --> 00:05:10,499
+will inevitably lead to the correct
+answer
+
+111
+00:05:10,499 --> 00:05:17,009
+therefore it follows that if people were
+rational in their judgment all of the
+
+112
+00:05:17,009 --> 00:05:21,740
+judgments and decision making if they
+were rational and their choices and the
+
+113
+00:05:21,740 --> 00:05:27,680
+way they went about solving problems
+then they would always employ algorithms
+
+114
+00:05:27,680 --> 00:05:29,080
+whenever they were confronted
+
+115
+00:05:29,080 --> 00:05:30,880
+with any kind of problem
+
+116
+00:05:30,880 --> 00:05:35,179
+the emphasis on algorithms is part of
+the parcel off
+
+117
+00:05:35,179 --> 00:05:37,950
+all rational on choice view
+
+118
+00:05:37,950 --> 00:05:40,840
+all-volunteer in judgment and decision
+making
+
+119
+00:05:40,840 --> 00:05:42,719
+let's take a detailed below those
+
+120
+00:05:42,719 --> 00:05:45,380
+all about estimation
+
+121
+00:05:45,380 --> 00:05:47,580
+suppose you want to are
+
+122
+00:05:47,580 --> 00:05:52,499
+estimate how many people there are
+living in united states
+
+123
+00:05:52,499 --> 00:05:53,189
+farm
+
+124
+00:05:53,189 --> 00:05:57,639
+bellcore's who could compromise suppose
+and we do every ten years in this
+
+125
+00:05:57,639 --> 00:05:58,199
+instance
+
+126
+00:05:58,199 --> 00:05:59,999
+but that's a lot of work
+
+127
+00:05:59,999 --> 00:06:00,759
+okay
+
+128
+00:06:00,759 --> 00:06:03,150
+so what you really want to do with the
+problem is
+
+129
+00:06:03,150 --> 00:06:05,620
+to come up with a reasonable estimate
+
+130
+00:06:05,620 --> 00:06:09,960
+of the number of people who are living
+in united states
+
+131
+00:06:09,960 --> 00:06:14,490
+arm this is a problem dot or his
+currently confronted by the federal
+
+132
+00:06:14,490 --> 00:06:16,539
+government for that matter state
+governments
+
+133
+00:06:16,539 --> 00:06:20,800
+in the problem of the argument in the
+problem of the census
+
+134
+00:06:20,800 --> 00:06:23,120
+united states constitution
+
+135
+00:06:23,120 --> 00:06:24,879
+mandates that ever intended
+
+136
+00:06:24,879 --> 00:06:26,410
+there be a cult
+
+137
+00:06:26,410 --> 00:06:31,020
+all of the number of people living in
+the united states so as to correctly
+
+138
+00:06:31,020 --> 00:06:35,180
+apportion fitness like congressional or
+rub representatives
+
+139
+00:06:35,180 --> 00:06:37,489
+but for a brother things as well
+
+140
+00:06:37,489 --> 00:06:41,620
+it's turning out to be too difficult to
+do any headcount
+
+141
+00:06:41,620 --> 00:06:42,550
+of people
+
+142
+00:06:42,550 --> 00:06:45,069
+there's simply too many people united
+states
+
+143
+00:06:45,069 --> 00:06:49,979
+living under too many different kinds of
+conditions in too many places
+
+144
+00:06:49,979 --> 00:06:53,959
+alerted to even uh... that expect that
+there be a reasonably accurate head
+
+145
+00:06:53,959 --> 00:06:54,979
+count
+
+146
+00:06:54,979 --> 00:06:56,870
+saw there from time to time
+
+147
+00:06:56,870 --> 00:06:58,840
+there are proposals
+
+148
+00:06:58,840 --> 00:06:59,599
+too
+
+149
+00:06:59,599 --> 00:07:04,579
+all-out use statistical criteria or
+statistical process ease
+
+150
+00:07:04,579 --> 00:07:07,429
+to get our best estimate of what
+
+151
+00:07:07,429 --> 00:07:09,010
+this head counters
+
+152
+00:07:09,010 --> 00:07:11,529
+and in fact we know how to do that
+
+153
+00:07:11,529 --> 00:07:13,430
+there is an algorithm
+
+154
+00:07:13,430 --> 00:07:16,360
+statistical algorithms around for
+estimation
+
+155
+00:07:16,360 --> 00:07:18,109
+and basically they say
+
+156
+00:07:18,109 --> 00:07:23,689
+first what you want to do is to draw a
+representative sample of the population
+
+157
+00:07:23,689 --> 00:07:25,750
+or perhaps a random sample
+
+158
+00:07:25,750 --> 00:07:30,220
+or perhaps what's known as a stratified
+sample so you didn't make sure you have
+
+159
+00:07:30,220 --> 00:07:33,409
+equal numbers of men and women in your
+sample or
+
+160
+00:07:33,409 --> 00:07:34,539
+something like that
+
+161
+00:07:34,539 --> 00:07:40,419
+and then what you do is you count that
+representative sample of the population
+
+162
+00:07:40,419 --> 00:07:46,080
+and then you extrapolate from the sample
+too with a population at large in again
+
+163
+00:07:46,080 --> 00:07:49,129
+there are rules in statistics
+
+164
+00:07:49,129 --> 00:07:50,570
+for figuring out
+
+165
+00:07:50,570 --> 00:07:52,740
+her buchanan forever
+
+166
+00:07:52,740 --> 00:07:56,409
+population values from the values of
+samples
+
+167
+00:07:56,409 --> 00:07:58,239
+following these kinds of rules
+
+168
+00:07:58,239 --> 00:07:59,289
+it's known
+
+169
+00:07:59,289 --> 00:08:04,030
+that we're very unlikely to make a
+mistake estimating the population of the
+
+170
+00:08:04,030 --> 00:08:06,349
+united states statistically
+
+171
+00:08:06,349 --> 00:08:09,239
+armed doesn't under count the poor
+
+172
+00:08:09,239 --> 00:08:11,399
+it doesn't under count
+
+173
+00:08:11,399 --> 00:08:13,029
+minorities as far as
+
+174
+00:08:13,029 --> 00:08:15,879
+whereas because
+
+175
+00:08:15,879 --> 00:08:16,699
+people
+
+176
+00:08:16,699 --> 00:08:21,249
+and members of ethnic minority groups
+often live
+
+177
+00:08:21,249 --> 00:08:23,909
+outside the mainstream all fall
+
+178
+00:08:23,909 --> 00:08:25,350
+dot of society
+
+179
+00:08:25,350 --> 00:08:29,430
+it's very difficult to get of proper
+account of these individuals with an
+
+180
+00:08:29,430 --> 00:08:34,210
+actual headcount course a legal problem
+is that the constitution mandates a head
+
+181
+00:08:34,210 --> 00:08:36,460
+count
+
+182
+00:08:36,460 --> 00:08:39,880
+as you've got account these people you
+can't estimate them so there's a
+
+183
+00:08:39,880 --> 00:08:44,890
+difficult legal question here but the
+point is we know how to do this
+
+184
+00:08:44,890 --> 00:08:46,910
+statisticians of known for a hundred
+years
+
+185
+00:08:46,910 --> 00:08:48,190
+how did produce
+
+186
+00:08:48,190 --> 00:08:50,870
+very very good estimates of large
+numbers
+
+187
+00:08:50,870 --> 00:08:53,730
+like the population all the united
+states
+
+188
+00:08:53,730 --> 00:09:00,570
+and they don't by applying various kinds
+of algorithms
+
+189
+00:09:00,570 --> 00:09:01,670
+approach to
+
+190
+00:09:01,670 --> 00:09:04,340
+the use of algorithms in
+
+191
+00:09:04,340 --> 00:09:06,660
+problem solving in making judgments
+
+192
+00:09:06,660 --> 00:09:07,790
+is itself
+
+193
+00:09:07,790 --> 00:09:10,110
+an example of a lot
+
+194
+00:09:10,110 --> 00:09:11,880
+attitude for problem solving
+
+195
+00:09:11,880 --> 00:09:15,990
+known as means and analysis
+
+196
+00:09:15,990 --> 00:09:19,160
+in the means and analysis all problem
+solving
+
+197
+00:09:19,160 --> 00:09:22,000
+we take we've we began first
+
+198
+00:09:22,000 --> 00:09:23,100
+the elements
+
+199
+00:09:23,100 --> 00:09:27,400
+the features that are common to all
+problems
+
+200
+00:09:27,400 --> 00:09:30,560
+all problems have a set of germans
+
+201
+00:09:30,560 --> 00:09:31,200
+assumptions
+
+202
+00:09:31,200 --> 00:09:32,529
+that you can make
+
+203
+00:09:32,529 --> 00:09:35,520
+about the state of the world
+
+204
+00:09:35,520 --> 00:09:36,180
+second
+
+205
+00:09:36,180 --> 00:09:38,940
+all problems have
+
+206
+00:09:38,940 --> 00:09:44,710
+specified in them some goal that want to
+achieve
+
+207
+00:09:44,710 --> 00:09:45,630
+third
+
+208
+00:09:45,630 --> 00:09:48,920
+there are transformations that have to
+take place
+
+209
+00:09:48,920 --> 00:09:50,129
+to get from
+
+210
+00:09:50,129 --> 00:09:56,269
+the original state of the problem to the
+bell st of the problem and then finally
+
+211
+00:09:56,269 --> 00:09:58,609
+there are some obstacles
+
+212
+00:09:58,609 --> 00:10:01,220
+on the way to the colstate
+
+213
+00:10:01,220 --> 00:10:05,010
+these obstacles are kind of defining
+features of problems you don't have a
+
+214
+00:10:05,010 --> 00:10:07,200
+problem and then some there's some
+
+215
+00:10:07,200 --> 00:10:11,260
+saluted some obstacle or two with so to
+a solution
+
+216
+00:10:11,260 --> 00:10:12,899
+but the general idea
+
+217
+00:10:12,899 --> 00:10:16,229
+is that when you've got any problem to
+solve
+
+218
+00:10:16,229 --> 00:10:20,939
+what you do is the first thing to do is
+you forearm on mental representation of
+
+219
+00:10:20,939 --> 00:10:23,870
+your current state
+
+220
+00:10:23,870 --> 00:10:28,380
+then you form a mental representation of
+your goal state
+
+221
+00:10:28,380 --> 00:10:33,210
+you calculate the difference between
+your current state and your goal state
+
+222
+00:10:33,210 --> 00:10:39,240
+and then you take some steps that will
+reduce that difference by some amount
+
+223
+00:10:39,240 --> 00:10:40,360
+and then what you do
+
+224
+00:10:40,360 --> 00:10:42,010
+is you recalculate
+
+225
+00:10:42,010 --> 00:10:43,089
+we represent
+
+226
+00:10:43,089 --> 00:10:45,960
+the goal state and your current state
+
+227
+00:10:45,960 --> 00:10:48,099
+recalculate the difference and then take
+another step
+
+228
+00:10:48,099 --> 00:10:49,960
+that will reduce that still further
+
+229
+00:10:49,960 --> 00:10:54,070
+i walked over here from my office and
+pullman hall this morning
+
+230
+00:10:54,070 --> 00:10:57,260
+and when i thought about it i thought
+about that but it was raining action
+
+231
+00:10:57,260 --> 00:10:57,880
+without
+
+232
+00:10:57,880 --> 00:10:59,940
+how my going to get to pullman hall
+
+233
+00:10:59,940 --> 00:11:04,000
+on with the uh... with them with the
+yield minimum likelihood that i'm gonna
+
+234
+00:11:04,000 --> 00:11:04,959
+get wet
+
+235
+00:11:04,959 --> 00:11:07,069
+so i try to calculate a shortcut
+
+236
+00:11:07,069 --> 00:11:10,999
+and so what i did was alright instead of
+going down the steps nearest may all go
+
+237
+00:11:10,999 --> 00:11:14,650
+down some steps or the over here that'll
+let me
+
+238
+00:11:14,650 --> 00:11:16,610
+walker undercover for a little bit
+longer
+
+239
+00:11:16,610 --> 00:11:18,580
+i represented my current state
+
+240
+00:11:18,580 --> 00:11:20,999
+i represented the goals date
+
+241
+00:11:20,999 --> 00:11:24,870
+calculated the difference between them
+and then took some steps
+
+242
+00:11:24,870 --> 00:11:26,390
+reduce that difference
+
+243
+00:11:26,390 --> 00:11:28,050
+all
+
+244
+00:11:28,050 --> 00:11:31,140
+applications of means and the problem
+solving
+
+245
+00:11:31,140 --> 00:11:33,510
+involved this kind of process
+
+246
+00:11:33,510 --> 00:11:35,730
+it's something it's a process that
+
+247
+00:11:35,730 --> 00:11:40,499
+it's been studied into a problem very
+fickle your problem in the psychological
+
+248
+00:11:40,499 --> 00:11:41,480
+literature
+
+249
+00:11:41,480 --> 00:11:43,590
+known as a tower of hanoi problem
+
+250
+00:11:43,590 --> 00:11:46,380
+which basically says unhone away there's
+a temple
+
+251
+00:11:46,380 --> 00:11:51,220
+in with there's a tolerance thx t four
+sacred goldman discs each trimmed with
+
+252
+00:11:51,220 --> 00:11:52,070
+diamonds
+
+253
+00:11:52,070 --> 00:11:56,470
+and these discs are stacked on top of
+each other in such a way that the
+
+254
+00:11:56,470 --> 00:11:57,960
+largest
+
+255
+00:11:57,960 --> 00:12:00,220
+and the smallest is on the top
+
+256
+00:12:00,220 --> 00:12:02,649
+and a problem for the monks in the
+temple
+
+257
+00:12:02,649 --> 00:12:07,530
+is to move the disks from one location
+to another in such a way
+
+258
+00:12:07,530 --> 00:12:11,210
+that a larger discussed replaced on
+
+259
+00:12:11,210 --> 00:12:12,960
+top of a smaller desk
+
+260
+00:12:12,960 --> 00:12:16,500
+and that's fine you can figure out how
+to do that radius
+
+261
+00:12:16,500 --> 00:12:17,600
+onto disks and
+
+262
+00:12:17,600 --> 00:12:18,350
+put them over there
+
+263
+00:12:18,350 --> 00:12:22,460
+but no there's an obstacle the first
+obstacle is that you have to move the
+
+264
+00:12:22,460 --> 00:12:24,380
+discs one-at-a-time
+
+265
+00:12:24,380 --> 00:12:28,709
+the second obstacle is you'd have to dot
+do it in such a way
+
+266
+00:12:28,709 --> 00:12:32,810
+that their arden never larger disk on
+top of a smaller desk
+
+267
+00:12:32,810 --> 00:12:34,279
+and the third obstacle is
+
+268
+00:12:34,279 --> 00:12:36,040
+either as sacred desks
+
+269
+00:12:36,040 --> 00:12:40,550
+and there's only one other place in the
+temple where they can be hollows okay so
+
+270
+00:12:40,550 --> 00:12:42,560
+how are you going to do the problem
+
+271
+00:12:42,560 --> 00:12:44,649
+here orthodox how we're going to do it
+
+272
+00:12:44,649 --> 00:12:46,150
+how long's are going to take
+
+273
+00:12:46,150 --> 00:12:50,990
+the legend is that before the monks
+complete the task the world will end
+
+274
+00:12:50,990 --> 00:12:54,410
+i think that's the legend of the tower
+of happily
+
+275
+00:12:54,410 --> 00:12:56,790
+here's a simple representation of it
+
+276
+00:12:56,790 --> 00:12:57,800
+we've got
+
+277
+00:12:57,800 --> 00:12:59,660
+a tolerant discs
+
+278
+00:12:59,660 --> 00:13:02,440
+small on top of larger on top of the
+largest
+
+279
+00:13:02,440 --> 00:13:04,820
+we want to get them from this location
+
+280
+00:13:04,820 --> 00:13:09,130
+the dislocation and there's only one
+other location where the discs
+
+281
+00:13:09,130 --> 00:13:16,130
+can be stored so how do we do this who
+wants to do the powerful wipro
+
+282
+00:13:16,820 --> 00:13:18,230
+i see something you do it
+
+283
+00:13:18,230 --> 00:13:19,710
+flustered wonder
+
+284
+00:13:19,710 --> 00:13:20,800
+you know i don't
+
+285
+00:13:20,800 --> 00:13:22,990
+okay let's do it
+
+286
+00:13:22,990 --> 00:13:29,990
+how to solve this problem
+
+287
+00:13:35,050 --> 00:13:42,050
+for one of the melbourne
+
+288
+00:13:47,340 --> 00:13:50,700
+their eg that's exactly right that's
+exactly how you get it
+
+289
+00:13:50,700 --> 00:13:54,250
+and notice how to get our life for you
+and your couple of other people didn't
+
+290
+00:13:54,250 --> 00:13:59,110
+and doing this right yeah i calculate my
+cardiac calculate what you want to go
+
+291
+00:13:59,110 --> 00:14:02,360
+against step-by-step reduce the
+difference between where you are and
+
+292
+00:14:02,360 --> 00:14:03,569
+where you want to go
+
+293
+00:14:03,569 --> 00:14:07,769
+that's the means and algorithm for
+problem solving and that there's a
+
+294
+00:14:07,769 --> 00:14:13,129
+problem that soluble the means and
+analysis and guaranteed to produce dot
+
+295
+00:14:13,129 --> 00:14:16,440
+correct answer now of course i can take
+a long time
+
+296
+00:14:16,440 --> 00:14:21,300
+it turns out r_k_ that by doing this at
+all of this way if you were actually
+
+297
+00:14:21,300 --> 00:14:23,320
+sitting in the tower of hanoi
+
+298
+00:14:23,320 --> 00:14:27,560
+are moving sixty four just in this way
+all at the rate of one per second would
+
+299
+00:14:27,560 --> 00:14:30,330
+take five billion years
+
+300
+00:14:30,330 --> 00:14:31,720
+that's it
+
+301
+00:14:31,720 --> 00:14:33,250
+pretty much the age of the earth
+
+302
+00:14:33,250 --> 00:14:34,499
+all right so
+
+303
+00:14:34,499 --> 00:14:38,210
+well it's a pretty good guess that the
+monks are not going to finish this task
+
+304
+00:14:38,210 --> 00:14:40,880
+before your calms ought to an end
+
+305
+00:14:40,880 --> 00:14:43,600
+for your is absent exercise this week
+
+306
+00:14:43,600 --> 00:14:48,970
+you're going to do a version of this
+problem on known as the harvard supports
+
+307
+00:14:48,970 --> 00:14:52,620
+problem actually zaps calls at the
+missionaries in cannibals problem
+
+308
+00:14:52,620 --> 00:14:54,950
+but it has the same kind of all
+
+309
+00:14:54,950 --> 00:14:56,449
+although property to it
+
+310
+00:14:56,449 --> 00:15:00,220
+on one side of the river there's free
+hobbits and three works
+
+311
+00:15:00,220 --> 00:15:03,510
+orcs eve hobbits when they are a number
+of them
+
+312
+00:15:03,510 --> 00:15:07,780
+the creatures have a boat that's cable
+taking too
+
+313
+00:15:07,780 --> 00:15:10,110
+individuals at a time across the river
+
+314
+00:15:10,110 --> 00:15:14,450
+and the goal is to transport all six
+creatures from one side of the river
+
+315
+00:15:14,450 --> 00:15:18,829
+ought to the other with the proviso that
+at no time
+
+316
+00:15:18,829 --> 00:15:20,359
+in either location
+
+317
+00:15:20,359 --> 00:15:23,550
+can works out number hoffitz
+
+318
+00:15:23,550 --> 00:15:25,300
+now that's formally
+
+319
+00:15:25,300 --> 00:15:27,800
+pretty much the same as the power of
+hanoi problem
+
+320
+00:15:27,800 --> 00:15:29,060
+and you solve it
+
+321
+00:15:29,060 --> 00:15:33,970
+using the of means and problem solving
+analysis though some of those of you
+
+322
+00:15:33,970 --> 00:15:37,089
+who've already done that's number for
+you know that there is
+
+323
+00:15:37,089 --> 00:15:39,139
+a kind of subtle obstacle
+
+324
+00:15:39,139 --> 00:15:40,510
+or here
+
+325
+00:15:40,510 --> 00:15:41,810
+and all the that to you
+
+326
+00:15:41,810 --> 00:15:43,229
+to figure out
+
+327
+00:15:43,229 --> 00:15:46,600
+exactly songs exactly what that is
+
+328
+00:15:46,600 --> 00:15:47,740
+again
+
+329
+00:15:47,740 --> 00:15:49,119
+means the end
+
+330
+00:15:49,119 --> 00:15:51,230
+approaches to problem solving
+
+331
+00:15:51,230 --> 00:15:53,770
+exemplified this algorithmic reasoning
+
+332
+00:15:53,770 --> 00:15:59,760
+the algorithm constitutes essentially a
+recipe for solving a problem that
+
+333
+00:15:59,760 --> 00:16:03,280
+specifies all all the necessary
+ingredients
+
+334
+00:16:03,280 --> 00:16:05,020
+and their amounts
+
+335
+00:16:05,020 --> 00:16:08,690
+and of the order in which they're going
+to combine are and if you follow a
+
+336
+00:16:08,690 --> 00:16:12,160
+recipe if you've got all the ingredients
+new fall the recipe carefully you're
+
+337
+00:16:12,160 --> 00:16:14,820
+gonna get i'd take
+
+338
+00:16:14,820 --> 00:16:19,140
+fried tofu or whatever it is that you're
+eating right cooked properly
+
+339
+00:16:19,140 --> 00:16:21,580
+and something that's in of that so addl
+
+340
+00:16:21,580 --> 00:16:23,000
+all you have to do
+
+341
+00:16:23,000 --> 00:16:24,080
+is follow
+
+342
+00:16:24,080 --> 00:16:27,030
+the steps
+
+343
+00:16:27,030 --> 00:16:29,320
+this same kind of approach
+
+344
+00:16:29,320 --> 00:16:31,020
+tendon principal be used
+
+345
+00:16:31,020 --> 00:16:34,480
+to solve a fundamental cognitive problem
+
+346
+00:16:34,480 --> 00:16:38,270
+which is approx on the of categorization
+
+347
+00:16:38,270 --> 00:16:43,949
+categorization is an extremely important
+aspect of all of cognition
+
+348
+00:16:43,949 --> 00:16:47,779
+where we sort the objects of the world
+into categories
+
+349
+00:16:47,779 --> 00:16:48,980
+are based on
+
+350
+00:16:48,980 --> 00:16:50,569
+some kind of similarity
+
+351
+00:16:50,569 --> 00:16:52,490
+so all cars
+
+352
+00:16:52,490 --> 00:16:54,210
+you know buicks and
+
+353
+00:16:54,210 --> 00:16:55,890
+dodges end
+
+354
+00:16:55,890 --> 00:16:57,599
+homers and twenty orders
+
+355
+00:16:57,599 --> 00:17:00,919
+they all belong in the category of
+automobiles because they have certain
+
+356
+00:17:00,919 --> 00:17:03,410
+features in common
+
+357
+00:17:03,410 --> 00:17:06,209
+although do you think about perception
+cognitively
+
+358
+00:17:06,209 --> 00:17:11,649
+the endpoint of perception is not simply
+to identify the distal stimulus the
+
+359
+00:17:11,649 --> 00:17:15,090
+treaty or the gorilla or the dinosaur or
+whatever
+
+360
+00:17:15,090 --> 00:17:18,210
+but you also wants the categorized an
+object
+
+361
+00:17:18,210 --> 00:17:21,250
+so that you know what to do with it
+because they are yes i know what this is
+
+362
+00:17:21,250 --> 00:17:25,230
+it's like these other things or you
+already know what to do along with
+
+363
+00:17:25,230 --> 00:17:27,959
+the great cognitive psychologist jerome
+bruder
+
+364
+00:17:27,959 --> 00:17:31,500
+went so far as to argue that every act
+perception
+
+365
+00:17:31,500 --> 00:17:33,710
+is an active categorization
+
+366
+00:17:33,710 --> 00:17:36,100
+because when you perceived an object
+
+367
+00:17:36,100 --> 00:17:39,760
+you perceive that as similar to
+
+368
+00:17:39,760 --> 00:17:41,610
+somethings you already know about
+
+369
+00:17:41,610 --> 00:17:43,119
+and different from
+
+370
+00:17:43,119 --> 00:17:45,500
+other things that you already know about
+
+371
+00:17:45,500 --> 00:17:46,630
+and the question is
+
+372
+00:17:46,630 --> 00:17:51,590
+how do we go about categorizing the
+objects in our world
+
+373
+00:17:51,590 --> 00:17:54,960
+again there's a classical view of this
+process accomplice
+
+374
+00:17:54,960 --> 00:17:56,660
+from aristotle
+
+375
+00:17:56,660 --> 00:17:58,910
+and basically says
+
+376
+00:17:58,910 --> 00:18:00,559
+don't too bold
+
+377
+00:18:00,559 --> 00:18:02,559
+logical way to think about categories
+
+378
+00:18:02,559 --> 00:18:07,460
+is in terms of property sets you
+probably remember the term proper sets
+
+379
+00:18:07,460 --> 00:18:08,480
+from
+
+380
+00:18:08,480 --> 00:18:10,000
+eighth grade
+
+381
+00:18:10,000 --> 00:18:12,990
+mathematics maybe ninth-grade
+mathematics
+
+382
+00:18:12,990 --> 00:18:16,879
+all in dog did in that the in separate
+or proper set
+
+383
+00:18:16,879 --> 00:18:18,340
+is a set of objects
+
+384
+00:18:18,340 --> 00:18:22,450
+that have a set of defining features in
+common
+
+385
+00:18:22,450 --> 00:18:27,830
+and a defining feature these defining
+features are signalling necessary
+
+386
+00:18:27,830 --> 00:18:31,610
+to identify an object is a member of a
+set
+
+387
+00:18:31,610 --> 00:18:32,019
+and
+
+388
+00:18:32,019 --> 00:18:38,730
+the package of features is jointly
+sufficient to identify an object as
+
+389
+00:18:38,730 --> 00:18:40,820
+remember of the part of the set
+
+390
+00:18:40,820 --> 00:18:42,280
+give you some examples
+
+391
+00:18:42,280 --> 00:18:44,330
+so in cat in geometry
+
+392
+00:18:44,330 --> 00:18:45,410
+for example
+
+393
+00:18:45,410 --> 00:18:46,669
+we have a set of
+
+394
+00:18:46,669 --> 00:18:50,010
+are geometrical figure is known as
+triangles
+
+395
+00:18:50,010 --> 00:18:53,640
+which are defined as two-dimensional
+figures
+
+396
+00:18:53,640 --> 00:18:56,330
+with three sides and three angles
+
+397
+00:18:56,330 --> 00:18:57,909
+all triangles
+
+398
+00:18:57,909 --> 00:19:01,930
+or two-dimensional figures with three
+sides and three angles
+
+399
+00:19:01,930 --> 00:19:04,019
+that div those features
+
+400
+00:19:04,019 --> 00:19:07,930
+define the category of triangles in
+geometry
+
+401
+00:19:07,930 --> 00:19:09,470
+all up and that's different
+
+402
+00:19:09,470 --> 00:19:11,919
+from the definition in geometry o
+
+403
+00:19:11,919 --> 00:19:13,070
+quadrilateral sp
+
+404
+00:19:13,070 --> 00:19:15,309
+which are features into dimensions
+
+405
+00:19:15,309 --> 00:19:16,980
+that have four sides
+
+406
+00:19:16,980 --> 00:19:18,760
+and four angles
+
+407
+00:19:18,760 --> 00:19:21,490
+all quadrilateral our share
+
+408
+00:19:21,490 --> 00:19:26,210
+these three defining features on in
+common two dimensions
+
+409
+00:19:26,210 --> 00:19:29,080
+four sides and for angles
+
+410
+00:19:29,080 --> 00:19:29,849
+similarly
+
+411
+00:19:29,849 --> 00:19:32,420
+in the domain of animals
+
+412
+00:19:32,420 --> 00:19:36,090
+we distinguish between categories of
+birds
+
+413
+00:19:36,090 --> 00:19:40,920
+robbins sparrows eagles hawks
+
+414
+00:19:40,920 --> 00:19:41,910
+trout
+
+415
+00:19:41,910 --> 00:19:43,169
+bass
+
+416
+00:19:43,169 --> 00:19:44,210
+salmon grouper
+
+417
+00:19:44,210 --> 00:19:45,720
+earth will it ever
+
+418
+00:19:45,720 --> 00:19:49,659
+all all birds arbroath births with were
+warm-blooded
+
+419
+00:19:49,659 --> 00:19:51,269
+and have further someone's
+
+420
+00:19:51,269 --> 00:19:55,210
+all birds or warm-blooded vertebrates
+with feathers and wings
+
+421
+00:19:55,210 --> 00:19:56,440
+bos four features
+
+422
+00:19:56,440 --> 00:19:58,380
+or a single enough history
+
+423
+00:19:58,380 --> 00:20:01,980
+and jointly sufficient to define the
+category of bird
+
+424
+00:20:01,980 --> 00:20:03,619
+whereas all fish
+
+425
+00:20:03,619 --> 00:20:05,820
+or cold-blooded vertebrates
+
+426
+00:20:05,820 --> 00:20:07,880
+with scales and fins
+
+427
+00:20:07,880 --> 00:20:09,499
+those four features
+
+428
+00:20:09,499 --> 00:20:11,330
+or a single investors there re
+
+429
+00:20:11,330 --> 00:20:15,289
+and jointly sufficient to define the
+category of fish
+
+430
+00:20:15,289 --> 00:20:18,210
+every creature that's abort abort
+
+431
+00:20:18,210 --> 00:20:18,679
+cold-blooded
+
+432
+00:20:18,679 --> 00:20:22,080
+with scales and fins is a fish
+
+433
+00:20:22,080 --> 00:20:23,969
+just the way fisher defined
+
+434
+00:20:23,969 --> 00:20:25,349
+all by home
+
+435
+00:20:25,349 --> 00:20:27,220
+by zoologists
+
+436
+00:20:27,220 --> 00:20:31,450
+and sold that's generally that that's
+the idea about defining features
+
+437
+00:20:31,450 --> 00:20:32,490
+now
+
+438
+00:20:32,490 --> 00:20:36,510
+another aspect all categorization bright
+by proper sets
+
+439
+00:20:36,510 --> 00:20:37,230
+is that
+
+440
+00:20:37,230 --> 00:20:38,630
+you can
+
+441
+00:20:38,630 --> 00:20:40,960
+arrange categories vertically
+
+442
+00:20:40,960 --> 00:20:42,549
+into hierarchies
+
+443
+00:20:42,549 --> 00:20:44,180
+of super it sets
+
+444
+00:20:44,180 --> 00:20:45,800
+and subsets
+
+445
+00:20:45,800 --> 00:20:47,260
+and the general idea
+
+446
+00:20:47,260 --> 00:20:50,929
+is that in the proper said
+categorization
+
+447
+00:20:50,929 --> 00:20:53,179
+subsets are perfectly nested
+
+448
+00:20:53,179 --> 00:20:56,900
+under super sets let me give you an
+example of that
+
+449
+00:20:56,900 --> 00:20:59,260
+again we'll go back to geometric figures
+
+450
+00:20:59,260 --> 00:21:00,850
+there are
+
+451
+00:21:00,850 --> 00:21:02,720
+here's the whole
+
+452
+00:21:02,720 --> 00:21:05,770
+class of geometric figures out of up
+here
+
+453
+00:21:05,770 --> 00:21:08,200
+and it turns out that there are
+
+454
+00:21:08,200 --> 00:21:10,430
+floor
+
+455
+00:21:10,430 --> 00:21:12,920
+types bob geometric figures
+
+456
+00:21:12,920 --> 00:21:13,780
+points
+
+457
+00:21:13,780 --> 00:21:19,770
+lines planes and solids what's the
+definition of a point
+
+458
+00:21:19,770 --> 00:21:23,230
+religion electorate
+
+459
+00:21:23,230 --> 00:21:24,590
+okay
+
+460
+00:21:24,590 --> 00:21:26,840
+is a geological figuring no dimensions
+
+461
+00:21:26,840 --> 00:21:32,230
+k points don't have any dimensions right
+what's the line
+
+462
+00:21:32,230 --> 00:21:36,400
+one dimension if you don't want to
+mention your align
+
+463
+00:21:36,400 --> 00:21:39,299
+planes to dimensions solids three
+dimensions
+
+464
+00:21:39,299 --> 00:21:42,060
+here we have geometric figures
+
+465
+00:21:42,060 --> 00:21:43,970
+arranged a december sets
+
+466
+00:21:43,970 --> 00:21:45,950
+according to the number of dimensions
+
+467
+00:21:45,950 --> 00:21:47,360
+and then we have
+
+468
+00:21:47,360 --> 00:21:51,290
+types of planes like triangles and
+quadrilateral
+
+469
+00:21:51,290 --> 00:21:52,500
+all triangles
+
+470
+00:21:52,500 --> 00:21:56,560
+are two-dimensional figures all
+quadrilateral czar two-dimensional
+
+471
+00:21:56,560 --> 00:22:01,270
+figures but what we've done is we've
+added by defining feature
+
+472
+00:22:01,270 --> 00:22:02,780
+triangles our planes
+
+473
+00:22:02,780 --> 00:22:04,500
+with three fives
+
+474
+00:22:04,500 --> 00:22:06,299
+quadrilateral zz our planes
+
+475
+00:22:06,299 --> 00:22:07,870
+with forrest sawyer
+
+476
+00:22:07,870 --> 00:22:11,820
+and then we have subsets of triangles
+okay
+
+477
+00:22:11,820 --> 00:22:13,980
+what some people lateral triangle
+
+478
+00:22:13,980 --> 00:22:19,030
+what's the definition
+
+479
+00:22:19,030 --> 00:22:23,520
+all sides article altered equal at all
+triangles equal five equal angles i saw
+
+480
+00:22:23,520 --> 00:22:25,410
+sleaze triangles
+
+481
+00:22:25,410 --> 00:22:26,970
+two sides are equal
+
+482
+00:22:26,970 --> 00:22:28,380
+scaling triangles
+
+483
+00:22:28,380 --> 00:22:29,460
+no sides
+
+484
+00:22:29,460 --> 00:22:35,680
+are equal same thing with quadrilateral
+created subsets based on
+
+485
+00:22:35,680 --> 00:22:39,690
+dark features had to do with your
+quality of sides and angles
+
+486
+00:22:39,690 --> 00:22:42,899
+but notice that there is a perfect
+nesting here
+
+487
+00:22:42,899 --> 00:22:47,090
+all equal lateral triangles are
+triangles
+
+488
+00:22:47,090 --> 00:22:51,970
+all triangles our planes at all planes
+are geometric figures
+
+489
+00:22:51,970 --> 00:22:57,580
+it's not the case of equal lateral
+triangles are kinda quadrilateral
+
+490
+00:22:57,580 --> 00:23:01,950
+or that trapezoidal or a kind of solid
+while there are tropical alaska let's
+
+491
+00:23:01,950 --> 00:23:02,809
+not get into
+
+492
+00:23:02,809 --> 00:23:06,900
+uh... was like a tinder that the point
+here is
+
+493
+00:23:06,900 --> 00:23:07,889
+in
+
+494
+00:23:07,889 --> 00:23:12,140
+classification according to proper sets
+
+495
+00:23:12,140 --> 00:23:13,630
+sets can be
+
+496
+00:23:13,630 --> 00:23:16,570
+arrange the hierarchy of subsets and
+super sets
+
+497
+00:23:16,570 --> 00:23:21,690
+by simply adding or subtracting defining
+features we ad
+
+498
+00:23:21,690 --> 00:23:23,880
+defining features
+
+499
+00:23:23,880 --> 00:23:25,330
+triangles and quadrilateral
+
+500
+00:23:25,330 --> 00:23:26,990
+we add defining features
+
+501
+00:23:26,990 --> 00:23:28,630
+to get people lateral
+
+502
+00:23:28,630 --> 00:23:30,800
+and i sasa lease triangles
+
+503
+00:23:30,800 --> 00:23:32,870
+and so on
+
+504
+00:23:32,870 --> 00:23:36,130
+another feature of categories as proper
+sets
+
+505
+00:23:36,130 --> 00:23:39,700
+has to do with the horizontal relations
+
+506
+00:23:39,700 --> 00:23:43,200
+between categories and it follows
+
+507
+00:23:43,200 --> 00:23:47,150
+from the motion of the proper sad
+
+508
+00:23:47,150 --> 00:23:51,539
+he said membership hasn't all along or
+non quality to it
+
+509
+00:23:51,539 --> 00:23:53,350
+you're either indosat
+
+510
+00:23:53,350 --> 00:23:55,360
+or you're not in the set
+
+511
+00:23:55,360 --> 00:23:59,039
+if you're a geometric will figure you're
+either a triangle
+
+512
+00:23:59,039 --> 00:24:01,779
+or a quadrilateral or something else
+
+513
+00:24:01,779 --> 00:24:04,899
+there are no geometrical figures that
+are kind of
+
+514
+00:24:04,899 --> 00:24:08,769
+kind of triangles and kinda
+quadrilateral as you've either scot-free
+
+515
+00:24:08,769 --> 00:24:10,020
+slides and three angles
+
+516
+00:24:10,020 --> 00:24:12,660
+or you don't have three sides in three
+angles
+
+517
+00:24:12,660 --> 00:24:14,950
+you're either in the set or not
+
+518
+00:24:14,950 --> 00:24:16,090
+put another way
+
+519
+00:24:16,090 --> 00:24:18,070
+there are very sharp
+
+520
+00:24:18,070 --> 00:24:18,859
+boundaries
+
+521
+00:24:18,859 --> 00:24:20,799
+between adjacent categories
+
+522
+00:24:20,799 --> 00:24:27,799
+there's a sharp boundary between being a
+triangle indiana quadrilateral yes
+
+523
+00:24:32,940 --> 00:24:34,070
+all okay
+
+524
+00:24:34,070 --> 00:24:39,020
+let's go back to our perfectly dusted
+nesting here okay
+
+525
+00:24:39,020 --> 00:24:41,750
+squares are kinds of rectangles
+
+526
+00:24:41,750 --> 00:24:46,350
+so there's actually a subset here
+depending on how all rectangles
+
+527
+00:24:46,350 --> 00:24:48,420
+have four equal angles
+
+528
+00:24:48,420 --> 00:24:49,590
+okay
+
+529
+00:24:49,590 --> 00:24:53,740
+the difference between a square in the
+not us wareham in that category is what
+
+530
+00:24:53,740 --> 00:24:56,770
+you've got people sides
+
+531
+00:24:56,770 --> 00:24:59,790
+so all squares are rectangles
+
+532
+00:24:59,790 --> 00:25:02,799
+technically all rectangles are parallel
+grams but here
+
+533
+00:25:02,799 --> 00:25:07,670
+i'm talking about there being just two
+parallels uh... unparalleled sides aka
+
+534
+00:25:07,670 --> 00:25:08,940
+rectangles
+
+535
+00:25:08,940 --> 00:25:12,900
+here we have all the subsides parallel
+here we've added another feature
+
+536
+00:25:12,900 --> 00:25:16,139
+albrecht of the simplified diagram do
+you get the idea
+
+537
+00:25:16,139 --> 00:25:17,850
+the bite amin features
+
+538
+00:25:17,850 --> 00:25:20,180
+you create subsets
+
+539
+00:25:20,180 --> 00:25:21,230
+good question
+
+540
+00:25:21,230 --> 00:25:23,700
+let's go back here for a second again
+
+541
+00:25:23,700 --> 00:25:28,570
+if you're a geometrical figure your
+peter all liner a plane or us or a solid
+
+542
+00:25:28,570 --> 00:25:29,850
+or something else
+
+543
+00:25:29,850 --> 00:25:34,410
+because you get a gun general dimensions
+one dimension to or three p
+
+544
+00:25:34,410 --> 00:25:35,659
+if you're a plane
+
+545
+00:25:35,659 --> 00:25:40,200
+you're either a triangle or
+quadrilateral there's no in between
+
+546
+00:25:40,200 --> 00:25:41,559
+if you're a triangle
+
+547
+00:25:41,559 --> 00:25:45,710
+you're either an equal lateral triangle
+or and i saw sleaze triangle or scaling
+
+548
+00:25:45,710 --> 00:25:46,399
+tribal
+
+549
+00:25:46,399 --> 00:25:49,060
+again there's no in between
+
+550
+00:25:49,060 --> 00:25:52,230
+and terms of
+
+551
+00:25:52,230 --> 00:25:54,590
+horizontal relations among adjacent
+categories
+
+552
+00:25:54,590 --> 00:25:56,090
+there's a sharp
+
+553
+00:25:56,090 --> 00:25:56,810
+division
+
+554
+00:25:56,810 --> 00:26:00,320
+between adjacent categories your reader
+and one category
+
+555
+00:26:00,320 --> 00:26:05,200
+or your
+
+556
+00:26:05,200 --> 00:26:07,899
+another feature of categories as proper
+sets
+
+557
+00:26:07,899 --> 00:26:12,740
+is that they have what we call
+homogeneous internal structure
+
+558
+00:26:12,740 --> 00:26:15,230
+by which we mean
+
+559
+00:26:15,230 --> 00:26:18,190
+all instances alta category
+
+560
+00:26:18,190 --> 00:26:22,410
+or equally good instances of a category
+
+561
+00:26:22,410 --> 00:26:23,880
+unequal lateral triangle
+
+562
+00:26:23,880 --> 00:26:26,150
+is a perfectly good triangle
+
+563
+00:26:26,150 --> 00:26:29,750
+because it's got three sides in three
+angles through dimensions
+
+564
+00:26:29,750 --> 00:26:31,530
+and then i saw sleaze triangle
+
+565
+00:26:31,530 --> 00:26:34,860
+is a perfectly good triangle because
+it's got
+
+566
+00:26:34,860 --> 00:26:37,729
+three sides and three angles in two
+dimensions
+
+567
+00:26:37,729 --> 00:26:42,200
+it's not that unequal lateral triangle
+is in some sense of better triangle
+
+568
+00:26:42,200 --> 00:26:42,850
+okay
+
+569
+00:26:42,850 --> 00:26:47,600
+they're different but they are all have
+the same defining features
+
+570
+00:26:47,600 --> 00:26:51,580
+because all members all of a proper set
+
+571
+00:26:51,580 --> 00:26:54,990
+share the same defining features in
+common
+
+572
+00:26:54,990 --> 00:26:56,870
+week improper set theory
+
+573
+00:26:56,870 --> 00:26:59,910
+we consider all instances of a category
+
+574
+00:26:59,910 --> 00:27:04,109
+to be equally representative of that
+category six all sugar
+
+575
+00:27:04,109 --> 00:27:06,070
+the same set
+
+576
+00:27:06,070 --> 00:27:06,730
+defining
+
+577
+00:27:06,730 --> 00:27:08,500
+features
+
+578
+00:27:08,500 --> 00:27:10,250
+so again
+
+579
+00:27:10,250 --> 00:27:13,080
+from the proper said view of
+categorization
+
+580
+00:27:13,080 --> 00:27:17,180
+all logical view account of a recession
+that goes back at least for the time of
+
+581
+00:27:17,180 --> 00:27:17,960
+aristotle
+
+582
+00:27:17,960 --> 00:27:20,630
+we can generate and algorithm
+
+583
+00:27:20,630 --> 00:27:24,380
+for determining category membership of
+an object
+
+584
+00:27:24,380 --> 00:27:27,610
+if you want to define a category
+
+585
+00:27:27,610 --> 00:27:28,919
+all you have to do
+
+586
+00:27:28,919 --> 00:27:30,130
+is to determine
+
+587
+00:27:30,130 --> 00:27:33,160
+what the defining features are of deck
+
+588
+00:27:33,160 --> 00:27:35,310
+all you have to do is to determine
+
+589
+00:27:35,310 --> 00:27:36,640
+what features
+
+590
+00:27:36,640 --> 00:27:39,630
+all category members share in common
+
+591
+00:27:39,630 --> 00:27:42,010
+what features are singly necessary
+
+592
+00:27:42,010 --> 00:27:43,339
+and jointly sufficient
+
+593
+00:27:43,339 --> 00:27:45,970
+to define that category
+
+594
+00:27:45,970 --> 00:27:46,990
+more important
+
+595
+00:27:46,990 --> 00:27:49,760
+if you want to characterize an object
+
+596
+00:27:49,760 --> 00:27:52,270
+the proper said view of categorization
+
+597
+00:27:52,270 --> 00:27:55,720
+gives you an algorithm for doing that as
+well
+
+598
+00:27:55,720 --> 00:27:59,300
+if i hold something awful and say
+
+599
+00:27:59,300 --> 00:28:02,850
+is this an envelope
+
+600
+00:28:02,850 --> 00:28:04,980
+then what you do is
+
+601
+00:28:04,980 --> 00:28:09,750
+first you analyze the features of the
+object to use your perceptual apparatus
+
+602
+00:28:09,750 --> 00:28:13,029
+to figure out what the features or the
+object
+
+603
+00:28:13,029 --> 00:28:13,500
+then
+
+604
+00:28:13,500 --> 00:28:15,350
+you retrieved from memory
+
+605
+00:28:15,350 --> 00:28:21,270
+your knowledge of the defining features
+of that category and then you simply
+
+606
+00:28:21,270 --> 00:28:26,820
+match the features of the object the
+perceived features of the object
+
+607
+00:28:26,820 --> 00:28:30,700
+defining features of the category
+represented in memory and if there's a
+
+608
+00:28:30,700 --> 00:28:33,870
+match usse yes this is a member
+
+609
+00:28:33,870 --> 00:28:34,800
+okay
+
+610
+00:28:34,800 --> 00:28:37,880
+so if i show you an object i say is this
+an automobile
+
+611
+00:28:37,880 --> 00:28:42,500
+you look for things like four wheels and
+internal combustion engine and this and
+
+612
+00:28:42,500 --> 00:28:47,270
+that you say audience it has all the
+features or mobile so i'm going to call
+
+613
+00:28:47,270 --> 00:28:48,909
+it an automobile
+
+614
+00:28:48,909 --> 00:28:51,160
+this isn't algorithm
+
+615
+00:28:51,160 --> 00:28:55,710
+the pro if the problem of categorization
+of soluble if there's an answer to the
+
+616
+00:28:55,710 --> 00:28:56,269
+question
+
+617
+00:28:56,269 --> 00:29:02,879
+is x a member of category wayy applying
+this kind of algorithm where you simply
+
+618
+00:29:02,879 --> 00:29:04,279
+match the features up
+
+619
+00:29:04,279 --> 00:29:05,779
+all in terms of diff
+
+620
+00:29:05,779 --> 00:29:07,500
+in features
+
+621
+00:29:07,500 --> 00:29:08,770
+tell you
+
+622
+00:29:08,770 --> 00:29:10,630
+an object is a member of
+
+623
+00:29:10,630 --> 00:29:14,820
+the category or
+
+624
+00:29:14,820 --> 00:29:15,809
+are again
+
+625
+00:29:15,809 --> 00:29:17,260
+if you're
+
+626
+00:29:17,260 --> 00:29:19,990
+want to know whether or not ject is a
+triangle
+
+627
+00:29:19,990 --> 00:29:21,179
+see if it's a plane
+
+628
+00:29:21,179 --> 00:29:24,940
+see that's got three sides see the sky
+three angles of a dozen triangle that's
+
+629
+00:29:24,940 --> 00:29:26,860
+the end of it
+
+630
+00:29:26,860 --> 00:29:30,080
+and you will
+
+631
+00:29:30,080 --> 00:29:30,980
+so again
+
+632
+00:29:30,980 --> 00:29:33,400
+from this point of view
+
+633
+00:29:33,400 --> 00:29:36,970
+categorization is fundamental cognitive
+problem
+
+634
+00:29:36,970 --> 00:29:37,859
+is something
+
+635
+00:29:37,859 --> 00:29:40,409
+that can be solved by the application
+
+636
+00:29:40,409 --> 00:29:41,690
+of a
+
+637
+00:29:41,690 --> 00:29:42,390
+single
+
+638
+00:29:42,390 --> 00:29:44,060
+are simple algorithm
+
+639
+00:29:44,060 --> 00:29:47,529
+and of course if that were true i
+wouldn't have spent so much time
+
+640
+00:29:47,529 --> 00:29:48,690
+described in this
+
+641
+00:29:48,690 --> 00:29:49,320
+turns out
+
+642
+00:29:49,320 --> 00:29:50,500
+but there are some
+
+643
+00:29:50,500 --> 00:29:52,200
+serious problems
+
+644
+00:29:52,200 --> 00:29:53,630
+the classical view
+
+645
+00:29:53,630 --> 00:29:56,790
+of categories as proper sets
+
+646
+00:29:56,790 --> 00:29:58,210
+in the first place
+
+647
+00:29:58,210 --> 00:30:00,900
+there are some
+
+648
+00:30:00,900 --> 00:30:01,940
+categories
+
+649
+00:30:01,940 --> 00:30:04,779
+that have what part did better known as
+
+650
+00:30:04,779 --> 00:30:06,390
+disjunctive categories
+
+651
+00:30:06,390 --> 00:30:08,120
+peter because
+
+652
+00:30:08,120 --> 00:30:09,600
+objects in the categories
+
+653
+00:30:09,600 --> 00:30:13,490
+do not necessarily share features in
+common
+
+654
+00:30:13,490 --> 00:30:15,669
+there's one very familiar example
+
+655
+00:30:15,669 --> 00:30:17,049
+and that's the strike
+
+656
+00:30:17,049 --> 00:30:20,290
+in baseball who's a baseball fan here
+
+657
+00:30:20,290 --> 00:30:27,290
+how do you define a strike in baseball
+
+658
+00:30:30,730 --> 00:30:37,730
+no but we're talking about the within
+the game
+
+659
+00:30:41,059 --> 00:30:42,870
+pitch has to cross the plate
+
+660
+00:30:42,870 --> 00:30:46,480
+and it also has to be at a particular
+hike that has to be roughly from the
+
+661
+00:30:46,480 --> 00:30:49,460
+needs of the batter to roughly though
+armpits
+
+662
+00:30:49,460 --> 00:30:51,200
+all that ur okay
+
+663
+00:30:51,200 --> 00:30:54,169
+that's one definition of a strike what's
+another definition the strike
+
+664
+00:30:54,169 --> 00:30:55,409
+in baseball
+
+665
+00:30:55,409 --> 00:30:57,850
+dot the only definition yes
+
+666
+00:30:57,850 --> 00:30:59,730
+a fireball okay
+
+667
+00:30:59,730 --> 00:31:01,269
+fobel's also a strike
+
+668
+00:31:01,269 --> 00:31:02,900
+what's another
+
+669
+00:31:02,900 --> 00:31:06,460
+definition of a strike
+
+670
+00:31:06,460 --> 00:31:09,720
+are swimming in a message does it matter
+whether a crosses the plate if you swing
+
+671
+00:31:09,720 --> 00:31:10,570
+and miss
+
+672
+00:31:10,570 --> 00:31:13,260
+that's also a strike
+
+673
+00:31:13,260 --> 00:31:17,110
+i don't know what that is
+
+674
+00:31:17,110 --> 00:31:19,360
+what else are what else gets called a
+strike
+
+675
+00:31:19,360 --> 00:31:25,740
+in baseball
+
+676
+00:31:25,740 --> 00:31:29,970
+it's a strike if the umpires says it's a
+strike
+
+677
+00:31:29,970 --> 00:31:30,389
+project
+
+678
+00:31:30,389 --> 00:31:32,890
+so now we got for different things
+
+679
+00:31:32,890 --> 00:31:37,450
+they are all strikes in baseball than or
+equal under the category of strike they
+
+680
+00:31:37,450 --> 00:31:39,640
+have no features in common
+
+681
+00:31:39,640 --> 00:31:41,720
+okay no features in common
+
+682
+00:31:41,720 --> 00:31:45,320
+so this is an example of a disjunctive
+category
+
+683
+00:31:45,320 --> 00:31:48,269
+another example somewhat less familiar
+to many people
+
+684
+00:31:48,269 --> 00:31:52,440
+is the category of jazz often call form
+of music
+
+685
+00:31:52,440 --> 00:31:59,440
+what's the definition of jazz
+
+686
+00:32:04,020 --> 00:32:11,020
+yeah but what is jet what what what kind
+of music and jazz music
+
+687
+00:32:21,230 --> 00:32:25,490
+lots of that's a theory about what jazz
+means in creole that's right on to have
+
+688
+00:32:25,490 --> 00:32:29,090
+sex on we're not going to her okay
+
+689
+00:32:29,090 --> 00:32:31,919
+bargain jazz turns out to be very
+difficult to define
+
+690
+00:32:31,919 --> 00:32:36,440
+we think about jazz is a form of music
+that's based on improvisation
+
+691
+00:32:36,440 --> 00:32:40,770
+but church organist improvise when they
+play bach so that's not
+
+692
+00:32:40,770 --> 00:32:42,510
+singly necessary
+
+693
+00:32:42,510 --> 00:32:47,370
+also we think about jazz has been based
+in a musical form known as blues twelve
+
+694
+00:32:47,370 --> 00:32:50,550
+bar blues were calling response although
+format
+
+695
+00:32:50,550 --> 00:32:53,240
+but there it for some forms of jazz like
+swing
+
+696
+00:32:53,240 --> 00:32:55,240
+that are bluesy role
+
+697
+00:32:55,240 --> 00:32:59,159
+also there and get them we have a
+disjunctive category here
+
+698
+00:32:59,159 --> 00:33:00,330
+there are
+
+699
+00:33:00,330 --> 00:33:02,659
+piece of the music that are classified
+as jazz
+
+700
+00:33:02,659 --> 00:33:05,050
+that don't have any features in common
+
+701
+00:33:05,050 --> 00:33:07,110
+the fact
+
+702
+00:33:07,110 --> 00:33:10,540
+have a category like the strike in
+baseball
+
+703
+00:33:10,540 --> 00:33:13,450
+but it's not
+
+704
+00:33:13,450 --> 00:33:16,470
+characterized in terms of singly
+necessary in jointly support and
+
+705
+00:33:16,470 --> 00:33:17,529
+defining features
+
+706
+00:33:17,529 --> 00:33:18,570
+is a problem
+
+707
+00:33:18,570 --> 00:33:22,289
+with the classical view of categories as
+proper sense
+
+708
+00:33:22,289 --> 00:33:23,750
+here's another problem
+
+709
+00:33:23,750 --> 00:33:25,470
+there are many
+
+710
+00:33:25,470 --> 00:33:26,180
+objects
+
+711
+00:33:26,180 --> 00:33:30,280
+where whose category membership is on
+clear
+
+712
+00:33:30,280 --> 00:33:37,280
+for example if i ask you is or rocket an
+article of furniture
+
+713
+00:33:37,580 --> 00:33:40,940
+who says rug is an article of furniture
+
+714
+00:33:40,940 --> 00:33:43,200
+who says it isn't
+
+715
+00:33:43,200 --> 00:33:44,670
+see there you go
+
+716
+00:33:44,670 --> 00:33:47,310
+you know what what is
+
+717
+00:33:47,310 --> 00:33:49,980
+everybody or not everybody can override
+his
+
+718
+00:33:49,980 --> 00:33:52,900
+everybody here know what article for
+nurturers
+
+719
+00:33:52,900 --> 00:33:55,180
+how com you can tell me
+
+720
+00:33:55,180 --> 00:33:58,980
+how come there's disagreement about
+whether a broad is an article of
+
+721
+00:33:58,980 --> 00:34:00,510
+furniture
+
+722
+00:34:00,510 --> 00:34:07,510
+similarly is a pickle a vegetable
+
+723
+00:34:08,579 --> 00:34:13,200
+well yeah i think pickles a vegetable
+but you don't really like serena pickles
+
+724
+00:34:13,200 --> 00:34:17,230
+the finished rolled right it's not like
+broccoli or green beans at something
+
+725
+00:34:17,230 --> 00:34:18,120
+like that
+
+726
+00:34:18,120 --> 00:34:22,049
+in fact the reagan administration got
+into a great deal of trouble
+
+727
+00:34:22,049 --> 00:34:26,029
+whenever brady should rules for school
+lunches in which they classified pickle
+
+728
+00:34:26,029 --> 00:34:29,549
+relish as a vegetable
+
+729
+00:34:29,549 --> 00:34:32,839
+augsburg for purposes of counting
+whether kids were getting bashed ables
+
+730
+00:34:32,839 --> 00:34:33,589
+or not
+
+731
+00:34:33,589 --> 00:34:34,790
+so i can
+
+732
+00:34:34,790 --> 00:34:39,990
+one of the problems here is that there
+are many familiar categories
+
+733
+00:34:39,990 --> 00:34:41,919
+and many familiar objects
+
+734
+00:34:41,919 --> 00:34:45,429
+whose category membership is on clear
+
+735
+00:34:45,429 --> 00:34:46,770
+this is actually
+
+736
+00:34:46,770 --> 00:34:50,859
+the source of an important of a very
+interesting legal problem
+
+737
+00:34:50,859 --> 00:34:53,320
+bad weather a tomato is a fruit a
+revenge triple
+
+738
+00:34:53,320 --> 00:34:55,999
+who says it's meals a fruit
+
+739
+00:34:55,999 --> 00:34:58,809
+who says a tomatoes a vegetable
+
+740
+00:34:58,809 --> 00:35:01,720
+asi there is another one
+
+741
+00:35:01,720 --> 00:35:06,270
+indeed terrorist activity american
+tariff act of eighteen thirty three
+
+742
+00:35:06,270 --> 00:35:10,950
+all of the imposed a double duty import
+duty on vegetables imported to this
+
+743
+00:35:10,950 --> 00:35:13,559
+country in their natural state
+
+744
+00:35:13,559 --> 00:35:16,279
+but there was no duty on fruits
+
+745
+00:35:16,279 --> 00:35:19,459
+the customs collector for the port of
+new york
+
+746
+00:35:19,459 --> 00:35:23,609
+declared tomatoes to be vegetables for
+the purposes of collecting
+
+747
+00:35:23,609 --> 00:35:26,199
+all of this import duty
+
+748
+00:35:26,199 --> 00:35:30,799
+i swear this is true there was an
+organizational as the international
+
+749
+00:35:30,799 --> 00:35:33,739
+tomato cartel
+
+750
+00:35:33,739 --> 00:35:37,260
+which so would it be customs collector
+for the port of new york
+
+751
+00:35:37,260 --> 00:35:40,719
+claiming the tomatoes were fruits and
+therefore not subject
+
+752
+00:35:40,719 --> 00:35:42,400
+to this import duty
+
+753
+00:35:42,400 --> 00:35:46,129
+a case of went all the way to the
+supreme court
+
+754
+00:35:46,129 --> 00:35:50,379
+fair in a decision written by mister
+just as great
+
+755
+00:35:50,379 --> 00:35:54,599
+he concluded that but honestly speaking
+tomatoes are the fruit of the ball
+
+756
+00:35:54,599 --> 00:35:55,719
+bovine
+
+757
+00:35:55,719 --> 00:35:57,970
+but in the common language of the people
+
+758
+00:35:57,970 --> 00:36:03,560
+these are all vegetable like potatoes
+carrots and lettuce usually served at
+
+759
+00:36:03,560 --> 00:36:05,559
+dinner in the width or after
+
+760
+00:36:05,559 --> 00:36:07,299
+the small fisherman's
+
+761
+00:36:07,299 --> 00:36:10,250
+which constitute the principal part of
+the repairs
+
+762
+00:36:10,250 --> 00:36:11,950
+and not as fruits
+
+763
+00:36:11,950 --> 00:36:16,559
+generally hasn't developed
+
+764
+00:36:16,559 --> 00:36:18,229
+when you look at it
+
+765
+00:36:18,229 --> 00:36:20,220
+what you see that
+
+766
+00:36:20,220 --> 00:36:26,049
+justice gray is not alkaline thought
+proper set notion of categorization here
+
+767
+00:36:26,049 --> 00:36:26,670
+okay
+
+768
+00:36:26,670 --> 00:36:28,479
+he's the clarion
+
+769
+00:36:28,479 --> 00:36:31,089
+tomatoes to be vegetables
+
+770
+00:36:31,089 --> 00:36:32,569
+even though you know once
+
+771
+00:36:32,569 --> 00:36:34,859
+that vegetables or fruits
+
+772
+00:36:34,859 --> 00:36:38,329
+and why is he declaring tomatoes to be
+vegetables
+
+773
+00:36:38,329 --> 00:36:42,219
+because we're treat them as vegetables
+they seem to go with vegetables you put
+
+774
+00:36:42,219 --> 00:36:49,219
+tomatoes on your cell that you do output
+tomatoes on your cornflakes
+
+775
+00:36:49,440 --> 00:36:54,640
+we concert tomatoes to be vegetables on
+but that although on and and that's and
+
+776
+00:36:54,640 --> 00:36:57,299
+that's basically the way it is
+
+777
+00:36:57,299 --> 00:36:58,619
+what u
+
+778
+00:36:58,619 --> 00:37:01,409
+one other point one of the problems with
+this
+
+779
+00:37:01,409 --> 00:37:03,490
+proper set view of categorization
+
+780
+00:37:03,490 --> 00:37:07,099
+is that it's sometimes very difficult to
+specify
+
+781
+00:37:07,099 --> 00:37:10,420
+the defining features all of
+
+782
+00:37:10,420 --> 00:37:12,409
+categories that are familiar to us
+
+783
+00:37:12,409 --> 00:37:16,329
+we use certain categories all the time
+but if you put a gun you're head and
+
+784
+00:37:16,329 --> 00:37:20,819
+said tell me what the segue necessary in
+jointly sufficient defining features are
+
+785
+00:37:20,819 --> 00:37:23,319
+you would have a lot of difficulty
+
+786
+00:37:23,319 --> 00:37:26,679
+the classic example is the concept of
+game
+
+787
+00:37:26,679 --> 00:37:31,529
+of want something that the philosopher
+victim stein worried about a lot if u
+
+788
+00:37:31,529 --> 00:37:32,279
+workup
+
+789
+00:37:32,279 --> 00:37:34,870
+detainment in the are dictionary
+
+790
+00:37:34,870 --> 00:37:37,230
+you find it defined as
+
+791
+00:37:37,230 --> 00:37:41,920
+competitive physical or mental activity
+engaged in for amusement
+
+792
+00:37:41,920 --> 00:37:43,049
+okay
+
+793
+00:37:43,049 --> 00:37:44,550
+which is fine
+
+794
+00:37:44,550 --> 00:37:48,089
+except that there are lots of things
+that we classify his games that don't
+
+795
+00:37:48,089 --> 00:37:50,650
+fit this at this uh... definition
+
+796
+00:37:50,650 --> 00:37:53,150
+likes solitaire
+
+797
+00:37:53,150 --> 00:37:55,259
+solitaire there's no competition
+
+798
+00:37:55,259 --> 00:38:02,069
+you're not even competing with yourself
+rated sensitivities
+
+799
+00:38:02,069 --> 00:38:05,109
+their children's game of women around
+the rosy
+
+800
+00:38:05,109 --> 00:38:06,200
+has no winner
+
+801
+00:38:06,200 --> 00:38:10,780
+you can't win ring around the rosy right
+now just it's not possible to bring it
+
+802
+00:38:10,780 --> 00:38:12,379
+uh... yet
+
+803
+00:38:12,379 --> 00:38:16,800
+children play this game hours and hours
+and hours on end
+
+804
+00:38:16,800 --> 00:38:19,759
+and then you can take something like
+professional football
+
+805
+00:38:19,759 --> 00:38:20,670
+which is not
+
+806
+00:38:20,670 --> 00:38:22,939
+a source of amusement
+
+807
+00:38:22,939 --> 00:38:25,970
+its work it's hard work people get hurt
+
+808
+00:38:25,970 --> 00:38:27,210
+and so on
+
+809
+00:38:27,210 --> 00:38:31,720
+are there's nothing funny about
+professional of nothing funny about
+
+810
+00:38:31,720 --> 00:38:32,829
+professional football
+
+811
+00:38:32,829 --> 00:38:37,199
+so i can the prod the point here
+
+812
+00:38:37,199 --> 00:38:39,690
+sometimes very difficult to specify
+
+813
+00:38:39,690 --> 00:38:44,609
+just what it is that makes a game a gain
+
+814
+00:38:44,609 --> 00:38:46,799
+nevertheless this is a concept
+
+815
+00:38:46,799 --> 00:38:48,849
+that we use quite frequently
+
+816
+00:38:48,849 --> 00:38:51,289
+it's a concept with which were all
+
+817
+00:38:51,289 --> 00:38:52,280
+are familiar
+
+818
+00:38:52,280 --> 00:38:53,829
+here's a more recent example
+
+819
+00:38:53,829 --> 00:38:55,969
+the concept of planet
+
+820
+00:38:55,969 --> 00:38:57,940
+you looked that up in the dictionary
+
+821
+00:38:57,940 --> 00:38:59,950
+and you see planets defined as
+
+822
+00:38:59,950 --> 00:39:06,150
+a celestial body that revolves around a
+star but does not revolve around another
+
+823
+00:39:06,150 --> 00:39:08,279
+celestial
+
+824
+00:39:08,279 --> 00:39:12,939
+that's a perfectly fine definition
+planet except when you start considering
+
+825
+00:39:12,939 --> 00:39:16,210
+that there are lots of things that seem
+to meet this definition
+
+826
+00:39:16,210 --> 00:39:18,170
+that we don't want to call planets
+
+827
+00:39:18,170 --> 00:39:19,540
+like need yours
+
+828
+00:39:19,540 --> 00:39:23,919
+okay which revolve around celestial body
+okay
+
+829
+00:39:23,919 --> 00:39:25,319
+fine
+
+830
+00:39:25,319 --> 00:39:29,539
+but we're not going to admit media risk
+into the category of planets
+
+831
+00:39:29,539 --> 00:39:30,760
+comets too
+
+832
+00:39:30,760 --> 00:39:31,450
+okay
+
+833
+00:39:31,450 --> 00:39:35,290
+and then they are objects in our solar
+system like series which is as big a
+
+834
+00:39:35,290 --> 00:39:38,319
+hunger rock out there between jupiter
+and saturn
+
+835
+00:39:38,319 --> 00:39:43,789
+all and this anew a planet dot sometimes
+known as veto
+
+836
+00:39:43,789 --> 00:39:50,789
+all that all of the orbit so i won't be
+on the orbit all vocal pluto
+
+837
+00:39:50,819 --> 00:39:53,010
+discovery of series ends in a row
+
+838
+00:39:53,010 --> 00:39:57,199
+created a definitional crisis for
+restaurant owners
+
+839
+00:39:57,199 --> 00:40:00,489
+because they will realize that the
+concept of planet that they've been
+
+840
+00:40:00,489 --> 00:40:05,690
+working with since the time for the
+astrologers just didn't work any longer
+
+841
+00:40:05,690 --> 00:40:06,819
+okay
+
+842
+00:40:06,819 --> 00:40:07,530
+although
+
+843
+00:40:07,530 --> 00:40:13,300
+and especially have this problem of or
+pluto pluto just doesn't look like any
+
+844
+00:40:13,300 --> 00:40:15,219
+of the other planets okay
+
+845
+00:40:15,219 --> 00:40:17,279
+it's real small
+
+846
+00:40:17,279 --> 00:40:19,950
+it's very far-out in the solar system
+
+847
+00:40:19,950 --> 00:40:25,100
+it has is very wierd orbit but doesn't
+look like any of the other orbits uh...
+
+848
+00:40:25,100 --> 00:40:25,959
+in nam
+
+849
+00:40:25,959 --> 00:40:28,299
+uh... of the home of the planets
+
+850
+00:40:28,299 --> 00:40:30,029
+so we have these objects
+
+851
+00:40:30,029 --> 00:40:33,469
+that fit the definition of a plan of a
+planet but we don't want to call them
+
+852
+00:40:33,469 --> 00:40:34,890
+plucked
+
+853
+00:40:34,890 --> 00:40:37,839
+and then we have this object that we
+call a planet
+
+854
+00:40:37,839 --> 00:40:40,669
+that doesn't really fit the definition
+of
+
+855
+00:40:40,669 --> 00:40:42,089
+the category
+
+856
+00:40:42,089 --> 00:40:44,799
+so what happened couple years ago
+
+857
+00:40:44,799 --> 00:40:46,030
+actually last year
+
+858
+00:40:46,030 --> 00:40:50,800
+all the concept of planet god redefine
+they were actually fist fights at the
+
+859
+00:40:50,800 --> 00:40:52,880
+international astronomical union
+
+860
+00:40:52,880 --> 00:40:55,159
+about how to define planet
+
+861
+00:40:55,159 --> 00:40:56,760
+also we now have
+
+862
+00:40:56,760 --> 00:40:57,990
+plan is defined as
+
+863
+00:40:57,990 --> 00:41:00,809
+an object that orbits the sun
+
+864
+00:41:00,809 --> 00:41:05,409
+with enough gravity to compress its
+fears with that gets rid of series which
+
+865
+00:41:05,409 --> 00:41:07,170
+is not spherical
+
+866
+00:41:07,170 --> 00:41:11,059
+and enough gravity to clear it's orval
+neighborhood that gets reduced our
+
+867
+00:41:11,059 --> 00:41:13,799
+series but it also go through pluto
+
+868
+00:41:13,799 --> 00:41:14,630
+okay
+
+869
+00:41:14,630 --> 00:41:17,150
+also the pluto is no longer a planet
+
+870
+00:41:17,150 --> 00:41:19,070
+because it doesn't have enough gravity
+
+871
+00:41:19,070 --> 00:41:20,880
+to clear it so
+
+872
+00:41:20,880 --> 00:41:23,049
+it's horrible on the neighborhood
+
+873
+00:41:23,049 --> 00:41:27,550
+this is a problem that is still being
+confronted by astronomers okay
+
+874
+00:41:27,550 --> 00:41:31,599
+the next meeting of the international
+astronomical union two thousand nine
+
+875
+00:41:31,599 --> 00:41:35,019
+is going to take up the definition of a
+planet again
+
+876
+00:41:35,019 --> 00:41:41,079
+now astronomers have been doing their
+business for or really long time
+
+877
+00:41:41,079 --> 00:41:45,259
+and they still can't figure out what a
+planet is
+
+878
+00:41:45,259 --> 00:41:48,049
+this is not a criticism of astronomers
+
+879
+00:41:48,049 --> 00:41:53,819
+this is just a really good example of
+how sometimes it's very difficult to
+
+880
+00:41:53,819 --> 00:41:54,399
+specify
+
+881
+00:41:54,399 --> 00:41:56,969
+the defining features
+
+882
+00:41:56,969 --> 00:41:58,339
+categories
+
+883
+00:41:58,339 --> 00:41:59,680
+yet another problem
+
+884
+00:41:59,680 --> 00:42:03,880
+with these traditional definition of
+categories categorization
+
+885
+00:42:03,880 --> 00:42:07,450
+is a phenomenon known as in perfect
+nesting
+
+886
+00:42:07,450 --> 00:42:11,139
+think about are nicely nested
+
+887
+00:42:11,139 --> 00:42:15,930
+categorization of animals and a fish and
+birds and birds into
+
+888
+00:42:15,930 --> 00:42:17,380
+examples of birds
+
+889
+00:42:17,380 --> 00:42:21,539
+subtypes likes peril and chicken
+
+890
+00:42:21,539 --> 00:42:24,219
+according too
+
+891
+00:42:24,219 --> 00:42:26,420
+proper said fuel categorization
+
+892
+00:42:26,420 --> 00:42:27,719
+it should be
+
+893
+00:42:27,719 --> 00:42:32,809
+it's easiest to identify an object as an
+instance of a
+
+894
+00:42:32,809 --> 00:42:34,330
+closely adjacent category
+
+895
+00:42:34,330 --> 00:42:38,459
+so it turns out to be easier to identify
+this peril as a bird
+
+896
+00:42:38,459 --> 00:42:41,649
+that it is to identify a sparrow as an
+animal
+
+897
+00:42:41,649 --> 00:42:46,969
+subjects will take less time to identify
+a sparrow as a bird than they will
+
+898
+00:42:46,969 --> 00:42:48,180
+identify espero
+
+899
+00:42:48,180 --> 00:42:49,349
+as an animal
+
+900
+00:42:49,349 --> 00:42:51,979
+because these categories or further away
+
+901
+00:42:51,979 --> 00:42:56,989
+but quite the opposite happens when u_s_
+people dot chickens
+
+902
+00:42:56,989 --> 00:42:59,970
+people have a lot of difficulty they
+take a long time
+
+903
+00:42:59,970 --> 00:43:01,469
+to identify a chicken
+
+904
+00:43:01,469 --> 00:43:02,470
+as a bird
+
+905
+00:43:02,470 --> 00:43:04,550
+but they take a look at least short time
+
+906
+00:43:04,550 --> 00:43:08,089
+to identify of chicken as an animal
+
+907
+00:43:08,089 --> 00:43:09,570
+part of the other way
+
+908
+00:43:09,570 --> 00:43:10,829
+chechans
+
+909
+00:43:10,829 --> 00:43:16,329
+are represented mentally as animals but
+not as birds even doctrines are birds
+
+910
+00:43:16,329 --> 00:43:17,869
+the concept of chicken
+
+911
+00:43:17,869 --> 00:43:20,339
+is in perfectly nested
+
+912
+00:43:20,339 --> 00:43:23,940
+the category
+
+913
+00:43:23,940 --> 00:43:26,609
+and then finally related to this
+
+914
+00:43:26,609 --> 00:43:30,659
+we have variations in what's known as
+typical ality
+
+915
+00:43:30,659 --> 00:43:33,529
+uh... in the home elegant inn
+categorization
+
+916
+00:43:33,529 --> 00:43:36,479
+i've already alluded to one of these
+variations
+
+917
+00:43:36,479 --> 00:43:42,659
+pluto just doesn't seem to be like the
+other planets ok it's not a typical
+
+918
+00:43:42,659 --> 00:43:43,659
+planet
+
+919
+00:43:43,659 --> 00:43:47,119
+mars and venus and jupiter their typical
+planets
+
+920
+00:43:47,119 --> 00:43:47,880
+similarly
+
+921
+00:43:47,880 --> 00:43:52,239
+if u_s_ people what up to two name
+typical birds
+
+922
+00:43:52,239 --> 00:43:53,530
+build name
+
+923
+00:43:53,530 --> 00:43:56,699
+words like sparrows and robbins and
+evils
+
+924
+00:43:56,699 --> 00:43:58,800
+but they will not name
+
+925
+00:43:58,800 --> 00:44:00,040
+words like
+
+926
+00:44:00,040 --> 00:44:00,509
+chickens
+
+927
+00:44:00,509 --> 00:44:01,890
+and aust riches
+
+928
+00:44:01,890 --> 00:44:04,399
+and penguins
+
+929
+00:44:04,399 --> 00:44:07,430
+even though they're all warm blue
+blooded vertebrates
+
+930
+00:44:07,430 --> 00:44:10,539
+with feathers and wings
+
+931
+00:44:10,539 --> 00:44:13,119
+valuation untypical ality
+
+932
+00:44:13,119 --> 00:44:16,019
+among the members all the category
+
+933
+00:44:16,019 --> 00:44:17,920
+creates problems for them
+
+934
+00:44:17,920 --> 00:44:20,259
+proper said view of categorization
+
+935
+00:44:20,259 --> 00:44:21,180
+because
+
+936
+00:44:21,180 --> 00:44:25,069
+from not point of view of the proper
+said fuel categorization
+
+937
+00:44:25,069 --> 00:44:26,710
+categories are homogeneous
+
+938
+00:44:26,710 --> 00:44:29,900
+all instances of a category are equally
+glued
+
+939
+00:44:29,900 --> 00:44:31,680
+members of what category
+
+940
+00:44:31,680 --> 00:44:35,089
+but that's evidently not true everybody
+agrees
+
+941
+00:44:35,089 --> 00:44:38,770
+that a sparrow is a better example of
+the category bird
+
+942
+00:44:38,770 --> 00:44:40,389
+than it should do this
+
+943
+00:44:40,389 --> 00:44:42,140
+okay everybody agrees about that
+
+944
+00:44:42,140 --> 00:44:46,379
+a sparrow is simply a more a birdie bird
+
+945
+00:44:46,379 --> 00:44:47,739
+then triggered this
+
+946
+00:44:47,739 --> 00:44:51,299
+here is some data collected by the
+barclays own eleanor rauscher was a
+
+947
+00:44:51,299 --> 00:44:52,960
+pioneer
+
+948
+00:44:52,960 --> 00:44:56,169
+involved would lead us to change our
+understanding of categories
+
+949
+00:44:56,169 --> 00:44:58,489
+here are some typical
+
+950
+00:44:58,489 --> 00:45:03,839
+categories furniture vegetable bird and
+fruit she presented her subjects with
+
+951
+00:45:03,839 --> 00:45:05,340
+instances of these categories
+
+952
+00:45:05,340 --> 00:45:07,349
+and simply as subjects to rape
+
+953
+00:45:07,349 --> 00:45:09,440
+howard an example
+
+954
+00:45:09,440 --> 00:45:11,619
+each of these instances
+
+955
+00:45:11,619 --> 00:45:13,330
+so that people think chair
+
+956
+00:45:13,330 --> 00:45:15,709
+is a really good example of our of
+
+957
+00:45:15,709 --> 00:45:16,950
+of furniture
+
+958
+00:45:16,950 --> 00:45:19,429
+but ashtray he is not
+
+959
+00:45:19,429 --> 00:45:23,410
+abroad gets a very
+
+960
+00:45:23,410 --> 00:45:27,589
+pete and corn there are very good
+examples a vegetable
+
+961
+00:45:27,589 --> 00:45:29,300
+tomato is a pretty good example
+
+962
+00:45:29,300 --> 00:45:33,219
+all vegetable remember tomatoes not
+vegetable
+
+963
+00:45:33,219 --> 00:45:33,999
+okay
+
+964
+00:45:33,999 --> 00:45:38,439
+but we think tomato was a much better
+example vegetables in a pickle is
+
+965
+00:45:38,439 --> 00:45:40,960
+for example all and fruit
+
+966
+00:45:40,960 --> 00:45:44,700
+okay we actually think a pickle has a
+better example of fruit
+
+967
+00:45:44,700 --> 00:45:46,940
+then a tomato is
+
+968
+00:45:46,940 --> 00:45:52,179
+on here bird sparrow was a much better
+example rate a much better example of
+
+969
+00:45:52,179 --> 00:45:53,630
+then chicken is
+
+970
+00:45:53,630 --> 00:45:57,249
+now you can say okay what he's a weird
+categories
+
+971
+00:45:57,249 --> 00:46:02,829
+here it is work cargo right your own
+textbooks author andrea lilac live and
+
+972
+00:46:02,829 --> 00:46:05,019
+work in the decline of our graduate
+student
+
+973
+00:46:05,019 --> 00:46:06,699
+where we take examples
+
+974
+00:46:06,699 --> 00:46:10,539
+of categories that are clearly proper
+sets
+
+975
+00:46:10,539 --> 00:46:13,440
+and again present subjects with examples
+of them
+
+976
+00:46:13,440 --> 00:46:17,249
+and ask them to raise how puttin example
+they are
+
+977
+00:46:17,249 --> 00:46:18,099
+subjects think
+
+978
+00:46:18,099 --> 00:46:23,930
+that the number four is a better example
+of the category even number
+
+979
+00:46:23,930 --> 00:46:24,640
+then the number-two
+
+980
+00:46:24,640 --> 00:46:26,869
+annul sixes
+
+981
+00:46:26,869 --> 00:46:30,040
+they think that the number three is a
+better example
+
+982
+00:46:30,040 --> 00:46:32,009
+of the category pod number
+
+983
+00:46:32,009 --> 00:46:35,299
+than the number four hundred and forty
+seven is
+
+984
+00:46:35,299 --> 00:46:39,769
+they think the squares and rectangles
+are better examples of plane geometry
+
+985
+00:46:39,769 --> 00:46:40,319
+figures
+
+986
+00:46:40,319 --> 00:46:42,069
+denny ellipses are
+
+987
+00:46:42,069 --> 00:46:44,239
+and i think that mothers and housewives
+
+988
+00:46:44,239 --> 00:46:48,580
+are better examples of the category
+female then princesses
+
+989
+00:46:48,580 --> 00:46:51,019
+or police women are
+
+990
+00:46:51,019 --> 00:46:53,359
+all of these instances
+
+991
+00:46:53,359 --> 00:46:54,379
+jerry incumbent
+
+992
+00:46:54,379 --> 00:46:59,919
+the singling necessary and jointly
+sufficient defining features of category
+
+993
+00:46:59,919 --> 00:47:00,829
+membership
+
+994
+00:47:00,829 --> 00:47:03,400
+and everybody recognizes that
+
+995
+00:47:03,400 --> 00:47:06,220
+everybody recognizes that these are that
+these are
+
+996
+00:47:06,220 --> 00:47:08,949
+classic instances a proper sense
+
+997
+00:47:08,949 --> 00:47:10,909
+nevertheless
+
+998
+00:47:10,909 --> 00:47:12,259
+people
+
+999
+00:47:12,259 --> 00:47:13,859
+perceive
+
+1000
+00:47:13,859 --> 00:47:15,549
+differences into the calorie
+
+1001
+00:47:15,549 --> 00:47:19,110
+within these categories that she would
+not occur
+
+1002
+00:47:19,110 --> 00:47:22,880
+if we think about categories and proper
+sense
+
+1003
+00:47:22,880 --> 00:47:24,469
+why does this happen
+
+1004
+00:47:24,469 --> 00:47:28,849
+the factors of here's another good
+example this or ed smith and his
+
+1005
+00:47:28,849 --> 00:47:29,450
+colleagues
+
+1006
+00:47:29,450 --> 00:47:32,150
+as subjects to classify
+
+1007
+00:47:32,150 --> 00:47:37,839
+highly typical medium for the kelly a
+low typical objects
+
+1008
+00:47:37,839 --> 00:47:39,950
+arctic sibal lot less time
+
+1009
+00:47:39,950 --> 00:47:43,160
+took tickled to categorize a highly
+typical
+
+1010
+00:47:43,160 --> 00:47:45,160
+instance of a allah category
+
+1011
+00:47:45,160 --> 00:47:49,259
+as opposed to an atypical instance of
+the category
+
+1012
+00:47:49,259 --> 00:47:51,260
+typically affects in calories they
+should
+
+1013
+00:47:51,260 --> 00:47:53,329
+are any real problem
+
+1014
+00:47:53,329 --> 00:47:55,029
+it turns out
+
+1015
+00:47:55,029 --> 00:47:57,369
+none of these problems what occurred
+
+1016
+00:47:57,369 --> 00:48:00,020
+if we actually used
+
+1017
+00:48:00,020 --> 00:48:03,489
+algorithms in the process of
+categorization
+
+1018
+00:48:03,489 --> 00:48:06,559
+none of those problems would occur we
+wouldn't have any it difficult to know
+
+1019
+00:48:06,559 --> 00:48:08,809
+whether or raw does nordica love
+furniture
+
+1020
+00:48:08,809 --> 00:48:11,699
+or whether it tomato was approved or a
+vegetable
+
+1021
+00:48:11,699 --> 00:48:15,160
+the fact that these problems do occur
+
+1022
+00:48:15,160 --> 00:48:15,690
+suggests
+
+1023
+00:48:15,690 --> 00:48:16,859
+that way
+
+1024
+00:48:16,859 --> 00:48:18,039
+actually
+
+1025
+00:48:18,039 --> 00:48:18,969
+categorize objects
+
+1026
+00:48:18,969 --> 00:48:21,060
+in a way that's quite different
+
+1027
+00:48:21,060 --> 00:48:23,269
+from the logical
+
+1028
+00:48:23,269 --> 00:48:24,729
+rational
+
+1029
+00:48:24,729 --> 00:48:27,360
+algorithm implied by the proper set
+
+1030
+00:48:27,360 --> 00:48:29,490
+view of categories
+
+1031
+00:48:29,490 --> 00:48:30,059
+apparently
+
+1032
+00:48:30,059 --> 00:48:36,459
+or mental concepts are not structured
+like proper sets after all
+
+1033
+00:48:36,459 --> 00:48:37,600
+and on wednesday
+
+1034
+00:48:37,600 --> 00:48:40,419
+i'll tell you how they are structured
+
+1035
+00:48:40,419 --> 00:48:41,569
+thank you very much
+
+1036
+00:48:41,569 --> 00:48:42,369
+i'll see you on wednesday
+

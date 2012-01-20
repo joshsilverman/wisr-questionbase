@@ -1,0 +1,4630 @@
+﻿1
+00:00:08,370 --> 00:00:11,420
+okay let's move into our last set of
+
+2
+00:00:11,420 --> 00:00:15,199
+actual lectures
+
+3
+00:00:15,199 --> 00:00:16,650
+the past weeks
+
+4
+00:00:16,650 --> 00:00:23,279
+we've been speaking mostly about mental
+structures and processes that underlying
+
+5
+00:00:23,279 --> 00:00:28,169
+normal experience thought an action the
+kinds of things that
+
+6
+00:00:28,169 --> 00:00:29,800
+ordinary people experience
+
+7
+00:00:29,800 --> 00:00:32,540
+in the ordinary course of everyday
+living
+
+8
+00:00:32,540 --> 00:00:34,720
+we've had occasional
+
+9
+00:00:34,720 --> 00:00:38,590
+all
+
+10
+00:00:38,590 --> 00:00:42,750
+reference to mental illness various
+forms of brain damage and so on
+
+11
+00:00:42,750 --> 00:00:47,040
+but what we want to do with this set of
+lectures is to examine mental illness it
+
+12
+00:00:47,040 --> 00:00:48,190
+its own right
+
+13
+00:00:48,190 --> 00:00:49,589
+to try to figure out
+
+14
+00:00:49,589 --> 00:00:54,260
+but the nature of his own abnormal mala
+dept of behavior
+
+15
+00:00:54,260 --> 00:00:57,839
+the abnormal mental structures and
+processes that
+
+16
+00:00:57,839 --> 00:00:59,400
+that underlie it
+
+17
+00:00:59,400 --> 00:01:02,270
+and the kinds of interventions that we
+have
+
+18
+00:01:02,270 --> 00:01:03,460
+that we can
+
+19
+00:01:03,460 --> 00:01:08,730
+art that we can use to treat and to
+prevent on mental illness
+
+20
+00:01:08,730 --> 00:01:11,330
+it turns out however that
+
+21
+00:01:11,330 --> 00:01:17,370
+it's not seek to define mental illness
+or psychopathology in the abstract
+
+22
+00:01:17,370 --> 00:01:20,329
+all but the best we can do is to begin
+
+23
+00:01:20,329 --> 00:01:26,010
+albright analogy to the notion of
+pathology in
+
+24
+00:01:26,010 --> 00:01:29,470
+term psychopathology is actually derived
+from the great
+
+25
+00:01:29,470 --> 00:01:30,330
+first of course
+
+26
+00:01:30,330 --> 00:01:33,929
+the term psychic psyche psycho
+
+27
+00:01:33,929 --> 00:01:39,520
+along periphery dust storm behind a new
+ends in modern scientific psychology
+
+28
+00:01:39,520 --> 00:01:45,320
+referring to mental processes and
+activities ok and then there's pathology
+
+29
+00:01:45,320 --> 00:01:46,930
+all again from the greek
+
+30
+00:01:46,930 --> 00:01:51,420
+had to do with deviations from mahal
+from normality
+
+31
+00:01:51,420 --> 00:01:53,030
+if you think about medical
+
+32
+00:01:53,030 --> 00:01:55,130
+illnesses for a moment
+
+33
+00:01:55,130 --> 00:01:56,020
+cancer
+
+34
+00:01:56,020 --> 00:01:58,680
+heart disease or whatever
+
+35
+00:01:58,680 --> 00:02:00,920
+but you ought to have in every case
+
+36
+00:02:00,920 --> 00:02:02,539
+it is either
+
+37
+00:02:02,539 --> 00:02:05,770
+deviation from merrimack anatomical
+structure
+
+38
+00:02:05,770 --> 00:02:10,259
+or band is broken off partisan built
+right along the stone work right
+
+39
+00:02:10,259 --> 00:02:15,319
+there are deviations from normal
+physiology there's some substance
+
+40
+00:02:15,319 --> 00:02:18,489
+running through the blind risks on the
+cell process that's
+
+41
+00:02:18,489 --> 00:02:21,199
+all that's good that that's going all
+right
+
+42
+00:02:21,199 --> 00:02:22,430
+so that's what
+
+43
+00:02:22,430 --> 00:02:24,270
+medical pathology looks like
+
+44
+00:02:24,270 --> 00:02:27,369
+and then we think about psychopathology
+
+45
+00:02:27,369 --> 00:02:32,650
+armed again we're going to look at
+deviations fred look normal
+
+46
+00:02:32,650 --> 00:02:35,179
+mental structure and function
+
+47
+00:02:35,179 --> 00:02:39,819
+but again trying to figure out exactly
+what means what's meant by
+
+48
+00:02:39,819 --> 00:02:40,959
+normality
+
+49
+00:02:40,959 --> 00:02:44,960
+turns out to be not as easy in the case
+of psychopathology
+
+50
+00:02:44,960 --> 00:02:48,949
+as it is in the case of medical
+pathology
+
+51
+00:02:48,949 --> 00:02:50,089
+in general
+
+52
+00:02:50,089 --> 00:02:55,370
+when you ask people to define power to
+describe what they mean by
+
+53
+00:02:55,370 --> 00:02:58,209
+normal mental life for normal behavior
+
+54
+00:02:58,209 --> 00:03:02,020
+you'll get almost of definitions of
+looks pretty much like this
+
+55
+00:03:02,020 --> 00:03:07,410
+which you can think of as a kind of
+conceptual prototype of psychological
+
+56
+00:03:07,410 --> 00:03:09,899
+abhorred psychological normality
+
+57
+00:03:09,899 --> 00:03:14,539
+in the first place we generally think up
+psychologically mammal people
+
+58
+00:03:14,539 --> 00:03:15,529
+as having
+
+59
+00:03:15,529 --> 00:03:19,639
+what you think of it accurate any
+ficient mental function
+
+60
+00:03:19,639 --> 00:03:21,479
+to put up a loudly
+
+61
+00:03:21,479 --> 00:03:22,099
+armed
+
+62
+00:03:22,099 --> 00:03:25,579
+mag lev people pretty much see the
+rabbit
+
+63
+00:03:25,579 --> 00:03:28,810
+and don't have to wind dot don't have to
+go to too much trouble
+
+64
+00:03:28,810 --> 00:03:31,170
+to do that it's all
+
+65
+00:03:31,170 --> 00:03:31,870
+accurate
+
+66
+00:03:31,870 --> 00:03:33,679
+and it's efficient
+
+67
+00:03:33,679 --> 00:03:35,870
+similarly in the air national realm
+
+68
+00:03:35,870 --> 00:03:38,759
+normal individuals have minimal
+
+69
+00:03:38,759 --> 00:03:39,709
+all
+
+70
+00:03:39,709 --> 00:03:41,649
+or national reactions
+
+71
+00:03:41,649 --> 00:03:43,030
+diverse kinds of events
+
+72
+00:03:43,030 --> 00:03:44,750
+in the motivational realm
+
+73
+00:03:44,750 --> 00:03:50,599
+their desires their goals are more or
+less or or reasonable are given their
+
+74
+00:03:50,599 --> 00:03:51,650
+circumstances
+
+75
+00:03:51,650 --> 00:03:55,069
+so that's what we mean by accurate and
+efficient mental function
+
+76
+00:03:55,069 --> 00:03:59,640
+basically reminders working the way for
+us to work and doesn't have to work too
+
+77
+00:03:59,640 --> 00:04:01,069
+hard at it
+
+78
+00:04:01,069 --> 00:04:02,659
+by self awareness
+
+79
+00:04:02,659 --> 00:04:06,269
+well usually mean that an individual is
+over
+
+80
+00:04:06,269 --> 00:04:08,259
+ordered his or her beliefs
+
+81
+00:04:08,259 --> 00:04:12,720
+and desires and feelings or has some
+awareness
+
+82
+00:04:12,720 --> 00:04:14,420
+of what his or her
+
+83
+00:04:14,420 --> 00:04:17,180
+also or sudden awareness of wat
+
+84
+00:04:17,180 --> 00:04:21,679
+his or her impact is our mother our
+people
+
+85
+00:04:21,679 --> 00:04:23,560
+on process control
+
+86
+00:04:23,560 --> 00:04:26,409
+you generally think of also controls had
+to do with
+
+87
+00:04:26,409 --> 00:04:30,879
+of the individual's ability to in do
+things like
+
+88
+00:04:30,879 --> 00:04:32,009
+gratification
+
+89
+00:04:32,009 --> 00:04:37,919
+tolerate frustration make plans and
+follow-through on them
+
+90
+00:04:37,919 --> 00:04:43,099
+by self esteem we generally refer to
+apartheid person feels about him or
+
+91
+00:04:43,099 --> 00:04:44,770
+herself
+
+92
+00:04:44,770 --> 00:04:46,400
+psychologically normal people
+
+93
+00:04:46,400 --> 00:04:47,830
+usually feel
+
+94
+00:04:47,830 --> 00:04:50,939
+had about themselves whatever time
+
+95
+00:04:50,939 --> 00:04:54,279
+sometimes you look at america's a follow
+your heart level person
+
+96
+00:04:54,279 --> 00:04:55,680
+that now's the time
+
+97
+00:04:55,680 --> 00:05:00,470
+it's a show right you know it's like
+that going on saturday night live
+
+98
+00:05:00,470 --> 00:05:01,430
+fallen
+
+99
+00:05:01,430 --> 00:05:04,650
+and uh... sexual relations based on
+affection
+
+100
+00:05:04,650 --> 00:05:09,319
+that is on some kind of positive feeling
+for the people
+
+101
+00:05:09,319 --> 00:05:12,530
+with whom you're in iraq and we're not
+just talk about the friends and
+
+102
+00:05:12,530 --> 00:05:13,360
+girlfriends here
+
+103
+00:05:13,360 --> 00:05:14,690
+we're talking about
+
+104
+00:05:14,690 --> 00:05:18,909
+passes and subordinates neighbors and
+all of that kind of thing
+
+105
+00:05:18,909 --> 00:05:21,060
+onslaught relations based on a faction
+
+106
+00:05:21,060 --> 00:05:24,370
+as opposed to social relations based on
+
+107
+00:05:24,370 --> 00:05:27,409
+manipulation or art competition or
+whatever
+
+108
+00:05:27,409 --> 00:05:31,700
+and then finally we generally think are
+psychologically normal people
+
+109
+00:05:31,700 --> 00:05:35,599
+as latino less productive lives
+
+110
+00:05:35,599 --> 00:05:39,729
+being able to lobby metalworking able
+make a living in being able to do areas
+
+111
+00:05:39,729 --> 00:05:41,030
+kinds of things
+
+112
+00:05:41,030 --> 00:05:41,949
+and
+
+113
+00:05:41,949 --> 00:05:46,129
+are having some degree of creativity and
+their lives as well
+
+114
+00:05:46,129 --> 00:05:50,610
+now by creativity we don't mean you have
+to be our stravinsky or a beethoven or
+
+115
+00:05:50,610 --> 00:05:51,580
+out
+
+116
+00:05:51,580 --> 00:05:54,990
+or a picasso or something like that
+
+117
+00:05:54,990 --> 00:05:58,080
+devising a new way to know
+
+118
+00:05:58,080 --> 00:05:59,629
+organizer shopping list
+
+119
+00:05:59,629 --> 00:06:03,449
+are coming up with a new plays are not
+in their in soccer or something like
+
+120
+00:06:03,449 --> 00:06:04,180
+that
+
+121
+00:06:04,180 --> 00:06:09,569
+is of the day is an example of kind of
+everyday on everyday creativity
+
+122
+00:06:09,569 --> 00:06:11,940
+as divides and i think i've just
+indicated
+
+123
+00:06:11,940 --> 00:06:16,830
+it's not so easy to the following these
+subordinate features of normality either
+
+124
+00:06:16,830 --> 00:06:20,550
+but when you start talking about
+normality you begin to get people
+
+125
+00:06:20,550 --> 00:06:23,409
+talking all on all of these lines
+
+126
+00:06:23,409 --> 00:06:26,329
+and if you're going to define
+
+127
+00:06:26,329 --> 00:06:31,729
+psychopathology as deviance threaten
+mental abnormality
+
+128
+00:06:31,729 --> 00:06:34,700
+once you've got some sense of what you
+mean bag normality
+
+129
+00:06:34,700 --> 00:06:36,280
+the next thing you have to do
+
+130
+00:06:36,280 --> 00:06:39,590
+is to figure out what it is that you
+mean by
+
+131
+00:06:39,590 --> 00:06:40,180
+deviants
+
+132
+00:06:40,180 --> 00:06:41,490
+and now it turns out
+
+133
+00:06:41,490 --> 00:06:44,009
+not to be so easy
+
+134
+00:06:44,009 --> 00:06:45,280
+so for example
+
+135
+00:06:45,280 --> 00:06:47,469
+we can think about deviance
+
+136
+00:06:47,469 --> 00:06:53,469
+in statistical terms ok applying the
+what is sometimes flat out as the
+
+137
+00:06:53,469 --> 00:06:56,449
+frequency criterion offer deviants
+
+138
+00:06:56,449 --> 00:07:01,669
+and basically what we say here is
+everybody is too far from the average
+
+139
+00:07:01,669 --> 00:07:05,869
+we're going to look at it as
+statistically deviant
+
+140
+00:07:05,869 --> 00:07:10,500
+if your state to smell into standard
+deviations of barbara below the average
+
+141
+00:07:10,500 --> 00:07:13,780
+for some kind of all of the ban on some
+kind of quality
+
+142
+00:07:13,780 --> 00:07:18,370
+we're going to think about all of you as
+home as being
+
+143
+00:07:18,370 --> 00:07:22,949
+psychologically abnormal in that respect
+and of course
+
+144
+00:07:22,949 --> 00:07:27,750
+abnormality or have to be statistically
+infrequent ok abnormalities
+
+145
+00:07:27,750 --> 00:07:28,909
+statistically frequent
+
+146
+00:07:28,909 --> 00:07:33,319
+that it's not clear what abnormality
+means of anymore but they do have this
+
+147
+00:07:33,319 --> 00:07:37,960
+problem with an application of
+statistical norms all word which is let
+
+148
+00:07:37,960 --> 00:07:41,709
+me go to a positive about positive
+deviations
+
+149
+00:07:41,709 --> 00:07:43,229
+think about
+
+150
+00:07:43,229 --> 00:07:47,309
+are measured intelligence so-called i_q_
+for a second
+
+151
+00:07:47,309 --> 00:07:50,990
+all we define individuals who are
+mentally retarded
+
+152
+00:07:50,990 --> 00:07:51,870
+as those
+
+153
+00:07:51,870 --> 00:07:53,669
+who were all that have
+
+154
+00:07:53,669 --> 00:07:57,469
+i_q_ scores more than two standard
+deviations below the mean
+
+155
+00:07:57,469 --> 00:08:00,699
+mean as one hundred on the work for
+adult intelligence kale
+
+156
+00:08:00,699 --> 00:08:02,789
+got a standard deviation of fifteen
+
+157
+00:08:02,789 --> 00:08:05,280
+so people don't like use less than
+seventy
+
+158
+00:08:05,280 --> 00:08:07,719
+we begin to think about as falling into
+
+159
+00:08:07,719 --> 00:08:11,969
+a category of mental illness known as
+mental retardation
+
+160
+00:08:11,969 --> 00:08:13,650
+but the asians co-op
+
+161
+00:08:13,650 --> 00:08:15,560
+as well as die alone
+
+162
+00:08:15,560 --> 00:08:19,820
+if you have an i_q_ to standard
+deviations above the mean that is a blow
+
+163
+00:08:19,820 --> 00:08:21,479
+up about one thirty
+
+164
+00:08:21,479 --> 00:08:26,759
+we have a special label for that cold
+genius organiser technical definition
+
+165
+00:08:26,759 --> 00:08:31,080
+of a genius somebody who's like he was
+above hundred and thirty
+
+166
+00:08:31,080 --> 00:08:31,649
+home
+
+167
+00:08:31,649 --> 00:08:32,479
+all part
+
+168
+00:08:32,479 --> 00:08:39,020
+it's not clear but you want to classify
+geniuses as mentally ill
+
+169
+00:08:39,020 --> 00:08:44,220
+just because strike you scores are
+statistically infrequent just because
+
+170
+00:08:44,220 --> 00:08:45,439
+they
+
+171
+00:08:45,439 --> 00:08:47,739
+deviate from normality
+
+172
+00:08:47,739 --> 00:08:51,370
+or the and and and and some statistical
+way
+
+173
+00:08:51,370 --> 00:08:56,530
+alm yes you can define solved although
+psychological deviant statistically in
+
+174
+00:08:56,530 --> 00:08:57,870
+terms of
+
+175
+00:08:57,870 --> 00:08:58,520
+infrequent
+
+176
+00:08:58,520 --> 00:09:01,620
+uh... would have been infrequent
+characteristics
+
+177
+00:09:01,620 --> 00:09:03,420
+but you have to deal with the problem
+
+178
+00:09:03,420 --> 00:09:06,470
+of positive deviations
+
+179
+00:09:06,470 --> 00:09:07,229
+similarly
+
+180
+00:09:07,229 --> 00:09:11,579
+you can define psychological deviance in
+terms of departures
+
+181
+00:09:11,579 --> 00:09:13,870
+from social norms
+
+182
+00:09:13,870 --> 00:09:20,870
+all in the trade this is called applying
+a compliance criterium
+
+183
+00:09:21,060 --> 00:09:23,850
+the the definition of psychological
+deviance
+
+184
+00:09:23,850 --> 00:09:25,740
+and the idea here is
+
+185
+00:09:25,740 --> 00:09:31,620
+that normal people ought to be able to
+comply with prevailing social
+
+186
+00:09:31,620 --> 00:09:33,559
+norms on him but
+
+187
+00:09:33,559 --> 00:09:38,319
+people who are psychologically abnormal
+either can't do that or have a lot of
+
+188
+00:09:38,319 --> 00:09:42,870
+difficulty doing that or don't want to
+do it all oral or whatever
+
+189
+00:09:42,870 --> 00:09:48,090
+and again we would expect the people who
+are psychologically normal
+
+190
+00:09:48,090 --> 00:09:51,989
+have the ability to confirming their
+behavior
+
+191
+00:09:51,989 --> 00:09:55,279
+to altered to prevailing on norms
+
+192
+00:09:55,279 --> 00:09:59,529
+off but there are good their apartment
+at some additional problems that come up
+
+193
+00:09:59,529 --> 00:10:01,430
+when we try to reply you
+
+194
+00:10:01,430 --> 00:10:03,360
+all of this compliance criterion
+
+195
+00:10:03,360 --> 00:10:08,030
+to the diagnosis of mental illness but
+first of these is that there's a
+
+196
+00:10:08,030 --> 00:10:11,970
+tremendous amount of variance across
+cultures
+
+197
+00:10:11,970 --> 00:10:16,440
+in terms of what is considered
+appropriate behavior
+
+198
+00:10:16,440 --> 00:10:21,160
+if u greed somebody in the fall european
+culture
+
+199
+00:10:21,160 --> 00:10:26,090
+the manuel negative gradient somebody is
+different but if you greet some body in
+
+200
+00:10:26,090 --> 00:10:30,410
+certain middle eastern cultures of for
+example do things in the middle east but
+
+201
+00:10:30,410 --> 00:10:32,769
+you wouldn't do in the netherlands
+
+202
+00:10:32,769 --> 00:10:36,390
+and you do things and netherlands but
+you wouldn't think about doing
+
+203
+00:10:36,390 --> 00:10:38,480
+all it in the uh... in the middle east
+
+204
+00:10:38,480 --> 00:10:42,950
+all work for that matter charter japan
+or or or anyplace else about picking on
+
+205
+00:10:42,950 --> 00:10:46,000
+any particular
+
+206
+00:10:46,000 --> 00:10:47,220
+they're real the world here
+
+207
+00:10:47,220 --> 00:10:49,890
+that's just a lot of areas across
+cultures
+
+208
+00:10:49,890 --> 00:10:55,190
+so or dot loggers that that creates a
+problem with some with all
+
+209
+00:10:55,190 --> 00:10:56,330
+of the
+
+210
+00:10:56,330 --> 00:10:58,130
+compliance criterion
+
+211
+00:10:58,130 --> 00:11:03,130
+whose culture are you going to reference
+the compliance to almost over
+
+212
+00:11:03,130 --> 00:11:06,790
+but there's also a variance involved in
+northbrook
+
+213
+00:11:06,790 --> 00:11:08,220
+social norms
+
+214
+00:11:08,220 --> 00:11:13,389
+across time within cultures i think the
+probably the clearest example
+
+215
+00:11:13,389 --> 00:11:16,420
+all of this with respect to our mental
+illness
+
+216
+00:11:16,420 --> 00:11:18,170
+is homosexuality
+
+217
+00:11:18,170 --> 00:11:22,589
+when i was undergraduate for that matter
+when i was a graduate student which is
+
+218
+00:11:22,589 --> 00:11:24,749
+not all that many years ago
+
+219
+00:11:24,749 --> 00:11:27,390
+on nineteen seventy to nineteen seventy
+five
+
+220
+00:11:27,390 --> 00:11:31,149
+for the first couple of years in net dot
+in that period
+
+221
+00:11:31,149 --> 00:11:34,080
+homosexuality was defined as a mental
+illness
+
+222
+00:11:34,080 --> 00:11:35,319
+you could go to
+
+223
+00:11:35,319 --> 00:11:40,019
+the diagnostic and statistical manual of
+the american psychiatric association
+
+224
+00:11:40,019 --> 00:11:45,350
+and find homosexuality all in their on
+has a uh... at as a form of
+
+225
+00:11:45,350 --> 00:11:46,380
+psychopathology
+
+226
+00:11:46,380 --> 00:11:49,970
+but in nineteen seventy three the
+american psychiatric association changed
+
+227
+00:11:49,970 --> 00:11:51,370
+its mind
+
+228
+00:11:51,370 --> 00:11:52,470
+literally took a vote
+
+229
+00:11:52,470 --> 00:11:54,110
+all of the association
+
+230
+00:11:54,110 --> 00:11:58,740
+and decided that homosexuality wasn't
+going to be quite policy trolley per se
+
+231
+00:11:58,740 --> 00:12:02,260
+wasn't going to be classified as a
+mental illness any longer
+
+232
+00:12:02,260 --> 00:12:06,699
+and they did that because the culture
+had changed and it was very clear
+
+233
+00:12:06,699 --> 00:12:10,819
+that there were lots of bhargava lesbian
+people out there who were perfectly
+
+234
+00:12:10,819 --> 00:12:14,580
+normal in all respects except for their
+sexual orientation
+
+235
+00:12:14,580 --> 00:12:16,200
+and just because
+
+236
+00:12:16,200 --> 00:12:20,730
+boys like boys and girls like girls was
+no reason to classify that as a mental
+
+237
+00:12:20,730 --> 00:12:22,629
+illness on any longer
+
+238
+00:12:22,629 --> 00:12:25,940
+but that's not true and other cultures
+okay
+
+239
+00:12:25,940 --> 00:12:31,460
+all again homosexuality may be something
+that is abnormal in some cultures
+
+240
+00:12:31,460 --> 00:12:32,749
+not in or others
+
+241
+00:12:32,749 --> 00:12:35,300
+it's with within a particular culture
+
+242
+00:12:35,300 --> 00:12:39,880
+abnormal at one time not and all other
+or not it another time
+
+243
+00:12:39,880 --> 00:12:43,130
+warner perhaps the most difficult lol
+
+244
+00:12:43,130 --> 00:12:50,130
+dramatic example of how you can simply
+blindly apply a compliance criterium
+
+245
+00:12:50,230 --> 00:12:56,320
+onto our deviation from social norms to
+determine who is mentally ill and who
+
+246
+00:12:56,320 --> 00:12:58,370
+all isn't
+
+247
+00:12:58,370 --> 00:13:02,690
+our third criterion that people try to
+use to the following the park without
+
+248
+00:13:02,690 --> 00:13:04,920
+the psychopathology or mental illness
+
+249
+00:13:04,920 --> 00:13:08,050
+there's a criterion all personal
+distress
+
+250
+00:13:08,050 --> 00:13:12,440
+it's a subjective criteria it's the kind
+of criteria that you would counter
+
+251
+00:13:12,440 --> 00:13:15,440
+when somebody goes to a psychotherapist
+and says
+
+252
+00:13:15,440 --> 00:13:16,529
+on dr
+
+253
+00:13:16,529 --> 00:13:18,760
+i'm realtime really depressed
+
+254
+00:13:18,760 --> 00:13:20,490
+and i don't want to be depressed
+
+255
+00:13:20,490 --> 00:13:24,740
+well i'm really anxious and i don't want
+to be anxious
+
+256
+00:13:24,740 --> 00:13:26,000
+on help me
+
+257
+00:13:26,000 --> 00:13:28,880
+arguably a pillar give me some
+psychotherapy or figure out what all the
+
+258
+00:13:28,880 --> 00:13:31,070
+help me figure out what's wrong
+
+259
+00:13:31,070 --> 00:13:33,410
+alter onto one
+
+260
+00:13:33,410 --> 00:13:34,430
+to will
+
+261
+00:13:34,430 --> 00:13:36,420
+or did you get this thing
+
+262
+00:13:36,420 --> 00:13:38,170
+and it's true
+
+263
+00:13:38,170 --> 00:13:43,820
+that most people are this mentally ill
+people are distressed by their mental
+
+264
+00:13:43,820 --> 00:13:44,480
+illness
+
+265
+00:13:44,480 --> 00:13:47,019
+in the same way that most
+
+266
+00:13:47,019 --> 00:13:50,799
+physically ill people are distressed or
+by their illness
+
+267
+00:13:50,799 --> 00:13:54,160
+but it's not necessarily are the case
+
+268
+00:13:54,160 --> 00:13:55,970
+again in psychopathology
+
+269
+00:13:55,970 --> 00:13:57,790
+we'd rather station between
+
+270
+00:13:57,790 --> 00:14:00,529
+true different kinds of
+
+271
+00:14:00,529 --> 00:14:03,040
+pathologies or two different kinds of
+symptoms
+
+272
+00:14:03,040 --> 00:14:04,870
+ego symphonic symptoms
+
+273
+00:14:04,870 --> 00:14:09,950
+and you go to stunning symptoms eagle
+simply refers to the self here
+
+274
+00:14:09,950 --> 00:14:12,830
+indigo symphonic symptoms
+
+275
+00:14:12,830 --> 00:14:17,490
+thematic the malad active behavior or
+the malad active thought pattern or
+
+276
+00:14:17,490 --> 00:14:18,129
+whatever
+
+277
+00:14:18,129 --> 00:14:20,610
+is perceived by the person
+
+278
+00:14:20,610 --> 00:14:24,230
+as a normal part of his or her
+personality
+
+279
+00:14:24,230 --> 00:14:27,260
+here she isn't
+
+280
+00:14:27,260 --> 00:14:29,690
+at owners everybody else
+
+281
+00:14:29,690 --> 00:14:31,950
+but it doesn't bother the person who
+
+282
+00:14:31,950 --> 00:14:35,270
+has the other those who has the problem
+
+283
+00:14:35,270 --> 00:14:38,249
+all whereas ego to stomach symptoms
+
+284
+00:14:38,249 --> 00:14:40,550
+are the kind of i was talking about
+before
+
+285
+00:14:40,550 --> 00:14:41,709
+or a person says
+
+286
+00:14:41,709 --> 00:14:44,170
+are more depressed than i ought to be
+
+287
+00:14:44,170 --> 00:14:49,220
+on more anxious than i ought to be are
+not thinking clearly any longer or or or
+
+288
+00:14:49,220 --> 00:14:49,910
+whatever
+
+289
+00:14:49,910 --> 00:14:51,940
+egos despotic symptoms
+
+290
+00:14:51,940 --> 00:14:56,660
+bother the individual who has these
+particular symptoms
+
+291
+00:14:56,660 --> 00:14:57,620
+armed
+
+292
+00:14:57,620 --> 00:15:02,210
+personal distress park right although
+the criterion for a psychological
+
+293
+00:15:02,210 --> 00:15:03,380
+deviance
+
+294
+00:15:03,380 --> 00:15:06,760
+so long as you're dealing with a goat
+historic symptoms like a anxiety and
+
+295
+00:15:06,760 --> 00:15:10,619
+depression but they may not work they
+will not work
+
+296
+00:15:10,619 --> 00:15:13,320
+or when the person displays ego
+
+297
+00:15:13,320 --> 00:15:15,660
+symphonic all symptoms
+
+298
+00:15:15,660 --> 00:15:16,890
+or
+
+299
+00:15:16,890 --> 00:15:18,110
+alone
+
+300
+00:15:18,110 --> 00:15:18,700
+deep
+
+301
+00:15:18,700 --> 00:15:20,650
+the symptom itself
+
+302
+00:15:20,650 --> 00:15:23,210
+person perceives as part of his or her
+own
+
+303
+00:15:23,210 --> 00:15:24,310
+or personality
+
+304
+00:15:24,310 --> 00:15:26,990
+they could be a roommate for a second
+
+305
+00:15:26,990 --> 00:15:31,310
+your roommates got something that just
+others that have a lot to you
+
+306
+00:15:31,310 --> 00:15:33,350
+and he thinks it's flying
+
+307
+00:15:33,350 --> 00:15:36,900
+he said don't do that anymore so what do
+you think would be this is fine that's
+
+308
+00:15:36,900 --> 00:15:37,950
+the kind of
+
+309
+00:15:37,950 --> 00:15:43,340
+deaf distinction we have between the ego
+symphonic and ego despotic symptoms
+
+310
+00:15:43,340 --> 00:15:46,880
+and then finally but we try to along
+
+311
+00:15:46,880 --> 00:15:49,179
+try to define psychological deviance
+
+312
+00:15:49,179 --> 00:15:55,610
+we often apply a criterion of now
+adopted in this or harmful knows
+
+313
+00:15:55,610 --> 00:15:57,220
+the persons
+
+314
+00:15:57,220 --> 00:15:58,650
+mental illness
+
+315
+00:15:58,650 --> 00:16:02,950
+very often will lead him her to be haven
+such a way
+
+316
+00:16:02,950 --> 00:16:04,690
+that is harmful
+
+317
+00:16:04,690 --> 00:16:06,110
+to him or herself
+
+318
+00:16:06,110 --> 00:16:10,080
+or to what other people or at least
+increases the risk
+
+319
+00:16:10,080 --> 00:16:11,940
+of harm
+
+320
+00:16:11,940 --> 00:16:15,930
+part of the person himself or of or to
+others
+
+321
+00:16:15,930 --> 00:16:18,190
+and again
+
+322
+00:16:18,190 --> 00:16:18,960
+often
+
+323
+00:16:18,960 --> 00:16:20,280
+ul
+
+324
+00:16:20,280 --> 00:16:22,760
+then behavioral problems that stem
+
+325
+00:16:22,760 --> 00:16:24,749
+from of the from mental illness
+
+326
+00:16:24,749 --> 00:16:28,730
+that are harmful to sell for others were
+these potentially also
+
+327
+00:16:28,730 --> 00:16:32,570
+for example some people who are very
+depressed maybe at increased risk for
+
+328
+00:16:32,570 --> 00:16:39,370
+suicide that summer is obviously harmful
+alot to to self but you wouldn't want to
+
+329
+00:16:39,370 --> 00:16:41,210
+have harmful must be
+
+330
+00:16:41,210 --> 00:16:44,390
+amin necessary criterion for mental
+illness
+
+331
+00:16:44,390 --> 00:16:46,399
+because they're all sorts of behavior
+
+332
+00:16:46,399 --> 00:16:48,509
+the harmful to other people
+
+333
+00:16:48,509 --> 00:16:51,870
+that we don't necessarily want equality
+classify
+
+334
+00:16:51,870 --> 00:16:54,250
+as forms of mental illness
+
+335
+00:16:54,250 --> 00:16:56,110
+all sorts of criminal behavior
+
+336
+00:16:56,110 --> 00:16:58,170
+is harmful to other people
+
+337
+00:16:58,170 --> 00:17:01,380
+but it's not necessarily the case
+
+338
+00:17:01,380 --> 00:17:03,269
+all all criminal behavior
+
+339
+00:17:03,269 --> 00:17:05,380
+is a product of mental illness
+
+340
+00:17:05,380 --> 00:17:09,650
+in fact we have a special category four
+all
+
+341
+00:17:09,650 --> 00:17:13,089
+met criminal behavior that is the
+product of mental illness called the
+
+342
+00:17:13,089 --> 00:17:15,260
+insanity defense
+
+343
+00:17:15,260 --> 00:17:20,200
+which are succeeds only about one out of
+every thousand attends right
+
+344
+00:17:20,200 --> 00:17:21,730
+solo in society
+
+345
+00:17:21,730 --> 00:17:25,770
+we're not prepared to ascribe all
+criminal behavior to mental illness
+
+346
+00:17:25,770 --> 00:17:28,020
+but we do sometimes excuse
+
+347
+00:17:28,020 --> 00:17:29,440
+some criminal behavior
+
+348
+00:17:29,440 --> 00:17:33,040
+on grounds that the person although it
+is mentally ill
+
+349
+00:17:33,040 --> 00:17:34,519
+so it turns out
+
+350
+00:17:34,519 --> 00:17:41,330
+that in the same way that defining
+psychological normality is in fact evi
+
+351
+00:17:41,330 --> 00:17:44,700
+defining deviance from psychological
+normality
+
+352
+00:17:44,700 --> 00:17:47,059
+isn't so evi either
+
+353
+00:17:47,059 --> 00:17:50,260
+in the same way
+
+354
+00:17:50,260 --> 00:17:53,420
+features are normality that i talked
+about before
+
+355
+00:17:53,420 --> 00:17:58,030
+self esteem and self control and
+self-awareness and accurate and
+
+356
+00:17:58,030 --> 00:17:59,309
+efficient ulm
+
+357
+00:17:59,309 --> 00:18:02,590
+or processing the oval although of
+reality
+
+358
+00:18:02,590 --> 00:18:05,820
+they form a kind of conceptual prototype
+
+359
+00:18:05,820 --> 00:18:08,429
+that psychologically normal people u
+
+360
+00:18:08,429 --> 00:18:10,490
+kind of like that
+
+361
+00:18:10,490 --> 00:18:11,979
+similarly
+
+362
+00:18:11,979 --> 00:18:15,049
+psychologically deviant people what
+kinda like this
+
+363
+00:18:15,049 --> 00:18:15,760
+okay
+
+364
+00:18:15,760 --> 00:18:19,250
+they tend to deviate from saw
+statistical lauren so they don't
+
+365
+00:18:19,250 --> 00:18:20,749
+necessarily
+
+366
+00:18:20,749 --> 00:18:21,559
+argue that
+
+367
+00:18:21,559 --> 00:18:25,529
+they tend to deviate from social norms
+though not necessarily
+
+368
+00:18:25,529 --> 00:18:27,670
+they tend to experience
+
+369
+00:18:27,670 --> 00:18:30,160
+personal distress about the rumors
+
+370
+00:18:30,160 --> 00:18:31,990
+but not necessarilly
+
+371
+00:18:31,990 --> 00:18:37,600
+and their enormous tends to lead in the
+direction of mel adaptive behavior
+
+372
+00:18:37,600 --> 00:18:41,419
+not necessarily so again that we have
+here
+
+373
+00:18:41,419 --> 00:18:45,909
+is just at the level of trying to figure
+out what psychopathology means in
+
+374
+00:18:45,909 --> 00:18:49,520
+general there's a kind of family
+resemblance
+
+375
+00:18:49,520 --> 00:18:50,740
+that unites
+
+376
+00:18:50,740 --> 00:18:54,170
+people have mobile mental functioning
+
+377
+00:18:54,170 --> 00:18:57,280
+certain set of they tend to have a
+certain set of features in common
+
+378
+00:18:57,280 --> 00:18:59,700
+and there is a family resemblance
+
+379
+00:18:59,700 --> 00:19:02,070
+that all unites or people
+
+380
+00:19:02,070 --> 00:19:05,119
+who have some form of mental illness is
+well
+
+381
+00:19:05,119 --> 00:19:10,760
+the tender to have problems will likely
+as world income
+
+382
+00:19:10,760 --> 00:19:11,140
+eternal
+
+383
+00:19:11,140 --> 00:19:13,190
+that we've got to do in these lectures
+
+384
+00:19:13,190 --> 00:19:15,700
+is to pursue the analogy
+
+385
+00:19:15,700 --> 00:19:16,750
+between
+
+386
+00:19:16,750 --> 00:19:19,880
+mental illness on the one hand
+psychopathology
+
+387
+00:19:19,880 --> 00:19:23,000
+and physical illness on the other hand
+
+388
+00:19:23,000 --> 00:19:26,130
+in the same way that medical illness
+
+389
+00:19:26,130 --> 00:19:27,340
+involved
+
+390
+00:19:27,340 --> 00:19:28,860
+deviations frelimo
+
+391
+00:19:28,860 --> 00:19:30,120
+physical
+
+392
+00:19:30,120 --> 00:19:34,360
+metaphysical structure and function we
+can say that
+
+393
+00:19:34,360 --> 00:19:36,640
+mental illness or psychopathology
+
+394
+00:19:36,640 --> 00:19:41,560
+involves abnormalities in mental
+structural or function
+
+395
+00:19:41,560 --> 00:19:43,080
+abnormalities in cognition
+
+396
+00:19:43,080 --> 00:19:45,830
+where people have defined abnormal
+approval
+
+397
+00:19:45,830 --> 00:19:51,210
+of problems percy dean or remembering or
+thinking or communicating
+
+398
+00:19:51,210 --> 00:19:52,910
+difficulties in demotion
+
+399
+00:19:52,910 --> 00:19:56,330
+where plot people's emotional responses
+to events
+
+400
+00:19:56,330 --> 00:20:02,110
+are somehow problematic or difficulties
+in the hall in motivation where their
+
+401
+00:20:02,110 --> 00:20:03,260
+goals
+
+402
+00:20:03,260 --> 00:20:04,200
+disorders
+
+403
+00:20:04,200 --> 00:20:05,429
+motivated behavior
+
+404
+00:20:05,429 --> 00:20:07,309
+somehow or abnormal
+
+405
+00:20:07,309 --> 00:20:11,669
+and in fact when you look at their
+various kinds of mental illness
+
+406
+00:20:11,669 --> 00:20:14,910
+that are described for you and that
+chapter envelope and i'm not going to
+
+407
+00:20:14,910 --> 00:20:18,960
+repeat all those diagnostic categories
+of in these lectures
+
+408
+00:20:18,960 --> 00:20:19,910
+you'll see
+
+409
+00:20:19,910 --> 00:20:23,310
+that each form of mental illness
+
+410
+00:20:23,310 --> 00:20:25,760
+there are less satisfactorily
+
+411
+00:20:25,760 --> 00:20:29,429
+in one or the their all of these broad
+categories
+
+412
+00:20:29,429 --> 00:20:33,190
+so we have certain forms of mental
+illness
+
+413
+00:20:33,190 --> 00:20:35,440
+all where their primary
+
+414
+00:20:35,440 --> 00:20:37,210
+problem the primary symptom
+
+415
+00:20:37,210 --> 00:20:38,570
+it has to do
+
+416
+00:20:38,570 --> 00:20:40,150
+with cognition
+
+417
+00:20:40,150 --> 00:20:42,080
+in our timers disease
+
+418
+00:20:42,080 --> 00:20:44,799
+and other forms of dementia for example
+
+419
+00:20:44,799 --> 00:20:46,600
+there is a problem
+
+420
+00:20:46,600 --> 00:20:50,620
+basically a problem of memory okay
+that's why i alzheimer's our patients
+
+421
+00:20:50,620 --> 00:20:51,760
+are treated
+
+422
+00:20:51,760 --> 00:20:55,680
+often treated in so so-called memory on
+disorders clinics
+
+423
+00:20:55,680 --> 00:20:57,779
+but as you'll see in a couple of minutes
+
+424
+00:20:57,779 --> 00:21:00,830
+there's another form with major mental
+illness
+
+425
+00:21:00,830 --> 00:21:05,500
+schizophrenia where there are two
+different problems in cognitive function
+
+426
+00:21:05,500 --> 00:21:08,880
+all schizophrenics that would have
+altered to a particular difficulties
+
+427
+00:21:08,880 --> 00:21:09,789
+with memory
+
+428
+00:21:09,789 --> 00:21:13,780
+but they do have a lot of difficulties
+with attention
+
+429
+00:21:13,780 --> 00:21:15,980
+and they have a lot of difficulty
+
+430
+00:21:15,980 --> 00:21:16,630
+maintaining
+
+431
+00:21:16,630 --> 00:21:22,840
+or normal trains of thought to have
+difficulty or thinking are clearly
+
+432
+00:21:22,840 --> 00:21:24,830
+there is
+
+433
+00:21:24,830 --> 00:21:29,450
+there is a class all involve dot mental
+illness is known as the anxiety
+
+434
+00:21:29,450 --> 00:21:30,290
+disorders
+
+435
+00:21:30,290 --> 00:21:32,309
+well the problem with the primary
+problem
+
+436
+00:21:32,309 --> 00:21:34,549
+is not one of cognition
+
+437
+00:21:34,549 --> 00:21:37,490
+but rather is one of emotion
+
+438
+00:21:37,490 --> 00:21:39,240
+in the anxiety disorders
+
+439
+00:21:39,240 --> 00:21:43,910
+people feel abnormally high levels ald
+
+440
+00:21:43,910 --> 00:21:46,880
+negative emotional states like fear
+
+441
+00:21:46,880 --> 00:21:47,720
+alarmed
+
+442
+00:21:47,720 --> 00:21:52,510
+and then in various affective disorders
+like mania and depression
+
+443
+00:21:52,510 --> 00:21:52,970
+again
+
+444
+00:21:52,970 --> 00:21:58,279
+the abnormality is a motion elin nature
+not primarily cognitive nature
+
+445
+00:21:58,279 --> 00:21:59,320
+depressed people
+
+446
+00:21:59,320 --> 00:22:01,279
+feel sadder there mate
+
+447
+00:22:01,279 --> 00:22:02,520
+or two
+
+448
+00:22:02,520 --> 00:22:03,220
+all
+
+449
+00:22:03,220 --> 00:22:05,410
+people with mania
+
+450
+00:22:05,410 --> 00:22:06,490
+feel happier
+
+451
+00:22:06,490 --> 00:22:08,999
+well i suppose or that they want to
+
+452
+00:22:08,999 --> 00:22:13,680
+and and and and the motivational our
+domain we have a uh... you know
+
+453
+00:22:13,680 --> 00:22:16,940
+a form of mental illness known as
+psychotic with me
+
+454
+00:22:16,940 --> 00:22:21,120
+otherwise known as antisocial
+personality disorder
+
+455
+00:22:21,120 --> 00:22:23,320
+the end of the these individuals
+
+456
+00:22:23,320 --> 00:22:24,300
+seem
+
+457
+00:22:24,300 --> 00:22:26,870
+all in the able to
+
+458
+00:22:26,870 --> 00:22:28,269
+conform their behavior
+
+459
+00:22:28,269 --> 00:22:33,370
+to the demand solved the although of the
+wider social the barman
+
+460
+00:22:33,370 --> 00:22:33,730
+basically
+
+461
+00:22:33,730 --> 00:22:36,620
+they just don't care or appear it
+appears
+
+462
+00:22:36,620 --> 00:22:37,830
+but they don't care
+
+463
+00:22:37,830 --> 00:22:39,519
+to conform their behavior
+
+464
+00:22:39,519 --> 00:22:45,330
+to of the prevailing social demands but
+in the each instance of psychopathology
+
+465
+00:22:45,330 --> 00:22:50,640
+we have someone abnormality in mental
+structure or function
+
+466
+00:22:50,640 --> 00:22:51,620
+on thirteen
+
+467
+00:22:51,620 --> 00:22:54,230
+the person's ability to engage in
+
+468
+00:22:54,230 --> 00:22:56,140
+normal cognition
+
+469
+00:22:56,140 --> 00:22:57,790
+emotion or motivation
+
+470
+00:22:57,790 --> 00:22:59,080
+which results
+
+471
+00:22:59,080 --> 00:23:01,789
+in some kind of abnormal
+
+472
+00:23:01,789 --> 00:23:04,460
+or mel adoptive of behavior
+
+473
+00:23:04,460 --> 00:23:07,470
+so again
+
+474
+00:23:07,470 --> 00:23:09,780
+very definition of psychopathology
+
+475
+00:23:09,780 --> 00:23:12,240
+is based on an analogy
+
+476
+00:23:12,240 --> 00:23:13,890
+between mental illness
+
+477
+00:23:13,890 --> 00:23:15,230
+and physical illness
+
+478
+00:23:15,230 --> 00:23:17,960
+in the same way that medical pathologies
+
+479
+00:23:17,960 --> 00:23:20,640
+refer to abnormalities in
+
+480
+00:23:20,640 --> 00:23:22,960
+physical structure or function
+
+481
+00:23:22,960 --> 00:23:25,409
+psychopathology refers to
+
+482
+00:23:25,409 --> 00:23:26,780
+abnormalities
+
+483
+00:23:26,780 --> 00:23:29,169
+mental or psychological structure
+
+484
+00:23:29,169 --> 00:23:30,460
+or function
+
+485
+00:23:30,460 --> 00:23:33,059
+we can continue to pursue
+
+486
+00:23:33,059 --> 00:23:38,080
+this analogy between mental illness on
+the one hand and physical illness on the
+
+487
+00:23:38,080 --> 00:23:43,479
+other hand are by looking at that is
+known in although psychology
+
+488
+00:23:43,479 --> 00:23:47,610
+as the medical model all psychopathology
+
+489
+00:23:47,610 --> 00:23:50,080
+and the idea behind the medical model
+
+490
+00:23:50,080 --> 00:23:51,730
+its employees
+
+491
+00:23:51,730 --> 00:23:57,040
+is the preferred is simply to pursue
+this analogy between medical illness and
+
+492
+00:23:57,040 --> 00:23:57,850
+mental illness
+
+493
+00:23:57,850 --> 00:24:00,190
+all the way on down
+
+494
+00:24:00,190 --> 00:24:01,429
+so for example
+
+495
+00:24:01,429 --> 00:24:05,470
+but the real language that we used to
+talk about mental illness
+
+496
+00:24:05,470 --> 00:24:09,030
+is language that is derived from
+medicine
+
+497
+00:24:09,030 --> 00:24:11,320
+we have mental patients
+
+498
+00:24:11,320 --> 00:24:12,409
+who are treated
+
+499
+00:24:12,409 --> 00:24:14,340
+in mental hospitals
+
+500
+00:24:14,340 --> 00:24:15,740
+we have programs
+
+501
+00:24:15,740 --> 00:24:17,650
+of mental hygiene
+
+502
+00:24:17,650 --> 00:24:22,250
+better intended to prevent of mental
+illness of from occurring
+
+503
+00:24:22,250 --> 00:24:25,220
+we diagnose on mental illness
+
+504
+00:24:25,220 --> 00:24:29,030
+we treat of when we tend to try to
+achieve a cure
+
+505
+00:24:29,030 --> 00:24:33,800
+or if we can't all or they'd if we can't
+killed a mental illness
+
+506
+00:24:33,800 --> 00:24:38,589
+then we tried to put the person in some
+kind of rehabilitation program
+
+507
+00:24:38,589 --> 00:24:42,350
+it's exactly analogous to the way we
+treat
+
+508
+00:24:42,350 --> 00:24:45,289
+medical illnesses of various are the
+kinds
+
+509
+00:24:45,289 --> 00:24:46,980
+if you saw for any yaar
+
+510
+00:24:46,980 --> 00:24:50,730
+a lot of that there's some kind of uh...
+a spinal cord injury
+
+511
+00:24:50,730 --> 00:24:53,250
+first thing we do is diagnose it
+
+512
+00:24:53,250 --> 00:24:56,570
+then we try to treated if we can try to
+fix it
+
+513
+00:24:56,570 --> 00:24:57,440
+if we can't
+
+514
+00:24:57,440 --> 00:24:59,490
+would give you a rehabilitation regime
+
+515
+00:24:59,490 --> 00:25:03,590
+to allow you to learn how to live with
+that it's exactly the same way
+
+516
+00:25:03,590 --> 00:25:04,419
+we treat
+
+517
+00:25:04,419 --> 00:25:06,190
+of mental illness
+
+518
+00:25:06,190 --> 00:25:08,770
+then that the medical matter of illness
+
+519
+00:25:08,770 --> 00:25:10,159
+we think about
+
+520
+00:25:10,159 --> 00:25:12,100
+all symptoms
+
+521
+00:25:12,100 --> 00:25:16,830
+as being closed by some kind of
+underline or the pathology
+
+522
+00:25:16,830 --> 00:25:19,930
+but symptoms refer to
+
+523
+00:25:19,930 --> 00:25:21,900
+public manifestations
+
+524
+00:25:21,900 --> 00:25:24,780
+of some kind of of illness
+
+525
+00:25:24,780 --> 00:25:26,449
+when you have a fever
+
+526
+00:25:26,449 --> 00:25:30,369
+you take your temperature if it's above
+ninety eight point six
+
+527
+00:25:30,369 --> 00:25:31,740
+that's the symptom
+
+528
+00:25:31,740 --> 00:25:32,520
+ald
+
+529
+00:25:32,520 --> 00:25:35,400
+some kind of underline of pathology
+
+530
+00:25:35,400 --> 00:25:38,539
+if you've got obtain in your
+
+531
+00:25:38,539 --> 00:25:40,960
+or you've got swelling in your legs
+
+532
+00:25:40,960 --> 00:25:43,159
+it's the symptom of some kind
+
+533
+00:25:43,159 --> 00:25:45,090
+of underlying pathology
+
+534
+00:25:45,090 --> 00:25:46,310
+and in the same way
+
+535
+00:25:46,310 --> 00:25:50,900
+the symptoms of mental illness whatever
+they are the abnormal fears or the
+
+536
+00:25:50,900 --> 00:25:55,640
+difficulties in communicating or the
+delusions of a host of asians or
+
+537
+00:25:55,640 --> 00:25:57,070
+whatever
+
+538
+00:25:57,070 --> 00:25:58,020
+but to be
+
+539
+00:25:58,020 --> 00:26:01,530
+on uh... caused by some kind of a
+hundred flying pathology
+
+540
+00:26:01,530 --> 00:26:06,830
+and the idea of diagnosis is the figure
+out what that underlying pathology or is
+
+541
+00:26:06,830 --> 00:26:09,220
+so their heart
+
+542
+00:26:09,220 --> 00:26:12,450
+individual symptoms of mental illness
+
+543
+00:26:12,450 --> 00:26:14,309
+tend to cluster together
+
+544
+00:26:14,309 --> 00:26:16,910
+to format syndromes
+
+545
+00:26:16,910 --> 00:26:18,400
+syndromes like
+
+546
+00:26:18,400 --> 00:26:19,920
+schizophrenic though
+
+547
+00:26:19,920 --> 00:26:21,770
+anxiety disorder
+
+548
+00:26:21,770 --> 00:26:23,470
+childhood autism
+
+549
+00:26:23,470 --> 00:26:25,590
+mental retardation
+
+550
+00:26:25,590 --> 00:26:29,210
+manic-depressive illness bipolar
+disorder or whatever
+
+551
+00:26:29,210 --> 00:26:30,590
+brought this up with the irs
+
+552
+00:26:30,590 --> 00:26:31,990
+mental illnesses
+
+553
+00:26:31,990 --> 00:26:36,419
+although identified in terms of salams
+set of symptoms
+
+554
+00:26:36,419 --> 00:26:39,010
+which tend to go together
+
+555
+00:26:39,010 --> 00:26:42,410
+and then finally and the language of
+medical pathology
+
+556
+00:26:42,410 --> 00:26:44,429
+we have diseases
+
+557
+00:26:44,429 --> 00:26:47,730
+which are syndromes that have some kind
+of known cause
+
+558
+00:26:47,730 --> 00:26:48,770
+okay
+
+559
+00:26:48,770 --> 00:26:50,070
+on
+
+560
+00:26:50,070 --> 00:26:51,100
+for example
+
+561
+00:26:51,100 --> 00:26:55,539
+or if you have leukemia we know what the
+causes of leukemia or the symptom of
+
+562
+00:26:55,539 --> 00:26:57,230
+leukemia is an abnormal
+
+563
+00:26:57,230 --> 00:26:59,390
+white cell count
+
+564
+00:26:59,390 --> 00:27:00,039
+or bought
+
+565
+00:27:00,039 --> 00:27:02,059
+you underline collins
+
+566
+00:27:02,059 --> 00:27:05,120
+or is for the it is
+
+567
+00:27:05,120 --> 00:27:05,640
+something
+
+568
+00:27:05,640 --> 00:27:07,380
+gone wrong in the blood stream
+
+569
+00:27:07,380 --> 00:27:09,599
+are and that is the difference between
+
+570
+00:27:09,599 --> 00:27:14,260
+ascend rome which is just a cluster of
+symptoms worried about the cause is
+
+571
+00:27:14,260 --> 00:27:15,399
+and the disease
+
+572
+00:27:15,399 --> 00:27:16,700
+which is a syndrome
+
+573
+00:27:16,700 --> 00:27:17,830
+with anyhow
+
+574
+00:27:17,830 --> 00:27:19,420
+with unknown cause
+
+575
+00:27:19,420 --> 00:27:20,779
+okay so we can
+
+576
+00:27:20,779 --> 00:27:24,580
+this is what the medical model
+psychopathology really looks like a nine
+
+577
+00:27:24,580 --> 00:27:27,760
+stressing this because you will often
+read
+
+578
+00:27:27,760 --> 00:27:32,010
+and one of the places that you will
+sometimes read this is in your textbook
+
+579
+00:27:32,010 --> 00:27:37,690
+are somewhat yet accurate portrayal of
+what the medical model all is all about
+
+580
+00:27:37,690 --> 00:27:38,719
+also before
+
+581
+00:27:38,719 --> 00:27:41,200
+but the medical model of psychopathology
+
+582
+00:27:41,200 --> 00:27:46,210
+is that the assumes that there's an
+organic or physical cause
+
+583
+00:27:46,210 --> 00:27:48,070
+of mental illness
+
+584
+00:27:48,070 --> 00:27:52,860
+turns out that is not what the medical
+model or is our is all about
+
+585
+00:27:52,860 --> 00:27:53,529
+commitment
+
+586
+00:27:53,529 --> 00:27:55,150
+argued gotten better
+
+587
+00:27:55,150 --> 00:27:57,370
+fall but he's still
+
+588
+00:27:57,370 --> 00:28:00,850
+doesn't quite have the medical model
+right after work it out and for twenty
+
+589
+00:28:00,850 --> 00:28:01,820
+five years
+
+590
+00:28:01,820 --> 00:28:04,630
+uh... and uh... still
+
+591
+00:28:04,630 --> 00:28:06,930
+resisting my influence here
+
+592
+00:28:06,930 --> 00:28:09,090
+or partner
+
+593
+00:28:09,090 --> 00:28:11,440
+andries old friends one of my teachers
+
+594
+00:28:11,440 --> 00:28:15,380
+are part of the apartment refers to was
+the pathology model as what i mean by
+
+595
+00:28:15,380 --> 00:28:20,029
+the medical model the only difference is
+i'm right when i refer to it as the
+
+596
+00:28:20,029 --> 00:28:21,650
+medical model
+
+597
+00:28:21,650 --> 00:28:24,270
+or and uh... and he's not
+
+598
+00:28:24,270 --> 00:28:27,929
+our medical model for psychopathology
+says
+
+599
+00:28:27,929 --> 00:28:32,350
+is that psychopathology has a natural
+cause
+
+600
+00:28:32,350 --> 00:28:34,929
+our cars that can be understood
+
+601
+00:28:34,929 --> 00:28:39,310
+by the application all of the scientific
+on the method
+
+602
+00:28:39,310 --> 00:28:42,110
+that's ever medical bottle assumes
+
+603
+00:28:42,110 --> 00:28:45,790
+medical model was first and foremost an
+analogy
+
+604
+00:28:45,790 --> 00:28:48,410
+between mental illness and physical
+illness
+
+605
+00:28:48,410 --> 00:28:50,549
+but as far as close as coal
+
+606
+00:28:50,549 --> 00:28:52,119
+all the medical model
+
+607
+00:28:52,119 --> 00:28:52,539
+says
+
+608
+00:28:52,539 --> 00:28:54,200
+is that mental illness
+
+609
+00:28:54,200 --> 00:28:55,889
+has a natural cause
+
+610
+00:28:55,889 --> 00:29:01,750
+that can be discovered by science
+natural cause as opposed to watch
+
+611
+00:29:01,750 --> 00:29:03,980
+two hundred three hundred years ago
+
+612
+00:29:03,980 --> 00:29:09,210
+we padegi super natural mobile of mental
+illness
+
+613
+00:29:09,210 --> 00:29:11,360
+that basically said that
+
+614
+00:29:11,360 --> 00:29:14,080
+mental illnesses foreclosed by
+
+615
+00:29:14,080 --> 00:29:15,330
+demon possession
+
+616
+00:29:15,330 --> 00:29:18,279
+that the day i had gotten a lot of the
+person
+
+617
+00:29:18,279 --> 00:29:23,149
+art and art i i was making the person do
+it and engage in these kinds of things
+
+618
+00:29:23,149 --> 00:29:27,590
+and the proper treatment for what we now
+recognized as mental illness
+
+619
+00:29:27,590 --> 00:29:30,380
+all is essentially xlr schism
+
+620
+00:29:30,380 --> 00:29:32,440
+of the of the devil
+
+621
+00:29:32,440 --> 00:29:36,070
+dartmouth the bottle of mental illness
+that prevailed
+
+622
+00:29:36,070 --> 00:29:38,460
+as recently as the evolved
+
+623
+00:29:38,460 --> 00:29:41,140
+as the fifteen th and sixteen th on
+
+624
+00:29:41,140 --> 00:29:42,880
+fifteen to sixteen centuries
+
+625
+00:29:42,880 --> 00:29:44,770
+well recently however
+
+626
+00:29:44,770 --> 00:29:47,740
+burger is another alternative to the
+medical model
+
+627
+00:29:47,740 --> 00:29:51,240
+known as buffalo model of mental illness
+
+628
+00:29:51,240 --> 00:29:53,290
+which basically says
+
+629
+00:29:53,290 --> 00:29:59,330
+the kinds of symptoms that are part and
+parcel of mental illness
+
+630
+00:29:59,330 --> 00:30:00,690
+dana bradley
+
+631
+00:30:00,690 --> 00:30:01,290
+displayed
+
+632
+00:30:01,290 --> 00:30:03,240
+by the person
+
+633
+00:30:03,240 --> 00:30:07,710
+there is arms all their it's both full
+behavior
+
+634
+00:30:07,710 --> 00:30:11,850
+so when somebody's walking down the
+street and quacking like doc or dot
+
+635
+00:30:11,850 --> 00:30:13,580
+speaking and some kind of uh... oh
+
+636
+00:30:13,580 --> 00:30:15,739
+or this weekend some kind of weird
+language
+
+637
+00:30:15,739 --> 00:30:18,190
+the ideas they could be
+
+638
+00:30:18,190 --> 00:30:20,080
+normal if they just ride
+
+639
+00:30:20,080 --> 00:30:21,930
+to be normal or if they wanted
+
+640
+00:30:21,930 --> 00:30:23,930
+to be normal
+
+641
+00:30:23,930 --> 00:30:25,460
+all in the same way
+
+642
+00:30:25,460 --> 00:30:30,460
+that if you think the class of mental
+illness is demon possession
+
+643
+00:30:30,460 --> 00:30:34,630
+but proper treatment of mental illness
+is acts or schism
+
+644
+00:30:34,630 --> 00:30:35,760
+if you think
+
+645
+00:30:35,760 --> 00:30:37,080
+that mental illness
+
+646
+00:30:37,080 --> 00:30:39,799
+is deliberately willful behavior
+
+647
+00:30:39,799 --> 00:30:43,930
+that proper treatment of mental illness
+or the mental illness
+
+648
+00:30:43,930 --> 00:30:45,060
+punishment
+
+649
+00:30:45,060 --> 00:30:47,480
+it in the eighteen th and eighteenth
+centuries
+
+650
+00:30:47,480 --> 00:30:50,019
+that's exactly how the mentally ill were
+treated
+
+651
+00:30:50,019 --> 00:30:54,669
+they were punished they work within two
+silence which were essentially prisons
+
+652
+00:30:54,669 --> 00:30:56,530
+for the mentally ill
+
+653
+00:30:56,530 --> 00:31:00,169
+of there are triggered it would look in
+the nineteenth century literature
+
+654
+00:31:00,169 --> 00:31:03,520
+and find prescriptions for our caller
+equality
+
+655
+00:31:03,520 --> 00:31:07,510
+dumping people in whoever many people
+dot waterboarding exactly but pretty
+
+656
+00:31:07,510 --> 00:31:08,429
+close
+
+657
+00:31:08,429 --> 00:31:10,660
+arctic at the death of the dead out of
+it
+
+658
+00:31:10,660 --> 00:31:11,509
+all
+
+659
+00:31:11,509 --> 00:31:16,320
+all of the brutal treatments of the
+mentally ill and templeton all intending
+
+660
+00:31:16,320 --> 00:31:17,170
+onto
+
+661
+00:31:17,170 --> 00:31:21,930
+basically punishment for be mentally ill
+but we don't do that under the medical
+
+662
+00:31:21,930 --> 00:31:22,659
+model
+
+663
+00:31:22,659 --> 00:31:25,879
+will be saying in the of medical model
+
+664
+00:31:25,879 --> 00:31:28,310
+is that people cared help
+
+665
+00:31:28,310 --> 00:31:29,980
+the mentally ill
+
+666
+00:31:29,980 --> 00:31:31,859
+anymore than they could help
+
+667
+00:31:31,859 --> 00:31:34,669
+had been cancer or heart disease
+
+668
+00:31:34,669 --> 00:31:35,799
+and people
+
+669
+00:31:35,799 --> 00:31:36,499
+don't was
+
+670
+00:31:36,499 --> 00:31:37,530
+killed themselves
+
+671
+00:31:37,530 --> 00:31:41,370
+to be audible of the mental illnesses in
+the product out
+
+672
+00:31:41,370 --> 00:31:43,440
+spirit possession or demon possession
+
+673
+00:31:43,440 --> 00:31:44,199
+anymore
+
+674
+00:31:44,199 --> 00:31:45,250
+than cancer
+
+675
+00:31:45,250 --> 00:31:49,070
+or heart disease is a product of spirit
+possession
+
+676
+00:31:49,070 --> 00:31:50,500
+all
+
+677
+00:31:50,500 --> 00:31:52,240
+weird even session
+
+678
+00:31:52,240 --> 00:31:55,960
+so here is conduct henry think about
+mental illness
+
+679
+00:31:55,960 --> 00:31:59,220
+in very or in very broad our terms
+
+680
+00:31:59,220 --> 00:32:02,750
+when it comes to not the
+
+681
+00:32:02,750 --> 00:32:05,669
+natural classes of mental illness or
+
+682
+00:32:05,669 --> 00:32:10,140
+again we can think about two different
+kinds of causes
+
+683
+00:32:10,140 --> 00:32:13,630
+there are some at a genetic theories of
+mental illness
+
+684
+00:32:13,630 --> 00:32:17,380
+and there are cycle genic theories of
+mental illness
+
+685
+00:32:17,380 --> 00:32:22,470
+in this summer genic theories of mental
+illness sino comes from the greek word
+
+686
+00:32:22,470 --> 00:32:24,260
+for a body
+
+687
+00:32:24,260 --> 00:32:29,360
+mental illnesses related to solve the
+problem in barely functioning
+
+688
+00:32:29,360 --> 00:32:30,290
+okay
+
+689
+00:32:30,290 --> 00:32:34,170
+is coming up problem of anatomical
+structure
+
+690
+00:32:34,170 --> 00:32:35,639
+we now know
+
+691
+00:32:35,639 --> 00:32:39,529
+that the calm symptoms of al timers
+disease
+
+692
+00:32:39,529 --> 00:32:41,760
+all related to
+
+693
+00:32:41,760 --> 00:32:46,080
+data anatomical into irregularities
+plaques and tangles in neural tissue in
+
+694
+00:32:46,080 --> 00:32:47,600
+the brains of people
+
+695
+00:32:47,600 --> 00:32:49,990
+with al timers or disease
+
+696
+00:32:49,990 --> 00:32:53,820
+but sometimes the anatomy is intact
+
+697
+00:32:53,820 --> 00:32:56,980
+it's operations are
+
+698
+00:32:56,980 --> 00:32:58,310
+not quite correct
+
+699
+00:32:58,310 --> 00:33:00,590
+you had a good have all the
+
+700
+00:33:00,590 --> 00:33:03,759
+on the same way that you could have
+detected anatomical sd
+
+701
+00:33:03,759 --> 00:33:07,060
+leading the mental illness you can also
+have defects
+
+702
+00:33:07,060 --> 00:33:09,009
+in physiological function
+
+703
+00:33:09,009 --> 00:33:10,350
+leading to mental illness
+
+704
+00:33:10,350 --> 00:33:14,389
+for example asg latenan talks about in
+his are
+
+705
+00:33:14,389 --> 00:33:15,630
+it is chapter
+
+706
+00:33:15,630 --> 00:33:17,389
+there are all grown
+
+707
+00:33:17,389 --> 00:33:20,109
+there is any other prominent curious cuz
+a friend here
+
+708
+00:33:20,109 --> 00:33:23,979
+that related to the death of the
+deficits in a particular
+
+709
+00:33:23,979 --> 00:33:26,510
+neurotransmitter known as dopamine
+
+710
+00:33:26,510 --> 00:33:30,580
+and there is a prominent theory of
+depression that relates to
+
+711
+00:33:30,580 --> 00:33:33,950
+to abnormal all levels of a particular
+
+712
+00:33:33,950 --> 00:33:35,120
+moreau transfer
+
+713
+00:33:35,120 --> 00:33:36,640
+known as serotonin
+
+714
+00:33:36,640 --> 00:33:37,830
+here we have
+
+715
+00:33:37,830 --> 00:33:40,230
+defects in physiological function
+
+716
+00:33:40,230 --> 00:33:43,550
+operating in a about amie it's
+essentially normal
+
+717
+00:33:43,550 --> 00:33:45,299
+is and i'll timers disease
+
+718
+00:33:45,299 --> 00:33:47,860
+you have what appears to be
+
+719
+00:33:47,860 --> 00:33:51,740
+abnormalities in anatomical structure
+
+720
+00:33:51,740 --> 00:33:56,470
+sometimes the origins of mental illness
+are indeed some atlantic
+
+721
+00:33:56,470 --> 00:33:59,769
+the are mental illness has its origins
+in
+
+722
+00:33:59,769 --> 00:34:01,630
+some kind of abnormal
+
+723
+00:34:01,630 --> 00:34:02,649
+bottling function
+
+724
+00:34:02,649 --> 00:34:04,410
+but it's not always the case
+
+725
+00:34:04,410 --> 00:34:08,460
+we also have certain forms of or mental
+illness
+
+726
+00:34:08,460 --> 00:34:12,250
+they are in underwriting closed inside
+patriotic
+
+727
+00:34:12,250 --> 00:34:16,380
+there's nothing particularly wrong with
+the bodies of the individuals there's
+
+728
+00:34:16,380 --> 00:34:17,839
+nothing particularly wrong
+
+729
+00:34:17,839 --> 00:34:21,769
+with all of the with their own anatomy
+or physiology
+
+730
+00:34:21,769 --> 00:34:24,979
+but that there has been some kind of
+experience
+
+731
+00:34:24,979 --> 00:34:27,439
+or some kind of
+
+732
+00:34:27,439 --> 00:34:31,950
+all learning that has produced the o
+deal uh...
+
+733
+00:34:31,950 --> 00:34:32,720
+the problem
+
+734
+00:34:32,720 --> 00:34:37,510
+i think probably the clearest example
+although i a l a a psychedelic
+
+735
+00:34:37,510 --> 00:34:39,970
+of or cause of mental illness
+
+736
+00:34:39,970 --> 00:34:42,539
+isn't post-traumatic stress disorder
+
+737
+00:34:42,539 --> 00:34:43,159
+ability
+
+738
+00:34:43,159 --> 00:34:44,800
+of widely
+
+739
+00:34:44,800 --> 00:34:48,740
+all recognized form of mental illness to
+carried your about it on the news all
+
+740
+00:34:48,740 --> 00:34:49,799
+the time
+
+741
+00:34:49,799 --> 00:34:52,349
+on with veterans coming back from all
+
+742
+00:34:52,349 --> 00:34:56,160
+from old iraq suffering from pete e_s_t_
+or
+
+743
+00:34:56,160 --> 00:35:00,949
+vietnam veterans saw that although those
+suffering from p_p_o_'s d
+
+744
+00:35:00,949 --> 00:35:03,619
+because that is psychological
+
+745
+00:35:03,619 --> 00:35:06,050
+these individuals have been exposed to
+
+746
+00:35:06,050 --> 00:35:09,499
+traumatic experiences of various kinds
+
+747
+00:35:09,499 --> 00:35:11,319
+that lead to the development
+
+748
+00:35:11,319 --> 00:35:13,219
+although form of mental illness
+
+749
+00:35:13,219 --> 00:35:15,430
+known as post-traumatic stress disorder
+
+750
+00:35:15,430 --> 00:35:17,189
+that along with their anatomy
+
+751
+00:35:17,189 --> 00:35:21,379
+nothing wrong with their physiology but
+was part of but there's been some
+
+752
+00:35:21,379 --> 00:35:26,189
+psychological experience that has led to
+the alone
+
+753
+00:35:26,189 --> 00:35:29,839
+or the to the old formation of these
+terrorist kinds of symptoms
+
+754
+00:35:29,839 --> 00:35:31,020
+and but sometimes
+
+755
+00:35:31,020 --> 00:35:32,359
+it's not so much
+
+756
+00:35:32,359 --> 00:35:37,569
+the direct experience of travel have
+been traumatized by some art of those
+
+757
+00:35:37,569 --> 00:35:38,400
+fumbled
+
+758
+00:35:38,400 --> 00:35:41,700
+massive uh... psychologically damaging
+of that
+
+759
+00:35:41,700 --> 00:35:44,249
+but dont think there is some forms of
+mental illness
+
+760
+00:35:44,249 --> 00:35:47,880
+that seemed to will be acquired by the
+individual
+
+761
+00:35:47,880 --> 00:35:48,289
+ald
+
+762
+00:35:48,289 --> 00:35:50,539
+through a history of social learning
+
+763
+00:35:50,539 --> 00:35:53,659
+three clear example i think is and
+what's known as the
+
+764
+00:35:53,659 --> 00:35:57,120
+learned helplessness model of depression
+where
+
+765
+00:35:57,120 --> 00:35:58,609
+marty seligman
+
+766
+00:35:58,609 --> 00:36:01,890
+lynn abramson lora lohr eight and i and
+others
+
+767
+00:36:01,890 --> 00:36:02,770
+have argued
+
+768
+00:36:02,770 --> 00:36:08,140
+that some people become depressed
+because they have learned to think about
+
+769
+00:36:08,140 --> 00:36:12,420
+themselves and their world in a
+particular way to have
+
+770
+00:36:12,420 --> 00:36:15,109
+on abnormal the death
+
+771
+00:36:15,109 --> 00:36:18,079
+who negative expectations for themselves
+
+772
+00:36:18,079 --> 00:36:19,599
+all for the future
+
+773
+00:36:19,599 --> 00:36:20,720
+on and so on
+
+774
+00:36:20,720 --> 00:36:24,490
+all of his again nothing wrong with the
+brains of these individuals
+
+775
+00:36:24,490 --> 00:36:29,380
+their dopamine system there serotonin
+system is working pretty much a fine
+
+776
+00:36:29,380 --> 00:36:31,609
+but the problem leading to the
+depression
+
+777
+00:36:31,609 --> 00:36:33,979
+is that they have learned to think
+
+778
+00:36:33,979 --> 00:36:37,599
+about themselves and the world in a
+particular way
+
+779
+00:36:37,599 --> 00:36:38,809
+so dead
+
+780
+00:36:38,809 --> 00:36:41,650
+these some energetic causes of mental
+illness
+
+781
+00:36:41,650 --> 00:36:44,059
+can be discovered by science
+
+782
+00:36:44,059 --> 00:36:47,210
+okay but can the secretary dick
+
+783
+00:36:47,210 --> 00:36:49,319
+causes of mental illness
+
+784
+00:36:49,319 --> 00:36:49,859
+again
+
+785
+00:36:49,859 --> 00:36:52,670
+it's the idea that there are natural
+causes
+
+786
+00:36:52,670 --> 00:36:54,600
+that can be discovered by science
+
+787
+00:36:54,600 --> 00:36:55,770
+is at the root
+
+788
+00:36:55,770 --> 00:36:57,290
+of the medical model
+
+789
+00:36:57,290 --> 00:36:59,529
+volvo of mental illness
+
+790
+00:36:59,529 --> 00:37:02,660
+so now let's get a little less abstract
+for a second
+
+791
+00:37:02,660 --> 00:37:07,690
+and let's think about exactly what kinds
+of mental illnesses although there are
+
+792
+00:37:07,690 --> 00:37:11,039
+again not going to go uh... this song
+
+793
+00:37:11,039 --> 00:37:13,150
+because glavin does such a good job
+
+794
+00:37:13,150 --> 00:37:14,999
+of of it
+
+795
+00:37:14,999 --> 00:37:18,869
+just to say that there are cool lots of
+different forms of mental illness can
+
+796
+00:37:18,869 --> 00:37:20,129
+take
+
+797
+00:37:20,129 --> 00:37:24,130
+sometimes some forms of mental illness
+or donors organic brain syndrome
+
+798
+00:37:24,130 --> 00:37:26,890
+because they seem to be closed by
+
+799
+00:37:26,890 --> 00:37:28,940
+damage to one or another
+
+800
+00:37:28,940 --> 00:37:30,559
+of the brain structure
+
+801
+00:37:30,559 --> 00:37:35,180
+there are certain developmental
+disorders like a mental retardation
+
+802
+00:37:35,180 --> 00:37:37,459
+or childhood autism
+
+803
+00:37:37,459 --> 00:37:38,559
+that he emerged
+
+804
+00:37:38,559 --> 00:37:45,230
+all over the orlando or you're really of
+bases of of of psychological development
+
+805
+00:37:45,230 --> 00:37:48,739
+or a parent in infancy your tolerable id
+
+806
+00:37:48,739 --> 00:37:50,069
+or childhood
+
+807
+00:37:50,069 --> 00:37:51,530
+then there are other
+
+808
+00:37:51,530 --> 00:37:55,049
+forms of mental illness that become
+apparent in adulthood
+
+809
+00:37:55,049 --> 00:37:58,969
+there are so called psychosis like
+schizophrenia were the affect of
+
+810
+00:37:58,969 --> 00:37:59,699
+disorders
+
+811
+00:37:59,699 --> 00:38:04,219
+so called the roses like the anxiety
+disorders and up and phobias
+
+812
+00:38:04,219 --> 00:38:07,140
+there is some psycho physiological
+disorders
+
+813
+00:38:07,140 --> 00:38:08,990
+like some forms of all sorts
+
+814
+00:38:08,990 --> 00:38:10,719
+where the physical
+
+815
+00:38:10,719 --> 00:38:11,529
+disease
+
+816
+00:38:11,529 --> 00:38:15,200
+has a psychological clause like lots of
+stress
+
+817
+00:38:15,200 --> 00:38:16,630
+and anxiety
+
+818
+00:38:16,630 --> 00:38:20,260
+their dissociate disorders what used to
+be called hysteria
+
+819
+00:38:20,260 --> 00:38:25,209
+like multiple personality disorder to
+some sort of identity are disorder
+
+820
+00:38:25,209 --> 00:38:25,559
+on
+
+821
+00:38:25,559 --> 00:38:29,439
+their classes of various personality are
+disorders
+
+822
+00:38:29,439 --> 00:38:30,829
+home
+
+823
+00:38:30,829 --> 00:38:32,739
+there's not just one
+
+824
+00:38:32,739 --> 00:38:34,299
+oracle
+
+825
+00:38:34,299 --> 00:38:36,019
+discrete symptoms
+
+826
+00:38:36,019 --> 00:38:40,499
+even although seems to pervade the
+persons entire personality
+
+827
+00:38:40,499 --> 00:38:44,510
+antisocial personality disorder all is a
+very good example
+
+828
+00:38:44,510 --> 00:38:47,159
+of all of this class of mental illness
+
+829
+00:38:47,159 --> 00:38:51,020
+bender various behavioral disorders that
+we classify as mental illness
+
+830
+00:38:51,020 --> 00:38:53,439
+some people a difficulty sleeping
+
+831
+00:38:53,439 --> 00:38:54,459
+sleep disorders
+
+832
+00:38:54,459 --> 00:38:55,739
+those are
+
+833
+00:38:55,739 --> 00:38:58,489
+of the forms of although psychopathology
+
+834
+00:38:58,489 --> 00:39:02,760
+and then sometimes people just have
+problems including that they approach
+
+835
+00:39:02,760 --> 00:39:07,770
+uh... psychotherapists or psychiatrists
+clinical psychologist psychiatric social
+
+836
+00:39:07,770 --> 00:39:08,329
+workers
+
+837
+00:39:08,329 --> 00:39:09,290
+to try to solve
+
+838
+00:39:09,290 --> 00:39:12,819
+i want to break up with my boyfriend i
+don't know how to do it
+
+839
+00:39:12,819 --> 00:39:13,740
+skater
+
+840
+00:39:13,740 --> 00:39:16,609
+worried i won't find another boyfriend
+or whatever
+
+841
+00:39:16,609 --> 00:39:17,410
+contracted through it
+
+842
+00:39:17,410 --> 00:39:20,139
+and help you get rid of him
+
+843
+00:39:20,139 --> 00:39:21,059
+all
+
+844
+00:39:21,059 --> 00:39:25,039
+so we've got these various forms of
+mental illness and again
+
+845
+00:39:25,039 --> 00:39:29,210
+go right but it's very good describing
+what these forms of mental illness or or
+
+846
+00:39:29,210 --> 00:39:32,329
+or like i don't want to repeat that
+material here
+
+847
+00:39:32,329 --> 00:39:36,689
+what i do want to do army and the time
+this remaining twisted up however is to
+
+848
+00:39:36,689 --> 00:39:37,849
+talk about
+
+849
+00:39:37,849 --> 00:39:42,010
+highly classified the various forms of
+mental illness
+
+850
+00:39:42,010 --> 00:39:44,529
+when you plan to
+
+851
+00:39:44,529 --> 00:39:48,959
+clinical psychologist or a psychiatrist
+or a psychiatric social worker and say
+
+852
+00:39:48,959 --> 00:39:52,959
+i'm feeling more of a lot done really
+feeling depressed or i'm really feeling
+
+853
+00:39:52,959 --> 00:39:53,489
+anxious
+
+854
+00:39:53,489 --> 00:39:54,869
+i can you help me
+
+855
+00:39:54,869 --> 00:39:57,169
+there first thing
+
+856
+00:39:57,169 --> 00:39:59,969
+following the medical model the first
+thing you want to do
+
+857
+00:39:59,969 --> 00:40:05,130
+is to diagnose the owners to try to
+figure out what it is all of that that
+
+858
+00:40:05,130 --> 00:40:06,680
+that's wrong with the person
+
+859
+00:40:06,680 --> 00:40:07,920
+and again
+
+860
+00:40:07,920 --> 00:40:10,280
+are watching to see the connection
+
+861
+00:40:10,280 --> 00:40:11,430
+between
+
+862
+00:40:11,430 --> 00:40:16,299
+medical and psychiatric diagnosis on the
+one hand
+
+863
+00:40:16,299 --> 00:40:19,619
+classification on the other hand because
+what happens is
+
+864
+00:40:19,619 --> 00:40:22,209
+when you make on medical diagnosis
+
+865
+00:40:22,209 --> 00:40:24,750
+you classify a patient
+
+866
+00:40:24,750 --> 00:40:26,219
+into a category
+
+867
+00:40:26,219 --> 00:40:29,750
+of people who have on kind or arab
+
+868
+00:40:29,750 --> 00:40:32,569
+disease or illness in common
+
+869
+00:40:32,569 --> 00:40:33,840
+the symptoms
+
+870
+00:40:33,840 --> 00:40:39,410
+one of the person has hallucinations or
+on depression or anxiety or whatever
+
+871
+00:40:39,410 --> 00:40:42,549
+a convict those as features
+
+872
+00:40:42,549 --> 00:40:44,190
+and at the same homes
+
+873
+00:40:44,190 --> 00:40:45,609
+which are
+
+874
+00:40:45,609 --> 00:40:49,370
+std defined by clusters off-color
+currying
+
+875
+00:40:49,370 --> 00:40:50,830
+although the symptoms
+
+876
+00:40:50,830 --> 00:40:54,160
+can be thought all of those categories
+so schizophrenic
+
+877
+00:40:54,160 --> 00:40:56,779
+is a category of mental illness
+
+878
+00:40:56,779 --> 00:41:01,439
+all individuals with schizophrenia have
+certain kinds of features all you know
+
+879
+00:41:01,439 --> 00:41:02,350
+in common
+
+880
+00:41:02,350 --> 00:41:05,669
+and then you want to diagnose mental
+illness in a patient
+
+881
+00:41:05,669 --> 00:41:09,279
+you to the same thing that you do if you
+are a medical doctor
+
+882
+00:41:09,279 --> 00:41:11,109
+diagnosing a physical illness
+
+883
+00:41:11,109 --> 00:41:12,299
+what you try to do
+
+884
+00:41:12,299 --> 00:41:13,570
+is to match
+
+885
+00:41:13,570 --> 00:41:19,770
+the patients' symptoms to the symptoms
+better characteristic of various kinds
+
+886
+00:41:19,770 --> 00:41:21,170
+of illnesses
+
+887
+00:41:21,170 --> 00:41:22,949
+and then say
+
+888
+00:41:22,949 --> 00:41:23,929
+first thing we know is
+
+889
+00:41:23,929 --> 00:41:26,170
+you have bipolar disorder
+
+890
+00:41:26,170 --> 00:41:29,680
+or you have the symptoms of
+post-traumatic stress disorder or you
+
+891
+00:41:29,680 --> 00:41:30,040
+have
+
+892
+00:41:30,040 --> 00:41:35,489
+the symptoms of schizophrenia or
+whatever it is that you've got
+
+893
+00:41:35,489 --> 00:41:39,979
+diagnosis is essentially an active
+categorization the american psychiatric
+
+894
+00:41:39,979 --> 00:41:41,380
+association
+
+895
+00:41:41,380 --> 00:41:45,030
+has published in its diagnostic and
+statistical manual
+
+896
+00:41:45,030 --> 00:41:47,259
+and official west
+
+897
+00:41:47,259 --> 00:41:53,009
+all the various forms of mental illness
+there are and what bearer
+
+898
+00:41:53,009 --> 00:41:53,390
+characteristic
+
+899
+00:41:53,390 --> 00:41:54,749
+all symptoms are
+
+900
+00:41:54,749 --> 00:41:58,469
+so that when you're confronted with a
+new patient
+
+901
+00:41:58,469 --> 00:42:00,400
+determined what his or her symptoms are
+
+902
+00:42:00,400 --> 00:42:01,680
+and then basically
+
+903
+00:42:01,680 --> 00:42:02,550
+figure out well
+
+904
+00:42:02,550 --> 00:42:06,940
+where the our where the individual
+should be ought to be appropriately all
+
+905
+00:42:06,940 --> 00:42:08,420
+the classified
+
+906
+00:42:08,420 --> 00:42:09,640
+that's an interesting
+
+907
+00:42:09,640 --> 00:42:11,970
+is follow this idea
+
+908
+00:42:11,970 --> 00:42:18,190
+that psychiatric psychiatric diagnosis
+is essentially an active classification
+
+909
+00:42:18,190 --> 00:42:20,079
+and then try to figure out
+
+910
+00:42:20,079 --> 00:42:26,559
+exactly what kind of all categories the
+psychiatric diagnoses
+
+911
+00:42:26,559 --> 00:42:29,659
+even
+
+912
+00:42:29,659 --> 00:42:30,549
+history
+
+913
+00:42:30,549 --> 00:42:35,649
+off the coyote re but they are in a
+psychiatric diagnoses various forms of
+
+914
+00:42:35,649 --> 00:42:36,749
+mental illness
+
+915
+00:42:36,749 --> 00:42:41,499
+were considered to be proper steps just
+like the proper sets that we talked
+
+916
+00:42:41,499 --> 00:42:45,069
+about in our lecture on categorization
+
+917
+00:42:45,069 --> 00:42:46,670
+so for example
+
+918
+00:42:46,670 --> 00:42:47,759
+alm
+
+919
+00:42:47,759 --> 00:42:50,530
+nineteenth of early twentieth century
+psychiatrist
+
+920
+00:42:50,530 --> 00:42:53,539
+distinguish between psychotic season
+overseas
+
+921
+00:42:53,539 --> 00:42:55,000
+in psychosis
+
+922
+00:42:55,000 --> 00:42:57,400
+all that there is a alm
+
+923
+00:42:57,400 --> 00:43:01,870
+departure from reality testing the
+person just doesn't see reality are
+
+924
+00:43:01,870 --> 00:43:02,809
+correctly
+
+925
+00:43:02,809 --> 00:43:04,110
+in the new roasters
+
+926
+00:43:04,110 --> 00:43:07,489
+there's usually some kind of underlying
+anxiety
+
+927
+00:43:07,489 --> 00:43:09,920
+if you have difficulty in reality
+testing
+
+928
+00:43:09,920 --> 00:43:11,219
+you be labeled
+
+929
+00:43:11,219 --> 00:43:16,030
+with psychosis if you add problems of
+anxiety you be able able too
+
+930
+00:43:16,030 --> 00:43:18,099
+out with directions
+
+931
+00:43:18,099 --> 00:43:19,109
+reality testing
+
+932
+00:43:19,109 --> 00:43:22,119
+and anxiety we're defining features
+
+933
+00:43:22,119 --> 00:43:23,639
+or the categories
+
+934
+00:43:23,639 --> 00:43:24,619
+morose is
+
+935
+00:43:24,619 --> 00:43:28,920
+and also i got the psychosis and
+neurosis uh... respectively
+
+936
+00:43:28,920 --> 00:43:29,869
+and then
+
+937
+00:43:29,869 --> 00:43:33,220
+once you determine that the person had a
+psychotic disorder
+
+938
+00:43:33,220 --> 00:43:36,620
+then you could make a more fine-grained
+classification
+
+939
+00:43:36,620 --> 00:43:39,650
+in terms of whether the person had say's
+is a friend here
+
+940
+00:43:39,650 --> 00:43:44,900
+or manic depressive illness if the
+person's all god departure from reality
+
+941
+00:43:44,900 --> 00:43:47,439
+testing was in the cognitive domain
+
+942
+00:43:47,439 --> 00:43:51,079
+the psychiatrist would lean toward a
+diagnosis of schizophrenia
+
+943
+00:43:51,079 --> 00:43:52,380
+if the person's
+
+944
+00:43:52,380 --> 00:43:56,919
+depart all problems with reality testing
+were in the emotional domain
+
+945
+00:43:56,919 --> 00:44:00,869
+you wouldn't know make a diagnosis of
+manic-depressive illness
+
+946
+00:44:00,869 --> 00:44:01,630
+similarly
+
+947
+00:44:01,630 --> 00:44:03,139
+if a person
+
+948
+00:44:03,139 --> 00:44:05,869
+had some specific advice like
+
+949
+00:44:05,869 --> 00:44:07,269
+being afraid of heights
+
+950
+00:44:07,269 --> 00:44:11,720
+or being afraid of spiders are being
+afraid of even the presence of other
+
+951
+00:44:11,720 --> 00:44:12,380
+people
+
+952
+00:44:12,380 --> 00:44:15,099
+you would diagnose the person is having
+a phobia
+
+953
+00:44:15,099 --> 00:44:17,469
+but if the person was just worried
+
+954
+00:44:17,469 --> 00:44:18,959
+about everything
+
+955
+00:44:18,959 --> 00:44:22,039
+all the time
+
+956
+00:44:22,039 --> 00:44:23,710
+you'd make a diagnosis
+
+957
+00:44:23,710 --> 00:44:26,019
+solve all of anxiety disorder
+
+958
+00:44:26,019 --> 00:44:26,599
+all
+
+959
+00:44:26,599 --> 00:44:28,459
+to be more concrete
+
+960
+00:44:28,459 --> 00:44:33,059
+oregon bloodwork be swiss psychiatrist
+who are first identified
+
+961
+00:44:33,059 --> 00:44:36,960
+the mental illness that we know no ads
+on schizophrenia
+
+962
+00:44:36,960 --> 00:44:38,469
+argued
+
+963
+00:44:38,469 --> 00:44:43,390
+every individual with schizophrenia
+displayed at four
+
+964
+00:44:43,390 --> 00:44:46,490
+different kinds of of symptoms
+
+965
+00:44:46,490 --> 00:44:47,630
+association disturbance
+
+966
+00:44:47,630 --> 00:44:52,009
+affleck disorder in which the person
+though the failed associations from one
+
+967
+00:44:52,009 --> 00:44:53,370
+idea to another
+
+968
+00:44:53,370 --> 00:44:55,209
+was impaired
+
+969
+00:44:55,209 --> 00:44:56,400
+and had o'neill
+
+970
+00:44:56,400 --> 00:45:01,909
+or an inability to experience emotion
+especially positive emotion
+
+971
+00:45:01,909 --> 00:45:02,680
+ambivalence
+
+972
+00:45:02,680 --> 00:45:05,680
+all or any difficulty and i'll make it
+up
+
+973
+00:45:05,680 --> 00:45:07,819
+on his or her of mind
+
+974
+00:45:07,819 --> 00:45:10,499
+and what we were called autism
+
+975
+00:45:10,499 --> 00:45:12,849
+of which doesn't mean what
+
+976
+00:45:12,849 --> 00:45:14,080
+autism means today
+
+977
+00:45:14,080 --> 00:45:17,739
+but basically means all of that means
+social withdrawal
+
+978
+00:45:17,739 --> 00:45:22,449
+these are known as the former enemies or
+schizophrenia ok notice
+
+979
+00:45:22,449 --> 00:45:24,960
+all of their uh... their initial letter
+
+980
+00:45:24,960 --> 00:45:27,299
+and blow argued
+
+981
+00:45:27,299 --> 00:45:30,389
+very patient with schizophrenia
+
+982
+00:45:30,389 --> 00:45:32,429
+ideas for symptoms
+
+983
+00:45:32,429 --> 00:45:35,510
+and any patient who had to use force
+symptoms
+
+984
+00:45:35,510 --> 00:45:37,109
+what happens
+
+985
+00:45:37,109 --> 00:45:38,109
+schizophrenic
+
+986
+00:45:38,109 --> 00:45:39,779
+these symptoms work
+
+987
+00:45:39,779 --> 00:45:46,059
+single a necessary an jointly sufficient
+to define the category of schizophrenia
+
+988
+00:45:46,059 --> 00:45:46,780
+and all
+
+989
+00:45:46,780 --> 00:45:51,770
+further barriers forms of mental illness
+we're diagnosed in precisely all of this
+
+990
+00:45:51,770 --> 00:45:56,119
+white so you had a super category of
+psychosis
+
+991
+00:45:56,119 --> 00:46:01,959
+a basic level category alts cuz a friend
+hill or manic depressive illness and
+
+992
+00:46:01,959 --> 00:46:04,819
+then underneath alm
+
+993
+00:46:04,819 --> 00:46:06,480
+alot of schizophrenia
+
+994
+00:46:06,480 --> 00:46:07,950
+deborah subtypes
+
+995
+00:46:07,950 --> 00:46:09,869
+and these subtypes were created
+
+996
+00:46:09,869 --> 00:46:14,859
+in exactly the same way as you create
+subtypes of a proper set view of things
+
+997
+00:46:14,859 --> 00:46:17,440
+simply by adding new defining features
+
+998
+00:46:17,440 --> 00:46:22,359
+so importers view simple scads of
+schizophrenia consisted just of the
+
+999
+00:46:22,359 --> 00:46:23,489
+phrase
+
+1000
+00:46:23,489 --> 00:46:25,569
+associated association disturbance
+
+1001
+00:46:25,569 --> 00:46:27,190
+at had only a
+
+1002
+00:46:27,190 --> 00:46:29,319
+ambivalence and autism
+
+1003
+00:46:29,319 --> 00:46:33,879
+hippocratic schizophrenic added a
+symptom of childlike behavior
+
+1004
+00:46:33,879 --> 00:46:35,399
+catatonic
+
+1005
+00:46:35,399 --> 00:46:37,209
+all bout of schizophrenia
+
+1006
+00:46:37,209 --> 00:46:41,090
+added a symptom multiple movement
+disorder essentially
+
+1007
+00:46:41,090 --> 00:46:46,399
+and paranoid schizophrenic added a
+defining symptom ought to lucien
+
+1008
+00:46:46,399 --> 00:46:48,959
+his whiskers are for any other
+
+1009
+00:46:48,959 --> 00:46:55,549
+sale with all the other forms of mental
+illness in the early days of psychiatry
+
+1010
+00:46:55,549 --> 00:46:57,349
+each of these mental illnesses
+
+1011
+00:46:57,349 --> 00:47:02,229
+was construed as a proper set
+
+1012
+00:47:02,229 --> 00:47:07,799
+her the defining symptoms we're single a
+necessary and gently sufficient to
+
+1013
+00:47:07,799 --> 00:47:12,219
+define the individual is having one
+disease or another
+
+1014
+00:47:12,219 --> 00:47:14,569
+there were sharp and rates
+
+1015
+00:47:14,569 --> 00:47:16,090
+hopewell belgrade's
+
+1016
+00:47:16,090 --> 00:47:20,260
+between adjacent categories if you had
+reality testing problems in the
+
+1017
+00:47:20,260 --> 00:47:25,330
+cognitive sphere you were schizophrenic
+if u_n_ reality testing problems in the
+
+1018
+00:47:25,330 --> 00:47:28,040
+emotional sphere you had
+manic-depressive illness
+
+1019
+00:47:28,040 --> 00:47:31,090
+if you had reality testing problems you
+were psychotic
+
+1020
+00:47:31,090 --> 00:47:32,950
+if you had exactly disorder
+
+1021
+00:47:32,950 --> 00:47:33,859
+you were dorado
+
+1022
+00:47:33,859 --> 00:47:36,079
+they were sharp boundaries
+
+1023
+00:47:36,079 --> 00:47:39,169
+between budgets and categories
+
+1024
+00:47:39,169 --> 00:47:42,649
+it was a hierarchical vertical structure
+
+1025
+00:47:42,649 --> 00:47:44,009
+all
+
+1026
+00:47:44,009 --> 00:47:44,429
+created
+
+1027
+00:47:44,429 --> 00:47:50,029
+by eddie and subtracting part of the
+defining or the defining symptoms
+
+1028
+00:47:50,029 --> 00:47:51,039
+okay so you have
+
+1029
+00:47:51,039 --> 00:47:53,359
+a hierarchy don't look like this
+
+1030
+00:47:53,359 --> 00:47:57,479
+mental illness divided into psychosis
+and the row sees
+
+1031
+00:47:57,479 --> 00:48:00,209
+psychosis divided into the matter to
+press of illness
+
+1032
+00:48:00,209 --> 00:48:01,579
+and schizophrenia
+
+1033
+00:48:01,579 --> 00:48:04,109
+and schizophrenia deflated into
+
+1034
+00:48:04,109 --> 00:48:10,699
+it's four sub categories yet sad they
+really need system
+
+1035
+00:48:10,699 --> 00:48:12,329
+just like
+
+1036
+00:48:12,329 --> 00:48:15,419
+proper sets are a very neat system for
+classifying
+
+1037
+00:48:15,419 --> 00:48:19,049
+or other kinds of objects automobiles
+
+1038
+00:48:19,049 --> 00:48:20,329
+birds
+
+1039
+00:48:20,329 --> 00:48:21,729
+and vegetables
+
+1040
+00:48:21,729 --> 00:48:24,650
+but it's a system that alternately
+failed
+
+1041
+00:48:24,650 --> 00:48:29,930
+for the same reason the proper set
+categorization fails in the domains
+
+1042
+00:48:29,930 --> 00:48:31,969
+of fruits and vegetables
+
+1043
+00:48:31,969 --> 00:48:35,579
+an order will be ols and all of
+
+1044
+00:48:35,579 --> 00:48:37,109
+birds and fish
+
+1045
+00:48:37,109 --> 00:48:39,359
+because it turns out
+
+1046
+00:48:39,359 --> 00:48:40,820
+well that mental illness
+
+1047
+00:48:40,820 --> 00:48:43,739
+is unstructured quite this way
+
+1048
+00:48:43,739 --> 00:48:46,350
+or understanding that took a long time
+
+1049
+00:48:46,350 --> 00:48:48,140
+and lead to a revolution
+
+1050
+00:48:48,140 --> 00:48:51,629
+in how we think about psychiatric
+diagnosis
+
+1051
+00:48:51,629 --> 00:48:55,019
+a revolution which i'll talk about on
+wednesday
+
+1052
+00:48:55,019 --> 00:48:56,040
+thank you very much
+
+1053
+00:48:56,040 --> 00:48:56,890
+will see you on wednesday
+

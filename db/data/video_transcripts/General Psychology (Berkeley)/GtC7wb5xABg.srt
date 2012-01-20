@@ -1,0 +1,4948 @@
+﻿1
+00:00:08,669 --> 00:00:10,309
+okay
+
+2
+00:00:10,309 --> 00:00:13,509
+last time we discussed
+
+3
+00:00:13,509 --> 00:00:14,480
+principles
+
+4
+00:00:14,480 --> 00:00:19,159
+that seemed to govern the encoding stage
+of memory processing
+
+5
+00:00:19,159 --> 00:00:22,909
+actually free but only to pertain to
+long-term memory
+
+6
+00:00:22,909 --> 00:00:26,460
+there are three things you can do with
+an item of the poor i thought that the
+
+7
+00:00:26,460 --> 00:00:27,869
+operative encoding
+
+8
+00:00:27,869 --> 00:00:30,419
+the first is to engage in in
+
+9
+00:00:30,419 --> 00:00:32,559
+what we think of as well
+
+10
+00:00:32,559 --> 00:00:33,789
+maintenance reversal
+
+11
+00:00:33,789 --> 00:00:37,219
+simply repeated an item over and over
+and over again
+
+12
+00:00:37,219 --> 00:00:41,140
+the way you might repeat a telephone
+number that you've just looked up in a
+
+13
+00:00:41,140 --> 00:00:42,340
+telephone book
+
+14
+00:00:42,340 --> 00:00:45,830
+before you get a chance to dialect
+
+15
+00:00:45,830 --> 00:00:48,790
+that repetition
+
+16
+00:00:48,790 --> 00:00:53,740
+fine for maintaining and item in
+inactive state and what we call short
+
+17
+00:00:53,740 --> 00:00:56,020
+term or primary memory
+
+18
+00:00:56,020 --> 00:00:58,350
+but it's not particularly good
+
+19
+00:00:58,350 --> 00:01:02,469
+adnan coating the eddie lasting trace of
+a memory
+
+20
+00:01:02,469 --> 00:01:06,100
+in what we call a long-term or secondary
+memory
+
+21
+00:01:06,100 --> 00:01:09,080
+for a time for that you have to do some
+other things
+
+22
+00:01:09,080 --> 00:01:14,460
+what i think you have to do is to engage
+in all of that sort of processing
+
+23
+00:01:14,460 --> 00:01:15,680
+alm
+
+24
+00:01:15,680 --> 00:01:18,899
+think about individual items that you're
+trying to remember
+
+25
+00:01:18,899 --> 00:01:24,200
+in such a ways to connect off these
+individual items with information that
+
+26
+00:01:24,200 --> 00:01:27,170
+you already possess in memory
+
+27
+00:01:27,170 --> 00:01:30,390
+and we saw in the death of processing
+experiment
+
+28
+00:01:30,390 --> 00:01:34,219
+that the deeper the processing the more
+elaborate the processing
+
+29
+00:01:34,219 --> 00:01:38,110
+but better the memory is going to to be
+
+30
+00:01:38,110 --> 00:01:42,550
+the third motive processing at the time
+of encoding is a little bit different
+
+31
+00:01:42,550 --> 00:01:43,389
+from that
+
+32
+00:01:43,389 --> 00:01:46,840
+and that's known as a organizational
+processing
+
+33
+00:01:46,840 --> 00:01:48,899
+and in organizational processing
+
+34
+00:01:48,899 --> 00:01:54,679
+we're not so concerned with relating
+individual items on information to
+
+35
+00:01:54,679 --> 00:01:56,550
+something you already know
+
+36
+00:01:56,550 --> 00:02:00,040
+rather a registered in relating to
+individual items of information
+
+37
+00:02:00,040 --> 00:02:01,800
+to each other
+
+38
+00:02:01,800 --> 00:02:04,049
+and the general idea of a car
+
+39
+00:02:04,049 --> 00:02:07,100
+the mayor of this organizational
+activity
+
+40
+00:02:07,100 --> 00:02:08,740
+that you engage in
+
+41
+00:02:08,740 --> 00:02:10,140
+all of the better
+
+42
+00:02:10,140 --> 00:02:12,649
+obscure subsequent memory is going to be
+
+43
+00:02:12,649 --> 00:02:15,140
+you'll aberration an organization
+
+44
+00:02:15,140 --> 00:02:16,600
+are the true
+
+45
+00:02:16,600 --> 00:02:17,800
+primary principles
+
+46
+00:02:17,800 --> 00:02:20,070
+that control what goes on
+
+47
+00:02:20,070 --> 00:02:23,239
+at the time of encoding
+
+48
+00:02:23,239 --> 00:02:24,750
+no we want to do
+
+49
+00:02:24,750 --> 00:02:29,870
+is to assume that a memory trays has
+been adequately uncoated
+
+50
+00:02:29,870 --> 00:02:31,029
+well-organized
+
+51
+00:02:31,029 --> 00:02:32,880
+and once it's in coated
+
+52
+00:02:32,880 --> 00:02:34,430
+that memory trace
+
+53
+00:02:34,430 --> 00:02:36,190
+becomes unbearable
+
+54
+00:02:36,190 --> 00:02:37,419
+for used
+
+55
+00:02:37,419 --> 00:02:39,809
+by the individual
+
+56
+00:02:39,809 --> 00:02:41,529
+and what we want to know now
+
+57
+00:02:41,529 --> 00:02:44,060
+is what happens to was subsequently
+
+58
+00:02:44,060 --> 00:02:50,760
+well the first answer is that had memory
+that memory remains at a highly active
+
+59
+00:02:50,760 --> 00:02:53,450
+state so long as the individual
+
+60
+00:02:53,450 --> 00:02:55,200
+pays attention to it
+
+61
+00:02:55,200 --> 00:02:56,099
+refreshes it
+
+62
+00:02:56,099 --> 00:02:57,359
+all rehearses itt
+
+63
+00:02:57,359 --> 00:03:00,570
+in that room fashion that we know that
+we talked about later
+
+64
+00:03:00,570 --> 00:03:04,019
+but you can't do that all the time you
+look up a phone number
+
+65
+00:03:04,019 --> 00:03:06,660
+on babies have repeated yourself forever
+
+66
+00:03:06,660 --> 00:03:09,740
+right you gotta think about other things
+you gotta look up on their phone number
+
+67
+00:03:09,740 --> 00:03:13,179
+is you've got a attend classes you've
+gotta watch t_v_
+
+68
+00:03:13,179 --> 00:03:14,650
+or whatever it is you do
+
+69
+00:03:14,650 --> 00:03:19,029
+it's about a point when you stop
+actively rehearsing the item
+
+70
+00:03:19,029 --> 00:03:23,310
+but the retention of herbal really
+begins and what we want to know is
+
+71
+00:03:23,310 --> 00:03:26,000
+what now happens over the retention
+interval
+
+72
+00:03:26,000 --> 00:03:28,139
+when a memory has been and coated
+
+73
+00:03:28,139 --> 00:03:29,790
+and placed in storage
+
+74
+00:03:29,790 --> 00:03:31,019
+and what happens
+
+75
+00:03:31,019 --> 00:03:32,930
+to make a long story short
+
+76
+00:03:32,930 --> 00:03:36,530
+is that you start forgetting the
+information
+
+77
+00:03:36,530 --> 00:03:37,079
+immediately
+
+78
+00:03:37,079 --> 00:03:39,769
+how many times have you
+
+79
+00:03:39,769 --> 00:03:41,220
+look up a phone number
+
+80
+00:03:41,220 --> 00:03:41,950
+dialed it
+
+81
+00:03:41,950 --> 00:03:44,040
+talk to the person and then
+
+82
+00:03:44,040 --> 00:03:44,730
+alm
+
+83
+00:03:44,730 --> 00:03:48,360
+serology what was that phone number or
+you need somebody at a party
+
+84
+00:03:48,360 --> 00:03:50,549
+and you turn your attention away for a
+second
+
+85
+00:03:50,549 --> 00:03:55,279
+and then you have difficulty remembering
+his were her name that's what happens to
+
+86
+00:03:55,279 --> 00:03:56,610
+be in forgetting
+
+87
+00:03:56,610 --> 00:04:00,709
+and it's something that happens over the
+all over the retention interval
+
+88
+00:04:00,709 --> 00:04:04,220
+and we want to know wide that occurs
+okay
+
+89
+00:04:04,220 --> 00:04:05,419
+well the first thing
+
+90
+00:04:05,419 --> 00:04:11,680
+is to show that it occurs and this is
+the second major finding all of this
+
+91
+00:04:11,680 --> 00:04:12,629
+classic
+
+92
+00:04:12,629 --> 00:04:18,189
+pioneering study of memory by every
+house back in the eighteen hundreds
+
+93
+00:04:18,189 --> 00:04:18,959
+very impt
+
+94
+00:04:18,959 --> 00:04:21,949
+on the experiment that i showed you last
+time
+
+95
+00:04:21,949 --> 00:04:26,279
+last time we saw a cs an experiment by
+having house in which he buried the
+
+96
+00:04:26,279 --> 00:04:30,120
+number of repetitions that he gave too
+
+97
+00:04:30,120 --> 00:04:31,760
+these nonsense syllables
+
+98
+00:04:31,760 --> 00:04:34,869
+and then looked at memory is a function
+of repetition
+
+99
+00:04:34,869 --> 00:04:38,190
+what we're doing here what they've been
+hosted in this experiment
+
+100
+00:04:38,190 --> 00:04:39,539
+is to
+
+101
+00:04:39,539 --> 00:04:40,630
+learn
+
+102
+00:04:40,630 --> 00:04:45,760
+memorize a list of nonsense syllables
+all according to some criterion of all
+
+103
+00:04:45,760 --> 00:04:47,119
+of mastery
+
+104
+00:04:47,119 --> 00:04:48,119
+and then
+
+105
+00:04:48,119 --> 00:04:49,650
+very the retention interval
+
+106
+00:04:49,650 --> 00:04:51,280
+fraum twenty minutes
+
+107
+00:04:51,280 --> 00:04:52,709
+to an hour
+
+108
+00:04:52,709 --> 00:04:58,379
+about nine hours a day two days seven
+days that's six weeks or something like
+
+109
+00:04:58,379 --> 00:04:59,379
+that
+
+110
+00:04:59,379 --> 00:05:00,589
+all
+
+111
+00:05:00,589 --> 00:05:01,629
+and off
+
+112
+00:05:01,629 --> 00:05:03,060
+quite a bit to see
+
+113
+00:05:03,060 --> 00:05:07,490
+why what happened to this sort of memory
+trace as a function of time
+
+114
+00:05:07,490 --> 00:05:11,649
+and he measured memory again in terms of
+savings in relearning
+
+115
+00:05:11,649 --> 00:05:14,509
+so is looking at the strength of the
+memory
+
+116
+00:05:14,509 --> 00:05:15,080
+all
+
+117
+00:05:15,080 --> 00:05:17,840
+as a department in terms of hollow
+
+118
+00:05:17,840 --> 00:05:21,929
+much effort it's going to take him to
+move to relearn the thing later on
+
+119
+00:05:21,929 --> 00:05:25,500
+more settled more savings meaning a
+stronger memory trace
+
+120
+00:05:25,500 --> 00:05:27,100
+and what you can see here is
+
+121
+00:05:27,100 --> 00:05:30,680
+that there is pretty substantial savings
+after just a twenty minute retention
+
+122
+00:05:30,680 --> 00:05:31,370
+interval
+
+123
+00:05:31,370 --> 00:05:34,270
+but the savings drop off quite rapidly
+
+124
+00:05:34,270 --> 00:05:37,580
+after an hour we're down below fifty
+percent savings
+
+125
+00:05:37,580 --> 00:05:38,149
+after
+
+126
+00:05:38,149 --> 00:05:41,509
+eight or nine hours from down below
+forty percent savings
+
+127
+00:05:41,509 --> 00:05:44,020
+after saw a couple of weeks
+
+128
+00:05:44,020 --> 00:05:49,330
+were way down to or just twenty percent
+savings in their own relearning
+
+129
+00:05:49,330 --> 00:05:53,199
+so this is a typical result of these
+kinds of experiments
+
+130
+00:05:53,199 --> 00:05:57,509
+and uh... that is a progressive
+forgetting with time
+
+131
+00:05:57,509 --> 00:06:00,870
+forgetting increases with the retention
+interval
+
+132
+00:06:00,870 --> 00:06:03,080
+and this is just a very simple
+
+133
+00:06:03,080 --> 00:06:05,289
+early example
+
+134
+00:06:05,289 --> 00:06:09,979
+on next principle of memory function
+which we call the time dependency
+
+135
+00:06:09,979 --> 00:06:10,449
+principle
+
+136
+00:06:10,449 --> 00:06:14,999
+which simply says that memory diminishes
+as a function of the length of the
+
+137
+00:06:14,999 --> 00:06:16,120
+retention interval
+
+138
+00:06:16,120 --> 00:06:18,570
+the longer the retention interval
+
+139
+00:06:18,570 --> 00:06:20,479
+fold less memory
+
+140
+00:06:20,479 --> 00:06:21,639
+going to have
+
+141
+00:06:21,639 --> 00:06:22,920
+now that's fine
+
+142
+00:06:22,920 --> 00:06:27,369
+but psychologist what we really want to
+know is why does this occur
+
+143
+00:06:27,369 --> 00:06:29,919
+wide his memory fade with time
+
+144
+00:06:29,919 --> 00:06:34,289
+all-white whitewater do we had this kind
+of progressive forgetting
+
+145
+00:06:34,289 --> 00:06:36,779
+and over the years
+
+146
+00:06:36,779 --> 00:06:38,100
+psychologists have entertained
+
+147
+00:06:38,100 --> 00:06:41,089
+at least four different hypotheses
+
+148
+00:06:41,089 --> 00:06:43,139
+about what clauses
+
+149
+00:06:43,139 --> 00:06:45,740
+time dependency in memory
+
+150
+00:06:45,740 --> 00:06:47,550
+the first of these
+
+151
+00:06:47,550 --> 00:06:50,809
+always known as the decay hypothesis
+
+152
+00:06:50,809 --> 00:06:54,449
+and the idea here is simply
+
+153
+00:06:54,449 --> 00:07:00,139
+tien phillies memories in the same way
+that prolonged exposure to the sun will
+
+154
+00:07:00,139 --> 00:07:01,639
+fade a photograph
+
+155
+00:07:01,639 --> 00:07:04,029
+or prolonged exposure to the wind
+
+156
+00:07:04,029 --> 00:07:07,199
+will adult will or you raise footprints
+
+157
+00:07:07,199 --> 00:07:09,620
+in the sand at uh... at the beach
+
+158
+00:07:09,620 --> 00:07:11,479
+it's a passive
+
+159
+00:07:11,479 --> 00:07:12,770
+process of decay
+
+160
+00:07:12,770 --> 00:07:15,219
+that things simply go away
+
+161
+00:07:15,219 --> 00:07:17,649
+flow with time
+
+162
+00:07:17,649 --> 00:07:21,429
+every second hypothesis concerning time
+dependency
+
+163
+00:07:21,429 --> 00:07:24,870
+is what's known as the consolidation
+hypothesis
+
+164
+00:07:24,870 --> 00:07:27,749
+and the idea here is
+
+165
+00:07:27,749 --> 00:07:29,520
+empty and voting process
+
+166
+00:07:29,520 --> 00:07:31,839
+does not happen
+
+167
+00:07:31,839 --> 00:07:33,289
+instantaneously
+
+168
+00:07:33,289 --> 00:07:38,379
+rather it actually takes time for a
+memory to become
+
+169
+00:07:38,379 --> 00:07:43,070
+firmly implanted in storage and if you
+do something
+
+170
+00:07:43,070 --> 00:07:45,159
+during this consolidation interval
+
+171
+00:07:45,159 --> 00:07:49,789
+you could prevent the memory from being
+adequately are
+
+172
+00:07:49,789 --> 00:07:51,240
+adequately stored
+
+173
+00:07:51,240 --> 00:07:53,650
+also that the consolidation of prophet
+opposites
+
+174
+00:07:53,650 --> 00:07:55,029
+and get what's happening here
+
+175
+00:07:55,029 --> 00:07:56,619
+z ideas that
+
+176
+00:07:56,619 --> 00:07:58,469
+happens through the memory
+
+177
+00:07:58,469 --> 00:07:59,680
+during this interval
+
+178
+00:07:59,680 --> 00:08:03,930
+when it's in a somewhat are somewhat
+vulnerable state
+
+179
+00:08:03,930 --> 00:08:05,820
+authored a hypothesis
+
+180
+00:08:05,820 --> 00:08:07,009
+is all
+
+181
+00:08:07,009 --> 00:08:09,990
+what's known as the displacement
+hypothesis
+
+182
+00:08:09,990 --> 00:08:15,560
+and the idea behind the displacement
+hypothesis is that the
+
+183
+00:08:15,560 --> 00:08:18,270
+storage space if you will in memory
+
+184
+00:08:18,270 --> 00:08:19,879
+is ltd
+
+185
+00:08:19,879 --> 00:08:23,819
+and there comes a point where if you're
+going to put new information you've got
+
+186
+00:08:23,819 --> 00:08:25,879
+to take some information out
+
+187
+00:08:25,879 --> 00:08:30,539
+if you've got a visit to take about a
+computer metaphor of unit moved for a
+
+188
+00:08:30,539 --> 00:08:31,259
+minute
+
+189
+00:08:31,259 --> 00:08:33,860
+on wed when you're
+
+190
+00:08:33,860 --> 00:08:35,160
+hardest gets full
+
+191
+00:08:35,160 --> 00:08:38,630
+in order to make room for something new
+that your office you're working on
+
+192
+00:08:38,630 --> 00:08:42,800
+you've got to a raise something else or
+a more mechanical
+
+193
+00:08:42,800 --> 00:08:46,300
+or analogy would be a file drawer
+there's only so much room in a file
+
+194
+00:08:46,300 --> 00:08:47,099
+drawer right
+
+195
+00:08:47,099 --> 00:08:50,759
+and if you're going to put keep putting
+forth wild folders in the file drawer
+
+196
+00:08:50,759 --> 00:08:53,620
+you're gonna have to get uh... throw
+some doubt
+
+197
+00:08:53,620 --> 00:08:57,040
+that's the general idea behind the
+displacement hypothesis
+
+198
+00:08:57,040 --> 00:08:58,920
+and basically what it says it is
+
+199
+00:08:58,920 --> 00:09:02,400
+that called information tends to be
+displaced
+
+200
+00:09:02,400 --> 00:09:05,189
+from eleven displaced by new information
+
+201
+00:09:05,189 --> 00:09:08,630
+and that displacement constitutes all
+laws
+
+202
+00:09:08,630 --> 00:09:10,370
+memory storage a permanent loss
+
+203
+00:09:10,370 --> 00:09:12,690
+from memory storage
+
+204
+00:09:12,690 --> 00:09:13,959
+before the pipe offices
+
+205
+00:09:13,959 --> 00:09:17,930
+is different from that and that is
+what's known as the interference
+
+206
+00:09:17,930 --> 00:09:22,910
+hypothesis and the idea behind
+interference
+
+207
+00:09:22,910 --> 00:09:26,500
+met information isn't lost from memory
+permanently
+
+208
+00:09:26,500 --> 00:09:31,110
+but rather the accumulation in of
+knowledge in memory
+
+209
+00:09:31,110 --> 00:09:36,700
+makes it harder for you to get at any
+particular item of information
+
+210
+00:09:36,700 --> 00:09:39,910
+again if you think about a flat out or
+metaphor for memory
+
+211
+00:09:39,910 --> 00:09:42,140
+if he just keeps stopping stuff again
+
+212
+00:09:42,140 --> 00:09:45,140
+although i thought that the war stuff
+that's on the file drawer
+
+213
+00:09:45,140 --> 00:09:48,259
+the harder it's going to be to find any
+particular piece
+
+214
+00:09:48,259 --> 00:09:51,430
+of all of information let's use a nice
+filing system
+
+215
+00:09:51,430 --> 00:09:52,570
+like alphabetical order
+
+216
+00:09:52,570 --> 00:09:54,320
+over or something like that
+
+217
+00:09:54,320 --> 00:09:56,029
+but the important thing here
+
+218
+00:09:56,029 --> 00:09:57,940
+is that are
+
+219
+00:09:57,940 --> 00:10:02,740
+in in the process of displacement you're
+actually losing memories from storage
+
+220
+00:10:02,740 --> 00:10:04,869
+and documentaries art of storage
+
+221
+00:10:04,869 --> 00:10:09,640
+whereas in in interference bumped the
+out the nudging question
+
+222
+00:10:09,640 --> 00:10:11,919
+remains unavailable in storage
+
+223
+00:10:11,919 --> 00:10:15,280
+but they're simply eight failure
+
+224
+00:10:15,280 --> 00:10:17,140
+retrieve it
+
+225
+00:10:17,140 --> 00:10:18,460
+it turns out
+
+226
+00:10:18,460 --> 00:10:21,850
+that each of these four
+
+227
+00:10:21,850 --> 00:10:24,570
+hypotheses about time dependency
+
+228
+00:10:24,570 --> 00:10:28,470
+applies to a different kind of memories
+
+229
+00:10:28,470 --> 00:10:32,710
+but talking here about long-term memory
+episodic memory
+
+230
+00:10:32,710 --> 00:10:34,100
+and it turns out
+
+231
+00:10:34,100 --> 00:10:37,370
+that all of as far as long-term memory
+is concerned
+
+232
+00:10:37,370 --> 00:10:41,100
+the primary determinant of
+time-dependent forgetting
+
+233
+00:10:41,100 --> 00:10:43,120
+is interference
+
+234
+00:10:43,120 --> 00:10:45,110
+not passive decay
+
+235
+00:10:45,110 --> 00:10:47,289
+not consolidation filter
+
+236
+00:10:47,289 --> 00:10:50,040
+not displacement but rather
+
+237
+00:10:50,040 --> 00:10:51,650
+time-dependent forgetting
+
+238
+00:10:51,650 --> 00:10:55,700
+seems to occur by virtue of the fact
+that
+
+239
+00:10:55,700 --> 00:10:58,500
+individual items stored in memory
+
+240
+00:10:58,500 --> 00:10:59,820
+interfere with each other
+
+241
+00:10:59,820 --> 00:11:01,730
+each of the items stored in the country
+
+242
+00:11:01,730 --> 00:11:05,990
+makes it harder to yet at another item
+
+243
+00:11:05,990 --> 00:11:07,320
+in memory
+
+244
+00:11:07,320 --> 00:11:08,960
+although so we get
+
+245
+00:11:08,960 --> 00:11:13,330
+what we know as the interference
+principal long-term memory which
+
+246
+00:11:13,330 --> 00:11:14,660
+basically says
+
+247
+00:11:14,660 --> 00:11:18,060
+won some memory is uncoated
+
+248
+00:11:18,060 --> 00:11:18,910
+strategy is
+
+249
+00:11:18,910 --> 00:11:21,920
+for all intents and purposes permanent
+
+250
+00:11:21,920 --> 00:11:26,180
+there is no permanent forgetting of
+anything and aren't you know that in
+
+251
+00:11:26,180 --> 00:11:26,920
+storage
+
+252
+00:11:26,920 --> 00:11:30,010
+but rather all time-dependent forgetting
+
+253
+00:11:30,010 --> 00:11:31,499
+occurs by virtue
+
+254
+00:11:31,499 --> 00:11:33,330
+or interference
+
+255
+00:11:33,330 --> 00:11:35,870
+and this principle of interference
+
+256
+00:11:35,870 --> 00:11:41,009
+or is always illustrated by what's known
+as the paradox but the paradox of
+
+257
+00:11:41,009 --> 00:11:44,970
+interference which basically says that
+the more you know especially the more
+
+258
+00:11:44,970 --> 00:11:47,099
+you know about any particular thing
+
+259
+00:11:47,099 --> 00:11:50,979
+the harder it is to get any particular
+item of information
+
+260
+00:11:50,979 --> 00:11:54,189
+it's a little counter-intuitive you
+think well if you're an expert on
+
+261
+00:11:54,189 --> 00:11:56,249
+something about all the stuff of the tip
+of your
+
+262
+00:11:56,249 --> 00:11:57,089
+our fingers
+
+263
+00:11:57,089 --> 00:11:58,200
+but it's not true
+
+264
+00:11:58,200 --> 00:12:02,450
+the more you know the harder it is to
+get at any particular item of
+
+265
+00:12:02,450 --> 00:12:03,120
+information
+
+266
+00:12:03,120 --> 00:12:07,870
+here is a classic demonstration of this
+by john anderson a psychologist at
+
+267
+00:12:07,870 --> 00:12:10,710
+carnegie mellon all university
+
+268
+00:12:10,710 --> 00:12:13,950
+what anderson did is very simple metrics
+permit
+
+269
+00:12:13,950 --> 00:12:16,250
+in which he asked subjects to
+
+270
+00:12:16,250 --> 00:12:17,590
+memorized sentences
+
+271
+00:12:17,590 --> 00:12:19,120
+that represent
+
+272
+00:12:19,120 --> 00:12:20,339
+represented fax
+
+273
+00:12:20,339 --> 00:12:22,399
+about people in locations of these work
+
+274
+00:12:22,399 --> 00:12:26,500
+is just cut mindlessly
+
+275
+00:12:26,500 --> 00:12:28,950
+material those are very profound
+experiment
+
+276
+00:12:28,950 --> 00:12:33,630
+so subjects rest alert about that those
+sentenced the doctor is in the bank
+
+277
+00:12:33,630 --> 00:12:35,800
+and the fireman is in the park
+
+278
+00:12:35,800 --> 00:12:38,010
+and the lawyer is in the church
+
+279
+00:12:38,010 --> 00:12:40,480
+and the lawyer is in the park
+
+280
+00:12:40,480 --> 00:12:42,460
+notice what happens here
+
+281
+00:12:42,460 --> 00:12:43,179
+dr
+
+282
+00:12:43,179 --> 00:12:45,540
+and bank that's a unique person
+
+283
+00:12:45,540 --> 00:12:47,850
+and that's a unique location
+
+284
+00:12:47,850 --> 00:12:51,400
+here we have a fireman who is a unique
+person
+
+285
+00:12:51,400 --> 00:12:55,950
+but he's in the park which is also where
+the lawyer is so we have
+
+286
+00:12:55,950 --> 00:12:57,800
+into individuals
+
+287
+00:12:57,800 --> 00:12:59,690
+associated with the same location
+
+288
+00:12:59,690 --> 00:13:01,110
+and then we have
+
+289
+00:13:01,110 --> 00:13:02,860
+the water is in the church
+
+290
+00:13:02,860 --> 00:13:05,020
+and the lawyers in the park
+
+291
+00:13:05,020 --> 00:13:08,390
+one individual associated
+
+292
+00:13:08,390 --> 00:13:10,510
+part of the part of the locations
+
+293
+00:13:10,510 --> 00:13:11,710
+so anyway
+
+294
+00:13:11,710 --> 00:13:17,180
+what anderson dead was to read asking
+subjects to memorize services like this
+
+295
+00:13:17,180 --> 00:13:20,790
+are to a ought to uh... to a criterion
+of memory
+
+296
+00:13:20,790 --> 00:13:22,619
+and then he simply ask them
+
+297
+00:13:22,619 --> 00:13:24,639
+to perform a recognition test
+
+298
+00:13:24,639 --> 00:13:26,480
+in which they were simply asked
+
+299
+00:13:26,480 --> 00:13:29,300
+did you study this ends
+
+300
+00:13:29,300 --> 00:13:33,730
+so if i ask you did you study the doctor
+is in the bank you'd say yes
+
+301
+00:13:33,730 --> 00:13:37,179
+if i ask you if you studied the doctor
+is in the park
+
+302
+00:13:37,179 --> 00:13:42,240
+you would sim simply say no to that
+
+303
+00:13:42,240 --> 00:13:43,300
+these
+
+304
+00:13:43,300 --> 00:13:44,440
+subjects
+
+305
+00:13:44,440 --> 00:13:47,689
+memorize these fences to a criterion of
+
+306
+00:13:47,689 --> 00:13:48,539
+perfect learning
+
+307
+00:13:48,539 --> 00:13:53,110
+so they performed almost perfectly
+obvious recognition test
+
+308
+00:13:53,110 --> 00:13:54,800
+but whatever sanded
+
+309
+00:13:54,800 --> 00:13:57,310
+was to measure that's fine
+
+310
+00:13:57,310 --> 00:13:58,699
+that it took subjects
+
+311
+00:13:58,699 --> 00:14:02,529
+to successfully all recognize these
+items
+
+312
+00:14:02,529 --> 00:14:03,670
+and he god
+
+313
+00:14:03,670 --> 00:14:06,710
+onset of response elite and sees hall
+like this
+
+314
+00:14:06,710 --> 00:14:07,840
+so here
+
+315
+00:14:07,840 --> 00:14:08,920
+we have
+
+316
+00:14:08,920 --> 00:14:11,290
+all vd
+
+317
+00:14:11,290 --> 00:14:13,810
+subject to memorize one fact about a
+target
+
+318
+00:14:13,810 --> 00:14:17,230
+to fax a lot of target were three facts
+about a target
+
+319
+00:14:17,230 --> 00:14:19,300
+here one fact about a location
+
+320
+00:14:19,300 --> 00:14:20,749
+two facts about a target
+
+321
+00:14:20,749 --> 00:14:24,439
+or three facts about a target and
+they're making judgments about ivins
+
+322
+00:14:24,439 --> 00:14:25,999
+they actually studied
+
+323
+00:14:25,999 --> 00:14:28,610
+or fake items that they didn't study
+
+324
+00:14:28,610 --> 00:14:32,930
+and that you can see in this light is
+these are small businesses like small
+
+325
+00:14:32,930 --> 00:14:34,800
+reaction time differences
+
+326
+00:14:34,800 --> 00:14:39,220
+in terms of experimental psychology
+these are big affects these are very big
+
+327
+00:14:39,220 --> 00:14:40,170
+differences
+
+328
+00:14:40,170 --> 00:14:41,369
+and you can say
+
+329
+00:14:41,369 --> 00:14:43,250
+that it took subjects
+
+330
+00:14:43,250 --> 00:14:44,260
+last time
+
+331
+00:14:44,260 --> 00:14:49,520
+to verify fact where they are going to
+learn one fact about a person
+
+332
+00:14:49,520 --> 00:14:52,760
+then if they have learned to were three
+facts about a port
+
+333
+00:14:52,760 --> 00:14:54,540
+less time to verify
+
+334
+00:14:54,540 --> 00:14:58,350
+if they weren't one fact about a
+location that if they have learned
+
+335
+00:14:58,350 --> 00:15:01,010
+to or three fax about a location
+
+336
+00:15:01,010 --> 00:15:04,310
+this is known as the fat effect
+
+337
+00:15:04,310 --> 00:15:09,610
+response latency increases with a number
+of facts you know about doctors and
+
+338
+00:15:09,610 --> 00:15:13,020
+lawyers and fireman and parks and banks
+in churches
+
+339
+00:15:13,020 --> 00:15:15,469
+the more you know about these
+individuals
+
+340
+00:15:15,469 --> 00:15:19,130
+the more you know about these locations
+the harder it is
+
+341
+00:15:19,130 --> 00:15:21,470
+to retrieve any particular
+
+342
+00:15:21,470 --> 00:15:23,140
+island of information
+
+343
+00:15:23,140 --> 00:15:28,440
+and this illustrates the of yell fan
+effect in memory
+
+344
+00:15:28,440 --> 00:15:29,060
+again
+
+345
+00:15:29,060 --> 00:15:32,300
+leads us to restate the time dependency
+principle
+
+346
+00:15:32,300 --> 00:15:37,430
+that so far at the long term endeavor
+memory is concerned in any event
+
+347
+00:15:37,430 --> 00:15:43,320
+memory diminishes with time but it does
+suck mostly by virtue of interference
+
+348
+00:15:43,320 --> 00:15:46,279
+competing memories interfere with each
+other
+
+349
+00:15:46,279 --> 00:15:47,599
+get in the way
+
+350
+00:15:47,599 --> 00:15:49,610
+of the retrieval
+
+351
+00:15:49,610 --> 00:15:53,320
+called and get in the play of the
+retrieval process
+
+352
+00:15:53,320 --> 00:15:55,629
+this interference principle
+
+353
+00:15:55,629 --> 00:15:58,410
+all the intern
+
+354
+00:15:58,410 --> 00:16:00,270
+leads us to
+
+355
+00:16:00,270 --> 00:16:05,879
+state an important distinction that all
+that that applies to allowed to memory
+
+356
+00:16:05,879 --> 00:16:07,839
+and that is the distinction between
+
+357
+00:16:07,839 --> 00:16:11,950
+the availability of a memory in storage
+
+358
+00:16:11,950 --> 00:16:13,870
+and the accessibility
+
+359
+00:16:13,870 --> 00:16:15,310
+all of that memory
+
+360
+00:16:15,310 --> 00:16:17,240
+when you want to retrieve it
+
+361
+00:16:17,240 --> 00:16:20,800
+and make are gonna make use of it
+
+362
+00:16:20,800 --> 00:16:23,270
+knowledge may be available in memory
+
+363
+00:16:23,270 --> 00:16:26,759
+but by virtue of interference among
+competing memories
+
+364
+00:16:26,759 --> 00:16:30,450
+it may be hard to gain access to
+available knowledge
+
+365
+00:16:30,450 --> 00:16:31,810
+when you will
+
+366
+00:16:31,810 --> 00:16:33,500
+when you want it
+
+367
+00:16:33,500 --> 00:16:36,879
+so that's the distinction between
+availability and accessibility
+
+368
+00:16:36,879 --> 00:16:42,559
+and we're going to see that uh... come
+into play in just a couple minutes that
+
+369
+00:16:42,559 --> 00:16:44,239
+general point however
+
+370
+00:16:44,239 --> 00:16:45,310
+is that
+
+371
+00:16:45,310 --> 00:16:46,660
+although
+
+372
+00:16:46,660 --> 00:16:47,990
+memory encoding
+
+373
+00:16:47,990 --> 00:16:51,260
+memory storage is essentially permanent
+
+374
+00:16:51,260 --> 00:16:54,750
+not all memories available in storage
+
+375
+00:16:54,750 --> 00:16:56,880
+or equally accessible
+
+376
+00:16:56,880 --> 00:17:02,130
+not all memories of billable in storage
+or equally are raw are wrong
+
+377
+00:17:02,130 --> 00:17:03,090
+equally accessible
+
+378
+00:17:03,090 --> 00:17:04,760
+at any particular time
+
+379
+00:17:04,760 --> 00:17:07,860
+so how do you gain access to a memory
+
+380
+00:17:07,860 --> 00:17:08,730
+how is it
+
+381
+00:17:08,730 --> 00:17:12,080
+that we gain access reach back and
+
+382
+00:17:12,080 --> 00:17:12,750
+firing
+
+383
+00:17:12,750 --> 00:17:14,480
+on knowledge that we've
+
+384
+00:17:14,480 --> 00:17:16,410
+although that we've stored in memory
+
+385
+00:17:16,410 --> 00:17:18,199
+but general idea here is
+
+386
+00:17:18,199 --> 00:17:23,000
+that accesses stimulated by a clearing
+if i save you what did you have for
+
+387
+00:17:23,000 --> 00:17:25,890
+dinner last night that's a question
+
+388
+00:17:25,890 --> 00:17:30,290
+and that's supposed to alter the guide
+your research through memory you don't
+
+389
+00:17:30,290 --> 00:17:32,309
+look for your pet's names
+
+390
+00:17:32,309 --> 00:17:34,550
+in response to a question like that
+
+391
+00:17:34,550 --> 00:17:36,909
+you don't look for your record of
+lunches
+
+392
+00:17:36,909 --> 00:17:38,830
+in response to a question like that
+
+393
+00:17:38,830 --> 00:17:42,570
+you know look column onto your memories
+from early childhood
+
+394
+00:17:42,570 --> 00:17:46,850
+or rather you focus your retrieval
+
+395
+00:17:46,850 --> 00:17:48,299
+yesterday
+
+396
+00:17:48,299 --> 00:17:54,020
+if i ask you while when did columbus on
+uh... across the ocean
+
+397
+00:17:54,020 --> 00:17:56,850
+then you look for knowledge that you
+have a blog columbus
+
+398
+00:17:56,850 --> 00:17:58,980
+not for knowledge you have about
+
+399
+00:17:58,980 --> 00:18:00,870
+neil armstrong or whatever
+
+400
+00:18:00,870 --> 00:18:04,330
+so whenever we try to gain access to
+memory
+
+401
+00:18:04,330 --> 00:18:09,720
+we do it in the form of some kind of
+question about what happened in the past
+
+402
+00:18:09,720 --> 00:18:10,990
+and then the subject
+
+403
+00:18:10,990 --> 00:18:13,080
+has to add information
+
+404
+00:18:13,080 --> 00:18:14,720
+from memory
+
+405
+00:18:14,720 --> 00:18:15,149
+information
+
+406
+00:18:15,149 --> 00:18:16,390
+that constitutes
+
+407
+00:18:16,390 --> 00:18:17,619
+the home
+
+408
+00:18:17,619 --> 00:18:19,430
+you know the answer the question
+
+409
+00:18:19,430 --> 00:18:21,540
+bi chai by retrieving
+
+410
+00:18:21,540 --> 00:18:22,760
+gaining access
+
+411
+00:18:22,760 --> 00:18:25,260
+to available information stored
+
+412
+00:18:25,260 --> 00:18:27,020
+in memory
+
+413
+00:18:27,020 --> 00:18:31,120
+so that's this distinction incumbent
+memories
+
+414
+00:18:31,120 --> 00:18:34,090
+available in storage may not be
+accessible
+
+415
+00:18:34,090 --> 00:18:35,529
+when retrievals attempted
+
+416
+00:18:35,529 --> 00:18:37,580
+may not be accessible for example
+
+417
+00:18:37,580 --> 00:18:39,630
+by virtue
+
+418
+00:18:39,630 --> 00:18:44,210
+interference so now what we want to do
+is to explore some of the factors
+
+419
+00:18:44,210 --> 00:18:46,220
+governing retrieval
+
+420
+00:18:46,220 --> 00:18:49,070
+we're going to assumed elementary sprays
+
+421
+00:18:49,070 --> 00:18:54,660
+has been adequately uncoated by virtue
+of elaborate is an organizational
+
+422
+00:18:54,660 --> 00:18:55,730
+activity
+
+423
+00:18:55,730 --> 00:18:59,000
+and we're also going to assume that that
+memory trace
+
+424
+00:18:59,000 --> 00:19:02,990
+as nao reb now remains available in
+storage
+
+425
+00:19:02,990 --> 00:19:03,240
+overseas
+
+426
+00:19:03,230 --> 00:19:07,770
+on the all over some retention interval
+it hasn't been in a syndicated hasn't
+
+427
+00:19:07,770 --> 00:19:08,950
+been
+
+428
+00:19:08,950 --> 00:19:10,750
+displays that hasn't off
+
+429
+00:19:10,750 --> 00:19:13,740
+or there is a bit of failure of
+consolidation hits in there
+
+430
+00:19:13,740 --> 00:19:14,850
+it's available
+
+431
+00:19:14,850 --> 00:19:16,350
+and the question now is
+
+432
+00:19:16,350 --> 00:19:18,260
+how do we gain access
+
+433
+00:19:18,260 --> 00:19:20,370
+to available memories
+
+434
+00:19:20,370 --> 00:19:22,179
+and the short answer is
+
+435
+00:19:22,179 --> 00:19:24,850
+gaining access to available memories
+
+436
+00:19:24,850 --> 00:19:25,890
+is on that or
+
+437
+00:19:25,890 --> 00:19:26,950
+of having
+
+438
+00:19:26,950 --> 00:19:28,220
+of particular
+
+439
+00:19:28,220 --> 00:19:28,950
+retrieval
+
+440
+00:19:28,950 --> 00:19:30,850
+cues
+
+441
+00:19:30,850 --> 00:19:32,580
+consider for example
+
+442
+00:19:32,580 --> 00:19:35,519
+three different kinds of memory test
+
+443
+00:19:35,519 --> 00:19:37,190
+that are commonly used
+
+444
+00:19:37,190 --> 00:19:39,900
+in experiments all of this sort
+
+445
+00:19:39,900 --> 00:19:42,480
+free recall cued recall
+
+446
+00:19:42,480 --> 00:19:44,540
+and recognition
+
+447
+00:19:44,540 --> 00:19:46,340
+and uh... free recall
+
+448
+00:19:46,340 --> 00:19:48,559
+the query to memory
+
+449
+00:19:48,559 --> 00:19:50,760
+basically is a very very query
+
+450
+00:19:50,760 --> 00:19:53,520
+and simply sites
+
+451
+00:19:53,520 --> 00:19:56,650
+sometime and someplace where something
+happened
+
+452
+00:19:56,650 --> 00:19:58,130
+if i say to you
+
+453
+00:19:58,130 --> 00:20:03,860
+why did you do last night
+
+454
+00:20:03,860 --> 00:20:06,320
+focused your intention on some
+particular
+
+455
+00:20:06,320 --> 00:20:07,780
+piece of the past or
+
+456
+00:20:07,780 --> 00:20:11,000
+what did you do the last time you
+weren't pullman a whole
+
+457
+00:20:11,000 --> 00:20:12,390
+okay
+
+458
+00:20:12,390 --> 00:20:13,760
+all what i want you to do
+
+459
+00:20:13,760 --> 00:20:16,779
+is simply to tell me what happened in
+that particular event
+
+460
+00:20:16,779 --> 00:20:18,790
+in the bronco learning paradigm
+
+461
+00:20:18,790 --> 00:20:20,450
+for your call queries
+
+462
+00:20:20,450 --> 00:20:21,669
+usually take the formal
+
+463
+00:20:21,669 --> 00:20:23,740
+what were the words on the list
+
+464
+00:20:23,740 --> 00:20:26,970
+gain you don't ask anybody that you
+don't provide any more information than
+
+465
+00:20:26,970 --> 00:20:27,539
+that
+
+466
+00:20:27,539 --> 00:20:30,730
+is simply say what were the words on the
+list
+
+467
+00:20:30,730 --> 00:20:33,630
+by contrast include recall
+
+468
+00:20:33,630 --> 00:20:35,910
+the query to memory
+
+469
+00:20:35,910 --> 00:20:42,910
+provides more identifying information
+about the target avent so for example i
+
+470
+00:20:42,929 --> 00:20:46,020
+could say all what were the color words
+
+471
+00:20:46,020 --> 00:20:48,450
+on the list that i showed you
+
+472
+00:20:48,450 --> 00:20:50,770
+last time and then you can
+
+473
+00:20:50,770 --> 00:20:52,510
+focus attention on color words
+
+474
+00:20:52,510 --> 00:20:57,019
+and not think about the other words that
+were on the list like the body parts of
+
+475
+00:20:57,019 --> 00:21:01,440
+the four four deductibles or all or
+whatever
+
+476
+00:21:01,440 --> 00:21:04,580
+or we can give you a wicked mission test
+
+477
+00:21:04,580 --> 00:21:06,149
+all wear in fact
+
+478
+00:21:06,149 --> 00:21:07,720
+the query
+
+479
+00:21:07,720 --> 00:21:08,330
+contains
+
+480
+00:21:08,330 --> 00:21:10,850
+a copy of the target
+
+481
+00:21:10,850 --> 00:21:15,029
+again if i said was orange one of the
+words on the list
+
+482
+00:21:15,029 --> 00:21:17,549
+that you read last time we were in class
+
+483
+00:21:17,549 --> 00:21:19,710
+so have already presented the word for
+you
+
+484
+00:21:19,710 --> 00:21:22,349
+and all you have to do is find it in
+memory
+
+485
+00:21:22,349 --> 00:21:23,309
+and say
+
+486
+00:21:23,309 --> 00:21:25,490
+on say yes or no
+
+487
+00:21:25,490 --> 00:21:27,909
+you're familiar with this distinction
+
+488
+00:21:27,909 --> 00:21:30,590
+from your history of academic testing
+
+489
+00:21:30,590 --> 00:21:32,540
+free recall
+
+490
+00:21:32,540 --> 00:21:34,480
+short answer
+
+491
+00:21:34,480 --> 00:21:35,320
+okay
+
+492
+00:21:35,320 --> 00:21:37,469
+there is a long-term potentiation
+
+493
+00:21:37,469 --> 00:21:40,399
+and ended on the right down a
+description of what long-term
+
+494
+00:21:40,399 --> 00:21:41,960
+potentiation is
+
+495
+00:21:41,960 --> 00:21:44,080
+cued recall okay
+
+496
+00:21:44,080 --> 00:21:45,320
+arm
+
+497
+00:21:45,320 --> 00:21:50,030
+that were all but what's the l
+
+498
+00:21:50,030 --> 00:21:54,240
+mean of trace logbook conditioning or
+something like that what's a distinction
+
+499
+00:21:54,240 --> 00:21:57,260
+between trees conditioning belay
+conditioning
+
+500
+00:21:57,260 --> 00:21:58,790
+here the query
+
+501
+00:21:58,790 --> 00:22:01,750
+adds information i don't say tell me
+everything you know about classical
+
+502
+00:22:01,750 --> 00:22:03,020
+conditioning
+
+503
+00:22:03,020 --> 00:22:07,360
+rather write focus the question so that
+you have a better idea of what you're
+
+504
+00:22:07,360 --> 00:22:09,230
+looking for in memory
+
+505
+00:22:09,230 --> 00:22:10,270
+and then
+
+506
+00:22:10,270 --> 00:22:12,030
+finally and recognition test
+
+507
+00:22:12,030 --> 00:22:14,190
+that's your typical multiple-choice exam
+
+508
+00:22:14,190 --> 00:22:14,990
+okay
+
+509
+00:22:14,990 --> 00:22:16,080
+essay
+
+510
+00:22:16,080 --> 00:22:17,540
+fill in the blanks
+
+511
+00:22:17,540 --> 00:22:18,840
+multiple-choice
+
+512
+00:22:18,840 --> 00:22:20,600
+very good analogies
+
+513
+00:22:20,600 --> 00:22:22,860
+all for friedrich all tests
+
+514
+00:22:22,860 --> 00:22:24,169
+cued recall tests
+
+515
+00:22:24,169 --> 00:22:25,509
+and recognition
+
+516
+00:22:25,509 --> 00:22:27,180
+tests in memory
+
+517
+00:22:27,180 --> 00:22:28,440
+here's an experiment
+
+518
+00:22:28,440 --> 00:22:32,790
+by handled holden and michael watkins is
+the same michael watkins whose work i
+
+519
+00:22:32,790 --> 00:22:34,330
+showed you last time
+
+520
+00:22:34,330 --> 00:22:36,970
+comparing the results of free
+
+521
+00:22:36,970 --> 00:22:39,230
+cued recall and recognition
+
+522
+00:22:39,230 --> 00:22:42,979
+tests of memory here are subjects were
+simply as to
+
+523
+00:22:42,979 --> 00:22:44,540
+study a list of words
+
+524
+00:22:44,540 --> 00:22:46,250
+and then for the free recall test
+
+525
+00:22:46,250 --> 00:22:49,480
+the rest report what the words were that
+they've studied
+
+526
+00:22:49,480 --> 00:22:51,080
+on the cute recall test
+
+527
+00:22:51,080 --> 00:22:53,159
+they were asked to farm
+
+528
+00:22:53,159 --> 00:22:55,620
+flaw order the rest report
+
+529
+00:22:55,620 --> 00:23:01,220
+the color words or the names of four
+four footed animals or whatever anna
+
+530
+00:23:01,220 --> 00:23:04,250
+recognition test they were asked
+questions like
+
+531
+00:23:04,250 --> 00:23:06,570
+was one of the words on the list orange
+
+532
+00:23:06,570 --> 00:23:10,010
+or was one of the words on the list
+purple
+
+533
+00:23:10,010 --> 00:23:13,680
+art here were plotting the number of
+items remembered in response to each of
+
+534
+00:23:13,680 --> 00:23:14,679
+these tests
+
+535
+00:23:14,679 --> 00:23:20,800
+and what you can see is that free recall
+doesn't produce much memory
+
+536
+00:23:20,800 --> 00:23:26,440
+cued recall produces quite a bit more
+memory about twice as much or memory
+
+537
+00:23:26,440 --> 00:23:31,140
+and recognition are testing produces
+quite a bit of memory
+
+538
+00:23:31,140 --> 00:23:32,680
+reckon chin test
+
+539
+00:23:32,680 --> 00:23:33,980
+as a rule
+
+540
+00:23:33,980 --> 00:23:36,090
+art easier
+
+541
+00:23:36,090 --> 00:23:37,640
+recall tests
+
+542
+00:23:37,640 --> 00:23:41,810
+of memory is easier to remember
+something on a recognition test
+
+543
+00:23:41,810 --> 00:23:44,110
+that it is part of free recall test
+
+544
+00:23:44,110 --> 00:23:46,200
+and among recall tests
+
+545
+00:23:46,200 --> 00:23:48,910
+killed recall tends to be easier
+
+546
+00:23:48,910 --> 00:23:55,260
+as a test land on their memory this is a
+typical result in these kinds of of
+
+547
+00:23:55,260 --> 00:23:57,490
+experiments and as a result
+
+548
+00:23:57,490 --> 00:24:00,990
+illustrates yet another principle of
+memory bitches
+
+549
+00:24:00,990 --> 00:24:04,090
+what's known as the q dependency
+principle
+
+550
+00:24:04,090 --> 00:24:07,369
+and memory in here would basically say
+
+551
+00:24:07,369 --> 00:24:10,509
+that memory depends on the
+
+552
+00:24:10,509 --> 00:24:13,210
+on mount of information provided
+
+553
+00:24:13,210 --> 00:24:19,440
+by the retrieval cue memory depends on
+the informational value barbecues
+
+554
+00:24:19,440 --> 00:24:19,960
+provided
+
+555
+00:24:19,960 --> 00:24:22,200
+at the time of retrieval
+
+556
+00:24:22,200 --> 00:24:23,679
+free recall test
+
+557
+00:24:23,679 --> 00:24:26,659
+doesn't provide much information what
+words on the west
+
+558
+00:24:26,659 --> 00:24:28,840
+that's all you get
+
+559
+00:24:28,840 --> 00:24:30,330
+cued recall tests
+
+560
+00:24:30,330 --> 00:24:31,720
+provide more
+
+561
+00:24:31,720 --> 00:24:34,409
+information over the color words on the
+list
+
+562
+00:24:34,409 --> 00:24:38,050
+what where the body parts on the list
+
+563
+00:24:38,050 --> 00:24:39,210
+recognition tests
+
+564
+00:24:39,210 --> 00:24:39,920
+provide
+
+565
+00:24:39,920 --> 00:24:43,510
+lots and lots of information about the
+target memory
+
+566
+00:24:43,510 --> 00:24:45,469
+was it all range or purple
+
+567
+00:24:45,469 --> 00:24:46,520
+was that finger
+
+568
+00:24:46,520 --> 00:24:49,350
+or fort wasn't lyanne
+
+569
+00:24:49,350 --> 00:24:50,710
+or tiger
+
+570
+00:24:50,710 --> 00:24:51,950
+or whatever
+
+571
+00:24:51,950 --> 00:24:55,860
+so the q dependency principal basically
+says
+
+572
+00:24:55,860 --> 00:25:00,260
+you can gain access to memory by virtue
+of
+
+573
+00:25:00,260 --> 00:25:01,330
+retrieval cues
+
+574
+00:25:01,330 --> 00:25:02,520
+and the richer
+
+575
+00:25:02,520 --> 00:25:05,860
+the more informative these retrieval
+cues are
+
+576
+00:25:05,860 --> 00:25:07,730
+but more likely you are
+
+577
+00:25:07,730 --> 00:25:09,300
+to gain access
+
+578
+00:25:09,300 --> 00:25:10,899
+to information
+
+579
+00:25:10,899 --> 00:25:13,650
+stored
+
+580
+00:25:13,650 --> 00:25:17,210
+so let's stop for a second see if there
+are any questions
+
+581
+00:25:17,210 --> 00:25:18,710
+about
+
+582
+00:25:18,710 --> 00:25:22,320
+dependency principal and about the q
+dependency principle
+
+583
+00:25:22,320 --> 00:25:26,490
+the distinction between availability and
+accessibility
+
+584
+00:25:26,490 --> 00:25:26,889
+and
+
+585
+00:25:26,889 --> 00:25:33,889
+the problem of interference anything at
+all about this
+
+586
+00:25:38,309 --> 00:25:41,550
+now let's go one step
+
+587
+00:25:41,550 --> 00:25:46,879
+we usually but what i have portrayed and
+coding and retrieval process is so far
+
+588
+00:25:46,879 --> 00:25:50,000
+i portray them as one related to each
+other
+
+589
+00:25:50,000 --> 00:25:52,160
+on memory gets uncoated
+
+590
+00:25:52,160 --> 00:25:54,529
+and then it gets retrieved okay
+
+591
+00:25:54,529 --> 00:25:59,379
+but it turns out to think about it for a
+second there it is an interesting
+
+592
+00:25:59,379 --> 00:26:03,240
+interaction between encoding and
+retrieval process these
+
+593
+00:26:03,240 --> 00:26:06,040
+which is that retrieval cues
+
+594
+00:26:06,040 --> 00:26:07,840
+ten compensate
+
+595
+00:26:07,840 --> 00:26:08,870
+four
+
+596
+00:26:08,870 --> 00:26:12,720
+port increase all of the poor processing
+at the time of encoding
+
+597
+00:26:12,720 --> 00:26:13,740
+if u
+
+598
+00:26:13,740 --> 00:26:14,869
+don't engage
+
+599
+00:26:14,869 --> 00:26:19,940
+in elaborate is an organizational
+processing at the time of encoding
+
+600
+00:26:19,940 --> 00:26:24,309
+you're probably not going to produce
+very much on eighty-three recall test
+
+601
+00:26:24,309 --> 00:26:25,600
+of memory
+
+602
+00:26:25,600 --> 00:26:29,760
+but you'll probably remember more on a
+recognition test
+
+603
+00:26:29,760 --> 00:26:33,299
+the cues provided at the time of in
+coding
+
+604
+00:26:33,299 --> 00:26:35,230
+if they're rich enough
+
+605
+00:26:35,230 --> 00:26:38,159
+they can compensate for
+
+606
+00:26:38,159 --> 00:26:40,170
+impoverished activity
+
+607
+00:26:40,170 --> 00:26:44,520
+onsite accuse provided the time of
+retrieval if they're rich enough can
+
+608
+00:26:44,520 --> 00:26:47,249
+compensate for impoverished activity
+
+609
+00:26:47,249 --> 00:26:49,960
+at the time of encoding
+
+610
+00:26:49,960 --> 00:26:51,130
+similarly
+
+611
+00:26:51,130 --> 00:26:55,179
+if you wouldn't get a journal lots of
+processing at the time of retrieval
+
+612
+00:26:55,179 --> 00:26:59,780
+in gauge of lots of elaborate in
+organizational activity
+
+613
+00:26:59,780 --> 00:27:03,250
+when the time to but wild at when the
+time comes for retrieval you don't have
+
+614
+00:27:03,250 --> 00:27:05,080
+to do too much
+
+615
+00:27:05,080 --> 00:27:07,870
+more effort you put into encoding
+
+616
+00:27:07,870 --> 00:27:10,580
+fell less effort you need a retrieval
+
+617
+00:27:10,580 --> 00:27:14,859
+the less effort you put into encoding
+for more information
+
+618
+00:27:14,859 --> 00:27:19,039
+you quality uwm uh... need for retrieval
+
+619
+00:27:19,039 --> 00:27:20,940
+and this general idea
+
+620
+00:27:20,940 --> 00:27:26,669
+that there is all and interaction or a
+kind of compensatory relationship
+
+621
+00:27:26,669 --> 00:27:28,090
+between and coding
+
+622
+00:27:28,090 --> 00:27:29,120
+and retrieval
+
+623
+00:27:29,120 --> 00:27:33,030
+is very important property of the memory
+system
+
+624
+00:27:33,030 --> 00:27:35,430
+not studied something very well
+
+625
+00:27:35,430 --> 00:27:39,520
+you might do ok on a recognition testing
+of multiple choice test but you're not
+
+626
+00:27:39,520 --> 00:27:41,039
+going to do very well
+
+627
+00:27:41,039 --> 00:27:43,499
+on a_d_r_ on an essay exam
+
+628
+00:27:43,499 --> 00:27:46,070
+on youtube engaged in what the box
+
+629
+00:27:46,070 --> 00:27:49,590
+well elaborate encoding activity
+
+630
+00:27:49,590 --> 00:27:54,320
+or you don't need that he helped over
+recognition test the ancient
+
+631
+00:27:54,320 --> 00:27:56,070
+greeks and romans
+
+632
+00:27:56,070 --> 00:28:00,360
+people who didn't have a lot out paper
+available to go to them
+
+633
+00:28:00,360 --> 00:28:03,360
+maybe use of these kinds of principles
+
+634
+00:28:03,360 --> 00:28:05,690
+wednesday or when they were preparing
+
+635
+00:28:05,690 --> 00:28:10,639
+they're all of their speeches for
+example in the are greek agro
+
+636
+00:28:10,639 --> 00:28:12,800
+or the or the roman forum
+
+637
+00:28:12,800 --> 00:28:15,669
+is very common if you look at worli
+
+638
+00:28:15,669 --> 00:28:19,330
+or rather ancient of texts are rhetoric
+
+639
+00:28:19,330 --> 00:28:20,560
+to find
+
+640
+00:28:20,560 --> 00:28:21,640
+on speakers
+
+641
+00:28:21,640 --> 00:28:24,419
+being taught aid mnemonic device
+
+642
+00:28:24,419 --> 00:28:29,839
+known as the method of low side all by
+which they are stalled supposed to in
+
+643
+00:28:29,839 --> 00:28:30,220
+code
+
+644
+00:28:30,220 --> 00:28:34,559
+the points that they want to make and
+their speeches in such a way as to make
+
+645
+00:28:34,559 --> 00:28:37,210
+it easy for them to remember them later
+on
+
+646
+00:28:37,210 --> 00:28:40,499
+so for example if i were using the
+method of low side
+
+647
+00:28:40,499 --> 00:28:46,979
+to altered to memorize this lecture on
+might say ok we're going to begin with
+
+648
+00:28:46,979 --> 00:28:51,430
+the principle of time dependency and an
+associate that with pullman holt
+
+649
+00:28:51,430 --> 00:28:55,220
+and then we're going to so i think about
+the principle of interference and an
+
+650
+00:28:55,220 --> 00:28:58,200
+associate that with the valley life
+sciences building
+
+651
+00:28:58,200 --> 00:29:01,650
+and we're going to think about the fan
+effect on going to put that in the
+
+652
+00:29:01,650 --> 00:29:04,250
+chancellor's office in california hole
+
+653
+00:29:04,250 --> 00:29:07,630
+and now i'm going to take the occu
+dependency principle
+
+654
+00:29:07,630 --> 00:29:11,750
+and i'm going to associate that with
+we'll arrive at four a_m_ and now if i
+
+655
+00:29:11,750 --> 00:29:13,580
+want to
+
+656
+00:29:13,580 --> 00:29:14,190
+remember
+
+657
+00:29:14,190 --> 00:29:15,830
+what my lectures going to be about
+
+658
+00:29:15,830 --> 00:29:19,210
+all i have to do is mentally retrace my
+path
+
+659
+00:29:19,210 --> 00:29:21,470
+getting from my office in pullman hall
+
+660
+00:29:21,470 --> 00:29:23,190
+over to your real wrote a trim
+
+661
+00:29:23,190 --> 00:29:25,500
+and pick up those points along the way
+
+662
+00:29:25,500 --> 00:29:26,799
+if it was in fact
+
+663
+00:29:26,799 --> 00:29:29,649
+house cicero and all other roman orders
+
+664
+00:29:29,649 --> 00:29:32,030
+memorized the speeches they didn't have
+a lot of paper
+
+665
+00:29:32,030 --> 00:29:36,150
+they didn't have them cargo on marble
+slabs of the hold them up in front of
+
+666
+00:29:36,150 --> 00:29:36,950
+them
+
+667
+00:29:36,950 --> 00:29:38,220
+all-weather read their work
+
+668
+00:29:38,220 --> 00:29:43,220
+they used man demonic tricks like the
+method of low side
+
+669
+00:29:43,220 --> 00:29:45,200
+part make it easy for them to remember
+
+670
+00:29:45,200 --> 00:29:47,019
+the points that wanted to make
+
+671
+00:29:47,019 --> 00:29:49,850
+in the order in which they wanted to
+make them
+
+672
+00:29:49,850 --> 00:29:51,620
+these demonic devices
+
+673
+00:29:51,620 --> 00:29:53,690
+all
+
+674
+00:29:53,690 --> 00:29:56,290
+involved setting up
+
+675
+00:29:56,290 --> 00:29:59,159
+various kinds of strategies at the time
+of encoding
+
+676
+00:29:59,159 --> 00:30:01,049
+to make remembering
+
+677
+00:30:01,049 --> 00:30:02,140
+easier
+
+678
+00:30:02,140 --> 00:30:04,220
+the time haldol
+
+679
+00:30:04,220 --> 00:30:07,170
+at the time of retrieval
+
+680
+00:30:07,170 --> 00:30:14,080
+so no let's do another memory test in
+that blast list but i presented to you
+
+681
+00:30:14,080 --> 00:30:21,080
+what were the liberals are women's first
+names don't look on your slides
+
+682
+00:30:24,160 --> 00:30:25,780
+number that list
+
+683
+00:30:25,780 --> 00:30:28,840
+and talking about it
+
+684
+00:30:28,840 --> 00:30:35,840
+thirty minutes or so
+
+685
+00:30:36,080 --> 00:30:37,080
+amber
+
+686
+00:30:37,080 --> 00:30:39,159
+anybody named amber
+
+687
+00:30:39,159 --> 00:30:40,820
+usually get at least one amber
+
+688
+00:30:40,820 --> 00:30:43,580
+these days nobody mister anyway
+
+689
+00:30:43,580 --> 00:30:44,340
+all
+
+690
+00:30:44,340 --> 00:30:46,120
+members are perfectly good
+
+691
+00:30:46,120 --> 00:30:50,870
+goals or woman's first name any of you
+probably know somebody named amber
+
+692
+00:30:50,870 --> 00:30:52,170
+all
+
+693
+00:30:52,170 --> 00:30:53,970
+when you started this list
+
+694
+00:30:53,970 --> 00:30:58,600
+you studied it in the congress party the
+word amber in the context of all other
+
+695
+00:30:58,600 --> 00:31:00,199
+color names
+
+696
+00:31:00,199 --> 00:31:01,720
+orange and purple
+
+697
+00:31:01,720 --> 00:31:04,360
+u_n_ coated with the word amber
+
+698
+00:31:04,360 --> 00:31:08,320
+as a color name which in fact it is
+
+699
+00:31:08,320 --> 00:31:11,450
+but then when i ask you to retrieve that
+word
+
+700
+00:31:11,450 --> 00:31:14,500
+uh... yesterday uh... center to did to
+retrieve it
+
+701
+00:31:14,500 --> 00:31:16,809
+as a grills or woman's first name
+
+702
+00:31:16,809 --> 00:31:18,390
+and it was for
+
+703
+00:31:18,390 --> 00:31:22,680
+now that word is their you remember all
+everybody remembers that word now is a
+
+704
+00:31:22,680 --> 00:31:24,850
+lawyer at the time
+
+705
+00:31:24,850 --> 00:31:27,370
+one how come you weren't able to arm
+
+706
+00:31:27,370 --> 00:31:30,140
+how come you were able to get at it
+
+707
+00:31:30,140 --> 00:31:33,919
+this dog difficulty remembering amber
+okay
+
+708
+00:31:33,919 --> 00:31:36,019
+depending on how it's uncoated
+
+709
+00:31:36,019 --> 00:31:40,419
+illustrates what's known as the encoding
+specificity principle
+
+710
+00:31:40,419 --> 00:31:43,860
+and this is another example of the
+relation
+
+711
+00:31:43,860 --> 00:31:48,830
+between encoding processes on the one
+hand and retrieval process he's on the
+
+712
+00:31:48,830 --> 00:31:49,770
+other
+
+713
+00:31:49,770 --> 00:31:53,450
+what the encoding specificity principal
+basically says
+
+714
+00:31:53,450 --> 00:31:56,480
+is that memory is best
+
+715
+00:31:56,480 --> 00:32:01,789
+when q information presented at the time
+of encoding adept at the time of
+
+716
+00:32:01,789 --> 00:32:03,380
+retrieval
+
+717
+00:32:03,380 --> 00:32:04,660
+matches
+
+718
+00:32:04,660 --> 00:32:08,809
+q information processed at the time of
+encoding
+
+719
+00:32:08,809 --> 00:32:09,919
+memory is best
+
+720
+00:32:09,919 --> 00:32:11,640
+when the cues
+
+721
+00:32:11,640 --> 00:32:12,129
+presented
+
+722
+00:32:12,129 --> 00:32:14,950
+at the time of retrieval match
+
+723
+00:32:14,950 --> 00:32:15,330
+accused
+
+724
+00:32:15,330 --> 00:32:18,490
+that were processed at the time of
+encoding
+
+725
+00:32:18,490 --> 00:32:21,740
+and codeine advertiser color name
+
+726
+00:32:21,740 --> 00:32:25,540
+makes it easy to remember amber as a
+caller word
+
+727
+00:32:25,540 --> 00:32:27,769
+but makes it hard to remember amber
+
+728
+00:32:27,769 --> 00:32:29,580
+as egg rolls
+
+729
+00:32:29,580 --> 00:32:34,400
+all of them go all the girls were
+balloons or first name
+
+730
+00:32:34,400 --> 00:32:37,370
+this principle of encoding specificity
+
+731
+00:32:37,370 --> 00:32:39,659
+is what accounts for
+
+732
+00:32:39,659 --> 00:32:45,160
+some of the most fascinating phenomenon
+of memory white state dependent memory
+
+733
+00:32:45,160 --> 00:32:48,459
+we now know that if you were very
+
+734
+00:32:48,459 --> 00:32:52,700
+the person's physiological state by
+giving them drug
+
+735
+00:32:52,700 --> 00:32:56,640
+on one occasion and maybe not at another
+
+736
+00:32:56,640 --> 00:32:58,309
+that memory will depend
+
+737
+00:32:58,309 --> 00:32:59,580
+on the match
+
+738
+00:32:59,580 --> 00:33:04,600
+between the individuals physiological
+state at the time of retrieval
+
+739
+00:33:04,600 --> 00:33:06,509
+and that individuals
+
+740
+00:33:06,509 --> 00:33:07,570
+physiological state
+
+741
+00:33:07,570 --> 00:33:10,330
+at the time of encoding
+
+742
+00:33:10,330 --> 00:33:11,869
+also for example
+
+743
+00:33:11,869 --> 00:33:14,230
+if the person is
+
+744
+00:33:14,230 --> 00:33:14,900
+drugged
+
+745
+00:33:14,900 --> 00:33:18,090
+or did and it's given no drug at the
+time of retrieval
+
+746
+00:33:18,090 --> 00:33:22,290
+and no drug at that paula and also no
+drug at the time and coating memories
+
+747
+00:33:22,290 --> 00:33:23,320
+pretty good
+
+748
+00:33:23,320 --> 00:33:28,080
+but if the individual was audited coated
+the information under the influence of
+
+749
+00:33:28,080 --> 00:33:29,980
+case psychoactive drug
+
+750
+00:33:29,980 --> 00:33:32,950
+and then tries to retrieve the
+information
+
+751
+00:33:32,950 --> 00:33:36,180
+after the drug is washed out of the
+system
+
+752
+00:33:36,180 --> 00:33:42,030
+memory is going to be worst if the
+person and coated in the non drugs state
+
+753
+00:33:42,030 --> 00:33:46,700
+trying to do is drug during retrieval
+again memories going to be pretty bad
+
+754
+00:33:46,700 --> 00:33:47,489
+all but
+
+755
+00:33:47,489 --> 00:33:50,419
+if the individual encodes during
+
+756
+00:33:50,419 --> 00:33:52,830
+paula paula dot thought the drug state
+
+757
+00:33:52,830 --> 00:33:55,659
+and then tries to retrieved during a
+broad st
+
+758
+00:33:55,659 --> 00:33:58,059
+memory is going to be pretty good
+
+759
+00:33:58,059 --> 00:33:59,739
+pretty good by say
+
+760
+00:33:59,739 --> 00:34:06,130
+because it turns out that almost all
+psychoactive drugs impeller
+
+761
+00:34:06,130 --> 00:34:08,210
+encoding and retrieval process needs
+
+762
+00:34:08,210 --> 00:34:10,550
+okay whether it's alcohol
+
+763
+00:34:10,550 --> 00:34:11,399
+or
+
+764
+00:34:11,399 --> 00:34:14,759
+substances that you're not supposed to
+be taking like marijuana
+
+765
+00:34:14,759 --> 00:34:18,980
+although or all of those psychoactive
+substances
+
+766
+00:34:18,980 --> 00:34:19,899
+impair
+
+767
+00:34:19,899 --> 00:34:24,379
+memory processes both at the time of
+encoding and at the time of retrieval
+
+768
+00:34:24,379 --> 00:34:27,590
+but if you look at samal doses of these
+drugs
+
+769
+00:34:27,590 --> 00:34:31,349
+you will find all of that there is a
+pattern of state dependency
+
+770
+00:34:31,349 --> 00:34:32,959
+so if you win coated
+
+771
+00:34:32,959 --> 00:34:34,289
+the in information
+
+772
+00:34:34,289 --> 00:34:35,850
+under the influence of a drug
+
+773
+00:34:35,850 --> 00:34:37,410
+you'll remember it better
+
+774
+00:34:37,410 --> 00:34:38,809
+if you are also
+
+775
+00:34:38,809 --> 00:34:40,410
+under the influence world
+
+776
+00:34:40,410 --> 00:34:41,609
+that drug
+
+777
+00:34:41,609 --> 00:34:43,840
+again just so i'm not misunderstood
+
+778
+00:34:43,840 --> 00:34:47,559
+this doesn't mean that you should study
+with a bunch of beers
+
+779
+00:34:47,559 --> 00:34:48,590
+and then come in
+
+780
+00:34:48,590 --> 00:34:51,649
+for a mid-term exam
+
+781
+00:34:51,649 --> 00:34:52,889
+okay
+
+782
+00:34:52,889 --> 00:34:57,209
+because alcohol impaired as many
+functioning right
+
+783
+00:34:57,209 --> 00:34:59,930
+alcohol impairs both encoding and
+retrieval
+
+784
+00:34:59,930 --> 00:35:03,210
+but in the laboratory were beacons to
+where we have a good study these things
+
+785
+00:35:03,210 --> 00:35:07,570
+safely under tight control we go we've
+we've been able to show
+
+786
+00:35:07,570 --> 00:35:12,049
+that subjects who studied with a little
+buzz on
+
+787
+00:35:12,049 --> 00:35:15,999
+remember better if they also remembers
+but they also retrieved
+
+788
+00:35:15,999 --> 00:35:21,179
+with a little are both on here is an
+example of this is an experiment by
+
+789
+00:35:21,179 --> 00:35:22,420
+jim swanson
+
+790
+00:35:22,420 --> 00:35:24,320
+and marcel cans barn
+
+791
+00:35:24,320 --> 00:35:27,369
+classic study all of drugs state
+dependent memory
+
+792
+00:35:27,369 --> 00:35:32,139
+in children with all attention deficit
+hyperactivity disorder
+
+793
+00:35:32,139 --> 00:35:34,769
+august those on early study of the drug
+ritalin
+
+794
+00:35:34,769 --> 00:35:39,660
+i'd add fadiman type drug which has
+paradoxical effects than
+
+795
+00:35:39,660 --> 00:35:43,050
+or kids with the d_h_ the all uh...
+
+796
+00:35:43,050 --> 00:35:46,069
+of the to what come down and focus
+
+797
+00:35:46,069 --> 00:35:48,060
+and what happened in this experiment
+
+798
+00:35:48,060 --> 00:35:52,589
+was that swanson kids born ask these
+children
+
+799
+00:35:52,589 --> 00:35:57,359
+learn a list of facts they were actually
+the locations of zoo of animals and
+
+800
+00:35:57,359 --> 00:35:58,599
+their resumes
+
+801
+00:35:58,599 --> 00:36:01,160
+but tiger arisen that are rondo losing
+
+802
+00:36:01,160 --> 00:36:06,750
+that campbell is in the citizen the all
+regina zoom these kaiser canadians
+
+803
+00:36:06,750 --> 00:36:07,630
+okay
+
+804
+00:36:07,630 --> 00:36:09,150
+saw the kids
+
+805
+00:36:09,150 --> 00:36:11,379
+studied one list all the words
+
+806
+00:36:11,379 --> 00:36:13,599
+under the influence of berlin
+
+807
+00:36:13,599 --> 00:36:14,359
+and
+
+808
+00:36:14,359 --> 00:36:15,239
+date
+
+809
+00:36:15,239 --> 00:36:19,239
+although they're not a group of kids
+study out without the influence of
+
+810
+00:36:19,239 --> 00:36:20,119
+ritalin
+
+811
+00:36:20,119 --> 00:36:20,919
+and then
+
+812
+00:36:20,919 --> 00:36:23,310
+they were given a relearning test
+
+813
+00:36:23,310 --> 00:36:25,239
+okay
+
+814
+00:36:25,239 --> 00:36:27,930
+always ritalin or without ritalin
+
+815
+00:36:27,930 --> 00:36:32,219
+and this is the percentage of errors
+salawah errors means better memory
+
+816
+00:36:32,219 --> 00:36:33,229
+you can see
+
+817
+00:36:33,229 --> 00:36:37,769
+there when the children lower nd list
+under the influence of drugs
+
+818
+00:36:37,769 --> 00:36:39,160
+of ritalin
+
+819
+00:36:39,160 --> 00:36:42,569
+the showed fewer errors and rewarding
+
+820
+00:36:42,569 --> 00:36:45,619
+and when they wrong
+
+821
+00:36:45,619 --> 00:36:48,840
+all learned of the list under the
+influence of no drugs
+
+822
+00:36:48,840 --> 00:36:50,440
+they showed fewer errors
+
+823
+00:36:50,440 --> 00:36:55,310
+when they relearn under the influence of
+no drugs this is a classic pattern
+
+824
+00:36:55,310 --> 00:36:57,540
+or drug dependent memory
+
+825
+00:36:57,540 --> 00:37:02,359
+are just happens to be children with a
+p_h_d_ but it was traits the point
+
+826
+00:37:02,359 --> 00:37:04,309
+if you've got its eighty h d
+
+827
+00:37:04,309 --> 00:37:06,220
+and you learn something
+
+828
+00:37:06,220 --> 00:37:06,990
+when you've
+
+829
+00:37:06,990 --> 00:37:08,910
+kutcher does of ritalin
+
+830
+00:37:08,910 --> 00:37:10,790
+you'll remember it better
+
+831
+00:37:10,790 --> 00:37:12,070
+if you're also
+
+832
+00:37:12,070 --> 00:37:15,220
+all working on your does volvo
+
+833
+00:37:15,220 --> 00:37:16,109
+overload
+
+834
+00:37:16,109 --> 00:37:20,239
+so they are not a number of these
+drug-induced state dependent memory
+
+835
+00:37:20,239 --> 00:37:22,359
+effects that have been observed in
+humans
+
+836
+00:37:22,359 --> 00:37:25,979
+we get the strong affects with very
+strong drugs
+
+837
+00:37:25,979 --> 00:37:27,339
+barbiturates
+
+838
+00:37:27,339 --> 00:37:29,359
+easter nitrous oxide
+
+839
+00:37:29,359 --> 00:37:32,369
+you can get some affects with nicotine
+
+840
+00:37:32,369 --> 00:37:34,449
+just another reason not to smoke
+
+841
+00:37:34,449 --> 00:37:37,699
+right don't smoke or your study cuz it
+can't smoke in here when you're taking
+
+842
+00:37:37,699 --> 00:37:39,359
+an exam
+
+843
+00:37:39,359 --> 00:37:40,560
+all
+
+844
+00:37:40,560 --> 00:37:44,189
+marijuana hallucinogenic give moderate
+state dependent effects
+
+845
+00:37:44,189 --> 00:37:44,979
+all
+
+846
+00:37:44,979 --> 00:37:48,760
+there some other drugs to give
+relatively weak affects but these
+
+847
+00:37:48,760 --> 00:37:51,180
+all major sedative drugs
+
+848
+00:37:51,180 --> 00:37:55,900
+can produce very strong state dependent
+affects on memory
+
+849
+00:37:55,900 --> 00:37:58,079
+all it's not just a matter of
+
+850
+00:37:58,079 --> 00:38:03,140
+drabbed affects on memory emotional
+state can also produce
+
+851
+00:38:03,140 --> 00:38:07,720
+all effects on nov or the state
+dependent effects on memory
+
+852
+00:38:07,720 --> 00:38:11,009
+here's an experiment by eric i can janet
+metcalf
+
+853
+00:38:11,009 --> 00:38:11,950
+in which
+
+854
+00:38:11,950 --> 00:38:17,609
+all subjects were made happy or sad
+while they studied a list of words
+
+855
+00:38:17,609 --> 00:38:23,029
+this was all by virtual musical mood
+induction although i can metcalf played
+
+856
+00:38:23,029 --> 00:38:24,940
+very happy techni music
+
+857
+00:38:24,940 --> 00:38:27,619
+for half their subjects you know
+
+858
+00:38:27,619 --> 00:38:33,349
+r_v_ overture to the ballet giselle was
+one of their uh... tunes very very nice
+
+859
+00:38:33,349 --> 00:38:34,859
+happy music
+
+860
+00:38:34,859 --> 00:38:37,409
+can't be said was that his l
+
+861
+00:38:37,409 --> 00:38:38,219
+palm
+
+862
+00:38:38,219 --> 00:38:40,179
+the uh... the other group of subjects
+
+863
+00:38:40,179 --> 00:38:44,219
+were played music that paul that was
+intended to make them said
+
+864
+00:38:44,219 --> 00:38:45,150
+all
+
+865
+00:38:45,150 --> 00:38:49,329
+moves toward skis russia under the
+mongolian boots
+
+866
+00:38:49,329 --> 00:38:50,309
+okay
+
+867
+00:38:50,309 --> 00:38:51,500
+plated half speed
+
+868
+00:38:51,500 --> 00:38:55,990
+this is really directly saying this is
+all four piece of music not occur great
+
+869
+00:38:55,990 --> 00:38:58,119
+piece of music played at full speed
+
+870
+00:38:58,119 --> 00:38:59,550
+all but in any event
+
+871
+00:38:59,550 --> 00:39:03,170
+the subjects were given this musical
+note induction barbie stories list of
+
+872
+00:39:03,170 --> 00:39:04,130
+words
+
+873
+00:39:04,130 --> 00:39:07,369
+and i've never given a musical mood
+induction when they attempted to
+
+874
+00:39:07,369 --> 00:39:11,509
+remember at the list of words they had
+studied some subjects were happy in both
+
+875
+00:39:11,509 --> 00:39:16,849
+conditions somerset in both conditions
+somewhere happy while they studied sad
+
+876
+00:39:16,849 --> 00:39:20,440
+will be retrieved somewhere said while
+they were still while they studied
+
+877
+00:39:20,440 --> 00:39:22,630
+on and unhappy with the retrieved
+
+878
+00:39:22,630 --> 00:39:24,260
+and what you can see here is
+
+879
+00:39:24,260 --> 00:39:27,779
+that the match between encoding mood
+
+880
+00:39:27,779 --> 00:39:30,029
+and test mood produces
+
+881
+00:39:30,029 --> 00:39:31,370
+the best memories
+
+882
+00:39:31,370 --> 00:39:32,650
+if you're happy
+
+883
+00:39:32,650 --> 00:39:33,840
+when you encoded
+
+884
+00:39:33,840 --> 00:39:37,030
+you remember more if you're happy at the
+time of retrieval
+
+885
+00:39:37,030 --> 00:39:40,250
+if your sad when u in code
+
+886
+00:39:40,250 --> 00:39:42,540
+you remember more if you are said
+
+887
+00:39:42,540 --> 00:39:43,420
+at the time
+
+888
+00:39:43,420 --> 00:39:44,670
+all retrieval
+
+889
+00:39:44,670 --> 00:39:46,840
+so here's a guy another example
+
+890
+00:39:46,840 --> 00:39:52,840
+of this encoding specificity principal
+as it applies to emotional state not
+
+891
+00:39:52,840 --> 00:39:55,059
+just drug state
+
+892
+00:39:55,059 --> 00:39:59,869
+here's another illustration of the
+encodings festival specificity principal
+
+893
+00:39:59,869 --> 00:40:05,390
+applying to environment the environment
+in which encoding and retrieval occurred
+
+894
+00:40:05,390 --> 00:40:08,060
+this is an experiment by garden and
+battery
+
+895
+00:40:08,060 --> 00:40:10,679
+that was done with palm
+
+896
+00:40:10,679 --> 00:40:16,329
+deep-sea divers these in fact were navy
+seals being trained as part of the naval
+
+897
+00:40:16,329 --> 00:40:18,529
+base in the in san diego
+
+898
+00:40:18,529 --> 00:40:20,410
+quite an extraordinary experiment
+
+899
+00:40:20,410 --> 00:40:23,520
+died in battle we talk about our bunch
+of these guys
+
+900
+00:40:23,520 --> 00:40:24,290
+and our
+
+901
+00:40:24,290 --> 00:40:28,269
+all had some of them study a list of
+words while they're on the dock
+
+902
+00:40:28,269 --> 00:40:30,720
+and then drive to adapt the twenty five
+feet
+
+903
+00:40:30,720 --> 00:40:32,729
+and remember the list of words
+
+904
+00:40:32,729 --> 00:40:34,250
+on deliverable subjects
+
+905
+00:40:34,250 --> 00:40:37,520
+dole to adapt the twenty five feet
+struggle is the words like
+
+906
+00:40:37,520 --> 00:40:40,639
+held out this list of words in front of
+their masks
+
+907
+00:40:40,639 --> 00:40:42,960
+all that and then came up to the surface
+
+908
+00:40:42,960 --> 00:40:44,160
+and were tested
+
+909
+00:40:44,160 --> 00:40:45,439
+and you can see
+
+910
+00:40:45,439 --> 00:40:48,050
+that if u studied on land
+
+911
+00:40:48,050 --> 00:40:51,049
+you remembered better if you are tested
+on land
+
+912
+00:40:51,049 --> 00:40:52,940
+if you studied underwater
+
+913
+00:40:52,940 --> 00:40:56,339
+you remembered better if you were tested
+underwater
+
+914
+00:40:56,339 --> 00:40:59,820
+bum match between the incumbent
+environment
+
+915
+00:40:59,820 --> 00:41:01,690
+and at the retrieval environment
+
+916
+00:41:01,690 --> 00:41:02,850
+makes a difference
+
+917
+00:41:02,850 --> 00:41:06,610
+if the retrieval environment matches the
+encoding environment you get better
+
+918
+00:41:06,610 --> 00:41:07,960
+memory
+
+919
+00:41:07,960 --> 00:41:10,160
+if their is a
+
+920
+00:41:10,160 --> 00:41:11,380
+mismatch
+
+921
+00:41:11,380 --> 00:41:16,420
+so what we've seen here all four bunch
+of examples of what's known in the field
+
+922
+00:41:16,420 --> 00:41:19,809
+as context dependent memory
+
+923
+00:41:19,809 --> 00:41:20,759
+okay
+
+924
+00:41:20,759 --> 00:41:22,419
+why do you define
+
+925
+00:41:22,419 --> 00:41:24,700
+context in terms of time
+
+926
+00:41:24,700 --> 00:41:25,829
+workplace
+
+927
+00:41:25,829 --> 00:41:29,150
+features of the external environment
+like whether you're on the broader
+
+928
+00:41:29,150 --> 00:41:31,419
+lander twenty five feet under water
+
+929
+00:41:31,419 --> 00:41:35,489
+features of the internal environment
+like your physiological state controlled
+
+930
+00:41:35,489 --> 00:41:36,680
+by drivers
+
+931
+00:41:36,680 --> 00:41:39,269
+or your emotional state or whatever
+
+932
+00:41:39,269 --> 00:41:42,929
+dark to my knowledge there are no
+studies of motivational state dependent
+
+933
+00:41:42,929 --> 00:41:43,679
+memory
+
+934
+00:41:43,679 --> 00:41:46,829
+but you can imagine experiment in which
+people study a list of words while
+
+935
+00:41:46,829 --> 00:41:51,589
+they're hungry and then test or tested
+while they're hungry i bet dollars to
+
+936
+00:41:51,589 --> 00:41:54,659
+doughnuts you get the same kinds of
+facts
+
+937
+00:41:54,659 --> 00:41:58,059
+though i suspect that hunger or also
+interferes
+
+938
+00:41:58,059 --> 00:41:59,100
+and coding
+
+939
+00:41:59,100 --> 00:42:01,379
+on and uh... and retrieval
+
+940
+00:42:01,379 --> 00:42:01,980
+still
+
+941
+00:42:01,980 --> 00:42:03,509
+what we've got here
+
+942
+00:42:03,509 --> 00:42:06,099
+is in the encoding specificity principle
+
+943
+00:42:06,099 --> 00:42:08,089
+what kind of limitation
+
+944
+00:42:08,089 --> 00:42:10,929
+on the q dependency principle
+
+945
+00:42:10,929 --> 00:42:16,069
+q dependency principles said basically
+
+946
+00:42:16,069 --> 00:42:17,639
+what matters
+
+947
+00:42:17,639 --> 00:42:21,639
+to accessibility what matters at the
+point of retrieval is the informational
+
+948
+00:42:21,639 --> 00:42:24,019
+value of the retrieval cue
+
+949
+00:42:24,019 --> 00:42:29,149
+more information supplied by the
+retrieval cue the more likely you are to
+
+950
+00:42:29,149 --> 00:42:31,229
+gain access to a memory
+
+951
+00:42:31,229 --> 00:42:34,029
+now it's true so far as it goes
+
+952
+00:42:34,029 --> 00:42:34,749
+but these
+
+953
+00:42:34,749 --> 00:42:39,069
+the these studies illustrating the
+encoding specificity principle
+
+954
+00:42:39,069 --> 00:42:40,099
+make it clear
+
+955
+00:42:40,099 --> 00:42:42,369
+that it's not just a matter
+
+956
+00:42:42,369 --> 00:42:46,630
+mt of information it has to be right
+claim
+
+957
+00:42:46,630 --> 00:42:49,239
+of information
+
+958
+00:42:49,239 --> 00:42:50,029
+all
+
+959
+00:42:50,029 --> 00:42:54,709
+the information supplied at the time of
+the retrieval
+
+960
+00:42:54,709 --> 00:42:55,810
+has to match
+
+961
+00:42:55,810 --> 00:42:59,230
+the information that was processed at
+the time of the coding
+
+962
+00:42:59,230 --> 00:43:01,030
+if you're going to have
+
+963
+00:43:01,030 --> 00:43:05,259
+very successful or retrieval conditions
+so and coating
+
+964
+00:43:05,259 --> 00:43:07,240
+how you would call it a memory
+
+965
+00:43:07,240 --> 00:43:09,900
+sets the stage brook hart you're going
+to retrieve it
+
+966
+00:43:09,900 --> 00:43:12,890
+if you encode amber as a color word
+
+967
+00:43:12,890 --> 00:43:17,699
+they're going to find it difficult to
+retrieve amber as a girl's first thing
+
+968
+00:43:17,699 --> 00:43:18,930
+similarly
+
+969
+00:43:18,930 --> 00:43:20,109
+retrieval
+
+970
+00:43:20,109 --> 00:43:21,400
+in some sense
+
+971
+00:43:21,400 --> 00:43:22,589
+recapitulate
+
+972
+00:43:22,589 --> 00:43:27,159
+the encoding process ok so you've got to
+
+973
+00:43:27,159 --> 00:43:29,260
+do with the title retrieval
+
+974
+00:43:29,260 --> 00:43:32,720
+engage in the at the time retrieval on
+the same kinds of process easy win
+
+975
+00:43:32,720 --> 00:43:33,500
+gauged in
+
+976
+00:43:33,500 --> 00:43:35,699
+at the time oven coding
+
+977
+00:43:35,699 --> 00:43:40,660
+when encoding and retrieval conditions
+are kanga runs
+
+978
+00:43:40,660 --> 00:43:44,529
+backed increases the likelihood that
+you're gonna gain access to trace
+
+979
+00:43:44,529 --> 00:43:45,880
+information
+
+980
+00:43:45,880 --> 00:43:49,769
+when encoding and retrieval conditions
+arkin timberland
+
+981
+00:43:49,769 --> 00:43:50,730
+that's going to make it
+
+982
+00:43:50,730 --> 00:43:54,400
+a lot kal a lot harder
+
+983
+00:43:54,400 --> 00:43:55,229
+so
+
+984
+00:43:55,229 --> 00:43:57,629
+that's the story bobo
+
+985
+00:43:57,629 --> 00:43:59,180
+encoding specificity
+
+986
+00:43:59,180 --> 00:44:01,609
+and at the eliminates all
+
+987
+00:44:01,609 --> 00:44:02,099
+extension
+
+988
+00:44:02,099 --> 00:44:03,960
+adi q dependency principle
+
+989
+00:44:03,960 --> 00:44:07,729
+anne questions on encoding specificity
+
+990
+00:44:07,729 --> 00:44:14,729
+mu dependent memory
+
+991
+00:44:17,119 --> 00:44:21,039
+last time we talked about this principle
+of encoding
+
+992
+00:44:21,039 --> 00:44:22,779
+that says that
+
+993
+00:44:22,779 --> 00:44:24,359
+the elaboration principle
+
+994
+00:44:24,359 --> 00:44:25,890
+the basically says
+
+995
+00:44:25,890 --> 00:44:31,010
+that more you connect new information up
+with pre-existing knowledge
+
+996
+00:44:31,010 --> 00:44:33,969
+the better the memory is going to be
+
+997
+00:44:33,969 --> 00:44:36,510
+again that's true so far as it goes
+
+998
+00:44:36,510 --> 00:44:40,349
+but there are interesting called by
+their qualifications
+
+999
+00:44:40,349 --> 00:44:43,109
+on on this
+
+1000
+00:44:43,109 --> 00:44:47,199
+let's look at that point the
+relationship is between knowledge
+
+1001
+00:44:47,199 --> 00:44:49,479
+gerald allege and memory
+
+1002
+00:44:49,479 --> 00:44:51,980
+here we're talking about the influence
+of
+
+1003
+00:44:51,980 --> 00:44:53,909
+will be called semantic memory
+
+1004
+00:44:53,909 --> 00:44:55,250
+in the last lecture
+
+1005
+00:44:55,250 --> 00:44:59,999
+your generic abstract knowledge and
+beliefs about the world
+
+1006
+00:44:59,999 --> 00:45:01,770
+and you're at the thought of memory
+
+1007
+00:45:01,770 --> 00:45:03,579
+your memory for a particular
+
+1008
+00:45:03,579 --> 00:45:04,599
+or experiences
+
+1009
+00:45:04,599 --> 00:45:06,299
+they want to know what the relation is
+
+1010
+00:45:06,299 --> 00:45:08,039
+uh... between these
+
+1011
+00:45:08,039 --> 00:45:14,269
+here is all that experiment all using a
+variant on the verbal learning paradigm
+
+1012
+00:45:14,269 --> 00:45:18,669
+known as person memory paradigm in which
+we ask people to
+
+1013
+00:45:18,669 --> 00:45:20,359
+study and remember
+
+1014
+00:45:20,359 --> 00:45:21,119
+facts
+
+1015
+00:45:21,119 --> 00:45:24,659
+about or love facts about people
+
+1016
+00:45:24,659 --> 00:45:26,179
+in this experiment
+
+1017
+00:45:26,179 --> 00:45:29,289
+we first
+
+1018
+00:45:29,289 --> 00:45:34,929
+present person with setup general fax
+about an individual like a judy
+
+1019
+00:45:34,929 --> 00:45:37,749
+we simply say to his intelligent
+
+1020
+00:45:37,749 --> 00:45:39,339
+she's surfaced
+
+1021
+00:45:39,339 --> 00:45:45,569
+she's artistic she's refined she's a
+magid itive she's witty note the kind of
+
+1022
+00:45:45,569 --> 00:45:46,690
+person
+
+1023
+00:45:46,690 --> 00:45:47,700
+this is
+
+1024
+00:45:47,700 --> 00:45:50,619
+okay so that's your general impression
+of judy
+
+1025
+00:45:50,619 --> 00:45:54,569
+and now i'm going to tell you some facts
+about her life
+
+1026
+00:45:54,569 --> 00:45:57,519
+okay
+
+1027
+00:45:57,519 --> 00:45:58,439
+sheet
+
+1028
+00:45:58,439 --> 00:46:01,259
+one the chess tournament
+
+1029
+00:46:01,259 --> 00:46:05,939
+second she attended a symphony concert
+
+1030
+00:46:05,939 --> 00:46:09,509
+judy made the same mistake three times
+
+1031
+00:46:09,509 --> 00:46:13,869
+she was confused by the daytime
+television show
+
+1032
+00:46:13,869 --> 00:46:16,639
+judy ordered a sandwich for lunch
+
+1033
+00:46:16,639 --> 00:46:18,430
+and judy took the elevator
+
+1034
+00:46:18,430 --> 00:46:21,550
+to the third floor these are the kinds
+of facts about judy
+
+1035
+00:46:21,550 --> 00:46:25,099
+we want you to remember in this
+particular experiment
+
+1036
+00:46:25,099 --> 00:46:29,059
+but point of having you learn something
+about judy in general
+
+1037
+00:46:29,059 --> 00:46:32,179
+was to establish i kind of ski you know
+
+1038
+00:46:32,179 --> 00:46:33,999
+oriflame work
+
+1039
+00:46:33,999 --> 00:46:38,619
+but you can use to encode information
+about judy
+
+1040
+00:46:38,619 --> 00:46:40,709
+and if you noticed for a second
+
+1041
+00:46:40,709 --> 00:46:43,490
+some of these behaviors are kanga relent
+
+1042
+00:46:43,490 --> 00:46:44,600
+with the schema
+
+1043
+00:46:44,600 --> 00:46:48,450
+she won the chess tournament and she
+attended the symphony concert so kind of
+
+1044
+00:46:48,450 --> 00:46:51,339
+thing you'd expect all smart
+
+1045
+00:46:51,339 --> 00:46:55,039
+artistically sensitive sophisticated
+people
+
+1046
+00:46:55,039 --> 00:46:58,869
+some of these behaviors more in
+congruent with the impression you have
+
+1047
+00:46:58,869 --> 00:47:00,450
+about dog judy
+
+1048
+00:47:00,450 --> 00:47:05,569
+she made the same mistakes vetoing this
+let's kind of a dumb thing
+
+1049
+00:47:05,569 --> 00:47:08,590
+she was confused by the daytime
+television show
+
+1050
+00:47:08,590 --> 00:47:09,819
+another
+
+1051
+00:47:09,819 --> 00:47:11,489
+dumb thing to do
+
+1052
+00:47:11,489 --> 00:47:13,180
+these are inconsistent
+
+1053
+00:47:13,180 --> 00:47:15,869
+with your impression of this person as
+
+1054
+00:47:15,869 --> 00:47:19,630
+intelligent witty sophisticated on
+sensitive and all that
+
+1055
+00:47:19,630 --> 00:47:21,520
+and then there are these behaviors like
+
+1056
+00:47:21,520 --> 00:47:24,009
+she ordered a sandwich for lunch
+
+1057
+00:47:24,009 --> 00:47:26,470
+and she took the elevator to the third
+floor
+
+1058
+00:47:26,470 --> 00:47:28,109
+breach of shrug your shoulders in
+
+1059
+00:47:28,109 --> 00:47:31,159
+doesn't have anything to do with it if
+we don't know about judy
+
+1060
+00:47:31,159 --> 00:47:32,410
+we have
+
+1061
+00:47:32,410 --> 00:47:33,880
+behaviors that are
+
+1062
+00:47:33,880 --> 00:47:34,549
+congruent
+
+1063
+00:47:34,549 --> 00:47:37,189
+with your schema for judy
+
+1064
+00:47:37,189 --> 00:47:39,659
+congruent with your overall impression
+of judy
+
+1065
+00:47:39,659 --> 00:47:44,109
+some that are in cumberland with your
+overall impression of judy and some that
+
+1066
+00:47:44,109 --> 00:47:45,839
+are simply irrelevant
+
+1067
+00:47:45,839 --> 00:47:47,569
+to your overall impression
+
+1068
+00:47:47,569 --> 00:47:48,420
+of judy
+
+1069
+00:47:48,420 --> 00:47:53,170
+and now what we do is we tester memory
+for these three different kinds of facts
+
+1070
+00:47:53,170 --> 00:47:57,819
+and will be kept is a pattern of results
+that looks like this
+
+1071
+00:47:57,819 --> 00:47:59,270
+memory is best
+
+1072
+00:47:59,270 --> 00:48:02,189
+for schema conger on fax
+
+1073
+00:48:02,189 --> 00:48:03,720
+memory is best
+
+1074
+00:48:03,720 --> 00:48:08,109
+doesn't talk there is going to christina
+conklin fax okay
+
+1075
+00:48:08,109 --> 00:48:12,619
+as opposed to schema irrelevant facts
+soul remembering that judy went at went
+
+1076
+00:48:12,619 --> 00:48:15,680
+to the symphony concert that's
+remembered pretty well
+
+1077
+00:48:15,680 --> 00:48:18,980
+remember that remembering that judy
+ordered a sandwich for lunch
+
+1078
+00:48:18,980 --> 00:48:20,299
+remembered not so well
+
+1079
+00:48:20,299 --> 00:48:22,779
+but what's interesting about this
+experiment
+
+1080
+00:48:22,779 --> 00:48:25,539
+all is that memory is best
+
+1081
+00:48:25,539 --> 00:48:27,080
+for schema
+
+1082
+00:48:27,080 --> 00:48:28,989
+income grew and fax
+
+1083
+00:48:28,989 --> 00:48:31,739
+memory is best for the fact that judy
+
+1084
+00:48:31,739 --> 00:48:34,410
+was confused by the daytime television
+show
+
+1085
+00:48:34,410 --> 00:48:36,539
+and the jury made the same mistake
+
+1086
+00:48:36,539 --> 00:48:37,719
+three times
+
+1087
+00:48:37,719 --> 00:48:39,839
+what's going on here
+
+1088
+00:48:39,839 --> 00:48:42,020
+walker illustrated in this experiment
+
+1089
+00:48:42,020 --> 00:48:44,319
+is the relationship between
+
+1090
+00:48:44,319 --> 00:48:47,069
+memory for a particular offense
+
+1091
+00:48:47,069 --> 00:48:51,159
+and knowledge of all the world in
+general
+
+1092
+00:48:51,159 --> 00:48:54,180
+and it's a band of memory for particular
+bad
+
+1093
+00:48:54,180 --> 00:48:55,750
+depends on its relationship
+
+1094
+00:48:55,750 --> 00:48:58,759
+to your knowledge of the world in
+general
+
+1095
+00:48:58,759 --> 00:49:00,319
+here we have what's known as
+
+1096
+00:49:00,319 --> 00:49:03,149
+the schematic processing principle
+
+1097
+00:49:03,149 --> 00:49:04,740
+which basically says
+
+1098
+00:49:04,740 --> 00:49:06,480
+that memories of function
+
+1099
+00:49:06,480 --> 00:49:09,289
+of the relationship between an event
+
+1100
+00:49:09,289 --> 00:49:14,099
+and pre-existing knowledge expectations
+and believes
+
+1101
+00:49:14,099 --> 00:49:15,729
+memory is very poor
+
+1102
+00:49:15,729 --> 00:49:17,969
+for information that's irrelevant
+
+1103
+00:49:17,969 --> 00:49:21,699
+to pre-existing knowledge expectations
+and beliefs
+
+1104
+00:49:21,699 --> 00:49:22,249
+better
+
+1105
+00:49:22,249 --> 00:49:24,980
+for indictment for information that is
+
+1106
+00:49:24,980 --> 00:49:25,630
+kanda relent
+
+1107
+00:49:25,630 --> 00:49:28,360
+with existing knowledge expectations and
+believes
+
+1108
+00:49:28,360 --> 00:49:29,969
+but it's best
+
+1109
+00:49:29,969 --> 00:49:32,089
+for information
+
+1110
+00:49:32,089 --> 00:49:37,539
+in congruent with existing pre-existing
+knowledge expectations and beliefs and
+
+1111
+00:49:37,539 --> 00:49:39,389
+here's what's going on here
+
+1112
+00:49:39,389 --> 00:49:41,469
+give you give me one minute
+
+1113
+00:49:41,469 --> 00:49:43,109
+dusky no
+
+1114
+00:49:43,109 --> 00:49:48,219
+medellin judy is intelligent and
+sophisticated insensitive
+
+1115
+00:49:48,219 --> 00:49:53,069
+that provides you with additional treat
+all information q information but you
+
+1116
+00:49:53,069 --> 00:49:58,499
+can use the search memory for
+intelligent sophisticated artistic kinds
+
+1117
+00:49:58,499 --> 00:50:01,529
+of facts about judy
+
+1118
+00:50:01,529 --> 00:50:06,919
+schema conroy knowledge is favored in
+memory because the schema provides
+
+1119
+00:50:06,919 --> 00:50:11,319
+additional q information at the time of
+retrieval
+
+1120
+00:50:11,319 --> 00:50:16,489
+schema in congruent behaviors get a
+different advantage in memory scheming
+
+1121
+00:50:16,489 --> 00:50:21,649
+in congruent behaviors get advantage in
+memory precisely because they are
+
+1122
+00:50:21,649 --> 00:50:23,719
+surprising and unexpected
+
+1123
+00:50:23,719 --> 00:50:28,399
+and when you encounter something that's
+surprising an unexpected you think about
+
+1124
+00:50:28,399 --> 00:50:30,180
+you try to explain it
+
+1125
+00:50:30,180 --> 00:50:34,999
+why would somebody as smart as judy be
+confused by the daytime television show
+
+1126
+00:50:34,999 --> 00:50:38,759
+well maybe she was thinking about to all
+of the nobel prize she was going to get
+
+1127
+00:50:38,759 --> 00:50:43,799
+tore law manish focusing on proving
+formats last their arm or something like
+
+1128
+00:50:43,799 --> 00:50:45,159
+that
+
+1129
+00:50:45,159 --> 00:50:51,259
+the explanation provides more
+opportunity to wall operate the event in
+
+1130
+00:50:51,259 --> 00:50:56,709
+memory provides you an opportunity
+moored to process at a bit more deeply
+
+1131
+00:50:56,709 --> 00:51:02,219
+steamer content promotion gets the
+advantage of retrieval cues schema in
+
+1132
+00:51:02,219 --> 00:51:06,869
+congruent information gets an advantage
+from elaboration schema irrelevant
+
+1133
+00:51:06,869 --> 00:51:12,929
+information gets another advantage
+schema irrelevant thought information is
+
+1134
+00:51:12,929 --> 00:51:14,679
+poorly remembered
+
+1135
+00:51:14,679 --> 00:51:15,939
+thank you very much
+
+1136
+00:51:15,939 --> 00:51:18,359
+at a good weekend will finish this up on
+monday
+
