@@ -27,6 +27,15 @@ class ApiV1Controller < ApplicationController
     respond_to :json
   end
   
+  def get_lesson_details
+    chapters = []
+    params[:ids].split('+').each do |id|
+      chapter = Chapter.find(id)
+      chapters << {:id => chapter.id, :name => chapter.name}
+    end
+    render :json => chapters
+  end
+
   def get_all_questions
     @chapter = Chapter.find(params[:id])
     @questions = @chapter.questions.includes(:answers, :resources).sort!{|a, b| a.created_at <=> b.created_at}
