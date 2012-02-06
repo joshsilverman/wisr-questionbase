@@ -13,7 +13,7 @@ class AddMetadataToQuestionsAndAnswers < ActiveRecord::Migration
     # remove_column :questions, :incorrect_answer2
     # remove_column :questions, :incorrect_answer3
 
-    add_column :answers, :feedback, :string 
+    add_column :answers, :feedback, :text 
     
     add_column :resources, :table, :text
     add_column :resources, :required, :boolean
