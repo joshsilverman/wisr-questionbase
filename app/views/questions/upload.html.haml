@@ -4,10 +4,18 @@
   %table
     %tr
       %td
-        %label{:for => "dump_file"}
+        %label{:for => "dump_file1"}
           Select a file :
       %td
-        = f.file_field :file
+        = f.file_field :file1
+
+    / %tr
+    /   %td
+    /     %label{:for => "dump_file1"}
+    /       Select questionDB file :
+    /   %td
+    /     = f.file_field :file2
+                
     %tr
       %td
         %label

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111230171646) do
+ActiveRecord::Schema.define(:version => 20120202160748) do
 
   create_table "answers", :force => true do |t|
     t.integer  "question_id"
@@ -19,6 +19,7 @@ ActiveRecord::Schema.define(:version => 20111230171646) do
     t.boolean  "correct"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "feedback"
   end
 
   create_table "books", :force => true do |t|
@@ -40,17 +41,21 @@ ActiveRecord::Schema.define(:version => 20111230171646) do
   end
 
   create_table "questions", :force => true do |t|
-    t.text     "question",          :limit => 255
+    t.text     "question",        :limit => 255
     t.string   "topic"
-    t.string   "correct_answer"
-    t.string   "incorrect_answer1"
-    t.string   "incorrect_answer2"
-    t.string   "incorrect_answer3"
     t.integer  "user_id"
     t.integer  "chapter_id"
     t.integer  "score"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "rationale"
+    t.string   "difficulty"
+    t.string   "reference"
+    t.string   "keywords"
+    t.string   "objective"
+    t.string   "state_objective"
+    t.string   "state"
+    t.string   "question_type"
   end
 
   create_table "resources", :force => true do |t|
@@ -63,6 +68,8 @@ ActiveRecord::Schema.define(:version => 20111230171646) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.text     "article_text"
+    t.text     "table"
+    t.boolean  "required"
   end
 
 end
