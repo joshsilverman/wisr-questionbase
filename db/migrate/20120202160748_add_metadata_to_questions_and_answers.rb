@@ -1,10 +1,10 @@
 class AddMetadataToQuestionsAndAnswers < ActiveRecord::Migration
   def change
-    add_column :questions, :rationale, :string
+    add_column :questions, :rationale, :text
     add_column :questions, :difficulty, :string
     add_column :questions, :reference, :string
     add_column :questions, :keywords, :string
-    add_column :questions, :objective, :string
+    add_column :questions, :objective, :text
     add_column :questions, :state_objective, :string
     add_column :questions, :state, :string
     add_column :questions, :question_type, :string
