@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120207191625) do
+ActiveRecord::Schema.define(:version => 20120207204100) do
 
   create_table "answers", :force => true do |t|
     t.integer  "question_id"
@@ -62,7 +62,6 @@ ActiveRecord::Schema.define(:version => 20120207191625) do
     t.string   "rationale"
     t.string   "difficulty"
     t.string   "reference"
-    t.string   "words"
     t.string   "objective"
     t.string   "state_objective"
     t.string   "state"
