@@ -40,6 +40,17 @@ ActiveRecord::Schema.define(:version => 20120207191625) do
     t.datetime "updated_at"
   end
 
+  create_table "keywords", :force => true do |t|
+    t.string   "keyword"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "keywords_questions", :id => false, :force => true do |t|
+    t.integer "keyword_id"
+    t.integer "question_id"
+  end
+
   create_table "questions", :force => true do |t|
     t.text     "question",        :limit => 255
     t.string   "topic"
@@ -58,11 +69,6 @@ ActiveRecord::Schema.define(:version => 20120207191625) do
     t.string   "question_type"
   end
 
-  create_table "questions_topics", :id => false, :force => true do |t|
-    t.integer "question_id"
-    t.integer "topic_id"
-  end
-
   create_table "resources", :force => true do |t|
     t.integer  "question_id"
     t.text     "url",             :limit => 255
@@ -75,12 +81,6 @@ ActiveRecord::Schema.define(:version => 20120207191625) do
     t.text     "article_text"
     t.text     "table"
     t.boolean  "required"
-  end
-
-  create_table "topics", :force => true do |t|
-    t.string   "topic"
-    t.datetime "created_at"
-    t.datetime "updated_at"
   end
 
 end
