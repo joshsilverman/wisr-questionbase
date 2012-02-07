@@ -119,7 +119,6 @@ class QuestionsController < ApplicationController
   def examview_parser   
     
     # MANUALLY ADD CAPTIONS FOR 39
-    # REMOVE PARA TAGS IN QUESTION CONTENT
     # BLOOD SUGAR LEVELS SA QUESTION, SA054 => SA004
     # NON NARRATIVE SUPPLEMENTAL TABLES
     
