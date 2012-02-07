@@ -62,7 +62,7 @@ ActiveRecord::Schema.define(:version => 20120207191625) do
     t.string   "rationale"
     t.string   "difficulty"
     t.string   "reference"
-    t.string   "keywords"
+    t.string   "words"
     t.string   "objective"
     t.string   "state_objective"
     t.string   "state"

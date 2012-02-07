@@ -1,5 +1,7 @@
 class CreateKeywords < ActiveRecord::Migration
   def change
+    rename_column :questions, :keywords, :words
+
     create_table :keywords do |t|
       t.string :keyword
       t.timestamps
