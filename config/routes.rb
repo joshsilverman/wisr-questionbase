@@ -41,6 +41,7 @@ OauthClientDemo::Application.routes.draw do
   match "api-V1/get_lesson_questions/:ids" => "api_v1#get_questions"
   match "api-V1/get_public" => "api_v1#get_public"
   match "api-V1/get_lesson_details/:ids" => "api_v1#get_lesson_details"
+  match "api-V1/get_questions_topics/:question_ids" => "api_v1#get_questions_topics"
   
   root :to => "static#home"
 end

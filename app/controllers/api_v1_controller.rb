@@ -55,6 +55,29 @@ class ApiV1Controller < ApplicationController
     respond_to :json
   end
   
+  def get_questions_topics
+    question_ids = params[:question_ids].split('+')
+    keywords = []
+    question_ids.each do |id|
+      question = Question.find(id)
+      question.keywords.each do |keyword|
+        keywords << keyword if !keywords.include? keyword
+      end
+    end
+    tq = []
+    keywords.each do |keyword|
+      kq = []
+      keyword.questions.each do |question|
+        if question_ids.include? question.id.to_s
+          kq << question.id
+        end
+      end
+      tq << {:keyword => keyword.keyword, :questions => kq}
+    end
+    # puts tq
+    render :json => tq
+  end
+
   def get_public
     @book = @books = Book.where(:public => true)
     respond_to :json
