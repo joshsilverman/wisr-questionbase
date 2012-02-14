@@ -16,8 +16,10 @@
                .activity_right_column  
                     .question_media_box
                          = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
-                    .answer_media_box             
-                         = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"                       
+                    #answer_resource_1{:class => "answer_media_box"}
+                         = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview"
+                    #answer_resource_2{:class => "answer_media_box"}
+                         = image_tag "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg", :class => "media_preview" 
                          %br
      %div{:id => "answer"}
           .indicator

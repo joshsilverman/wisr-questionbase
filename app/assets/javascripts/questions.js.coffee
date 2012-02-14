@@ -1,3 +1,6 @@
+## Delete resource not working
+## One existing answer resource
+
 class Builder
 	constructor: -> 
 		$("#tabs").tabs()
@@ -12,7 +15,7 @@ class Question
 	dom_group: null # Stores the div w/ the question area + add answer button
 	activity_content: null
 	question_media: null
-	answer_media: null
+	answer_media: []
 	constructor: (dom_group) ->
 		@answers = []
 		if dom_group # Initializing existing question
@@ -27,28 +30,34 @@ class Question
 							url: $(question_resource).find("img")[0].getAttribute "src"
 							contains_answer: false
 							id: $(question_resource).find("img")[0].getAttribute "resource_id"
-					@question_media = new Resource resource, this
-				$(question_resource).on "click", (e) => 
-					if $(e.srcElement).is("img") then window.media.addMedia @, false, @question_media
-			for answer_resource in $(@dom_group).find(".answer_media_box")
+					@question_media = new Resource resource, this, question_resource
+				## Add Media
+				$(question_resource).on "click", (e) => window.media.addMedia(@, @question_media, e.srcElement, false) if $(e.srcElement).is "img"
+			for answer_resource in $(@dom_group).find(".answer_media_box")	
 				if $(answer_resource).find("img").attr("resource_id")
 					resource =
 						"resource" :
 							url: $(answer_resource).find("img")[0].getAttribute "src"
 							contains_answer: true
 							id: $(answer_resource).find("img")[0].getAttribute "resource_id"
-					@answer_media = new Resource resource, this	
-				$(answer_resource).on "click", (e) => 
-					if $(e.srcElement).is("img") then window.media.addMedia @, true, @answer_media
+					@answer_media.push new Resource resource, this, answer_resource		
+				
+				## Add Media
+				$(answer_resource).on "click", (e) =>
+					return unless $(e.srcElement).is "img"
+					resource_ids = (resource.resource_id for resource in @answer_media)
+					window.media.addMedia @, @answer_media[resource_ids.indexOf($(e.srcElement).attr("resource_id"))], e.srcElement, true
 		else # Creating new question
 			@dom_group = $($('#activity_group')[0]).clone().removeAttr("id").attr("class", "activity_group")
 			@dom_group.appendTo $('#activities')[0]
 			question_resource = $(@dom_group).find(".question_media_box")
 			answer_resource = $(@dom_group).find(".answer_media_box").hide()
 			question_resource.hide()
-			question_resource.on "click", () => window.media.addMedia @, false, @answer_media
+			question_resource.on "click", (e) => 
+				window.media.addMedia @, null, e.srcElement, false
 			answer_resource.hide()
-			answer_resource.on "click", () => window.media.addMedia @, true, @answer_media
+			answer_resource.on "click", (e) => 
+				window.media.addMedia @, null, e.srcElement, true
 			@dom_group.find(".activity_content").toggle 400, () => 
 				$('html, body').animate({scrollTop: $(document).height() - $(window).height()}, 600)
 				@dom_group.find(".question_area").focus()
@@ -134,13 +143,15 @@ class Answer
 
 class Resource
 	url: null
+	element: null
 	contains_answer: null
 	resource_id: null
 	question: null # Stores the parent question object
 	media_type: null
 	start: null
 	end: null
-	constructor: (resource, question) -> 
+	constructor: (resource, question, element) -> 
+		@element = element
 		@contains_answer = resource["resource"]["contains_answer"]
 		@resource_id = resource["resource"]["id"]
 		@url = resource["resource"]["url"]
@@ -148,21 +159,20 @@ class Resource
 		@begin = resource["resource"]["begin"]	
 		@end = resource["resource"]["end"]		
 		@question = question
-		$(question.dom_group).find("#delete_resource_" + @resource_id).on "click", (event) => 
-				event.preventDefault()
-				window.media.confirm("resource", @delete)
+		$(question.dom_group).find("#delete_resource_" + @resource_id).on "click", (event) =>
+			event.preventDefault()
+			window.media.confirm("resource", @delete)
 		if resource["resource"]["article_text"] then @article_text = resource["resource"]["article_text"] else @article_text = null
 	save: () =>
 		[submit_url, method] = if @resource_id then ["/resources/" + @resource_id, "PUT"] else ["/resources", "POST"]	
-		resource_data = 
-			"resource" :
-				url: @url
-				contains_answer: @contains_answer
-				question_id: @question.question_id
-				media_type: @media_type
-				begin: @begin
-				end: @end
-				article_text: @article_text
+		resource_data = "resource" : {}
+		resource_data.resource["url"] = @url if @url
+		resource_data.resource["contains_answer"] = @contains_answer if @contains_answer != null
+		resource_data.resource["question_id"] = @question.question_id if @question.question_id != null
+		resource_data.resource["media_type"] = @media_type if @media_type != null
+		resource_data.resource["begin"] = @begin if @begin != null
+		resource_data.resource["end"] = @end if @end != null
+		resource_data.resource["article_text"] = @article_text if @article_text != null
 		$.ajax
 			url: submit_url
 			type: method
@@ -211,7 +221,6 @@ class MediaController
 				$("#video_start_input_second")[0].value = ""
 				$("#video_end_input_minute")[0].value = ""
 				$("#video_end_input_second")[0].value = ""
-				# media.createVideoSlider(video_id)
 		$("#image_link_input").on "keyup", (e) =>
 			if e.which == 13 then @imageSearch.execute($("#image_link_input")[0].value)
 			else if $("#image_link_input")[0].value.match(/(^|\s)((https?:\/\/)?[\w-]+(\.[\w-]+)+\.?(:\d+)?(\/\S*)?)/gi)
@@ -234,13 +243,19 @@ class MediaController
 			success: (text) => 
 				$("#article_preview_field").html text
 				$("#article_preview_field")[0].scrollTop = 0
-	addMedia: (question, contains_answer, resource) =>
+	addMedia: (question, resource, element, contains_answer) =>
 		if resource
 			$.ajax
 				url: "/resources/" + resource.resource_id + ".json"
 				type: "GET"
-				success: (resource_data) => @showMediaModal question, contains_answer, resource, resource_data
-		else @showMediaModal question, contains_answer, resource
+				success: (data) => 
+					resource.media_type = data.media_type
+					resource.begin = data.begin
+					resource.end = data.end
+					resource.article_text = data.article_text
+					resource.url = data.url
+					@showMediaModal question, resource, element, contains_answer
+		else @showMediaModal question, resource, element, contains_answer
 	confirm: (context, callback) =>
 		$("#dialog-confirm").dialog({
 			resizable: false
@@ -259,32 +274,30 @@ class MediaController
 			height: 180
 		})
 		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')
-	showMediaModal: (question, contains_answer, resource, resource_data) =>
-		# window.media.tabbedDialog($("#tabs"))
+	showMediaModal: (question, resource, element, contains_answer) =>
 		media = @
-		if resource_data
-			switch resource_data.media_type
+		if resource
+			switch resource.media_type
 				when "text"
-					$("#article_link_input")[0].value = resource_data.url
-					$("#article_preview_field").html resource_data.article_text					
+					$("#article_link_input")[0].value = resource.url
+					$("#article_preview_field").html resource.article_text					
 					$($("#media-dialog").find("#tabs")).tabs({selected:1})
 				when "image"
-					$("#image_link_input")[0].value = resource_data.url
+					$("#image_link_input")[0].value = resource.url
 					$($("#media-dialog").find("#tabs")).tabs({selected:0})
-					$("#image_search_preview")[0].src = resource_data.url
+					$("#image_search_preview")[0].src = resource.url
 				when "video" 
-					$("#video_link_input")[0].value = "http://www.youtube.com/watch?v=#{resource_data.url}&t=0m#{resource_data.begin}s"
-					start_seconds = (resource_data.begin % 60)
-					end_seconds = (resource_data.end % 60)
+					$("#video_link_input")[0].value = "http://www.youtube.com/watch?v=#{resource.url}&t=0m#{resource.begin}s"
+					start_seconds = (resource.begin % 60)
+					end_seconds = (resource.end % 60)
 					start_seconds = '0' + start_seconds if start_seconds < 10
 					end_seconds = '0' + end_seconds if end_seconds < 10
-					$("#video_start_input_minute")[0].value = Math.floor(resource_data.begin / 60)
+					$("#video_start_input_minute")[0].value = Math.floor(resource.begin / 60)
 					$("#video_start_input_second")[0].value = start_seconds				
-					$("#video_end_input_minute")[0].value = Math.floor(resource_data.end / 60)	
+					$("#video_end_input_minute")[0].value = Math.floor(resource.end / 60)	
 					$("#video_end_input_second")[0].value = end_seconds
 					$($("#media-dialog").find("#tabs")).tabs({selected:2})
-					$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{resource_data.url}&start=#{resource_data.begin}" 
-					# media.createVideoSlider(resource_data.url, resource_data.begin, resource_data.end)
+					$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{resource.url}&start=#{resource.begin}" 
 		$("#media-dialog").dialog({
 			title: "Add Media"
 			buttons: 
@@ -321,9 +334,7 @@ class MediaController
 					media.clearModalFields()
 										
 					# Set preview image.
-					question_preview = $($(question.dom_group).find(".question_media_box").find("img")[0])
-					answer_preview = $($(question.dom_group).find(".answer_media_box").find("img")[0])
-					if contains_answer then answer_preview.attr "src", preview else question_preview.attr "src", preview
+					$(element).attr "src", preview
 
 					# Create/update resource.
 					if resource
@@ -342,9 +353,9 @@ class MediaController
 	                            begin: begin
 	                            end: end
 	                            article_text: article_text
-	                    new_resource = new Resource resource, question
+	                    new_resource = new Resource resource, question, element
 	                    new_resource.save()
-	                    if contains_answer then question.answer_media = new_resource else question.question_media = new_resource       
+	                    if contains_answer then question.answer_media << new_resource else question.question_media = new_resource       
 			closeOnEscape: true
 			draggable: true
 			resizable: false
@@ -367,34 +378,7 @@ class MediaController
 		$("#image_search_preview").attr "src", null	
 		$("#search_preview")[0].innerHTML = ""	
 		$("#video_search_results")[0].innerHTML = ""
-		# $("#slider").hide()
-	parseYouTubeID: (url) => String(url.match("[?]v=[A-Za-z0-9_-]*")).split("=")[1]
-	# createVideoSlider: (id, begin, end) =>
-	# 	$.ajax
-	# 		url: "https://gdata.youtube.com/feeds/api/videos/#{id}?v=2&alt=jsonc"
-	# 		type: "GET"
-	# 		success: (e) =>
-	# 			if !begin then begin = 0
-	# 			if !end then end = e.data.duration				
-	# 			$("#slider").show()
-	# 			$("#slider").slider({
-	# 				range: true
-	# 				values: [begin, end]
-	# 				min: 0
-	# 				max: e.data.duration
-	# 				step: 1
-	# 				slide: (e, ui) ->
-	# 					start_minutes = Math.floor(ui.values[0] / 60)
-	# 					start_seconds = ui.values[0] - (start_minutes * 60)
-	# 					end_minutes = Math.floor(ui.values[1] / 60)
-	# 					end_seconds = ui.values[1] - (end_minutes * 60)
-	# 					if start_seconds < 10 then start_seconds = '0' + start_seconds
-	# 					if end_seconds < 10 then end_seconds = '0' + end_seconds
-	# 					$("#video_start_input_minute")[0].value = start_minutes
-	# 					$("#video_start_input_second")[0].value = start_seconds
-	# 					$("#video_end_input_minute")[0].value = end_minutes
-	# 					$("#video_end_input_second")[0].value = end_seconds
-	# 			})		
+	parseYouTubeID: (url) => String(url.match("[?]v=[A-Za-z0-9_-]*")).split("=")[1]	
 	imageSearchComplete: () =>
 		$("#search_preview")[0].innerHTML = ""
 		for result in @imageSearch.results
@@ -431,25 +415,7 @@ class MediaController
 						$("#video_start_input_minute")[0].value = start_minutes
 						$("#video_start_input_second")[0].value = start_seconds
 					element.appendTo $("#video_search_results")
-	# tabbedDialog: (element) =>
-	# 	element.tabs()
-	# 	element.dialog({
-	# 		'modal' : true
-	# 		'minWidth' : 400
-	# 		'minHeight' : 300
-	# 		'draggable' : true
-	# 	})
-	# 	element.find('.ui-tab-dialog-close').append($('a.ui-dialog-titlebar-close'))
-	# 	element.find('.ui-tab-dialog-close').css({
-	# 		'position':'absolute'
-	# 		'right':'0'
-	# 		'top':'23px'
-	# 	})
-	# 	element.find('.ui-tab-dialog-close > a').css({'float':'none','padding':'0'})
-	# 	tabul = element.find('ul:first')
-	# 	element.parent().addClass('ui-tabs').prepend(tabul).draggable('option','handle',tabul);
-	# 	element.siblings('.ui-dialog-titlebar').remove()
-	# 	tabul.addClass('ui-dialog-titlebar')
+
 
 
 class Controller

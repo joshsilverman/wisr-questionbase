@@ -75,11 +75,13 @@ class QuestionsController < ApplicationController
   # DELETE /questions/1.xml
   def destroy
     @question = Question.find(params[:id])
-    @question.destroy
-    respond_to do |format|
-      format.html { redirect_to(Chapter.find_by_id(@question.chapter_id)) }
-      format.xml  { head :ok }
-    end
+    puts @question.to_json
+    @question.delete
+    render :nothing => true
+    # respond_to do |format|
+    #   format.html { redirect_to(Chapter.find_by_id(@question.chapter_id)) }
+    #   format.xml  { head :ok }
+    # end
   end
 
   def get_permission

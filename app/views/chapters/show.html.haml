@@ -11,7 +11,7 @@
                %br
                .activity_content{:id => "activity_content_" + question.id.to_s}
                     .activity_left_column
-                         = render :partial => "answers", :locals => {:question => question}           
+                         = render :partial => "answers", :locals => {:question => question}
                     .activity_right_column
                          = render :partial => "media", :locals => {:question => question}
 

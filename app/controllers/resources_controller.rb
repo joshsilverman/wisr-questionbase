@@ -56,6 +56,7 @@ class ResourcesController < ApplicationController
   # PUT /resources/1
   # PUT /resources/1.json
   def update
+    puts params.to_json
     @resource = Resource.find(params[:id])
     @resource.update_attributes(params[:resource])
     render :json => @resource.id
