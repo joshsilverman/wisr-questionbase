@@ -1,17 +1,16 @@
 task :collapse_types => :environment do
   Book.all.each do |book|
-    puts "\n\nBook: #{book.to_json}"
-    book.chapters.each do |chapter|
-      puts "\nInspecting chapter: #{chapter.to_json}..."
-      if chapter.name =~ /\(T\/F\)/
-        new_id = Chapter.find_by_name(chapter.name.gsub("(T/F)", "(MC)")).id
-        puts "Changing chapter questions to: #{Chapter.find(new_id).to_json}"
-        chapter.questions.each do |question|
-          question.chapter_id = new_id
-          # puts "\nupdate question"
-          # puts question.to_json
-          # puts "\n\n"
-          # question.save
+    puts "\n\nBOOK: #{book.to_json}"
+    chapters = book.chapters
+    chapters.each do |chapter|
+      if chapter.name
+        if chapter.name =~ /\(T\/F\)/
+          name = chapter.name.gsub("(T/F)", "(MC)").strip
+          new_id = (chapters.select {|c| c.name.include? name}).first.id
+          chapter.questions.each do |question|
+            question.chapter_id = new_id
+            question.save
+          end
         end
       end
     end    
@@ -24,6 +23,6 @@ task :clear_collapsed_chapters => :environment do
     puts "\ndelete chapter:"
     puts chapter.to_json
     puts "\n\n"
-    # chapter.delete
+    chapter.delete
   end
 end
