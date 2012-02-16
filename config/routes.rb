@@ -6,12 +6,6 @@ OauthClientDemo::Application.routes.draw do
 
   # Custom logout
   match '/logout', :to => 'user_sessions#destroy'
-  
-  resources :resources
-  resources :answers
-  resources :books
-  resources :chapters
-  resources :questions
 
   #QUESTIONS
   match "questions/save_question" => "questions#save_question", :as => :save_question_path
@@ -23,6 +17,12 @@ OauthClientDemo::Application.routes.draw do
   match "parse_article" => "resources#parse_article"
   match "search_videos" => "resources#search_videos"
   
+  #KEYWORDS
+  match "keywords/get_matching_keywords" => "keywords#get_matching_keywords"
+  match "keywords/add_keyword" => "keywords#add_keyword"
+  match "keywords/get_keywords" => "keywords#get_keywords"
+  match "keywords/remove_keyword" => "keywords#remove_keyword"
+
   #EXPORT
   match "chapters/:id/export" => "chapters#export_to_csv"  
 
@@ -42,6 +42,13 @@ OauthClientDemo::Application.routes.draw do
   match "api-V1/get_public" => "api_v1#get_public"
   match "api-V1/get_lesson_details/:ids" => "api_v1#get_lesson_details"
   match "api-V1/get_questions_topics/:question_ids" => "api_v1#get_questions_topics"
-  
+
+  resources :keywords
+  resources :resources
+  resources :answers
+  resources :books
+  resources :chapters
+  resources :questions
+   
   root :to => "static#home"
 end

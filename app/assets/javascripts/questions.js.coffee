@@ -16,8 +16,10 @@ class Question
 	activity_content: null
 	question_media: null
 	answer_media: []
+	keywords: []
 	constructor: (dom_group) ->
 		@answers = []
+		@keywords = []
 		if dom_group # Initializing existing question
 			@dom_group = $(dom_group)
 			@question_id = $(@dom_group[0]).find($("textarea"))[0].getAttribute "question_id"
@@ -46,7 +48,6 @@ class Question
 					return unless $(e.srcElement).is "img"
 					resource_ids = (resource.resource_id for resource in @answer_media)
 					window.media.addMedia @, @answer_media[resource_ids.indexOf($(e.srcElement).attr("resource_id"))], e.srcElement, true
-			console.log @dom_group.find(".keyword_field")
 		else # Creating new question
 			@dom_group = $($('#activity_group')[0]).clone().removeAttr("id").attr("class", "activity_group")
 			@dom_group.appendTo $('#activities')[0]
@@ -81,6 +82,11 @@ class Question
 			$(@dom_group).find(".question_media_box").fadeIn 600
 		@dom_group.find(".question_group").on "change", @save
 		@dom_group.find($('.add_answer')).on "click", () => @answers.push new Answer this if @answers.length < 4
+		@getKeywords()
+		console.log @dom_group.find(".keyword_field")
+		# @dom_group.find(".keyword_field").on "keydown", (e) => console.log e
+			# if e.keyCode == 9 and @question.answers.length == 4 and $(@dom_element).next(".answer").length < 1
+			# 	new Question			
 	save: (event) =>
 		[submit_url, method] = if @question_id then ["/questions/" + @question_id, "PUT"] else ["/questions", "POST"]
 		question_data = 
@@ -97,6 +103,37 @@ class Question
 		$.ajax
 			url: "/questions/" + @question_id
 			type: "DELETE"	
+	getKeywords: () =>
+		params = "question_id": @question_id
+		$.ajax
+			url: "/keywords/get_keywords"
+			type: "POST"
+			data: params
+			success: (keywords) => 
+				@populateKeywords(keywords)
+				for keyword in keywords
+					@keywords.push new Keyword keyword, @, @dom_group.find(".keyword_field")
+	populateKeywords: (keywords) =>
+		@dom_group.find(".keyword_field").tokenInput("/keywords/get_matching_keywords", {
+			theme: "facebook",
+			onAdd: (e) => @addKeyword(e, @),
+			onDelete: (e) => @removeKeyword(e, @)
+			prePopulate: keywords,
+			hintText: "Add a topic or select from existing"
+		})			
+	addKeyword: (keyword, question) =>
+		new_keyword = new Keyword keyword, question, @dom_group.find(".keyword_field")
+		@keywords.push new_keyword
+		new_keyword.add()
+	removeKeyword: (keyword, question) =>
+		params = {}
+		params.question_id = @question_id
+		params.keyword_id = keyword.id if keyword.id
+		params.keyword_text = keyword.name if keyword.name
+		$.ajax
+			url: "/keywords/remove_keyword"
+			type: "POST"
+			data: params
 		
 
 class Answer
@@ -124,8 +161,6 @@ class Answer
 				@question.answers.push new Answer @question
 				@save
 				@question.save
-			else if e.keyCode == 9 and @question.answers.length == 4 and $(@dom_element).next(".answer").length < 1
-				new Question
 			$(@question.dom_group).find(".answer_media_box").fadeIn 600	
 	save: (event) =>
 		[submit_url, method] = if @answer_id then ["/answers/" + @answer_id, "PUT"] else ["/answers", "POST"]
@@ -188,6 +223,31 @@ class Resource
 		$.ajax
 			url: "/resources/" + id + ".json"
 			type: "GET"
+
+
+class Keyword
+	text: null
+	id: null
+	question: null
+	element: null
+	constructor: (keyword, question, element) ->
+		@question = question
+		@text = keyword.name
+		@id = keyword.id
+		@element = element	
+	add: () =>
+		params = {}
+		params.text = @text
+		params.question_id = @question.question_id
+		params.id = @id if @id
+		$.ajax
+			url: "/keywords/add_keyword"
+			type: "POST"
+			data: params
+			success: (e) => 
+				@id = e
+	delete: () => 
+		console.log "delete"
 
 
 class MediaController

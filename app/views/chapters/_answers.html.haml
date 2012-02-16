@@ -19,4 +19,4 @@
                          = text_field nil, nil, :answer_id => incorrect_answer.id, :question_id => question.id, :value => incorrect_answer.answer, :placeholder => "Answer", :correct => 0, :class => "answer_field"
      
      .add_answer Add Answer   
-     = text_field nil, nil, :placeholder => "Topics", :class => "keyword_field"
+     = text_field nil, nil, :placeholder => "Topics", :class => "keyword_field", :id => "topic_field_#{question.id}"
