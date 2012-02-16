@@ -40,13 +40,13 @@ class Question
 							url: $(answer_resource).find("img")[0].getAttribute "src"
 							contains_answer: true
 							id: $(answer_resource).find("img")[0].getAttribute "resource_id"
-					@answer_media.push new Resource resource, this, answer_resource		
-				
+					@answer_media.push new Resource resource, this, answer_resource
 				## Add Media
 				$(answer_resource).on "click", (e) =>
 					return unless $(e.srcElement).is "img"
 					resource_ids = (resource.resource_id for resource in @answer_media)
 					window.media.addMedia @, @answer_media[resource_ids.indexOf($(e.srcElement).attr("resource_id"))], e.srcElement, true
+			console.log @dom_group.find(".keyword_field")
 		else # Creating new question
 			@dom_group = $($('#activity_group')[0]).clone().removeAttr("id").attr("class", "activity_group")
 			@dom_group.appendTo $('#activities')[0]

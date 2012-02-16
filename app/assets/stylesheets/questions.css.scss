@@ -92,7 +92,6 @@
 }
 
 
-
 .answer_field {
     display: inline;
     height: 45px;
@@ -101,6 +100,16 @@
     margin: 8px 0px 8px 0px;
     font-size: 18px;
     background-color: #F7F7F7;    
+}
+
+.keyword_field {
+    display: inline;
+    height: 35px;
+    width: 90%;
+    float: right;
+    margin: 8px 0px 8px 0px;
+    font-size: 16px;
+    background-color: #F7F7F7;      
 }
 
 .resource_field {
