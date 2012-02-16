@@ -53,6 +53,7 @@ GEM
     haml (3.1.4)
     hashie (1.2.0)
     hike (1.2.1)
+    hirb (0.6.0)
     httparty (0.8.1)
       multi_json
       multi_xml
@@ -152,6 +153,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails
   haml
+  hirb
   httparty
   jquery-rails
   nokogiri
