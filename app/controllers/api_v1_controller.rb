@@ -37,15 +37,16 @@ class ApiV1Controller < ApplicationController
   end
 
   def get_all_questions
-    @chapter = Chapter.find(params[:id])
-    @questions = @chapter.questions.includes(:answers, :resources).sort!{|a, b| a.created_at <=> b.created_at}
-#    json = @questions.to_json \
-#      :only => [:id, :question],
-#      :include => {
-#        :answers => {:only => [:id, :answer, :correct]},
-#        :resources => {:only => [:url, :contains_answer, :media_type, :begin, :end, :article_text]}
-#      }
-#    render :json => json
+    @questions = Chapter.find(params[:id]).questions.includes(:answers, :resources).sort!{|a, b| a.created_at <=> b.created_at}
+    # puts @questions.to_json
+    # json = @questions.to_json \
+    #   :only => [:id, :question],
+    #   :include => {
+    #   :answers => {:only => [:id, :answer, :correct]},
+    #   :resources => {:only => [:url, :contains_answer, :media_type, :begin, :end, :article_text]}
+    # }
+    # puts json
+    # render :json => json
     respond_to :json
   end
 
@@ -55,6 +56,10 @@ class ApiV1Controller < ApplicationController
     respond_to :json
   end
   
+  def get_question_count
+    render :json => Chapter.find(params[:chapter_id]).questions.count
+  end
+
   def get_questions_topics
     question_ids = params[:question_ids].split('+')
     keywords = []
@@ -74,7 +79,6 @@ class ApiV1Controller < ApplicationController
       end
       tq << {:keyword => keyword.keyword, :questions => kq}
     end
-    # puts tq
     render :json => tq
   end
 
