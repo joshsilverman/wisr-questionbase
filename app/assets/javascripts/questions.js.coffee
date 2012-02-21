@@ -53,6 +53,7 @@ class Question
 			@dom_group.appendTo $('#activities')[0]
 			question_resource = $(@dom_group).find(".question_media_box")
 			answer_resource = $(@dom_group).find(".answer_media_box").hide()
+			keyword_field = $(@dom_group).find(".keyword_field").hide()
 			question_resource.hide()
 			question_resource.on "click", (e) => 
 				window.media.addMedia @, null, e.srcElement, false
@@ -80,10 +81,11 @@ class Question
 				@answers.push new Answer this
 				@save
 			$(@dom_group).find(".question_media_box").fadeIn 600
+			$(@dom_group).find(".token-input-list-facebook").fadeIn 600				
 		@dom_group.find(".question_group").on "change", @save
 		@dom_group.find($('.add_answer')).on "click", () => @answers.push new Answer this if @answers.length < 4
 		@getKeywords()
-		console.log @dom_group.find(".keyword_field")
+		$(@dom_group).find(".token-input-list-facebook").hide()
 		# @dom_group.find(".keyword_field").on "keydown", (e) => console.log e
 			# if e.keyCode == 9 and @question.answers.length == 4 and $(@dom_element).next(".answer").length < 1
 			# 	new Question			
@@ -104,15 +106,18 @@ class Question
 			url: "/questions/" + @question_id
 			type: "DELETE"	
 	getKeywords: () =>
-		params = "question_id": @question_id
-		$.ajax
-			url: "/keywords/get_keywords"
-			type: "POST"
-			data: params
-			success: (keywords) => 
-				@populateKeywords(keywords)
-				for keyword in keywords
-					@keywords.push new Keyword keyword, @, @dom_group.find(".keyword_field")
+		if @question_id
+			params = "question_id": @question_id
+			$.ajax
+				url: "/keywords/get_keywords"
+				type: "POST"
+				data: params
+				success: (keywords) => 
+					@populateKeywords(keywords)
+					for keyword in keywords
+						@keywords.push new Keyword keyword, @, @dom_group.find(".keyword_field")
+		else
+			@populateKeywords(null)
 	populateKeywords: (keywords) =>
 		@dom_group.find(".keyword_field").tokenInput("/keywords/get_matching_keywords", {
 			theme: "facebook",
