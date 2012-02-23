@@ -128,16 +128,19 @@ class Question
 			@populateKeywords(null)
 	populateKeywords: (keywords) =>
 		@dom_group.find(".keyword_field").tokenInput("/keywords/get_matching_keywords", {
-			theme: "facebook",
-			onAdd: (e) => @addKeyword(e, @),
+			theme: "facebook"
+			onAdd: (e) => @addKeyword(e, @)
 			onDelete: (e) => @removeKeyword(e, @)
-			prePopulate: keywords,
+			prePopulate: keywords
 			hintText: "Add a topic or select from existing"
-		})			
+		})		
+		if @dom_group.find(".token-input-list-facebook p").length < 1
+			@dom_group.find(".token-input-list-facebook input").attr "placeholder", "Add topic"
 	addKeyword: (keyword, question) =>
 		new_keyword = new Keyword keyword, question, @dom_group.find(".keyword_field")
 		@keywords.push new_keyword
 		new_keyword.add()
+		@dom_group.find(".token-input-list-facebook input").attr "placeholder", ""
 	removeKeyword: (keyword, question) =>
 		params = {}
 		params.question_id = @question_id
@@ -456,7 +459,7 @@ class MediaController
 		$("#image_search_preview").attr "src", null	
 		$("#search_preview")[0].innerHTML = ""	
 		$("#video_search_results")[0].innerHTML = ""
-	parseYouTubeID: (url) => String(url.match("[?]v=[A-Za-z0-9_-]*")).split("=")[1]	
+	parseYouTubeID: (url) => String(url.match("v=[A-Za-z0-9_-]*")).split("=")[1]	
 	imageSearchComplete: () =>
 		$("#search_preview")[0].innerHTML = ""
 		for result in @imageSearch.results
