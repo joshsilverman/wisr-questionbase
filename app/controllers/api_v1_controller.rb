@@ -60,26 +60,38 @@ class ApiV1Controller < ApplicationController
     render :json => Chapter.find(params[:chapter_id]).questions.count
   end
 
-  def get_questions_topics
+  def get_questions_topics(keywords = [], topics_questions = [])
     question_ids = params[:question_ids].split('+')
-    keywords = []
-    question_ids.each do |id|
-      question = Question.find(id)
-      question.keywords.each do |keyword|
-        keywords << keyword if !keywords.include? keyword
-      end
+    Question.find(question_ids, :include => :keywords).each do |question|
+      question.keywords.each {|keyword| keywords << keyword}
     end
-    tq = []
-    keywords.each do |keyword|
-      kq = []
-      keyword.questions.each do |question|
-        if question_ids.include? question.id.to_s
-          kq << question.id
-        end
-      end
-      tq << {:keyword => keyword.keyword, :questions => kq}
+    keywords.uniq!.each do |keyword|
+      keywords_questions = []
+      keyword.questions.each {|question| keywords_questions << question.id if question_ids.include? question.id.to_s }
+      topics_questions << {:keyword => keyword.keyword, :questions => keywords_questions}
     end
-    render :json => tq
+    render :json => topics_questions
+    # questions = Question.select('questions.*', 'keywords.keyword').include(:keywords).where(:id => question_ids)
+    # puts questions.to_json
+    # questions.each do |question|
+    #   puts question.keywords.to_json
+    # end
+    # puts questions.to_json
+    # question_ids.each do |question_id|
+    #   Question.find(question_id)#.keywords.each do |keyword|
+    # #     keywords << keyword if !keywords.include? keyword
+    # #   end
+    # end
+    # keywords.each do |keyword|
+    #   kq = []
+    #   keyword.questions.each do |question|
+    #     if question_ids.include? question.id.to_s
+    #       kq << question.id
+    #     end
+    #   end
+    #   topics_questions << {:keyword => keyword.keyword, :questions => kq}
+    # end
+    # render :json => topics_questions
   end
 
   def get_public
