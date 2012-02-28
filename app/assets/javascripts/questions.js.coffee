@@ -46,20 +46,28 @@ class Question
 				## Add Media
 				$(answer_resource).on "click", (e) =>
 					return unless $(e.srcElement).is "img"
-					resource_ids = (resource.resource_id for resource in @answer_media)
+					resource_ids = (String(resource.resource_id) for resource in @answer_media)
 					window.media.addMedia @, @answer_media[resource_ids.indexOf($(e.srcElement).attr("resource_id"))], e.srcElement, true
 		else # Creating new question
 			@dom_group = $($('#activity_group')[0]).clone().removeAttr("id").attr("class", "activity_group")
 			@dom_group.appendTo $('#activities')[0]
-			question_resource = $(@dom_group).find(".question_media_box")
-			answer_resource = $(@dom_group).find(".answer_media_box").hide()
 			keyword_field = $(@dom_group).find(".keyword_field").hide()
-			question_resource.hide()
+
+			##QUESTION RES
+			question_resource = $(@dom_group).find(".question_media_box").hide()
 			question_resource.on "click", (e) => 
-				window.media.addMedia @, null, e.srcElement, false
-			answer_resource.hide()
-			answer_resource.on "click", (e) => 
-				window.media.addMedia @, null, e.srcElement, true
+				if $(e.srcElement).attr "resource_id"
+					window.media.addMedia @, @question_media, e.srcElement, false
+				else
+					window.media.addMedia @, null, e.srcElement, false
+			answer_resources = $(@dom_group).find(".answer_media_box").hide()
+			for answer_resource in answer_resources
+				$(answer_resource).on "click", (e) => 
+					if $(e.srcElement).attr "resource_id"
+						resource_ids = (String(resource.resource_id) for resource in @answer_media)
+						window.media.addMedia @, @answer_media[resource_ids.indexOf($(e.srcElement).attr("resource_id"))], e.srcElement, true
+					else
+						window.media.addMedia @, null, e.srcElement, true
 			@dom_group.find(".activity_content").toggle 400, () => 
 				$('html, body').animate({scrollTop: $(document).height() - $(window).height()}, 600)
 				@dom_group.find(".question_area").focus()
@@ -120,16 +128,19 @@ class Question
 			@populateKeywords(null)
 	populateKeywords: (keywords) =>
 		@dom_group.find(".keyword_field").tokenInput("/keywords/get_matching_keywords", {
-			theme: "facebook",
-			onAdd: (e) => @addKeyword(e, @),
+			theme: "facebook"
+			onAdd: (e) => @addKeyword(e, @)
 			onDelete: (e) => @removeKeyword(e, @)
-			prePopulate: keywords,
+			prePopulate: keywords
 			hintText: "Add a topic or select from existing"
-		})			
+		})		
+		if @dom_group.find(".token-input-list-facebook p").length < 1
+			@dom_group.find(".token-input-list-facebook input").attr "placeholder", "Add topic"
 	addKeyword: (keyword, question) =>
 		new_keyword = new Keyword keyword, question, @dom_group.find(".keyword_field")
 		@keywords.push new_keyword
 		new_keyword.add()
+		@dom_group.find(".token-input-list-facebook input").attr "placeholder", ""
 	removeKeyword: (keyword, question) =>
 		params = {}
 		params.question_id = @question_id
@@ -217,7 +228,12 @@ class Resource
 			url: submit_url
 			type: method
 			data: resource_data
-			success: (e) => @resource_id = e
+			success: (e) => 
+				@resource_id = e
+				$(@element).attr "id", "media_preview_#{@resource_id}"
+				$(@element).attr "resource_id", @resource_id
+				$(@element).attr "resource_type", @media_type
+				$(@element).attr "resource_url", @url
 	delete: (e) =>
 		$.ajax
 			url: "/resources/" + @resource_id
@@ -410,7 +426,7 @@ class MediaController
 						resource.article_text = article_text
 						resource.save()
 					else
-	                    resource = 
+						resource = 
 	                        "resource":
 	                            url: url
 	                            contains_answer: contains_answer
@@ -420,7 +436,7 @@ class MediaController
 	                            article_text: article_text
 	                    new_resource = new Resource resource, question, element
 	                    new_resource.save()
-	                    if contains_answer then question.answer_media << new_resource else question.question_media = new_resource       
+	                    if contains_answer then question.answer_media.push(new_resource) else question.question_media = new_resource       
 			closeOnEscape: true
 			draggable: true
 			resizable: false
@@ -443,7 +459,7 @@ class MediaController
 		$("#image_search_preview").attr "src", null	
 		$("#search_preview")[0].innerHTML = ""	
 		$("#video_search_results")[0].innerHTML = ""
-	parseYouTubeID: (url) => String(url.match("[?]v=[A-Za-z0-9_-]*")).split("=")[1]	
+	parseYouTubeID: (url) => String(url.match("v=[A-Za-z0-9_-]*")).split("=")[1]	
 	imageSearchComplete: () =>
 		$("#search_preview")[0].innerHTML = ""
 		for result in @imageSearch.results
