@@ -41,7 +41,7 @@ class QuestionsController < ApplicationController
   # POST /questions.xml
   def create
     @question = Question.new(params[:question])
-    @question.user_id = current_user.uid
+    @question.user_id = current_user.id
     render :json => @question.id if @question.save
     # respond_to do |format|
     #   if @question.save     
@@ -85,7 +85,7 @@ class QuestionsController < ApplicationController
   end
 
   def get_permission
-    render :json => Question.find(params[:id]).user_id.to_i == current_user.uid.to_i
+    render :json => Question.find(params[:id]).user_id.to_i == current_user.id.to_i
   end
 
   def save_question
@@ -97,7 +97,7 @@ class QuestionsController < ApplicationController
         :incorrect_answer3 => params[:incorrect_answer3],
         :topic => params[:topic],
         :chapter_id => params[:chapter_id],
-        :user_id => current_user.uid
+        :user_id => current_user.id
       )
     else
       @question = Question.find_by_id(params[:question_id])
@@ -108,7 +108,7 @@ class QuestionsController < ApplicationController
       @question.incorrect_answer3 = params[:incorrect_answer3]
       @question.topic = params[:topic]
       @question.chapter_id = params[:chapter_id]
-      @question.user_id = current_user.uid if @question.user_id.nil?
+      @question.user_id = current_user.id if @question.user_id.nil?
       @question.save
     end
     render :json => @question.id
@@ -148,7 +148,7 @@ class QuestionsController < ApplicationController
       question.state_objective = section.css("state-objective").text  
       question.question_type = section.attribute("type").text
       question.chapter_id = chapter.id
-      question.user_id = current_user.uid
+      question.user_id = current_user.id
       question.save
 
       if question.question_type == "mc" or question.question_type == "bi"
@@ -305,7 +305,7 @@ class QuestionsController < ApplicationController
     #         question = Question.create(
     #           :question => activity.xpath(".//mattext").first.text,
     #           :chapter_id => chapter.id,
-    #           :user_id => current_user.uid
+    #           :user_id => current_user.id
     #         )
     #         # puts activity.xpath(".//mattext").first.text
     #         #Determine correct answer by comparing scores

@@ -1,6 +1,6 @@
 development:
   domain: .lvh.me
-  auth: http://lvh.me:3000
+  auth: http://lvh.me:3001
   qb: http://qb.lvh.me:3001
   store: http://store.lvh.me:3002
   studyegg: lvh.me:3003

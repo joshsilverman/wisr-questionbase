@@ -2,7 +2,7 @@ class BooksController < ApplicationController
   # GET /books
   # GET /books.xml
   def index
-    @my_books = Book.all(:conditions => {:user_id => current_user.uid})
+    @my_books = Book.all(:conditions => {:user_id => current_user.id})
     @public_books = Book.all(:conditions => {:public => true})
 
     respond_to do |format|
@@ -43,7 +43,7 @@ class BooksController < ApplicationController
   # POST /books.xml
   def create
     @book = Book.new(params[:book])
-    @book.user_id = current_user.uid
+    @book.user_id = current_user.id
 
     respond_to do |format|
       if @book.save
