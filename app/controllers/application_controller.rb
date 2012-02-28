@@ -5,19 +5,10 @@ class ApplicationController < ActionController::Base
   protected
 
     def login_required
-      if !current_user
-        respond_to do |format|
-          format.html  {
-            redirect_to '/auth/identity'
-          }
-          format.json {
-            render :json => { 'error' => 'Access Denied' }.to_json
-          }
-        end
-      end
+      authenticate_user!
     end
 
-    def current_user
-      session[:user]
-    end
+    # def current_user
+    #   session[:user]
+    # end
 end

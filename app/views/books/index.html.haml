@@ -28,7 +28,7 @@
             -else        
                 %ul
                     - @public_books.each do |public_book|
-                        - if public_book.user_id.to_i == current_user.uid.to_i
+                        - if public_book.user_id.to_i == current_user.id.to_i
                             %li{:class => "line_item"}= link_to(public_book.name + " by " + public_book.author + " (" + public_book.edition.to_s + "e)", public_book, :class => "line_title") + " (" + link_to('edit', edit_book_path(public_book), :class => "edit_link") + ") "
                         - else
                             %li{:class => "line_item"}= link_to(public_book.name + " by " + public_book.author, public_book, :class => "line_title")                       

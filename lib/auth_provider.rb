@@ -15,7 +15,7 @@ class AuthProvider
   end
 
   def self.get_all_devise_users
-    uri = URI.parse(URI.encode("http://lvh.me:3000/api/export_all_users"))
+    uri = URI.parse(URI.encode(STUDYEGG_USER_MANAGER_PATH+"/api/export_all_users"))
     http = Net::HTTP.new(uri.host, uri.port)
     http.use_ssl = false
     http.verify_mode = OpenSSL::SSL::VERIFY_NONE
