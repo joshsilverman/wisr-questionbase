@@ -92,7 +92,6 @@
 }
 
 
-
 .answer_field {
     display: inline;
     height: 45px;
@@ -101,6 +100,16 @@
     margin: 8px 0px 8px 0px;
     font-size: 18px;
     background-color: #F7F7F7;    
+}
+
+ul.token-input-list-facebook {
+    width: 90% !important;
+    float: right !important;
+    margin: 12px 0px 10px 0px !important;
+}
+
+li.token-input-input-token-facebook {
+    height: 30px !important;
 }
 
 .resource_field {

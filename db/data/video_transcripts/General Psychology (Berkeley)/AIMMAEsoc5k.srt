@@ -1,0 +1,4700 @@
+﻿1
+00:00:08,429 --> 00:00:12,089
+okay last time and lecturer we are
+intact
+
+2
+00:00:12,089 --> 00:00:13,680
+lou wins
+
+3
+00:00:13,680 --> 00:00:18,470
+pseudo formula behavior as a function of
+the person and the environment
+
+4
+00:00:18,470 --> 00:00:23,250
+and looked at their work various kinds
+of relationships that can obtain among
+
+5
+00:00:23,250 --> 00:00:24,859
+these three elements
+
+6
+00:00:24,859 --> 00:00:26,439
+the person's behavior
+
+7
+00:00:26,439 --> 00:00:29,229
+the person's internal
+
+8
+00:00:29,229 --> 00:00:31,149
+psychological dispositions
+
+9
+00:00:31,149 --> 00:00:35,850
+and the features on the external
+environment
+
+10
+00:00:35,850 --> 00:00:39,740
+and at the end all of the lecture i
+described for you
+
+11
+00:00:39,740 --> 00:00:40,990
+on
+
+12
+00:00:40,990 --> 00:00:42,190
+anyway
+
+13
+00:00:42,190 --> 00:00:45,329
+major achievement of traditional
+personality psychology
+
+14
+00:00:45,329 --> 00:00:47,920
+which is to provide a way
+
+15
+00:00:47,920 --> 00:00:52,510
+concise framework for summarizing the
+individual differences in now in
+
+16
+00:00:52,510 --> 00:00:53,340
+personality
+
+17
+00:00:53,340 --> 00:00:57,810
+all known as despite factor model of
+personality
+
+18
+00:00:57,810 --> 00:01:00,699
+her that trace
+
+19
+00:01:00,699 --> 00:01:06,370
+extra version agreeable as consciousness
+of notional stability and intellect ins
+
+20
+00:01:06,370 --> 00:01:12,200
+now where the years there has come to be
+about the consensus among personalities
+
+21
+00:01:12,200 --> 00:01:12,830
+psychologist
+
+22
+00:01:12,830 --> 00:01:18,950
+that this five factor model many
+representative universally applicable
+
+23
+00:01:18,950 --> 00:01:20,400
+structural personality
+
+24
+00:01:20,400 --> 00:01:25,370
+he has tipped the data is derived mostly
+from the north american college students
+
+25
+00:01:25,370 --> 00:01:26,890
+but it looks as if
+
+26
+00:01:26,890 --> 00:01:29,110
+this is a um... hum
+
+27
+00:01:29,110 --> 00:01:31,960
+structure per se that's uncredited
+ordinary language
+
+28
+00:01:31,960 --> 00:01:33,760
+we use terms like
+
+29
+00:01:33,760 --> 00:01:39,090
+extroverted agreeable hands on the moshe
+least able to describe each other
+
+30
+00:01:39,090 --> 00:01:41,070
+and also it's a structure
+
+31
+00:01:41,070 --> 00:01:46,219
+that appears to be valid across a wide
+variety of cultures
+
+32
+00:01:46,219 --> 00:01:48,979
+american culture european culture
+
+33
+00:01:48,979 --> 00:01:50,650
+asian culture whatever
+
+34
+00:01:50,650 --> 00:01:55,190
+also appears to be valid across or
+different generations my generation your
+
+35
+00:01:55,190 --> 00:01:57,780
+generation my grandparent's generation
+
+36
+00:01:57,780 --> 00:02:02,270
+and also appears to be valid across
+various developmental ethics
+
+37
+00:02:02,270 --> 00:02:03,979
+you can use this language
+
+38
+00:02:03,979 --> 00:02:05,910
+to cap to capture
+
+39
+00:02:05,910 --> 00:02:08,069
+individual differences in personality
+among
+
+40
+00:02:08,069 --> 00:02:12,730
+very young children you can also uses
+language to capture individual
+
+41
+00:02:12,730 --> 00:02:15,340
+differences in personality armand
+
+42
+00:02:15,340 --> 00:02:18,819
+on middle-aged people reward people or
+whatever
+
+43
+00:02:18,819 --> 00:02:20,540
+now one thing i have a point out
+
+44
+00:02:20,540 --> 00:02:23,349
+is that the five factor model itself
+
+45
+00:02:23,349 --> 00:02:26,579
+can be made even more concise if you
+think about it
+
+46
+00:02:26,579 --> 00:02:30,499
+because those kind of a two-dimensional
+superstructure here
+
+47
+00:02:30,499 --> 00:02:32,919
+two different kinds of evaluation
+
+48
+00:02:32,919 --> 00:02:38,329
+first evaluating the person that has
+more or less desirable undesirable on
+
+49
+00:02:38,329 --> 00:02:40,449
+the social groans
+
+50
+00:02:40,449 --> 00:02:43,870
+and evaluating the person who has more
+or less
+
+51
+00:02:43,870 --> 00:02:44,980
+good or bad
+
+52
+00:02:44,980 --> 00:02:46,770
+on intellectual grounds
+
+53
+00:02:46,770 --> 00:02:48,979
+so inmates cultures
+
+54
+00:02:48,979 --> 00:02:53,069
+we tend to favor extroverted people over
+introverted people we obviously favor
+
+55
+00:02:53,069 --> 00:02:56,189
+agreeable people over disagreeable
+people
+
+56
+00:02:56,189 --> 00:03:00,569
+conscientious people over non conscious
+of cartridges people emotionally stable
+
+57
+00:03:00,569 --> 00:03:04,989
+people over in the stable people and we
+also tend to value smart people over
+
+58
+00:03:04,989 --> 00:03:07,700
+stupid people
+
+59
+00:03:07,700 --> 00:03:09,239
+also again
+
+60
+00:03:09,239 --> 00:03:13,440
+all of this the payoff eleven analysis
+that you're going to look at
+
+61
+00:03:13,440 --> 00:03:17,290
+you could say that this this five factor
+model itself
+
+62
+00:03:17,290 --> 00:03:18,189
+all
+
+63
+00:03:18,189 --> 00:03:20,250
+can the altered compress
+
+64
+00:03:20,250 --> 00:03:24,230
+into a two factor model or even a one
+factor model
+
+65
+00:03:24,230 --> 00:03:25,410
+good or bad
+
+66
+00:03:25,410 --> 00:03:27,239
+personal qualities
+
+67
+00:03:27,239 --> 00:03:30,029
+okays ope these five
+
+68
+00:03:30,029 --> 00:03:30,719
+factors
+
+69
+00:03:30,719 --> 00:03:34,599
+because i'm five basic personality
+traits okay
+
+70
+00:03:34,599 --> 00:03:38,849
+extra version agreeable knows
+conscientious nis emotional stability
+
+71
+00:03:38,849 --> 00:03:39,839
+and all
+
+72
+00:03:39,839 --> 00:03:41,870
+openness to experience
+
+73
+00:03:41,870 --> 00:03:44,359
+and the question is what do you do with
+these
+
+74
+00:03:44,359 --> 00:03:46,120
+without the cartoon
+
+75
+00:03:46,120 --> 00:03:50,249
+versions of what i've called the
+doctrine of trade so hard person a soft
+
+76
+00:03:50,249 --> 00:03:53,149
+for some week for sonora strong version
+
+77
+00:03:53,149 --> 00:03:55,150
+bud mcpherson simply says
+
+78
+00:03:55,150 --> 00:03:58,579
+that traits summarize
+
+79
+00:03:58,579 --> 00:03:59,890
+the services
+
+80
+00:03:59,890 --> 00:04:02,299
+congress that labels to summarize
+
+81
+00:04:02,299 --> 00:04:04,450
+various aspects of people's behavior
+
+82
+00:04:04,450 --> 00:04:05,790
+how coherent
+
+83
+00:04:05,790 --> 00:04:06,969
+how stable
+
+84
+00:04:06,969 --> 00:04:11,479
+how consistent and predictable it is in
+various dimensions
+
+85
+00:04:11,479 --> 00:04:14,409
+so if i see somebody who smells a lot
+
+86
+00:04:14,409 --> 00:04:17,569
+and somebody who are has a lot of
+friends
+
+87
+00:04:17,569 --> 00:04:22,360
+and somebody who blows to a lot of clubs
+are going to summarize that person's
+
+88
+00:04:22,360 --> 00:04:24,270
+behavior in terms of
+
+89
+00:04:24,270 --> 00:04:26,919
+something like friendliness
+
+90
+00:04:26,919 --> 00:04:30,770
+but the strong version of the doctrine
+of traces what interests us here
+
+91
+00:04:30,770 --> 00:04:32,870
+and that is but rates
+
+92
+00:04:32,870 --> 00:04:36,129
+has people to behave in a particular way
+
+93
+00:04:36,129 --> 00:04:38,830
+if i see somebody who smiles a lot
+
+94
+00:04:38,830 --> 00:04:40,600
+has a lot of friends
+
+95
+00:04:40,600 --> 00:04:41,709
+alm
+
+96
+00:04:41,709 --> 00:04:44,129
+double lost a lot of clubs
+
+97
+00:04:44,129 --> 00:04:47,770
+that the uh... the idea behind the
+strong doctrine of traits is that the
+
+98
+00:04:47,770 --> 00:04:50,559
+person who does these things be clause
+
+99
+00:04:50,559 --> 00:04:52,840
+he or she is extroverted
+
+100
+00:04:52,840 --> 00:04:53,919
+okay
+
+101
+00:04:53,919 --> 00:04:54,400
+on
+
+102
+00:04:54,400 --> 00:04:55,949
+that somehow
+
+103
+00:04:55,949 --> 00:04:57,449
+having this disposition
+
+104
+00:04:57,449 --> 00:04:58,880
+really does dispose u
+
+105
+00:04:58,880 --> 00:05:01,749
+to behave in particular ways
+
+106
+00:05:01,749 --> 00:05:04,270
+introduce these terms for our last time
+
+107
+00:05:04,270 --> 00:05:07,340
+coherent stability consistency and
+predictability
+
+108
+00:05:07,340 --> 00:05:10,650
+and i want to are gonna try to explain
+those a little bit
+
+109
+00:05:10,650 --> 00:05:11,610
+all more
+
+110
+00:05:11,610 --> 00:05:12,990
+all it now
+
+111
+00:05:12,990 --> 00:05:13,360
+first
+
+112
+00:05:13,360 --> 00:05:15,680
+with respect to coherence
+
+113
+00:05:15,680 --> 00:05:17,809
+what we mean that is that
+
+114
+00:05:17,809 --> 00:05:20,569
+personnel about putting individuals
+personality
+
+115
+00:05:20,569 --> 00:05:22,969
+hangs together
+
+116
+00:05:22,969 --> 00:05:25,479
+makes sense as a coherent paul
+
+117
+00:05:25,479 --> 00:05:27,340
+as a coherent whole
+
+118
+00:05:27,340 --> 00:05:30,639
+and they can distinguish a couple of
+different types of coherence
+
+119
+00:05:30,639 --> 00:05:31,890
+so for example
+
+120
+00:05:31,890 --> 00:05:33,739
+there might be coherence along
+
+121
+00:05:33,739 --> 00:05:37,609
+papa graphically different behaviors by
+topographic papa graphically beat
+
+122
+00:05:37,609 --> 00:05:38,650
+different behaviors
+
+123
+00:05:38,650 --> 00:05:42,009
+just mean different behaviors that
+involve different parts of the body
+
+124
+00:05:42,009 --> 00:05:43,070
+so it might be
+
+125
+00:05:43,070 --> 00:05:46,270
+that a person who tends to smile a lot
+
+126
+00:05:46,270 --> 00:05:48,639
+also tends to believe
+
+127
+00:05:48,639 --> 00:05:50,619
+those are different kinds of behaviors
+
+128
+00:05:50,619 --> 00:05:52,740
+and as if there's a correlation between
+them
+
+129
+00:05:52,740 --> 00:05:57,220
+it might be because extroverted people
+both penned a smile
+
+130
+00:05:57,220 --> 00:05:59,590
+and tended tubely
+
+131
+00:05:59,590 --> 00:06:00,290
+similarly
+
+132
+00:06:00,290 --> 00:06:05,070
+there's a coherent someone what you
+might call semantically different traits
+
+133
+00:06:05,070 --> 00:06:10,300
+that is traits that are all that have
+somewhat different meanings
+
+134
+00:06:10,300 --> 00:06:13,139
+but still i hope there's a correlation
+among them
+
+135
+00:06:13,139 --> 00:06:15,039
+people who are friendly
+
+136
+00:06:15,039 --> 00:06:17,060
+tend also to be a sort of
+
+137
+00:06:17,060 --> 00:06:18,949
+okay tuza carly
+
+138
+00:06:18,949 --> 00:06:22,259
+being friendly doesn't mean the same
+thing as beans assertive
+
+139
+00:06:22,259 --> 00:06:25,430
+they are totten semantically different
+rate labels
+
+140
+00:06:25,430 --> 00:06:29,530
+but the fact of the matter is that
+friend friendliness and assertiveness
+
+141
+00:06:29,530 --> 00:06:30,919
+tend to go together
+
+142
+00:06:30,919 --> 00:06:34,760
+and they tend to go together because
+they're all paths of facets
+
+143
+00:06:34,760 --> 00:06:36,450
+all this broader trade
+
+144
+00:06:36,450 --> 00:06:39,179
+all extra virgin so much of that
+
+145
+00:06:39,179 --> 00:06:43,070
+with with the doctor traits sorry is
+
+146
+00:06:43,070 --> 00:06:47,159
+every harker cole structure
+
+147
+00:06:47,159 --> 00:06:48,150
+begins with
+
+148
+00:06:48,150 --> 00:06:53,400
+the big five traits like extra version
+and a greater boldness
+
+149
+00:06:53,400 --> 00:06:57,029
+and mastered underneath these are very
+broad traits
+
+150
+00:06:57,029 --> 00:07:03,460
+or more narrowly defined at cyber net
+rates like warns and assertiveness
+
+151
+00:07:03,460 --> 00:07:06,629
+extroverted tend to be warming to
+personally warm
+
+152
+00:07:06,629 --> 00:07:09,210
+physically warm but interpersonal e warm
+
+153
+00:07:09,210 --> 00:07:11,389
+extra parts also tend to be a sort of
+
+154
+00:07:11,389 --> 00:07:12,710
+here's a grill mullis
+
+155
+00:07:12,710 --> 00:07:16,830
+there are two facets of their respective
+agreeable people tend to be trusting
+
+156
+00:07:16,830 --> 00:07:19,969
+and they also tend to be altruistic
+
+157
+00:07:19,969 --> 00:07:23,680
+and dusted off under each of these
+subordinate rates
+
+158
+00:07:23,680 --> 00:07:27,110
+or behavioral tendencies so warm people
+
+159
+00:07:27,110 --> 00:07:29,409
+tend to like most of the people that
+they know
+
+160
+00:07:29,409 --> 00:07:32,160
+and a tender form strong attachments to
+friends
+
+161
+00:07:32,160 --> 00:07:39,139
+a sort of people tend to be dominant and
+forceful and they tend to lead groups
+
+162
+00:07:39,139 --> 00:07:42,390
+trusting people tend to believe that
+most people are almost
+
+163
+00:07:42,390 --> 00:07:44,380
+and they tend to assume the best
+
+164
+00:07:44,380 --> 00:07:46,860
+about people altruistic people
+
+165
+00:07:46,860 --> 00:07:48,680
+tend to be criticism re body
+
+166
+00:07:48,680 --> 00:07:52,770
+and they tend to be charitable now wire
+and i don't really have a slide
+
+167
+00:07:52,770 --> 00:07:55,310
+but these are just behavioral tendencies
+
+168
+00:07:55,310 --> 00:08:00,260
+and so you can imagine that or mastered
+underneath here are specific behaviors
+
+169
+00:08:00,260 --> 00:08:03,669
+observed in specific situations
+
+170
+00:08:03,669 --> 00:08:09,300
+if i'm extroverted i tend to be warm if
+i warm i tend to like most people
+
+171
+00:08:09,300 --> 00:08:10,930
+and now the next question is
+
+172
+00:08:10,930 --> 00:08:14,340
+i'm going to meet somebody in a couple
+of hours at my office and i got i like
+
+173
+00:08:14,340 --> 00:08:15,320
+him or not
+
+174
+00:08:15,320 --> 00:08:17,439
+him personally
+
+175
+00:08:17,439 --> 00:08:20,500
+when i got home tonight i'm going to
+meet my new neighbor just moved in
+
+176
+00:08:20,500 --> 00:08:22,910
+across the street and the question is
+
+177
+00:08:22,910 --> 00:08:24,120
+well i'm going to like
+
+178
+00:08:24,120 --> 00:08:28,339
+him in her or whatever those specific
+behaviors
+
+179
+00:08:28,339 --> 00:08:30,680
+are nestled onto these behavioral
+
+180
+00:08:30,680 --> 00:08:31,329
+tendencies
+
+181
+00:08:31,329 --> 00:08:34,960
+so that coherence of personality
+
+182
+00:08:34,960 --> 00:08:37,949
+that's given by these personality traits
+
+183
+00:08:37,949 --> 00:08:42,449
+simply means that there is a really
+there as a hierarchy of personality
+
+184
+00:08:42,449 --> 00:08:43,180
+tendencies
+
+185
+00:08:43,180 --> 00:08:48,410
+where we have very brad dispositions
+like extra version agreeable dance
+
+186
+00:08:48,410 --> 00:08:50,590
+somewhat more narrowly defined
+
+187
+00:08:50,590 --> 00:08:54,809
+are dispositions like warmth and trust
+and assertiveness and altruism
+
+188
+00:08:54,809 --> 00:08:56,850
+and so on all the way down
+
+189
+00:08:56,850 --> 00:08:57,530
+just like
+
+190
+00:08:57,530 --> 00:09:01,450
+our discussion of super ordinate and
+subordinate categories
+
+191
+00:09:01,450 --> 00:09:02,899
+here we have
+
+192
+00:09:02,899 --> 00:09:06,880
+subordinate and super wordnet levels of
+analysis of behavior
+
+193
+00:09:06,880 --> 00:09:11,330
+and the idea behind the storm version of
+the doctrine of traits
+
+194
+00:09:11,330 --> 00:09:13,090
+traits
+
+195
+00:09:13,090 --> 00:09:17,890
+personality this coherence if you say
+that somebody is warm
+
+196
+00:09:17,890 --> 00:09:18,990
+you can
+
+197
+00:09:18,990 --> 00:09:23,870
+expect them to like most people in the
+form strong attachments to their friends
+
+198
+00:09:23,870 --> 00:09:28,960
+because those are part and parcel of the
+warm their specific worries of being
+
+199
+00:09:28,960 --> 00:09:30,860
+interpersonal e war
+
+200
+00:09:30,860 --> 00:09:31,489
+okay
+
+201
+00:09:31,489 --> 00:09:34,509
+now with respect to the other three
+
+202
+00:09:34,509 --> 00:09:36,700
+aspects of what rates do
+
+203
+00:09:36,700 --> 00:09:40,540
+all traits not only did coherence
+
+204
+00:09:40,540 --> 00:09:41,190
+behavior
+
+205
+00:09:41,190 --> 00:09:47,450
+but they also gives stability to
+behavior over time
+
+206
+00:09:47,450 --> 00:09:49,759
+somebody is extroverted at time warner
+
+207
+00:09:49,759 --> 00:09:52,130
+we also expect to find them extroverted
+
+208
+00:09:52,130 --> 00:09:55,480
+at some later time because they have
+been straight
+
+209
+00:09:55,480 --> 00:09:58,840
+that disposes them to behave in a
+particular way
+
+210
+00:09:58,840 --> 00:10:01,390
+if we find somebody who likes most
+people
+
+211
+00:10:01,390 --> 00:10:02,599
+at age five
+
+212
+00:10:02,599 --> 00:10:07,699
+we expect that people also that person
+also toll-like most people and age
+
+213
+00:10:07,699 --> 00:10:08,610
+twelve
+
+214
+00:10:08,610 --> 00:10:11,900
+stability turns out as an empirical
+matter
+
+215
+00:10:11,900 --> 00:10:17,459
+greatest over short intervals of time
+but still the ideas that having a trait
+
+216
+00:10:17,459 --> 00:10:20,870
+gives stability to new york behavior
+
+217
+00:10:20,870 --> 00:10:21,890
+severly
+
+218
+00:10:21,890 --> 00:10:23,060
+we can think about
+
+219
+00:10:23,060 --> 00:10:26,690
+the consistency odd behavior across
+situations
+
+220
+00:10:26,690 --> 00:10:31,199
+if i smell it somebody in the
+supermarket and i got a smile it's but
+
+221
+00:10:31,199 --> 00:10:34,580
+that that somebody other somebody else
+on the street
+
+222
+00:10:34,580 --> 00:10:37,690
+if ari make friends with my new
+next-door neighbor
+
+223
+00:10:37,690 --> 00:10:41,610
+am i going to make friends with the new
+colleague who moved into the office next
+
+224
+00:10:41,610 --> 00:10:43,560
+door mine in them
+
+225
+00:10:43,560 --> 00:10:44,940
+in pullman hole
+
+226
+00:10:44,940 --> 00:10:45,779
+and again
+
+227
+00:10:45,779 --> 00:10:50,960
+the ideas that traits make behavior
+consistent across situations
+
+228
+00:10:50,960 --> 00:10:53,970
+it's by virtue of having a trait
+
+229
+00:10:53,970 --> 00:10:58,870
+your or consistency your behaviors
+consistent across situations and again
+
+230
+00:10:58,870 --> 00:11:00,880
+as an empirical matter
+
+231
+00:11:00,880 --> 00:11:03,539
+are consistency is greatest
+
+232
+00:11:03,539 --> 00:11:07,920
+when you are looking at behavior across
+the jewish instead are
+
+233
+00:11:07,920 --> 00:11:13,260
+fairly similar to each other so if
+ronald you're looking to buy the right
+
+234
+00:11:13,260 --> 00:11:14,860
+make friends with a
+
+235
+00:11:14,860 --> 00:11:17,630
+new personally meet in in my
+neighborhood
+
+236
+00:11:17,630 --> 00:11:19,150
+that might
+
+237
+00:11:19,150 --> 00:11:23,020
+correlate with the with my tendency to
+make friends with a somebody
+
+238
+00:11:23,020 --> 00:11:27,410
+just join my church or whatever very
+similar situations are kinda neighbors
+
+239
+00:11:27,410 --> 00:11:29,280
+in in some sense
+
+240
+00:11:29,280 --> 00:11:30,799
+and then finally
+
+241
+00:11:30,799 --> 00:11:32,990
+it's traits that make these
+
+242
+00:11:32,990 --> 00:11:34,700
+your predictable
+
+243
+00:11:34,700 --> 00:11:39,510
+if you know somebody's extroverted if
+you know somebody's warm
+
+244
+00:11:39,510 --> 00:11:40,330
+because
+
+245
+00:11:40,330 --> 00:11:44,910
+extra version is a disposition to behave
+in particular ways
+
+246
+00:11:44,910 --> 00:11:48,590
+knowing that somebody's extroverted or
+to enable you to predict
+
+247
+00:11:48,590 --> 00:11:50,530
+how old they are going to be haven
+
+248
+00:11:50,530 --> 00:11:52,239
+in some specific
+
+249
+00:11:52,239 --> 00:11:54,540
+of the in some specific situation
+
+250
+00:11:54,540 --> 00:11:57,339
+it is to that problem or predictability
+
+251
+00:11:57,339 --> 00:11:58,490
+that we're going to turn
+
+252
+00:11:58,490 --> 00:11:59,420
+right now
+
+253
+00:11:59,420 --> 00:12:03,939
+to what extent ted we predict opin
+individuals' behavior
+
+254
+00:12:03,939 --> 00:12:07,019
+in some specific situation
+
+255
+00:12:07,019 --> 00:12:08,009
+nileen
+
+256
+00:12:08,009 --> 00:12:09,929
+something about his or her
+
+257
+00:12:09,929 --> 00:12:12,160
+road personality
+
+258
+00:12:12,160 --> 00:12:13,720
+dispositions
+
+259
+00:12:13,720 --> 00:12:15,759
+sometimes were able to use
+
+260
+00:12:15,759 --> 00:12:16,730
+bomb all of them
+
+261
+00:12:16,730 --> 00:12:18,139
+but personality measurements
+
+262
+00:12:18,139 --> 00:12:22,120
+to predict behavior with quite a bit of
+confidence
+
+263
+00:12:22,120 --> 00:12:22,649
+bomb
+
+264
+00:12:22,649 --> 00:12:24,260
+here for example
+
+265
+00:12:24,260 --> 00:12:25,790
+so sweep
+
+266
+00:12:25,790 --> 00:12:28,080
+have somebody we know was extroverted
+
+267
+00:12:28,080 --> 00:12:31,420
+we can predict that they're going to be
+relatively warm
+
+268
+00:12:31,420 --> 00:12:32,420
+we could predict
+
+269
+00:12:32,420 --> 00:12:33,720
+that they're going to
+
+270
+00:12:33,720 --> 00:12:35,900
+or like most people on average
+
+271
+00:12:35,900 --> 00:12:37,680
+but the real question is
+
+272
+00:12:37,680 --> 00:12:42,010
+well this extroverted people like judy
+when he meets ur
+
+273
+00:12:42,010 --> 00:12:43,759
+well this extroverted person
+
+274
+00:12:43,759 --> 00:12:46,359
+still call judy after she moves away
+
+275
+00:12:46,359 --> 00:12:47,039
+okay
+
+276
+00:12:47,039 --> 00:12:50,080
+are these are the kinds of things that
+extroverted people do
+
+277
+00:12:50,080 --> 00:12:51,580
+or if you're a sort of
+
+278
+00:12:51,580 --> 00:12:54,940
+or if you're extroverted you're going to
+be they're going to tend to be assertive
+
+279
+00:12:54,940 --> 00:12:56,790
+you can be darlington forceful
+
+280
+00:12:56,790 --> 00:12:59,690
+but then in some specific situation
+
+281
+00:12:59,690 --> 00:13:02,390
+will this person interrupted speaker
+
+282
+00:13:02,390 --> 00:13:04,470
+or will this person takeover
+
+283
+00:13:04,470 --> 00:13:05,600
+the task
+
+284
+00:13:05,600 --> 00:13:07,300
+again what we're trying to do here
+
+285
+00:13:07,300 --> 00:13:11,810
+is to use information about people's
+personality traits
+
+286
+00:13:11,810 --> 00:13:14,290
+dispositions to behave in a particular
+way
+
+287
+00:13:14,290 --> 00:13:16,300
+and use that information
+
+288
+00:13:16,300 --> 00:13:18,660
+how they actually will behave
+
+289
+00:13:18,660 --> 00:13:20,560
+here a couple more examples of it
+
+290
+00:13:20,560 --> 00:13:24,350
+from agreeable this no way that
+somebody's agreeable
+
+291
+00:13:24,350 --> 00:13:26,149
+how confident we can we predict
+
+292
+00:13:26,149 --> 00:13:29,340
+they don't let his co-worker borrow some
+money
+
+293
+00:13:29,340 --> 00:13:32,850
+how confident we can we print archery
+predict that he'll still like this
+
+294
+00:13:32,850 --> 00:13:36,260
+co-worker when the co-worker doesn't pay
+the money back
+
+295
+00:13:36,260 --> 00:13:37,280
+okay
+
+296
+00:13:37,280 --> 00:13:40,680
+idle preventing that a person is
+altruistic although
+
+297
+00:13:40,680 --> 00:13:44,880
+will the person ald of the plate to the
+you know store clerk
+
+298
+00:13:44,880 --> 00:13:46,490
+are or little person
+
+299
+00:13:46,490 --> 00:13:47,360
+or contribute
+
+300
+00:13:47,360 --> 00:13:49,180
+the psalm or charity
+
+301
+00:13:49,180 --> 00:13:52,550
+and again as i said before sometimes
+
+302
+00:13:52,550 --> 00:13:56,580
+did these kinds of behavioral
+dispositions could be very very powerful
+
+303
+00:13:56,580 --> 00:13:57,810
+predictors of behavior
+
+304
+00:13:57,810 --> 00:13:59,949
+the best example okay
+
+305
+00:13:59,949 --> 00:14:03,220
+of predicting specific behavior
+
+306
+00:14:03,220 --> 00:14:04,920
+phloem
+
+307
+00:14:04,920 --> 00:14:08,870
+qualities of a person from a person's
+traits of the additives
+
+308
+00:14:08,870 --> 00:14:10,360
+probably the best example
+
+309
+00:14:10,360 --> 00:14:13,430
+comes on the domain of political
+behavior
+
+310
+00:14:13,430 --> 00:14:18,400
+where we classify somebody as republican
+or a democrat
+
+311
+00:14:18,400 --> 00:14:20,279
+liberal or conservative
+
+312
+00:14:20,279 --> 00:14:21,620
+and then predict
+
+313
+00:14:21,620 --> 00:14:27,020
+how that person is going to vote for a
+particular candidate in a particular
+
+314
+00:14:27,020 --> 00:14:28,010
+election
+
+315
+00:14:28,010 --> 00:14:29,070
+here is that
+
+316
+00:14:29,070 --> 00:14:33,620
+recollected by john joseph reported just
+a dearest so i'll go
+
+317
+00:14:33,620 --> 00:14:33,980
+analyzing
+
+318
+00:14:33,980 --> 00:14:38,059
+the relationship between political
+attitudes and voting behavior
+
+319
+00:14:38,059 --> 00:14:41,270
+across all large number of presidential
+elections
+
+320
+00:14:41,270 --> 00:14:43,060
+are from nineteen seventy two
+
+321
+00:14:43,060 --> 00:14:45,540
+to nineteen seventy-four
+
+322
+00:14:45,540 --> 00:14:46,930
+and just to
+
+323
+00:14:46,930 --> 00:14:51,269
+all of make things all a little bit dull
+uh... geezer
+
+324
+00:14:51,269 --> 00:14:55,910
+we've got subjects buckle classified as
+basically based on our population sample
+
+325
+00:14:55,910 --> 00:14:56,910
+united states
+
+326
+00:14:56,910 --> 00:15:01,540
+we've got subjects classified as
+democrats and republicans
+
+327
+00:15:01,540 --> 00:15:06,380
+and then are they've also rated
+themselves as how liberal they are
+
+328
+00:15:06,380 --> 00:15:09,759
+on a seven-point or the seven point
+scale
+
+329
+00:15:09,759 --> 00:15:12,760
+and then the all what joe stated simply
+assess
+
+330
+00:15:12,760 --> 00:15:15,920
+hello you voted to call people voted
+
+331
+00:15:15,920 --> 00:15:19,830
+based on are hall log on how liberal or
+conservative
+
+332
+00:15:19,830 --> 00:15:21,519
+all of the political rant asian
+
+333
+00:15:21,519 --> 00:15:22,949
+all the candidate was
+
+334
+00:15:22,949 --> 00:15:24,470
+and what you can see here
+
+335
+00:15:24,470 --> 00:15:27,670
+is that there is a very strong
+relationship
+
+336
+00:15:27,670 --> 00:15:30,589
+between political attitudes in general
+
+337
+00:15:30,589 --> 00:15:32,670
+and voting behavior
+
+338
+00:15:32,670 --> 00:15:33,230
+democrats
+
+339
+00:15:33,230 --> 00:15:36,099
+or overwhelmingly vote flammable
+
+340
+00:15:36,099 --> 00:15:38,100
+political candidates
+
+341
+00:15:38,100 --> 00:15:40,449
+republicans overwhelmingly vote
+
+342
+00:15:40,449 --> 00:15:44,080
+for conservative political candidates
+
+343
+00:15:44,080 --> 00:15:48,700
+correlation point ninety two you can't
+get while higher correlation
+
+344
+00:15:48,700 --> 00:15:50,270
+not in the social sciences
+
+345
+00:15:50,270 --> 00:15:53,750
+you hardly see correlations that high
+art but again
+
+346
+00:15:53,750 --> 00:15:57,660
+this is something that occurs election
+after election
+
+347
+00:15:57,660 --> 00:16:01,930
+here is our most recent presidential
+election carry versus bush
+
+348
+00:16:01,930 --> 00:16:02,760
+okay
+
+349
+00:16:02,760 --> 00:16:04,440
+and you can see
+
+350
+00:16:04,440 --> 00:16:05,899
+demagogued the liberals
+
+351
+00:16:05,899 --> 00:16:08,830
+voting for carry
+
+352
+00:16:08,830 --> 00:16:09,480
+conservatives
+
+353
+00:16:09,480 --> 00:16:10,689
+voting for bush
+
+354
+00:16:10,689 --> 00:16:13,450
+over well mainly
+
+355
+00:16:13,450 --> 00:16:16,339
+go back one ground versus bush
+
+356
+00:16:16,339 --> 00:16:17,910
+same pattern
+
+357
+00:16:17,910 --> 00:16:20,250
+liberals voting for gore
+
+358
+00:16:20,250 --> 00:16:25,800
+bush i've got conservatives
+
+359
+00:16:25,800 --> 00:16:30,200
+nineteen ninety-six clinton versus dole
+same pattern
+
+360
+00:16:30,200 --> 00:16:31,800
+something funny happens there it's
+
+361
+00:16:31,800 --> 00:16:35,180
+i think it's ralph nader actually
+
+362
+00:16:35,180 --> 00:16:39,450
+lomb part sterile the overall pattern is
+quite clear
+
+363
+00:16:39,450 --> 00:16:40,640
+that part
+
+364
+00:16:40,640 --> 00:16:42,790
+hello liberals are going to vote for
+clinton
+
+365
+00:16:42,790 --> 00:16:46,620
+and conservatives are going to vote for
+dole let's just keep going back clinton
+
+366
+00:16:46,620 --> 00:16:47,389
+versus
+
+367
+00:16:47,389 --> 00:16:50,560
+of the first george bush bush forty one
+
+368
+00:16:50,560 --> 00:16:54,570
+again a very strong relationship
+
+369
+00:16:54,570 --> 00:16:58,770
+mike dukakis versus the first george
+bush
+
+370
+00:16:58,770 --> 00:17:01,149
+again a very strong relationship between
+
+371
+00:17:01,149 --> 00:17:04,459
+people's political orientations whether
+they're liberal or conservative
+
+372
+00:17:04,459 --> 00:17:06,630
+and who they're going to vote for
+
+373
+00:17:06,630 --> 00:17:10,959
+mondale versus reagan
+
+374
+00:17:10,959 --> 00:17:13,920
+quarter versus reagan
+
+375
+00:17:13,920 --> 00:17:17,370
+carter versus ford
+
+376
+00:17:17,370 --> 00:17:18,720
+mcgovern versus nixon
+
+377
+00:17:18,720 --> 00:17:22,939
+okay and again you see this this same
+kind of pattern
+
+378
+00:17:22,939 --> 00:17:24,370
+these are very
+
+379
+00:17:24,370 --> 00:17:26,720
+early very powerful predictions
+
+380
+00:17:26,720 --> 00:17:30,850
+nelene where a person is a republican or
+a democrat
+
+381
+00:17:30,850 --> 00:17:33,539
+youtwo a tremendous amount of leverage
+
+382
+00:17:33,539 --> 00:17:37,780
+in terms of predicting hollow that
+individual is going to vote
+
+383
+00:17:37,780 --> 00:17:41,059
+here's an example of a general
+disposition
+
+384
+00:17:41,059 --> 00:17:43,730
+a dinner tonight that would have just a
+legend
+
+385
+00:17:43,730 --> 00:17:46,590
+favor republicans are favored democrats
+
+386
+00:17:46,590 --> 00:17:47,850
+predicting behavior
+
+387
+00:17:47,850 --> 00:17:51,600
+in a specific situation and as i say
+
+388
+00:17:51,600 --> 00:17:54,520
+very very very strong correlations
+remember
+
+389
+00:17:54,520 --> 00:17:57,160
+correlation can't get any bigger than
+one point no
+
+390
+00:17:57,160 --> 00:17:58,380
+these are correlations
+
+391
+00:17:58,380 --> 00:17:59,750
+in the high eighties
+
+392
+00:17:59,750 --> 00:18:04,380
+and all and all the low to mid nineties
+they're very very very
+
+393
+00:18:04,380 --> 00:18:06,160
+very very strong
+
+394
+00:18:06,160 --> 00:18:09,720
+but now let's don't usually see i have
+to tell you
+
+395
+00:18:09,720 --> 00:18:14,559
+we do not usually see this strong a
+level of predictability
+
+396
+00:18:14,559 --> 00:18:17,740
+i have specific behavior
+
+397
+00:18:17,740 --> 00:18:19,550
+generalized behavioral tendencies
+
+398
+00:18:19,550 --> 00:18:22,670
+here is of more represented experiment
+
+399
+00:18:22,670 --> 00:18:24,510
+all conducted here at berkeley
+
+400
+00:18:24,510 --> 00:18:28,039
+by david finder is now a professor at
+u_c_ riverside
+
+401
+00:18:28,039 --> 00:18:29,200
+jacket gene block
+
+402
+00:18:29,200 --> 00:18:33,740
+all who are retired professors here
+taught at berkeley
+
+403
+00:18:33,740 --> 00:18:35,590
+all in this study
+
+404
+00:18:35,590 --> 00:18:38,849
+aren't the out of the stuff this is a
+study of children
+
+405
+00:18:38,849 --> 00:18:42,840
+and all the data domain owners delayed
+gratification
+
+406
+00:18:42,840 --> 00:18:46,990
+this is not topic i'm going to come back
+to over and over again in these lectures
+
+407
+00:18:46,990 --> 00:18:48,650
+to have gratification
+
+408
+00:18:48,650 --> 00:18:54,820
+has to do with the child's ability to
+control his or her impulses
+
+409
+00:18:54,820 --> 00:18:57,040
+all kids one stuff
+
+410
+00:18:57,040 --> 00:19:01,220
+kids are one stuffed sometimes they
+can't wait for other times they can
+
+411
+00:19:01,220 --> 00:19:05,020
+so very very very important to although
+the personality trait
+
+412
+00:19:05,020 --> 00:19:09,820
+it has to do with what the blocks called
+hugo control
+
+413
+00:19:09,820 --> 00:19:14,840
+the ability to delay gratification talk
+date for the things you want
+
+414
+00:19:14,840 --> 00:19:19,659
+to inhibit aggression not to strike out
+when you don't like somebody
+
+415
+00:19:19,659 --> 00:19:24,460
+and the ability to plan ahead in your
+behavior to get your assignment start on
+
+416
+00:19:24,460 --> 00:19:25,669
+time
+
+417
+00:19:25,669 --> 00:19:27,050
+arms and uh...
+
+418
+00:19:27,050 --> 00:19:28,350
+world and so on
+
+419
+00:19:28,350 --> 00:19:31,399
+so what all funds were conducted in this
+study
+
+420
+00:19:31,399 --> 00:19:35,960
+is to take four-year-olds these our
+children and they are research nursery
+
+421
+00:19:35,960 --> 00:19:36,490
+school
+
+422
+00:19:36,490 --> 00:19:38,350
+here on the berkeley campus
+
+423
+00:19:38,350 --> 00:19:40,559
+and the teachers rated these children
+
+424
+00:19:40,559 --> 00:19:42,700
+in terms of there you go control
+
+425
+00:19:42,700 --> 00:19:45,540
+whether they're able to delay
+gratification or not
+
+426
+00:19:45,540 --> 00:19:49,270
+unless there are many dimension known as
+evil resiliency
+
+427
+00:19:49,270 --> 00:19:53,050
+which basically has to do with the kids
+ability to adapt to new environments
+
+428
+00:19:53,050 --> 00:19:54,700
+how secure is the kid
+
+429
+00:19:54,700 --> 00:19:57,640
+howell competent as a kid and so on
+
+430
+00:19:57,640 --> 00:20:00,580
+and then work visa investigators did
+
+431
+00:20:00,580 --> 00:20:06,630
+was to try to use these broad
+evaluations of personality
+
+432
+00:20:06,630 --> 00:20:07,340
+product
+
+433
+00:20:07,340 --> 00:20:10,570
+how'd children were behaving in a
+particular
+
+434
+00:20:10,570 --> 00:20:11,350
+situation
+
+435
+00:20:11,350 --> 00:20:14,980
+and there are two situations are that
+they are that they studied
+
+436
+00:20:14,980 --> 00:20:17,620
+wind is known as the gift or a situation
+
+437
+00:20:17,620 --> 00:20:21,340
+and the other is known as the resistance
+of temptation situation
+
+438
+00:20:21,340 --> 00:20:23,330
+in the gift or a situation
+
+439
+00:20:23,330 --> 00:20:28,460
+the experimenter would come into a room
+with a kid was sitting with only gilly
+
+440
+00:20:28,460 --> 00:20:32,200
+wrapped gift you know i'm eggs right
+wrapping paper ribbons and stuff like
+
+441
+00:20:32,200 --> 00:20:33,209
+that
+
+442
+00:20:33,209 --> 00:20:36,910
+and are going to get to the child is her
+four-year-old children
+
+443
+00:20:36,910 --> 00:20:39,570
+antec i've got a gift for you
+
+444
+00:20:39,570 --> 00:20:44,430
+but you gotta wait to open it
+
+445
+00:20:44,430 --> 00:20:45,929
+but you gotta wait
+
+446
+00:20:45,929 --> 00:20:47,690
+arm so don't open it don't open it
+
+447
+00:20:47,690 --> 00:20:51,629
+i got to go away and do something now
+just sit here for a while other than
+
+448
+00:20:51,629 --> 00:20:53,500
+ever that gift
+
+449
+00:20:53,500 --> 00:20:57,750
+and then the experimenter walks away and
+of course some kids sit there and they
+
+450
+00:20:57,750 --> 00:21:01,280
+look at the box and they need fiddle
+with the reforms or whatever they do
+
+451
+00:21:01,280 --> 00:21:05,800
+and other kids are tearing into the box
+immediately as soon as the arm
+
+452
+00:21:05,800 --> 00:21:07,400
+as the investigators left
+
+453
+00:21:07,400 --> 00:21:10,159
+that's how we mean by doing
+gratification
+
+454
+00:21:10,159 --> 00:21:14,650
+send kids kentucky gratification whether
+kids temple gratification
+
+455
+00:21:14,650 --> 00:21:19,320
+can be of yellow in the resistance to
+temptation situation the uh... child was
+
+456
+00:21:19,320 --> 00:21:23,590
+taken with was brought into a room where
+there were two sets of toys on one side
+
+457
+00:21:23,590 --> 00:21:24,480
+of the room
+
+458
+00:21:24,480 --> 00:21:25,710
+well puncher
+
+459
+00:21:25,710 --> 00:21:28,550
+kind of or ratty
+
+460
+00:21:28,550 --> 00:21:29,420
+reopen
+
+461
+00:21:29,420 --> 00:21:34,200
+dougherty toys not on healthy dirty just
+they just didn't look very nice right
+
+462
+00:21:34,200 --> 00:21:36,259
+and then on the other side of the room
+with these
+
+463
+00:21:36,259 --> 00:21:40,530
+really great new terry's bright clean
+fresh new
+
+464
+00:21:40,530 --> 00:21:44,310
+the kinds of things that are being
+advertised on t_v_ right that very
+
+465
+00:21:44,310 --> 00:21:45,230
+second
+
+466
+00:21:45,230 --> 00:21:47,730
+and all of the experimenter says on to
+the kid
+
+467
+00:21:47,730 --> 00:21:49,840
+okay i've got a leave the room now
+
+468
+00:21:49,840 --> 00:21:51,300
+and all while i'm gone
+
+469
+00:21:51,300 --> 00:21:54,289
+you can play with these toys over here
+
+470
+00:21:54,289 --> 00:21:57,530
+meeting the ready duri old undesirable
+toys
+
+471
+00:21:57,530 --> 00:22:00,010
+but touch these stories over here
+
+472
+00:22:00,010 --> 00:22:03,559
+because they belong to missus
+morgenstern and also for her class they
+
+473
+00:22:03,559 --> 00:22:05,160
+are not for you
+
+474
+00:22:05,160 --> 00:22:09,640
+the experimenter leaves the room and of
+course some kids star claim of the toys
+
+475
+00:22:09,640 --> 00:22:14,120
+and immediately some kids run right over
+the missus morgenstern stories and start
+
+476
+00:22:14,120 --> 00:22:18,700
+playing with them despite the fact that
+that's been expressly forbidden by the
+
+477
+00:22:18,700 --> 00:22:19,630
+alone
+
+478
+00:22:19,630 --> 00:22:21,420
+by the uh... by the experimenter
+
+479
+00:22:21,420 --> 00:22:23,220
+so the question here is
+
+480
+00:22:23,220 --> 00:22:25,350
+how well can we predict
+
+481
+00:22:25,350 --> 00:22:27,310
+harwell children are going to
+
+482
+00:22:27,310 --> 00:22:31,710
+the lei how long children are going to
+delay in the gift of my situation
+
+483
+00:22:31,710 --> 00:22:33,260
+and how welcome to predict
+
+484
+00:22:33,260 --> 00:22:37,159
+how ought to resistant a temptation
+
+485
+00:22:37,159 --> 00:22:39,749
+children are going to be in this other
+situation
+
+486
+00:22:39,749 --> 00:22:41,119
+and the answer is
+
+487
+00:22:41,119 --> 00:22:44,610
+that yes i am ability to predict
+
+488
+00:22:44,610 --> 00:22:46,680
+these all of these behaviors
+
+489
+00:22:46,680 --> 00:22:49,010
+also under his colleagues looked at
+
+490
+00:22:49,010 --> 00:22:50,130
+four different
+
+491
+00:22:50,130 --> 00:22:54,630
+all predictor variables here is just a
+thought brutal measure of i_q_
+
+492
+00:22:54,630 --> 00:22:56,060
+and that site
+
+493
+00:22:56,060 --> 00:22:59,490
+that sold much smaller correlation than
+point nine five
+
+494
+00:22:59,490 --> 00:23:03,160
+but it's still significantly better than
+zero so there is some predictive power
+
+495
+00:23:03,160 --> 00:23:03,810
+here
+
+496
+00:23:03,810 --> 00:23:05,450
+here is the critical
+
+497
+00:23:05,450 --> 00:23:06,960
+are persona dimension
+
+498
+00:23:06,960 --> 00:23:11,410
+eagle control estimates that's related
+to the big five trade of conscientious
+
+499
+00:23:11,410 --> 00:23:12,100
+nis
+
+500
+00:23:12,100 --> 00:23:16,570
+and again there's some ability to
+predict behavior correlations un
+
+501
+00:23:16,570 --> 00:23:20,970
+significantly different from zero
+correlational point to five
+
+502
+00:23:20,970 --> 00:23:24,920
+interestingly eagle resiliency also
+predicts behavior a little bit this is a
+
+503
+00:23:24,920 --> 00:23:27,650
+trait that's related to mirada schism
+
+504
+00:23:27,650 --> 00:23:29,950
+alms and out that some of the again
+
+505
+00:23:29,950 --> 00:23:33,430
+civ not point nine five but not zero are
+either
+
+506
+00:23:33,430 --> 00:23:35,770
+and then one of the items
+
+507
+00:23:35,770 --> 00:23:40,260
+that that showed that the teachers rated
+the children on was the specific trade
+
+508
+00:23:40,260 --> 00:23:40,929
+aud
+
+509
+00:23:40,929 --> 00:23:44,480
+is up and they had to delay
+gratification
+
+510
+00:23:44,480 --> 00:23:48,890
+and again you get all they have
+significant correlation if your unable
+
+511
+00:23:48,890 --> 00:23:53,620
+to the lake ratification highly on able
+to look to the lake ratification
+
+512
+00:23:53,620 --> 00:23:57,090
+don't resist very well so that's why the
+correlation is negative
+
+513
+00:23:57,090 --> 00:23:58,919
+but again the point here is
+
+514
+00:23:58,919 --> 00:24:01,989
+that you do have slam ability
+
+515
+00:24:01,989 --> 00:24:02,970
+toooo
+
+516
+00:24:02,970 --> 00:24:04,659
+predict behavior
+
+517
+00:24:04,659 --> 00:24:07,500
+juvenile ij all of the individuals
+
+518
+00:24:07,500 --> 00:24:09,920
+of the individuals personality traits
+
+519
+00:24:09,920 --> 00:24:11,970
+but the other point is
+
+520
+00:24:11,970 --> 00:24:15,220
+these this correlation which is quite
+representative of the studies that have
+
+521
+00:24:15,220 --> 00:24:16,140
+been done
+
+522
+00:24:16,140 --> 00:24:18,280
+on in this domain
+
+523
+00:24:18,280 --> 00:24:20,539
+there are limits to did to the degree
+
+524
+00:24:20,539 --> 00:24:22,170
+that you can't predict
+
+525
+00:24:22,170 --> 00:24:26,360
+behavior in some specific situation for
+example walter michelle
+
+526
+00:24:26,360 --> 00:24:29,980
+uh... has suggested all of that the
+upper limit
+
+527
+00:24:29,980 --> 00:24:34,990
+of the correlation between personality
+in general
+
+528
+00:24:34,990 --> 00:24:36,920
+behavior in some specific situation
+
+529
+00:24:36,920 --> 00:24:38,510
+isabel point three oh
+
+530
+00:24:38,510 --> 00:24:40,320
+all of member correlations
+
+531
+00:24:40,320 --> 00:24:41,649
+vary from zero
+
+532
+00:24:41,649 --> 00:24:43,500
+to one
+
+533
+00:24:43,500 --> 00:24:46,340
+this is a correlation that is better
+than nothing
+
+534
+00:24:46,340 --> 00:24:48,770
+okay but for from perfect
+
+535
+00:24:48,770 --> 00:24:50,359
+the general idea here
+
+536
+00:24:50,359 --> 00:24:52,690
+is that there is a ceiling
+
+537
+00:24:52,690 --> 00:24:54,169
+on the extent to which
+
+538
+00:24:54,169 --> 00:24:55,990
+we can predict behavior
+
+539
+00:24:55,990 --> 00:24:58,799
+in a specific situation from knowing
+
+540
+00:24:58,799 --> 00:25:00,460
+the persons
+
+541
+00:25:00,460 --> 00:25:04,780
+personality traits in general there is
+some predictive leverage
+
+542
+00:25:04,780 --> 00:25:08,470
+but there's not by a lot of predictive
+
+543
+00:25:08,470 --> 00:25:12,860
+and this is just one study autumn dozens
+and hundreds of dollars buddies such
+
+544
+00:25:12,860 --> 00:25:13,500
+studies
+
+545
+00:25:13,500 --> 00:25:15,070
+that have been done in the literature
+
+546
+00:25:15,070 --> 00:25:17,120
+that suggests that there are limits
+
+547
+00:25:17,120 --> 00:25:18,700
+on the extent to which
+
+548
+00:25:18,700 --> 00:25:21,290
+we could predict behavior
+
+549
+00:25:21,290 --> 00:25:23,350
+audience on specific situation
+
+550
+00:25:23,350 --> 00:25:24,820
+from knowledge of
+
+551
+00:25:24,820 --> 00:25:28,090
+the individual's personal retrace
+
+552
+00:25:28,090 --> 00:25:29,630
+armed
+
+553
+00:25:29,630 --> 00:25:33,370
+that's one part of the dialectic between
+
+554
+00:25:33,370 --> 00:25:35,620
+epperson and his or her behavior
+
+555
+00:25:35,620 --> 00:25:38,280
+the died that part of the dialectic that
+says
+
+556
+00:25:38,280 --> 00:25:40,410
+there's a classical relationship
+
+557
+00:25:40,410 --> 00:25:41,040
+between
+
+558
+00:25:41,040 --> 00:25:42,740
+the internal
+
+559
+00:25:42,740 --> 00:25:44,220
+qualities of the person
+
+560
+00:25:44,220 --> 00:25:47,140
+what his or her traits and attitudes are
+
+561
+00:25:47,140 --> 00:25:49,830
+and how that person is going to be haven
+
+562
+00:25:49,830 --> 00:25:52,200
+in some particular situation
+
+563
+00:25:52,200 --> 00:25:56,420
+let's stop for a second and see if there
+are any questions about this
+
+564
+00:25:56,420 --> 00:26:00,730
+there is some relationship some
+predictability but it's far from perfect
+
+565
+00:26:00,730 --> 00:26:02,309
+that's three bottom line here
+
+566
+00:26:02,309 --> 00:26:06,320
+any questions what yes
+
+567
+00:26:06,320 --> 00:26:07,830
+all guys across america
+
+568
+00:26:07,830 --> 00:26:11,130
+it's just because of the way
+correlations work
+
+569
+00:26:11,130 --> 00:26:15,100
+all be able to deliver gratification
+you're highly unable to blade
+
+570
+00:26:15,100 --> 00:26:15,919
+ratification
+
+571
+00:26:15,919 --> 00:26:18,660
+that you can't wait very long
+
+572
+00:26:18,660 --> 00:26:22,680
+okay remember the positive correlations
+high values odd one variable predict
+
+573
+00:26:22,680 --> 00:26:24,650
+high values on another variable
+
+574
+00:26:24,650 --> 00:26:26,290
+when a coalition is negative
+
+575
+00:26:26,290 --> 00:26:30,210
+high values on one variable predict low
+values on the other so
+
+576
+00:26:30,210 --> 00:26:31,870
+if we had said
+
+577
+00:26:31,870 --> 00:26:33,890
+able to the lake ratification
+
+578
+00:26:33,890 --> 00:26:37,679
+if the specific item had said eventful
+belay gratification
+
+579
+00:26:37,679 --> 00:26:39,460
+but carly she would have been
+
+580
+00:26:39,460 --> 00:26:40,289
+positive
+
+581
+00:26:40,289 --> 00:26:45,069
+twenty-seven but the specific item the
+teachers rated was unable to belabor
+
+582
+00:26:45,069 --> 00:26:50,290
+application
+
+583
+00:26:50,290 --> 00:26:54,570
+well because that's the kind of more or
+less the closest
+
+584
+00:26:54,570 --> 00:26:58,320
+big five straight
+
+585
+00:26:58,320 --> 00:27:02,280
+blocker jack block who own kuo but will
+become fund or work
+
+586
+00:27:02,280 --> 00:27:04,630
+not contradict believer in the big for
+you
+
+587
+00:27:04,630 --> 00:27:09,700
+he's a believer in what he calls the big
+to on hugo controlling legal resiliency
+
+588
+00:27:09,700 --> 00:27:12,210
+but when you look at what he means by
+evil control
+
+589
+00:27:12,210 --> 00:27:14,389
+it's very close to conscientious
+
+590
+00:27:14,389 --> 00:27:17,960
+if you look at what he means by evil
+resiliency is very close to murata
+
+591
+00:27:17,960 --> 00:27:21,720
+schism
+
+592
+00:27:21,720 --> 00:27:22,510
+if you like the word
+
+593
+00:27:22,510 --> 00:27:24,610
+pay no attention to that part
+
+594
+00:27:24,610 --> 00:27:27,380
+pay no attention by men behind a curtain
+
+595
+00:27:27,380 --> 00:27:27,929
+alm
+
+596
+00:27:27,929 --> 00:27:34,929
+what else is there
+
+597
+00:27:35,100 --> 00:27:40,110
+yeah what we mean by topographic we
+different behaviors means
+
+598
+00:27:40,110 --> 00:27:42,179
+behaviors and involve different
+
+599
+00:27:42,179 --> 00:27:43,150
+parts of the body
+
+600
+00:27:43,150 --> 00:27:45,960
+to be done to make a long story short
+
+601
+00:27:45,960 --> 00:27:48,779
+so smiling involves my face
+
+602
+00:27:48,779 --> 00:27:51,120
+and waiting and both my hands
+
+603
+00:27:51,120 --> 00:27:55,899
+but if i'm a friendly guy i tend to
+smile of people attend a way that people
+
+604
+00:27:55,899 --> 00:27:58,400
+but their topic graphically different
+behaviors
+
+605
+00:27:58,400 --> 00:28:00,450
+but they're correlated with each other
+
+606
+00:28:00,450 --> 00:28:04,070
+people who tend to smile tender wave
+because the other kinds of things that
+
+607
+00:28:04,070 --> 00:28:05,799
+extroverted people do
+
+608
+00:28:05,799 --> 00:28:08,029
+by semantically different rates
+
+609
+00:28:08,029 --> 00:28:11,410
+we mean traits that really have
+different meanings
+
+610
+00:28:11,410 --> 00:28:12,810
+arm
+
+611
+00:28:12,810 --> 00:28:13,789
+friendliness
+
+612
+00:28:13,789 --> 00:28:16,850
+doesn't mean the same thing as
+assertiveness
+
+613
+00:28:16,850 --> 00:28:17,410
+okay
+
+614
+00:28:17,410 --> 00:28:19,039
+to be friendly means uh...
+
+615
+00:28:19,039 --> 00:28:21,130
+have lots of friends and be nice to
+people
+
+616
+00:28:21,130 --> 00:28:24,700
+too assertive means to put yourself
+forward and a kind of take control of
+
+617
+00:28:24,700 --> 00:28:25,730
+things
+
+618
+00:28:25,730 --> 00:28:27,639
+but as a matter of fact
+
+619
+00:28:27,639 --> 00:28:31,559
+these two semantically different rates
+are karmaloop park are correlated with
+
+620
+00:28:31,559 --> 00:28:32,789
+each other
+
+621
+00:28:32,789 --> 00:28:34,480
+because they're both related to this
+
+622
+00:28:34,480 --> 00:28:36,570
+higher order trait of extra version
+
+623
+00:28:36,570 --> 00:28:38,300
+okay as women
+
+624
+00:28:38,300 --> 00:28:44,720
+anything else about this yet one more
+
+625
+00:28:44,720 --> 00:28:48,520
+yes that's right the difference between
+the week version and the are in the
+
+626
+00:28:48,520 --> 00:28:49,530
+strong version
+
+627
+00:28:49,530 --> 00:28:50,299
+is that
+
+628
+00:28:50,299 --> 00:28:55,120
+in the week version treats just kind of
+summarize a person's tendencies
+
+629
+00:28:55,120 --> 00:28:56,570
+so if i said
+
+630
+00:28:56,570 --> 00:28:58,450
+judy is
+
+631
+00:28:58,450 --> 00:28:58,860
+intelligent
+
+632
+00:28:58,860 --> 00:29:01,009
+so much or how do you know judy's
+intelligent
+
+633
+00:29:01,009 --> 00:29:04,829
+i said well if you know she wins the
+chess tournament and she understands the
+
+634
+00:29:04,829 --> 00:29:07,809
+symphony and all this kind of stuff
+
+635
+00:29:07,809 --> 00:29:09,830
+but if i say
+
+636
+00:29:09,830 --> 00:29:11,850
+judy's intelligence
+
+637
+00:29:11,850 --> 00:29:12,840
+causes her
+
+638
+00:29:12,840 --> 00:29:14,690
+to win the chess tournament
+
+639
+00:29:14,690 --> 00:29:16,759
+that's the strong doctrine okay
+
+640
+00:29:16,759 --> 00:29:18,190
+where we can say that
+
+641
+00:29:18,190 --> 00:29:19,690
+having a trait
+
+642
+00:29:19,690 --> 00:29:22,149
+causes you to behave in a particular way
+
+643
+00:29:22,149 --> 00:29:26,570
+it's at strong version of the doctrine
+of trades that's really at issue here
+
+644
+00:29:26,570 --> 00:29:28,950
+because the idea here is that
+
+645
+00:29:28,950 --> 00:29:30,780
+being able to
+
+646
+00:29:30,780 --> 00:29:32,760
+on where are we
+
+647
+00:29:32,760 --> 00:29:33,940
+dealing with a new
+
+648
+00:29:33,940 --> 00:29:36,779
+have been high on the eagle control
+
+649
+00:29:36,779 --> 00:29:37,780
+classes you
+
+650
+00:29:37,780 --> 00:29:40,700
+the daily ratification
+
+651
+00:29:40,700 --> 00:29:44,850
+or are being high on non-verbal i_q_ for
+that matter causes you to be able to
+
+652
+00:29:44,850 --> 00:29:45,649
+lake
+
+653
+00:29:45,649 --> 00:29:46,250
+gratification
+
+654
+00:29:46,250 --> 00:29:49,510
+now what we want to do that with his
+look at the other direction
+
+655
+00:29:49,510 --> 00:29:50,880
+of causality
+
+656
+00:29:50,880 --> 00:29:52,020
+okay
+
+657
+00:29:52,020 --> 00:29:54,780
+and he looked at
+
+658
+00:29:54,780 --> 00:29:56,710
+relationship between
+
+659
+00:29:56,710 --> 00:29:57,840
+qualities of the person
+
+660
+00:29:57,840 --> 00:30:01,029
+his or her political attitudes his or
+her
+
+661
+00:30:01,029 --> 00:30:03,220
+doll ability to the lake ratification
+
+662
+00:30:03,220 --> 00:30:07,220
+and behavior in some specific situation
+that we want to do now
+
+663
+00:30:07,220 --> 00:30:13,320
+is to look at our recent recall of fact
+all the individuals' behavior on the
+
+664
+00:30:13,320 --> 00:30:15,080
+person him or herself
+
+665
+00:30:15,080 --> 00:30:18,309
+how the individuals' behavior
+
+666
+00:30:18,309 --> 00:30:19,289
+deduct back
+
+667
+00:30:19,289 --> 00:30:20,400
+if you will
+
+668
+00:30:20,400 --> 00:30:22,700
+to alter
+
+669
+00:30:22,700 --> 00:30:25,230
+traipse the attitudes the dispositions
+
+670
+00:30:25,230 --> 00:30:27,929
+all of the individual him or herself
+
+671
+00:30:27,929 --> 00:30:29,840
+and that's a good example of this
+
+672
+00:30:29,840 --> 00:30:33,919
+is what's known in the trade as
+discussed in your textbook lightens
+
+673
+00:30:33,919 --> 00:30:39,409
+textbook as the self perception theory
+of attitudes formulated by daryl bam
+
+674
+00:30:39,409 --> 00:30:44,230
+back when he was a staffer professor
+bemis now at cornell university
+
+675
+00:30:44,230 --> 00:30:47,059
+and the sale perception theory about it
+dudes
+
+676
+00:30:47,059 --> 00:30:52,989
+reverses our usual view orbit called
+relationship between attitudes and
+
+677
+00:30:52,989 --> 00:30:53,780
+behavior
+
+678
+00:30:53,780 --> 00:30:55,830
+we usually think of
+
+679
+00:30:55,830 --> 00:31:00,100
+of attitudes as causing people to behave
+the way they do
+
+680
+00:31:00,100 --> 00:31:02,159
+and the liberals
+
+681
+00:31:02,159 --> 00:31:05,130
+liberal nis classes him
+
+682
+00:31:05,130 --> 00:31:07,810
+vote for terry as opposed to bush
+
+683
+00:31:07,810 --> 00:31:08,530
+causes him
+
+684
+00:31:08,530 --> 00:31:10,340
+to vote for
+
+685
+00:31:10,340 --> 00:31:13,460
+mcgovern as opposed to mix and or
+whatever
+
+686
+00:31:13,460 --> 00:31:17,529
+and but then the argued but that wasn't
+necessarily the case
+
+687
+00:31:17,529 --> 00:31:20,840
+rather from guns point of view our
+behavior
+
+688
+00:31:20,840 --> 00:31:23,060
+in some very important sense
+
+689
+00:31:23,060 --> 00:31:26,230
+causes us to have the attitudes that we
+have
+
+690
+00:31:26,230 --> 00:31:27,910
+put more concrete lee
+
+691
+00:31:27,910 --> 00:31:32,950
+it's not a perception or awareness of
+our own behavior
+
+692
+00:31:32,950 --> 00:31:35,309
+at least perform
+
+693
+00:31:35,309 --> 00:31:39,010
+attitudes that are consistent with the
+behavior
+
+694
+00:31:39,010 --> 00:31:43,669
+in the usual scheme of things the
+attitude comes first
+
+695
+00:31:43,669 --> 00:31:46,290
+and the behavior flows from it
+
+696
+00:31:46,290 --> 00:31:47,760
+in behrens
+
+697
+00:31:47,760 --> 00:31:50,089
+self perception theory of attitudes
+
+698
+00:31:50,089 --> 00:31:52,380
+that behavior comes first
+
+699
+00:31:52,380 --> 00:31:54,750
+and the attitudes
+
+700
+00:31:54,750 --> 00:31:56,910
+let me give you an example of this
+
+701
+00:31:56,910 --> 00:32:00,590
+all this is a classic experiment in
+social psychology known as the for the
+
+702
+00:32:00,590 --> 00:32:01,970
+door effect
+
+703
+00:32:01,970 --> 00:32:06,709
+this was an experiment conducted in the
+context of his safe driving campaign
+
+704
+00:32:06,709 --> 00:32:08,770
+in the state of california
+
+705
+00:32:08,770 --> 00:32:13,049
+and what these investigators did was in
+the guy is all of public opinion
+
+706
+00:32:13,049 --> 00:32:14,500
+all surveyors
+
+707
+00:32:14,500 --> 00:32:17,780
+then door-to-door in a number of
+neighborhoods air nam
+
+708
+00:32:17,780 --> 00:32:22,340
+uh... in in the heart of various cities
+in california mostly
+
+709
+00:32:22,340 --> 00:32:23,900
+palo alto
+
+710
+00:32:23,900 --> 00:32:26,210
+armed and tabatha neighborhoods
+
+711
+00:32:26,210 --> 00:32:29,640
+and whoever not old woman and knocked on
+the door whoever opened the door they
+
+712
+00:32:29,640 --> 00:32:30,100
+said
+
+713
+00:32:30,100 --> 00:32:34,799
+i were from the california safe driving
+campaign
+
+714
+00:32:34,799 --> 00:32:36,620
+and we have this petition
+
+715
+00:32:36,620 --> 00:32:39,970
+that supports safe driving
+
+716
+00:32:39,970 --> 00:32:44,340
+would you like to sign this petition
+
+717
+00:32:44,340 --> 00:32:45,649
+anybody here in
+
+718
+00:32:45,649 --> 00:32:49,370
+opposed to safe driving
+
+719
+00:32:49,370 --> 00:32:53,530
+pretty much everybody has expressed
+signs this petition gus right you're not
+
+720
+00:32:53,530 --> 00:32:57,040
+going to say well now allow opposed to
+safe driving i'm not going to sign your
+
+721
+00:32:57,040 --> 00:33:00,750
+stupid petition whatever so they've got
+around to have to households of these
+
+722
+00:33:00,750 --> 00:33:01,809
+various neighborhoods
+
+723
+00:33:01,809 --> 00:33:04,200
+and that's the best line of this
+petition
+
+724
+00:33:04,200 --> 00:33:07,799
+and virtually everybody who was asked to
+sign the petition
+
+725
+00:33:07,799 --> 00:33:09,740
+agreed to do so
+
+726
+00:33:09,740 --> 00:33:10,770
+later
+
+727
+00:33:10,770 --> 00:33:15,100
+barely returned to these neighborhoods
+and now instead of knocking on the
+
+728
+00:33:15,100 --> 00:33:17,279
+although two-and-a-half the doors in the
+neighborhood
+
+729
+00:33:17,279 --> 00:33:21,360
+they not done all the doors in the
+neighborhood and said
+
+730
+00:33:21,360 --> 00:33:21,929
+harley
+
+731
+00:33:21,929 --> 00:33:25,470
+were from the california safe driving
+campaign
+
+732
+00:33:25,470 --> 00:33:27,230
+we have this
+
+733
+00:33:27,230 --> 00:33:28,759
+drive carefully sign
+
+734
+00:33:28,759 --> 00:33:32,470
+that we would like to post in your front
+yard
+
+735
+00:33:32,470 --> 00:33:35,300
+and is that the biggest
+
+736
+00:33:35,300 --> 00:33:38,160
+or girliest saline you can imagine
+
+737
+00:33:38,160 --> 00:33:39,809
+that's just
+
+738
+00:33:39,809 --> 00:33:42,160
+as old as a as a piece of silage
+
+739
+00:33:42,160 --> 00:33:45,370
+putting that site in your front yard
+would drive property values down by
+
+740
+00:33:45,370 --> 00:33:49,090
+thirty or forty percent it's just that
+there was just a terrible
+
+741
+00:33:49,090 --> 00:33:50,410
+on either side
+
+742
+00:33:50,410 --> 00:33:51,220
+all dot
+
+743
+00:33:51,220 --> 00:33:53,180
+it turned out
+
+744
+00:33:53,180 --> 00:33:57,730
+large numbers of people agreed to post a
+sign in the neighborhood
+
+745
+00:33:57,730 --> 00:33:59,659
+and what's interesting in about it
+
+746
+00:33:59,659 --> 00:34:03,679
+is that people who are earlier signed
+the petition
+
+747
+00:34:03,679 --> 00:34:08,870
+we're much more likely to agree to post
+a sign it and their front yards
+
+748
+00:34:08,870 --> 00:34:09,729
+than people
+
+749
+00:34:09,729 --> 00:34:10,700
+who hadn't
+
+750
+00:34:10,700 --> 00:34:11,379
+that asked
+
+751
+00:34:11,379 --> 00:34:13,339
+to sign the petition
+
+752
+00:34:13,339 --> 00:34:17,909
+now i don't mind that virtually
+everybody who was asked to sign the
+
+753
+00:34:17,909 --> 00:34:18,359
+petition
+
+754
+00:34:18,359 --> 00:34:19,899
+did so
+
+755
+00:34:19,899 --> 00:34:22,589
+so these people verbal reasonable gas
+
+756
+00:34:22,589 --> 00:34:25,559
+is that these people who weren't asked
+to sign the petition
+
+757
+00:34:25,559 --> 00:34:27,039
+what they've done it
+
+758
+00:34:27,039 --> 00:34:29,909
+but it turns out it is the act
+
+759
+00:34:29,909 --> 00:34:34,109
+on signing dot petition
+
+760
+00:34:34,109 --> 00:34:38,809
+that leads people two-degree supposed to
+be a big audibly
+
+761
+00:34:38,809 --> 00:34:41,490
+all its safe driving a drive carefully
+sign
+
+762
+00:34:41,490 --> 00:34:42,939
+in their own
+
+763
+00:34:42,939 --> 00:34:44,809
+twelve in their front yard
+
+764
+00:34:44,809 --> 00:34:47,080
+wetsuits not happen in this experiment
+
+765
+00:34:47,080 --> 00:34:50,219
+was at the subjects who signed the
+petition
+
+766
+00:34:50,219 --> 00:34:53,209
+something went through their minds like
+this all i remember i signed this
+
+767
+00:34:53,209 --> 00:34:54,409
+petition
+
+768
+00:34:54,409 --> 00:34:57,569
+almost really be in favor of safe
+driving
+
+769
+00:34:57,569 --> 00:35:01,849
+therefore because signed so much in
+favor of safe driving all but the post a
+
+770
+00:35:01,849 --> 00:35:03,729
+sign
+
+771
+00:35:03,729 --> 00:35:05,949
+bad behavior
+
+772
+00:35:05,949 --> 00:35:10,090
+led to the creation of an attitude
+consistent with the behavior
+
+773
+00:35:10,090 --> 00:35:15,130
+and then they had no release form to
+entertain led to or further behavior
+
+774
+00:35:15,130 --> 00:35:18,010
+this is known as the footnote door
+technique
+
+775
+00:35:18,010 --> 00:35:19,840
+something that's known by
+
+776
+00:35:19,840 --> 00:35:21,499
+palm uh...
+
+777
+00:35:21,499 --> 00:35:25,000
+salesman sales people and political
+candidates the world over
+
+778
+00:35:25,000 --> 00:35:26,739
+and for that matter anybody
+
+779
+00:35:26,739 --> 00:35:30,739
+if you want to get somebody to do you
+want big favor
+
+780
+00:35:30,739 --> 00:35:34,419
+ask them to do a little favor first
+
+781
+00:35:34,419 --> 00:35:37,470
+they do it a little favorably on like
+this guy
+
+782
+00:35:37,470 --> 00:35:41,970
+no i don't do the big favour so you've
+got them not one of a quarter and pretty
+
+783
+00:35:41,970 --> 00:35:45,529
+soon you're signing over your monthly
+paycheck
+
+784
+00:35:45,529 --> 00:35:48,470
+but again it all starts with the
+behavior
+
+785
+00:35:48,470 --> 00:35:50,410
+the behavior comes first
+
+786
+00:35:50,410 --> 00:35:52,619
+here is another example
+
+787
+00:35:52,619 --> 00:35:56,169
+this is the experiment by bob shall be
+at a higher is at the state university
+
+788
+00:35:56,169 --> 00:35:58,239
+on subject recruitment
+
+789
+00:35:58,239 --> 00:36:03,430
+offered online this experiment subjects
+recruited for experiment by telephone
+
+790
+00:36:03,430 --> 00:36:04,999
+all and all
+
+791
+00:36:04,999 --> 00:36:07,130
+the subjects were informed
+
+792
+00:36:07,130 --> 00:36:08,770
+before they agreed to participate
+
+793
+00:36:08,770 --> 00:36:12,689
+that the experiment would begin at seven
+o'clock in the morning
+
+794
+00:36:12,689 --> 00:36:16,969
+hi i'm bob shall be reelected to come
+into this experiment it it's going to it
+
+795
+00:36:16,969 --> 00:36:21,900
+won't take place at seven o'clock in the
+morning william will you come in
+
+796
+00:36:21,900 --> 00:36:23,119
+and uh...
+
+797
+00:36:23,119 --> 00:36:27,339
+for the other half of the subjects they
+were informed a different began at seven
+
+798
+00:36:27,339 --> 00:36:29,789
+a_m_ after they agreed to participate
+
+799
+00:36:29,789 --> 00:36:33,419
+high on bob shall be the i'm doing this
+experiment would you like to produce a
+
+800
+00:36:33,419 --> 00:36:36,670
+cultural right like to participate
+
+801
+00:36:36,670 --> 00:36:37,519
+thank you very much
+
+802
+00:36:37,519 --> 00:36:40,570
+it starts at seven o'clock all see you
+then
+
+803
+00:36:40,570 --> 00:36:41,929
+and now the question is
+
+804
+00:36:41,929 --> 00:36:46,989
+how many people will actually arrive on
+time for the experiment
+
+805
+00:36:46,989 --> 00:36:49,419
+here is the data here
+
+806
+00:36:49,419 --> 00:36:51,940
+subjects who'll well-informed
+
+807
+00:36:51,940 --> 00:36:54,280
+about the starting time of the
+experiment
+
+808
+00:36:54,280 --> 00:36:56,160
+before they agreed to participate
+
+809
+00:36:56,160 --> 00:36:58,439
+well actually less likely to show
+
+810
+00:36:58,439 --> 00:37:00,239
+for the experiment
+
+811
+00:37:00,239 --> 00:37:05,089
+subjects or informed of the although the
+father of the overall
+
+812
+00:37:05,089 --> 00:37:07,140
+with experimental start time
+
+813
+00:37:07,140 --> 00:37:09,270
+after they agreed to participate
+
+814
+00:37:09,270 --> 00:37:11,400
+all were much more likely to show
+
+815
+00:37:11,400 --> 00:37:14,329
+why because child he had his foot in the
+door
+
+816
+00:37:14,329 --> 00:37:17,789
+they had already agreed to participate
+
+817
+00:37:17,789 --> 00:37:20,790
+that behavior appellee band led the
+subjects
+
+818
+00:37:20,790 --> 00:37:25,940
+to four minute attitude that was
+consistent with actually are showing up
+
+819
+00:37:25,940 --> 00:37:26,440
+later
+
+820
+00:37:26,440 --> 00:37:28,060
+thus in their favor
+
+821
+00:37:28,060 --> 00:37:29,560
+agreeing to participate
+
+822
+00:37:29,560 --> 00:37:31,780
+leads to the big favor later on
+
+823
+00:37:31,780 --> 00:37:32,819
+actually showing up
+
+824
+00:37:32,819 --> 00:37:35,049
+at the on godly all work
+
+825
+00:37:35,049 --> 00:37:35,830
+seven o'clock
+
+826
+00:37:35,830 --> 00:37:37,529
+how in the morning
+
+827
+00:37:37,529 --> 00:37:38,130
+again
+
+828
+00:37:38,130 --> 00:37:40,640
+what what what this experiment
+illustrates
+
+829
+00:37:40,640 --> 00:37:44,960
+is the reversal or the usual god
+direction of causality
+
+830
+00:37:44,960 --> 00:37:47,470
+bad behavior comes first
+
+831
+00:37:47,470 --> 00:37:49,010
+and the attitude
+
+832
+00:37:49,010 --> 00:37:50,279
+columns
+
+833
+00:37:50,279 --> 00:37:53,199
+this is the reciprocal affect
+
+834
+00:37:53,199 --> 00:37:57,779
+or behavior on the person here's one
+more example another classic experiment
+
+835
+00:37:57,779 --> 00:38:00,450
+by shelley check in now at n_y_u_
+
+836
+00:38:00,450 --> 00:38:03,249
+on conservation attitudes and behavior
+
+837
+00:38:03,249 --> 00:38:06,999
+in the yard guise of a young
+
+838
+00:38:06,999 --> 00:38:10,659
+prescreened like one you did on at the
+very beginning of this sort of the
+
+839
+00:38:10,659 --> 00:38:16,799
+semester all touch a chemical and and
+and baldwin administered a test of
+
+840
+00:38:16,799 --> 00:38:20,779
+environmental attitudes obviously things
+like do you believe in environmental
+
+841
+00:38:20,779 --> 00:38:24,729
+conservation do you think it's important
+to pick up trash do you think uh... it's
+
+842
+00:38:24,729 --> 00:38:26,010
+okay to throw your
+
+843
+00:38:26,010 --> 00:38:29,770
+coke bottles by the side of the road
+stuff like that river when the systems
+
+844
+00:38:29,770 --> 00:38:33,840
+twenty years ago report that we're on
+the time of the first birthday where
+
+845
+00:38:33,840 --> 00:38:38,750
+people did actually very fairly widely
+on their attitudes about environmental
+
+846
+00:38:38,750 --> 00:38:39,749
+conservation
+
+847
+00:38:39,749 --> 00:38:44,060
+but instead on what you did in in any
+event what dot jacob involving dead
+
+848
+00:38:44,060 --> 00:38:46,559
+was the classified as subjects as
+
+849
+00:38:46,559 --> 00:38:49,749
+prayer book work on environmental
+
+850
+00:38:49,749 --> 00:38:50,499
+conservation
+
+851
+00:38:50,499 --> 00:38:52,280
+all and also
+
+852
+00:38:52,280 --> 00:38:55,010
+classify them as in terms of whether
+they had week
+
+853
+00:38:55,010 --> 00:38:56,669
+or stray dog
+
+854
+00:38:56,669 --> 00:38:59,539
+all orcon attitudes
+
+855
+00:38:59,539 --> 00:39:01,279
+after this pretest
+
+856
+00:39:01,279 --> 00:39:04,170
+trumpeter baldwin administered another
+questionnaire
+
+857
+00:39:04,170 --> 00:39:07,050
+in which subjects were asked to reflect
+
+858
+00:39:07,050 --> 00:39:09,989
+on their specific behaviors
+
+859
+00:39:09,989 --> 00:39:13,119
+with respect to environmental
+conservation
+
+860
+00:39:13,119 --> 00:39:15,700
+so for example all
+
+861
+00:39:15,700 --> 00:39:18,179
+old thought that there were
+
+862
+00:39:18,179 --> 00:39:18,519
+items like
+
+863
+00:39:18,519 --> 00:39:22,589
+i pick up other people's garbage okay
+
+864
+00:39:22,589 --> 00:39:23,779
+even
+
+865
+00:39:23,779 --> 00:39:25,099
+very
+
+866
+00:39:25,099 --> 00:39:28,359
+pro environmental people don't
+necessarily pick up other people's
+
+867
+00:39:28,359 --> 00:39:30,919
+garbage one april when they find that
+lying around
+
+868
+00:39:30,919 --> 00:39:33,909
+so one group got these very difficult
+items were
+
+869
+00:39:33,909 --> 00:39:35,890
+most people are going to say no
+
+870
+00:39:35,890 --> 00:39:38,160
+and i've got a group of of the people
+
+871
+00:39:38,160 --> 00:39:39,600
+got these other items
+
+872
+00:39:39,600 --> 00:39:40,599
+where all
+
+873
+00:39:40,599 --> 00:39:44,630
+you know i leave the lights on and clean
+rooms are not using way everybody does
+
+874
+00:39:44,630 --> 00:39:49,900
+that from time to time it's the kind of
+thing it's easy to answer yes on too
+
+875
+00:39:49,900 --> 00:39:52,269
+what they did with the ethical to
+
+876
+00:39:52,269 --> 00:39:53,180
+wind one group
+
+877
+00:39:53,180 --> 00:39:55,109
+to reflect on their work
+
+878
+00:39:55,109 --> 00:39:57,630
+prayer environmental behaviors
+
+879
+00:39:57,630 --> 00:39:58,779
+and another group
+
+880
+00:39:58,779 --> 00:40:02,030
+i have some questions that led them to
+reflect on their
+
+881
+00:40:02,030 --> 00:40:03,359
+aunty
+
+882
+00:40:03,359 --> 00:40:04,520
+environmental behaviors
+
+883
+00:40:04,520 --> 00:40:05,929
+and then
+
+884
+00:40:05,929 --> 00:40:07,880
+we administered the test
+
+885
+00:40:07,880 --> 00:40:09,910
+of environmental attitudes
+
+886
+00:40:09,910 --> 00:40:12,509
+what happened there're
+
+887
+00:40:12,509 --> 00:40:13,419
+is that
+
+888
+00:40:13,419 --> 00:40:17,069
+for subjects who had
+
+889
+00:40:17,069 --> 00:40:18,109
+relatively weak
+
+890
+00:40:18,109 --> 00:40:21,250
+pro or empty and barter mental attitudes
+
+891
+00:40:21,250 --> 00:40:21,940
+okay
+
+892
+00:40:21,940 --> 00:40:23,970
+when they were all
+
+893
+00:40:23,970 --> 00:40:25,919
+when they are what we're retested
+
+894
+00:40:25,919 --> 00:40:29,499
+the distinction between them became even
+greater
+
+895
+00:40:29,499 --> 00:40:30,779
+when subjects
+
+896
+00:40:30,779 --> 00:40:32,479
+with we've got it too
+
+897
+00:40:32,479 --> 00:40:36,929
+will lead to believe that actually
+behaved in a way that was pro
+
+898
+00:40:36,929 --> 00:40:38,519
+environmental conservation
+
+899
+00:40:38,519 --> 00:40:39,690
+baby came
+
+900
+00:40:39,690 --> 00:40:43,049
+more strongly in favor of environmental
+conservation
+
+901
+00:40:43,049 --> 00:40:46,139
+when subjects were lad
+
+902
+00:40:46,139 --> 00:40:46,680
+retrieve
+
+903
+00:40:46,680 --> 00:40:48,269
+bof a memory
+
+904
+00:40:48,269 --> 00:40:54,229
+behaviors that were opposed to
+environmental conservation they became
+
+905
+00:40:54,229 --> 00:40:56,459
+all dog a book more negatively
+
+906
+00:40:56,459 --> 00:40:58,750
+although if alton
+
+907
+00:40:58,750 --> 00:40:59,349
+disposed
+
+908
+00:40:59,349 --> 00:41:02,280
+towards that behavior the experiment
+didn't work that way for people with
+
+909
+00:41:02,280 --> 00:41:06,900
+strong environmental conservation
+attitudes okay which is interesting but
+
+910
+00:41:06,900 --> 00:41:09,399
+here's another case
+
+911
+00:41:09,399 --> 00:41:12,229
+proceeding in your own behavior
+
+912
+00:41:12,229 --> 00:41:14,289
+leader of four men attitude
+
+913
+00:41:14,289 --> 00:41:18,829
+that's consistent with their behavior
+that you proceed okay
+
+914
+00:41:18,829 --> 00:41:20,260
+all of these experiments
+
+915
+00:41:20,260 --> 00:41:23,339
+are consistent with this
+
+916
+00:41:23,339 --> 00:41:28,209
+idea of daryl barons about the self
+perception our theory of attitudes
+
+917
+00:41:28,209 --> 00:41:30,700
+the people in for their attitudes
+
+918
+00:41:30,700 --> 00:41:33,670
+from knowledge of their own behaviors
+
+919
+00:41:33,670 --> 00:41:37,150
+which is if you think about it the same
+way we infer
+
+920
+00:41:37,150 --> 00:41:37,660
+home
+
+921
+00:41:37,660 --> 00:41:40,819
+or other people's attitudes if i want to
+know whether you're
+
+922
+00:41:40,819 --> 00:41:44,149
+pro rent the environmental conservation
+are falling around and see if you pick
+
+923
+00:41:44,149 --> 00:41:47,969
+up other people's garbage in we've
+lights on the rooms are not using and
+
+924
+00:41:47,969 --> 00:41:49,829
+stuff like that
+
+925
+00:41:49,829 --> 00:41:51,309
+themselves
+
+926
+00:41:51,309 --> 00:41:55,509
+we do with ourselves as well we don't
+have attitudes
+
+927
+00:41:55,509 --> 00:41:59,300
+what we do is we form they don't know
+that it is our cause our behavior
+
+928
+00:41:59,300 --> 00:42:01,869
+rather reform attitudes
+
+929
+00:42:01,869 --> 00:42:06,589
+all in line with the behaviors that all
+that we engage in
+
+930
+00:42:06,589 --> 00:42:10,250
+one more example of this paw paws idea
+
+931
+00:42:10,250 --> 00:42:14,460
+is what's known as the james lang a
+theory all of you mention which
+
+932
+00:42:14,460 --> 00:42:16,749
+claiborne also talks about
+
+933
+00:42:16,749 --> 00:42:19,070
+again our traditional view
+
+934
+00:42:19,070 --> 00:42:23,270
+the traditional view that believe james
+sort or the crystallized
+
+935
+00:42:23,270 --> 00:42:25,299
+is that even mentions
+
+936
+00:42:25,299 --> 00:42:28,699
+lead us to behave in particular ways
+
+937
+00:42:28,699 --> 00:42:32,699
+all if i walk in belum guarded from
+walking across campus and i've got a
+
+938
+00:42:32,699 --> 00:42:35,469
+jump start of the bushes near california
+hole
+
+939
+00:42:35,469 --> 00:42:39,670
+that rebuffed is going to elicit fierer
+in me
+
+940
+00:42:39,670 --> 00:42:42,579
+and the fear is going to make me right
+away
+
+941
+00:42:42,579 --> 00:42:45,549
+the emotion closes me to behave
+
+942
+00:42:45,549 --> 00:42:48,769
+in pay particular
+
+943
+00:42:48,769 --> 00:42:51,799
+jane said gee maybe it's the other way
+around
+
+944
+00:42:51,799 --> 00:42:57,770
+maybe on survey shows of our own
+behavior cause or a professional states
+
+945
+00:42:57,770 --> 00:43:03,329
+as james put it from an doesn't run from
+the bear because he's afraid
+
+946
+00:43:03,329 --> 00:43:05,059
+the man is afraid
+
+947
+00:43:05,059 --> 00:43:07,380
+because he runs from the bearer
+
+948
+00:43:07,380 --> 00:43:11,109
+but behavior comes first the internal
+
+949
+00:43:11,109 --> 00:43:12,039
+emotional state
+
+950
+00:43:12,039 --> 00:43:14,050
+all columns of comes later
+
+951
+00:43:14,050 --> 00:43:18,489
+now this is a very controversial
+although point-of-view and all
+
+952
+00:43:18,489 --> 00:43:20,130
+and out of a psychology
+
+953
+00:43:20,130 --> 00:43:23,879
+but there is some on some evidence on in
+favor of it
+
+954
+00:43:23,879 --> 00:43:29,379
+all here's kind of the traditional view
+here all the from from from paul ekman
+
+955
+00:43:29,379 --> 00:43:31,959
+facial expressions of emotion
+
+956
+00:43:31,959 --> 00:43:34,659
+being in that particular emotional state
+
+957
+00:43:34,659 --> 00:43:36,369
+causes us
+
+958
+00:43:36,369 --> 00:43:38,410
+behave in a particular way
+
+959
+00:43:38,410 --> 00:43:39,640
+indirect wins case
+
+960
+00:43:39,640 --> 00:43:43,500
+are causes us to expressed sorrow motion
+allstate's
+
+961
+00:43:43,500 --> 00:43:45,610
+on our faces so
+
+962
+00:43:45,610 --> 00:43:47,399
+here we have ek wins
+
+963
+00:43:47,399 --> 00:43:50,349
+basic emotions happiness sadness
+
+964
+00:43:50,349 --> 00:43:51,190
+fear
+
+965
+00:43:51,190 --> 00:43:53,999
+anger surprise and discussed
+
+966
+00:43:53,999 --> 00:43:56,269
+and the traditional view
+
+967
+00:43:56,269 --> 00:43:57,859
+although she will states
+
+968
+00:43:57,859 --> 00:44:00,870
+a characteristic of us as people
+
+969
+00:44:00,870 --> 00:44:03,019
+classes oz
+
+970
+00:44:03,019 --> 00:44:05,220
+make these facial expressions
+
+971
+00:44:05,220 --> 00:44:08,469
+but james and his of width
+
+972
+00:44:08,469 --> 00:44:12,970
+thus deduction data psychologist name
+logger said no
+
+973
+00:44:12,970 --> 00:44:18,859
+expressions are caused bio motions
+expressions harvey motion the behavior
+
+974
+00:44:18,859 --> 00:44:22,649
+comes first the emotion
+
+975
+00:44:22,649 --> 00:44:28,219
+here is an example that parking that
+kind of illustrates palm uh... james's
+
+976
+00:44:28,219 --> 00:44:28,759
+point
+
+977
+00:44:28,759 --> 00:44:30,909
+was work by james letter
+
+978
+00:44:30,909 --> 00:44:32,500
+all in which all
+
+979
+00:44:32,500 --> 00:44:36,920
+all in the guys all calibrating some
+equipment some psycho physiological
+
+980
+00:44:36,920 --> 00:44:40,410
+recording equipment also
+
+981
+00:44:40,410 --> 00:44:46,649
+layered after subjects to hold certain
+expressions on their faces
+
+982
+00:44:46,649 --> 00:44:48,780
+and while they were doing that
+
+983
+00:44:48,780 --> 00:44:54,530
+he collected all he collected various
+kinds of mood ratings you get some sense
+
+984
+00:44:54,530 --> 00:44:56,099
+of what wrongful
+
+985
+00:44:56,099 --> 00:44:57,059
+of what he did
+
+986
+00:44:57,059 --> 00:45:00,380
+if you take your pen or pencil and just
+do two things
+
+987
+00:45:00,380 --> 00:45:01,699
+all first
+
+988
+00:45:01,699 --> 00:45:04,939
+arctic about a pencil not dot point okay
+
+989
+00:45:04,939 --> 00:45:11,939
+alm and just hold it between your lips
+
+990
+00:45:13,389 --> 00:45:14,309
+okay
+
+991
+00:45:14,309 --> 00:45:21,309
+and then do the same thing and hold it
+between your teeth
+
+992
+00:45:23,059 --> 00:45:23,619
+notice
+
+993
+00:45:23,619 --> 00:45:27,319
+that when you hold
+
+994
+00:45:27,319 --> 00:45:28,690
+all
+
+995
+00:45:28,690 --> 00:45:32,269
+thought that that would when when you
+hold the uh... the pencil in your lips
+
+996
+00:45:32,269 --> 00:45:33,319
+all between your legs
+
+997
+00:45:33,319 --> 00:45:36,800
+your facial expression begins to looks
+at you all look pretty fair
+
+998
+00:45:36,800 --> 00:45:38,329
+when you're doing that
+
+999
+00:45:38,329 --> 00:45:44,429
+whereas when you hold the barbara berra
+pencil between your teeth
+
+1000
+00:45:44,429 --> 00:45:49,130
+a little bit estas kinda naturally all
+look very happy all there
+
+1001
+00:45:49,130 --> 00:45:53,630
+and that's actually what larry david he
+manipulated people's faces
+
+1002
+00:45:53,630 --> 00:45:55,749
+so that they were expressing
+
+1003
+00:45:55,749 --> 00:45:59,250
+fear or anger or discussed or sadness
+
+1004
+00:45:59,250 --> 00:46:04,069
+and then ask the subjects or write
+themselves on with their most states
+
+1005
+00:46:04,069 --> 00:46:05,369
+and they discovered
+
+1006
+00:46:05,369 --> 00:46:08,239
+was a subjects
+
+1007
+00:46:08,239 --> 00:46:11,440
+mabe who was manipulated facial
+expression that was a facial expression
+
+1008
+00:46:11,440 --> 00:46:12,719
+of fear
+
+1009
+00:46:12,719 --> 00:46:13,660
+actually
+
+1010
+00:46:13,660 --> 00:46:14,410
+felt
+
+1011
+00:46:14,410 --> 00:46:16,009
+fearful
+
+1012
+00:46:16,009 --> 00:46:19,189
+subjects whose faces look angry
+
+1013
+00:46:19,189 --> 00:46:19,960
+actually
+
+1014
+00:46:19,960 --> 00:46:21,900
+felt angry
+
+1015
+00:46:21,900 --> 00:46:23,989
+subject since faces
+
+1016
+00:46:23,989 --> 00:46:26,599
+well looked like they were in disgust
+
+1017
+00:46:26,599 --> 00:46:30,689
+felt so im discussed at that one didn't
+work out so well but it worked out very
+
+1018
+00:46:30,689 --> 00:46:32,169
+nicely for said this
+
+1019
+00:46:32,169 --> 00:46:35,789
+he'd be all subjects whose fill a facial
+manipulation of the facial expressions
+
+1020
+00:46:35,789 --> 00:46:36,910
+were manipulated
+
+1021
+00:46:36,910 --> 00:46:38,430
+to reflect sadness
+
+1022
+00:46:38,430 --> 00:46:40,809
+actually began to feel sad
+
+1023
+00:46:40,809 --> 00:46:43,939
+that behavior came first
+
+1024
+00:46:43,939 --> 00:46:46,299
+and the mood came later
+
+1025
+00:46:46,299 --> 00:46:48,610
+here's yet another example of how
+
+1026
+00:46:48,610 --> 00:46:50,809
+your behavior
+
+1027
+00:46:50,809 --> 00:46:51,329
+feedback
+
+1028
+00:46:51,329 --> 00:46:53,479
+to shape
+
+1029
+00:46:53,479 --> 00:46:58,059
+traits your attitudes your moods and
+depart and so on
+
+1030
+00:46:58,059 --> 00:46:59,999
+all of which has to do
+
+1031
+00:46:59,999 --> 00:47:01,019
+with this
+
+1032
+00:47:01,019 --> 00:47:04,330
+general idea that there is a very
+separate colt
+
+1033
+00:47:04,330 --> 00:47:05,720
+calls our relation
+
+1034
+00:47:05,720 --> 00:47:08,710
+between the characteristics of the
+person
+
+1035
+00:47:08,710 --> 00:47:11,869
+and the person's overt behavior
+
+1036
+00:47:11,869 --> 00:47:17,090
+sometimes the persons traits in states
+moods and attitudes
+
+1037
+00:47:17,090 --> 00:47:18,849
+lead the person to behave
+
+1038
+00:47:18,849 --> 00:47:23,650
+in the way that he or she does that's
+one side of the causal link
+
+1039
+00:47:23,650 --> 00:47:25,490
+all other times
+
+1040
+00:47:25,490 --> 00:47:27,140
+behavior comes first
+
+1041
+00:47:27,140 --> 00:47:30,320
+and the internal disposition or st
+
+1042
+00:47:30,320 --> 00:47:31,619
+cotton second
+
+1043
+00:47:31,619 --> 00:47:33,939
+behaving in a particular way
+
+1044
+00:47:33,939 --> 00:47:36,059
+leads you to all have
+
+1045
+00:47:36,059 --> 00:47:38,469
+a particular kind of emotional state
+
+1046
+00:47:38,469 --> 00:47:42,939
+this is the kind of situation that
+summed up in and anybody here ever see
+
+1047
+00:47:42,939 --> 00:47:45,939
+you know the movie or the play the king
+and i agree and in the high schools
+
+1048
+00:47:45,939 --> 00:47:49,459
+something like that gay around that's
+long before i happy to know i'm not
+
+1049
+00:47:49,459 --> 00:47:52,099
+going to sing it to you here
+
+1050
+00:47:52,099 --> 00:47:57,049
+whenever i feel afraid i'd hold my head
+a wrecked and whistle a happy two nd so
+
+1051
+00:47:57,049 --> 00:47:59,799
+no one will suspect i'm afraid
+
+1052
+00:47:59,799 --> 00:48:04,249
+and then it goes on and on and on welch
+everyday my shoes i strike a careless
+
+1053
+00:48:04,249 --> 00:48:04,790
+posed
+
+1054
+00:48:04,790 --> 00:48:08,570
+and whistle are happy to him so no one
+ever knows i'm afraid
+
+1055
+00:48:08,570 --> 00:48:12,660
+and then the chances are not talking to
+her son is they're pulling up by the doc
+
+1056
+00:48:12,660 --> 00:48:17,450
+in not in bangkok the result of this
+deception is very strange to tell
+
+1057
+00:48:17,450 --> 00:48:22,650
+for when i for the people i fear rifle
+myself as well
+
+1058
+00:48:22,650 --> 00:48:25,009
+bad behavior comes first
+
+1059
+00:48:25,009 --> 00:48:26,350
+wesley that have been thrown
+
+1060
+00:48:26,350 --> 00:48:28,340
+makes you feel less afraid
+
+1061
+00:48:28,340 --> 00:48:30,010
+behaving as if you're not afraid
+
+1062
+00:48:30,010 --> 00:48:32,709
+makes you feel less afraid
+
+1063
+00:48:32,709 --> 00:48:35,150
+behaviors are caused by
+
+1064
+00:48:35,150 --> 00:48:36,730
+internal states and traits
+
+1065
+00:48:36,730 --> 00:48:39,339
+but they also
+
+1066
+00:48:39,339 --> 00:48:39,839
+callers
+
+1067
+00:48:39,839 --> 00:48:42,619
+you listed vent also can deal with it
+
+1068
+00:48:42,619 --> 00:48:44,479
+internal states and traits
+
+1069
+00:48:44,479 --> 00:48:48,239
+that's the reset record relationship
+between the person in his or her
+
+1070
+00:48:48,239 --> 00:48:49,169
+behavior
+
+1071
+00:48:49,169 --> 00:48:50,800
+next time on monday
+
+1072
+00:48:50,800 --> 00:48:53,270
+look at the same reciprocal relationship
+
+1073
+00:48:53,270 --> 00:48:54,710
+that obtains between
+
+1074
+00:48:54,710 --> 00:48:56,030
+the environment
+
+1075
+00:48:56,030 --> 00:48:58,019
+and behavior
+
+1076
+00:48:58,019 --> 00:48:58,459
+thank you very much
+

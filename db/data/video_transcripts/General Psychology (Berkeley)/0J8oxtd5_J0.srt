@@ -1,0 +1,4086 @@
+﻿1
+00:00:05,640 --> 00:00:12,579
+okay last time we left off in our
+discussion all val principles of memory
+
+2
+00:00:12,579 --> 00:00:13,679
+this
+
+3
+00:00:13,679 --> 00:00:16,999
+principal in a systematic process in
+principle
+
+4
+00:00:16,999 --> 00:00:19,640
+which has to do with the relation
+between
+
+5
+00:00:19,640 --> 00:00:24,269
+our memory for a particular investments
+on the right hand
+
+6
+00:00:24,269 --> 00:00:29,299
+and i'm not going to check out the world
+in general on the other hand
+
+7
+00:00:29,299 --> 00:00:31,500
+and the general idea here is
+
+8
+00:00:31,500 --> 00:00:34,040
+that memory for
+
+9
+00:00:34,040 --> 00:00:36,530
+things in particular
+
+10
+00:00:36,530 --> 00:00:40,490
+depends on its run the relationship
+between those things and what we know
+
+11
+00:00:40,490 --> 00:00:44,960
+in general and terms of our knowledge
+expectations and beliefs
+
+12
+00:00:44,960 --> 00:00:46,400
+so for example
+
+13
+00:00:46,400 --> 00:00:49,540
+turns out that they are two different
+classes these
+
+14
+00:00:49,540 --> 00:00:53,370
+that govern divert the alcohol be a
+factor
+
+15
+00:00:53,370 --> 00:00:56,110
+memories come out of general frameworks
+
+16
+00:00:56,110 --> 00:00:58,440
+arms are no on memory
+
+17
+00:00:58,440 --> 00:00:59,269
+first is
+
+18
+00:00:59,269 --> 00:01:01,950
+that schematic on driving behaviors
+
+19
+00:01:01,950 --> 00:01:07,030
+baha'i dividends that are consistent
+with our expectations
+
+20
+00:01:07,030 --> 00:01:08,619
+said well in
+
+21
+00:01:08,619 --> 00:01:10,759
+terms of everything that's about the
+world
+
+22
+00:01:10,759 --> 00:01:14,340
+they are very easily in colorado
+
+23
+00:01:14,340 --> 00:01:15,630
+for that is
+
+24
+00:01:15,630 --> 00:01:17,080
+douglas came out
+
+25
+00:01:17,080 --> 00:01:18,570
+wrapper to schema
+
+26
+00:01:18,570 --> 00:01:22,350
+provides a framework that what you can
+understand what's going on
+
+27
+00:01:22,350 --> 00:01:25,850
+and fit those events rates are right in
+
+28
+00:01:25,850 --> 00:01:31,170
+at the same token schematic in camera
+and events are difficult to encode
+
+29
+00:01:31,170 --> 00:01:35,399
+precisely because they don't fit with
+your expectations they don't conform
+
+30
+00:01:35,399 --> 00:01:36,860
+with your general believes
+
+31
+00:01:36,860 --> 00:01:39,270
+you have to think about them for a while
+
+32
+00:01:39,270 --> 00:01:42,539
+so in working for him and they just
+email provides
+
+33
+00:01:42,539 --> 00:01:45,380
+a kind of organizational framework
+
+34
+00:01:45,380 --> 00:01:49,700
+weird some events schema concord events
+are factored in memory
+
+35
+00:01:49,700 --> 00:01:51,640
+in another way
+
+36
+00:01:51,640 --> 00:01:54,120
+this game of provides a kind of
+
+37
+00:01:54,120 --> 00:01:55,650
+background for elaboration
+
+38
+00:01:55,650 --> 00:02:00,080
+well you have to explain to yourself
+wide ischemic in congruent event
+
+39
+00:02:00,080 --> 00:02:03,890
+occurred and they're very act-up
+explaining the event
+
+40
+00:02:03,890 --> 00:02:06,119
+all leads to a more elaborate
+
+41
+00:02:06,119 --> 00:02:07,250
+trace a memory
+
+42
+00:02:07,250 --> 00:02:09,929
+leads to better memory for the event
+later
+
+43
+00:02:09,929 --> 00:02:11,919
+schematic violent behaviors
+
+44
+00:02:11,919 --> 00:02:17,089
+don't get either benefit they're not
+schema conduit so they don't get all
+
+45
+00:02:17,089 --> 00:02:20,820
+happy office allocated processing at the
+time of encoding
+
+46
+00:02:20,820 --> 00:02:23,060
+and they're not schema incongruity
+
+47
+00:02:23,060 --> 00:02:27,640
+so that they don't get the benefit of
+this extra forms of elaborate of
+
+48
+00:02:27,640 --> 00:02:28,469
+activity
+
+49
+00:02:28,469 --> 00:02:31,569
+said like and what we can do is we can
+expand
+
+50
+00:02:31,569 --> 00:02:34,279
+does come at a crisis in principle
+little bit
+
+51
+00:02:34,279 --> 00:02:36,670
+to be more precise
+
+52
+00:02:36,670 --> 00:02:38,390
+about the facts out
+
+53
+00:02:38,390 --> 00:02:40,379
+buddy exact relationship
+
+54
+00:02:40,379 --> 00:02:43,430
+between the event and pre-existing
+schemata
+
+55
+00:02:43,430 --> 00:02:46,870
+we said already that memories of
+function of the relationship between the
+
+56
+00:02:46,870 --> 00:02:48,709
+benton pre-existing sca model
+
+57
+00:02:48,709 --> 00:02:52,409
+the first thing is whether the event is
+schema relevant
+
+58
+00:02:52,409 --> 00:02:54,629
+or a schematic irrelevant
+
+59
+00:02:54,629 --> 00:02:55,439
+does the event
+
+60
+00:02:55,439 --> 00:02:57,529
+there on the schema in any way
+
+61
+00:02:57,529 --> 00:03:01,129
+and if so that event is going to be
+better remembered
+
+62
+00:03:01,129 --> 00:03:02,640
+then one that doesn't
+
+63
+00:03:02,640 --> 00:03:04,809
+bear on the schema
+
+64
+00:03:04,809 --> 00:03:07,720
+and the second part of the second
+distinction that's important
+
+65
+00:03:07,720 --> 00:03:11,040
+there to raise them but you can be
+relevant to a skimmer
+
+66
+00:03:11,040 --> 00:03:13,660
+if you need to be conned runs with the
+schema
+
+67
+00:03:13,660 --> 00:03:17,479
+or you can be in congruent with the
+schema and it turns out
+
+68
+00:03:17,479 --> 00:03:19,040
+just as an empirical fact
+
+69
+00:03:19,040 --> 00:03:21,370
+the schema in congruent events
+
+70
+00:03:21,370 --> 00:03:22,870
+tend to be remembered better
+
+71
+00:03:22,870 --> 00:03:24,759
+than schema cargo and events
+
+72
+00:03:24,759 --> 00:03:27,199
+the u_n_ expected
+
+73
+00:03:27,199 --> 00:03:28,789
+more processing
+
+74
+00:03:28,789 --> 00:03:30,710
+and all and is better off
+
+75
+00:03:30,710 --> 00:03:32,469
+better remember
+
+76
+00:03:32,469 --> 00:03:34,150
+so so far
+
+77
+00:03:34,150 --> 00:03:40,100
+we've discussed on member all principles
+of memory that cover the encoding
+
+78
+00:03:40,100 --> 00:03:44,919
+the storage and the retrieval stage of
+memory processing
+
+79
+00:03:44,919 --> 00:03:46,720
+and what i want you to see here
+
+80
+00:03:46,720 --> 00:03:50,120
+is up all of these principles so far
+
+81
+00:03:50,120 --> 00:03:55,309
+reflect what you might call that library
+metaphor of memory
+
+82
+00:03:55,309 --> 00:04:00,549
+that is the idea that our memories are
+stored houses of marriage
+
+83
+00:04:00,549 --> 00:04:01,669
+and you
+
+84
+00:04:01,669 --> 00:04:06,379
+put knowledge into memory the same what
+do you put a book in the library
+
+85
+00:04:06,379 --> 00:04:09,129
+dot now which remains stranded in memory
+
+86
+00:04:09,129 --> 00:04:13,620
+the same way of book remains stored on
+the library shelf
+
+87
+00:04:13,620 --> 00:04:16,580
+and then you want the information that's
+contained in memory
+
+88
+00:04:16,580 --> 00:04:19,410
+you retrieved some piece of information
+
+89
+00:04:19,410 --> 00:04:20,699
+in the same way
+
+90
+00:04:20,699 --> 00:04:21,920
+that you would
+
+91
+00:04:21,920 --> 00:04:25,800
+or or that checker book out of the
+library
+
+92
+00:04:25,800 --> 00:04:28,430
+this library metaphor for memory
+
+93
+00:04:28,430 --> 00:04:34,639
+has been around since roughly the time
+of aristotle and it is not a bad way to
+
+94
+00:04:34,639 --> 00:04:39,169
+think about on the other of about memory
+
+95
+00:04:39,169 --> 00:04:43,360
+notion although memories information
+that's in korea did
+
+96
+00:04:43,360 --> 00:04:47,229
+storied and retrieved when you want to
+use it
+
+97
+00:04:47,229 --> 00:04:48,230
+all
+
+98
+00:04:48,230 --> 00:04:50,060
+it's not the whole story
+
+99
+00:04:50,060 --> 00:04:52,220
+and the reason it's not the whole story
+
+100
+00:04:52,220 --> 00:04:57,850
+is that there are other interesting
+things that go along besides alm besides
+
+101
+00:04:57,850 --> 00:04:58,400
+storing
+
+102
+00:04:58,400 --> 00:05:02,719
+and retrieving information enough in
+memory
+
+103
+00:05:02,719 --> 00:05:06,649
+but ever since i've been how's this
+laundry metaphor for memory has
+
+104
+00:05:06,649 --> 00:05:10,479
+dominated the way we think about all of
+about the phenomenon
+
+105
+00:05:10,479 --> 00:05:13,090
+and the general idea here
+
+106
+00:05:13,090 --> 00:05:14,089
+remembering
+
+107
+00:05:14,089 --> 00:05:18,759
+takes a former reproducing sale or rent
+in the mind
+
+108
+00:05:18,759 --> 00:05:20,589
+and colleen
+
+109
+00:05:20,589 --> 00:05:24,299
+information in memory makes available
+for use later
+
+110
+00:05:24,299 --> 00:05:25,770
+retrieval process these
+
+111
+00:05:25,770 --> 00:05:26,809
+dana access
+
+112
+00:05:26,809 --> 00:05:28,720
+to encoded knowledge
+
+113
+00:05:28,720 --> 00:05:33,129
+and so there are basically to mechanisms
+for forgetting
+
+114
+00:05:33,129 --> 00:05:35,289
+that are relevant to us
+
+115
+00:05:35,289 --> 00:05:39,330
+you forget something if u_n_ coated at
+poorly to begin with or maybe you didn't
+
+116
+00:05:39,330 --> 00:05:40,610
+even uncoated
+
+117
+00:05:40,610 --> 00:05:42,559
+are at all
+
+118
+00:05:42,559 --> 00:05:43,360
+codeine
+
+119
+00:05:43,360 --> 00:05:44,479
+makes
+
+120
+00:05:44,479 --> 00:05:47,020
+information unavailable in memory
+
+121
+00:05:47,020 --> 00:05:48,550
+by the same token
+
+122
+00:05:48,550 --> 00:05:50,400
+poor retrieval
+
+123
+00:05:50,400 --> 00:05:51,779
+makes
+
+124
+00:05:51,779 --> 00:05:55,320
+available information inaccessible
+
+125
+00:05:55,320 --> 00:05:58,840
+these are the two main mechanisms of
+forgetting
+
+126
+00:05:58,840 --> 00:06:02,600
+when we think about the library of
+metaphor of memory
+
+127
+00:06:02,600 --> 00:06:05,960
+in the same way you go to the library
+and say i want to get this book out
+
+128
+00:06:05,960 --> 00:06:09,939
+and then iris is what we never bought
+that book
+
+129
+00:06:09,939 --> 00:06:11,490
+not that encode it
+
+130
+00:06:11,490 --> 00:06:15,180
+or the library and says well we bought
+that book a long time ago but somebody
+
+131
+00:06:15,180 --> 00:06:19,589
+stole it and we haven't had the money to
+replace its a list of laws from storage
+
+132
+00:06:19,589 --> 00:06:23,430
+or as sometimes happens on a book just
+gets miss florio
+
+133
+00:06:23,430 --> 00:06:27,100
+and you can't even though it's in the
+library someplace the only way you'd
+
+134
+00:06:27,100 --> 00:06:31,570
+ever financed by going shelf by shelf by
+shelf by room by room by room to the
+
+135
+00:06:31,570 --> 00:06:32,280
+library
+
+136
+00:06:32,280 --> 00:06:34,080
+of very arduous process
+
+137
+00:06:34,080 --> 00:06:38,090
+to try to find it
+
+138
+00:06:38,090 --> 00:06:42,600
+unenglish psychologist named frederick c
+bartlett objected to the idea of how its
+
+139
+00:06:42,600 --> 00:06:47,419
+view of memory as a matter of
+reproducing knowledge about events
+
+140
+00:06:47,419 --> 00:06:52,299
+and he said look im go something wrong
+with the way we study memories bidders
+
+141
+00:06:52,299 --> 00:06:54,249
+back nineteen-thirties
+
+142
+00:06:54,249 --> 00:06:56,849
+are going to be even with very very
+early on
+
+143
+00:06:56,849 --> 00:07:00,059
+so there's something to the problem with
+the way we've traditionally study memory
+
+144
+00:07:00,059 --> 00:07:02,190
+the weight of the house studied memory
+
+145
+00:07:02,190 --> 00:07:03,029
+is that
+
+146
+00:07:03,029 --> 00:07:06,500
+wheat we try to ask subjects
+
+147
+00:07:06,500 --> 00:07:09,960
+remember things that don't matter to
+them very much
+
+148
+00:07:09,960 --> 00:07:11,860
+things that are disconnected
+
+149
+00:07:11,860 --> 00:07:15,020
+things that aren't necessarily
+particularly meaningful
+
+150
+00:07:15,020 --> 00:07:20,610
+and when we do that we get a distorted
+the image of how hong of how long the
+
+151
+00:07:20,610 --> 00:07:21,889
+memory works
+
+152
+00:07:21,889 --> 00:07:24,160
+ambient house basically construed
+
+153
+00:07:24,160 --> 00:07:28,860
+memory thought is analogous to remember
+in a grocery list you know when you're
+
+154
+00:07:28,860 --> 00:07:31,680
+company go in the grocery store without
+a ruthless to try to remember all the
+
+155
+00:07:31,680 --> 00:07:32,740
+things you
+
+156
+00:07:32,740 --> 00:07:34,210
+you want to buy
+
+157
+00:07:34,210 --> 00:07:36,309
+whereas bartlett said
+
+158
+00:07:36,309 --> 00:07:41,739
+remember it is more like storytelling
+when we remember events
+
+159
+00:07:41,739 --> 00:07:44,760
+we tell stories about these events to
+ourselves
+
+160
+00:07:44,760 --> 00:07:48,389
+will re remember offense to somebody
+else in some ways as how was your day
+
+161
+00:07:48,389 --> 00:07:49,710
+what'd you do today
+
+162
+00:07:49,710 --> 00:07:54,929
+you tell the story about your day you
+don't say read the book
+
+163
+00:07:54,929 --> 00:07:58,550
+went office
+
+164
+00:07:58,550 --> 00:07:58,889
+keyboard
+
+165
+00:07:58,889 --> 00:08:02,320
+you know i don't do that is are well you
+know i went and i
+
+166
+00:08:02,320 --> 00:08:06,090
+check my email another handle time on my
+hand so i look at this chapter in this
+
+167
+00:08:06,090 --> 00:08:08,210
+book and then this person came in
+
+168
+00:08:08,210 --> 00:08:11,419
+there's a kind of conduct or direct
+connectivity to it
+
+169
+00:08:11,419 --> 00:08:13,600
+that really is very important so what
+
+170
+00:08:13,600 --> 00:08:14,560
+while it did
+
+171
+00:08:14,560 --> 00:08:15,679
+was is that ok
+
+172
+00:08:15,679 --> 00:08:17,860
+we're going to have a new way to study
+in memory
+
+173
+00:08:17,860 --> 00:08:24,710
+if we think that of remembering is like
+telling a story then let's study apollo
+
+174
+00:08:24,710 --> 00:08:26,189
+remember stories
+
+175
+00:08:26,189 --> 00:08:29,610
+and what he did was to all
+
+176
+00:08:29,610 --> 00:08:31,069
+develop a set of procedures
+
+177
+00:08:31,069 --> 00:08:31,649
+in which
+
+178
+00:08:31,649 --> 00:08:35,029
+he would ask if you've got to tell a
+story to a subjects
+
+179
+00:08:35,029 --> 00:08:38,670
+and then either ask them to tell the
+story back to him
+
+180
+00:08:38,670 --> 00:08:40,040
+and they do that
+
+181
+00:08:40,040 --> 00:08:42,579
+several different on several different
+occasions
+
+182
+00:08:42,579 --> 00:08:46,290
+what i would call the method of repeated
+reproduction
+
+183
+00:08:46,290 --> 00:08:49,280
+or where subjects would repeat the story
+back to him
+
+184
+00:08:49,280 --> 00:08:53,009
+once and then again a couple days later
+in a couple a couple days later
+
+185
+00:08:53,009 --> 00:08:54,970
+or more interestingly
+
+186
+00:08:54,970 --> 00:09:00,000
+although erlich invented one salt what's
+now known as the method of serial
+
+187
+00:09:00,000 --> 00:09:00,470
+reproduction
+
+188
+00:09:00,470 --> 00:09:04,039
+it's kinda like the telephone game that
+you probably have played it
+
+189
+00:09:04,039 --> 00:09:07,430
+parties specially when you were in grade
+school or somebody tells you something
+
+190
+00:09:07,430 --> 00:09:10,199
+then you tell that thing to somebody
+else and they tell that thing to
+
+191
+00:09:10,199 --> 00:09:12,210
+somebody else and so on and so on
+
+192
+00:09:12,210 --> 00:09:14,400
+and what would want to
+
+193
+00:09:14,400 --> 00:09:15,520
+observed there
+
+194
+00:09:15,520 --> 00:09:20,589
+work distortions of the changes in the
+forgetting is that take place
+
+195
+00:09:20,589 --> 00:09:23,300
+as people tell and retell stories
+
+196
+00:09:23,300 --> 00:09:27,290
+i won't tell you this story but this is
+that one of those votes favorite story
+
+197
+00:09:27,290 --> 00:09:31,650
+it's a native american folk tale bump
+two young men from egg you lack who went
+
+198
+00:09:31,650 --> 00:09:36,130
+down to the river to haunt c olson they
+got picked up by a bunch of other
+
+199
+00:09:36,130 --> 00:09:40,290
+indians and i went to another village in
+there was a fight and all sorts of
+
+200
+00:09:40,290 --> 00:09:42,790
+all sorts of very interesting things
+happen
+
+201
+00:09:42,790 --> 00:09:46,560
+this is a native american folk tale
+collected by the anthropologist franz
+
+202
+00:09:46,560 --> 00:09:47,870
+boss
+
+203
+00:09:47,870 --> 00:09:51,920
+from i tried in the northwestern part of
+the united states
+
+204
+00:09:51,920 --> 00:09:57,090
+it's got all sorts of unfamiliar
+material in a tunnel dot but i looked at
+
+205
+00:09:57,090 --> 00:10:00,990
+was the tell this to as it was a college
+student all the subjects of his
+
+206
+00:10:00,990 --> 00:10:02,420
+laboratory
+
+207
+00:10:02,420 --> 00:10:05,510
+and that had them because they don't
+tell the story back
+
+208
+00:10:05,510 --> 00:10:07,030
+and what he discovered
+
+209
+00:10:07,030 --> 00:10:09,330
+we're a couple of interesting things
+
+210
+00:10:09,330 --> 00:10:10,110
+first
+
+211
+00:10:10,110 --> 00:10:12,470
+subjects did engage in some forgetting
+
+212
+00:10:12,470 --> 00:10:15,780
+what bartlett called ever resolve all
+mission
+
+213
+00:10:15,780 --> 00:10:16,370
+okay
+
+214
+00:10:16,370 --> 00:10:22,360
+so it was a progressive forgetting of
+various elements of the story
+
+215
+00:10:22,360 --> 00:10:24,089
+all but that would notice
+
+216
+00:10:24,089 --> 00:10:28,790
+was that the progress of forgetting
+affected mostly
+
+217
+00:10:28,790 --> 00:10:30,080
+narrator details
+
+218
+00:10:30,080 --> 00:10:35,080
+of the story the subjects and remembered
+the gist of the story very well that's a
+
+219
+00:10:35,080 --> 00:10:37,560
+story about two of a above dot
+
+220
+00:10:37,560 --> 00:10:41,139
+about two indians mca picked up by some
+other indians of the gulf and have a
+
+221
+00:10:41,139 --> 00:10:42,680
+flight to mirror hunting skills
+
+222
+00:10:42,680 --> 00:10:44,180
+they got that part
+
+223
+00:10:44,180 --> 00:10:46,340
+but they what dot the subjects would
+forget
+
+224
+00:10:46,340 --> 00:10:48,130
+were all the minutiae
+
+225
+00:10:48,130 --> 00:10:51,060
+all the details in the story
+
+226
+00:10:51,060 --> 00:10:51,620
+moreover
+
+227
+00:10:51,620 --> 00:10:54,740
+it wasn't just a matter of forgetting
+
+228
+00:10:54,740 --> 00:10:58,120
+bartlett observed that subjects made
+errors of
+
+229
+00:10:58,120 --> 00:10:58,670
+coalition
+
+230
+00:10:58,670 --> 00:11:00,459
+as well as all mission
+
+231
+00:11:00,459 --> 00:11:02,260
+then i remembered
+
+232
+00:11:02,260 --> 00:11:06,160
+elements of the story edwards actually
+in the story
+
+233
+00:11:06,160 --> 00:11:11,040
+so for example they were to rationalize
+various kinds of details so was to make
+
+234
+00:11:11,040 --> 00:11:12,850
+the story more sensible
+
+235
+00:11:12,850 --> 00:11:14,630
+to them as
+
+236
+00:11:14,630 --> 00:11:17,649
+young englishman who weren't familial or
+that the lawyer
+
+237
+00:11:17,649 --> 00:11:22,499
+with native american of the culture they
+will transform details
+
+238
+00:11:22,499 --> 00:11:23,589
+so that
+
+239
+00:11:23,589 --> 00:11:26,780
+all of the details of the more familiar
+to them
+
+240
+00:11:26,780 --> 00:11:30,589
+whereas the indian but the story talks
+about the indians in canoes
+
+241
+00:11:30,589 --> 00:11:33,110
+they might talk about indians in boats
+
+242
+00:11:33,110 --> 00:11:34,570
+okay although
+
+243
+00:11:34,570 --> 00:11:39,489
+his the general idea about object of
+floats on water is there
+
+244
+00:11:39,489 --> 00:11:44,369
+but the exact word canoe was in their
+and then i also transform the order
+
+245
+00:11:44,369 --> 00:11:46,530
+in which the story was told
+
+246
+00:11:46,530 --> 00:11:50,359
+again in apparent apparently in an
+attempt to make it
+
+247
+00:11:50,359 --> 00:11:55,210
+order to make the story somewhat more
+convenient
+
+248
+00:11:55,210 --> 00:11:55,869
+house
+
+249
+00:11:55,869 --> 00:12:00,820
+and daughters working in his tradition
+basically always observed
+
+250
+00:12:00,820 --> 00:12:05,050
+first of all the mission that is
+forgiving of nonsense syllables or words
+
+251
+00:12:05,050 --> 00:12:06,660
+or whatever
+
+252
+00:12:06,660 --> 00:12:07,640
+tablets
+
+253
+00:12:07,640 --> 00:12:09,669
+technique allowed him to look at
+
+254
+00:12:09,669 --> 00:12:11,509
+or changes in memory
+
+255
+00:12:11,509 --> 00:12:14,160
+all reflected in these errors of
+culmination
+
+256
+00:12:14,160 --> 00:12:15,430
+where the subjects would
+
+257
+00:12:15,430 --> 00:12:17,310
+bring material into
+
+258
+00:12:17,310 --> 00:12:18,749
+the or memory
+
+259
+00:12:18,749 --> 00:12:21,820
+that wasn't in the original
+
+260
+00:12:21,820 --> 00:12:23,670
+on the basis of theirs
+
+261
+00:12:23,670 --> 00:12:25,390
+bartlett argued
+
+262
+00:12:25,390 --> 00:12:31,370
+far from being eight matter of
+reproducing the information from memory
+
+263
+00:12:31,370 --> 00:12:36,110
+rather remembering involved what he
+called reconstructive activity
+
+264
+00:12:36,110 --> 00:12:40,740
+that is when we remember something we
+don't simply retrieve information
+
+265
+00:12:40,740 --> 00:12:42,079
+from our heads
+
+266
+00:12:42,079 --> 00:12:43,260
+rather we'd
+
+267
+00:12:43,260 --> 00:12:46,359
+build off representation of the event
+
+268
+00:12:46,359 --> 00:12:51,329
+that we're trying to talk about we
+constructed a new we reconstructed
+
+269
+00:12:51,329 --> 00:12:52,529
+in that spelling
+
+270
+00:12:52,529 --> 00:12:55,730
+is that what what happens but we
+remember something
+
+271
+00:12:55,730 --> 00:12:58,600
+is that although we get all of our
+memories
+
+272
+00:12:58,600 --> 00:13:01,040
+or sometime in details
+
+273
+00:13:01,040 --> 00:13:02,649
+indians canoes
+
+274
+00:13:02,649 --> 00:13:07,960
+arrows somebody dies that's the story of
+the two young men from agile ac okay
+
+275
+00:13:07,960 --> 00:13:09,160
+it's very very big
+
+276
+00:13:09,160 --> 00:13:12,810
+is fragmentary it's ambiguous
+information
+
+277
+00:13:12,810 --> 00:13:17,530
+he's diem all believe that his subjects
+also observed also retrieved account of
+
+278
+00:13:17,530 --> 00:13:20,130
+general attitude is toward the story
+
+279
+00:13:20,130 --> 00:13:25,080
+but it was a good story or a bad story
+of funny story ary itgi story or
+
+280
+00:13:25,080 --> 00:13:27,459
+whatever it was that was what they
+retrieved
+
+281
+00:13:27,459 --> 00:13:31,470
+and then based on those fragmentary
+details
+
+282
+00:13:31,470 --> 00:13:33,339
+they'd inferences
+
+283
+00:13:33,339 --> 00:13:33,970
+about
+
+284
+00:13:33,970 --> 00:13:37,889
+what was going on the story well-used on
+the waters of the most of them something
+
+285
+00:13:37,889 --> 00:13:42,439
+about both so they were maybe they were
+fishing instead of hunting for seals or
+
+286
+00:13:42,439 --> 00:13:43,040
+whatever
+
+287
+00:13:43,040 --> 00:13:45,760
+they would make us the in their biggest
+inferences
+
+288
+00:13:45,760 --> 00:13:49,820
+they will be in for making inferences
+about what was in the story
+
+289
+00:13:49,820 --> 00:13:52,810
+based on their general
+
+290
+00:13:52,810 --> 00:13:56,650
+framework all of the world knowledge
+based on their knowledge and
+
+291
+00:13:56,650 --> 00:13:58,900
+expectations hall and and attitudes
+
+292
+00:13:58,900 --> 00:14:03,850
+to produce a coherent narrative or as as
+coherent a narrative as they could
+
+293
+00:14:03,850 --> 00:14:04,780
+produce
+
+294
+00:14:04,780 --> 00:14:09,160
+but one which is not necessarily a
+particularly good presentation of the
+
+295
+00:14:09,160 --> 00:14:09,860
+story
+
+296
+00:14:09,860 --> 00:14:13,350
+all of them know that if you ever get a
+chance to read bartlett's book which
+
+297
+00:14:13,350 --> 00:14:16,760
+many of you will if you actually stick
+with the psychology major
+
+298
+00:14:16,760 --> 00:14:19,160
+all you'll see that some of the uh... oh
+
+299
+00:14:19,160 --> 00:14:23,200
+world summons dot the stories department
+subjects or produce work
+
+300
+00:14:23,200 --> 00:14:27,179
+really very bad representations of the
+story that they were read
+
+301
+00:14:27,179 --> 00:14:30,860
+but they were more coherent no in many
+ways
+
+302
+00:14:30,860 --> 00:14:32,300
+network after here
+
+303
+00:14:32,300 --> 00:14:35,110
+is yet another principle of memory
+
+304
+00:14:35,110 --> 00:14:37,610
+known as the reconstruction principle
+
+305
+00:14:37,610 --> 00:14:38,730
+and you'll see
+
+306
+00:14:38,730 --> 00:14:39,639
+that this is
+
+307
+00:14:39,639 --> 00:14:40,670
+a principal
+
+308
+00:14:40,670 --> 00:14:44,730
+that sounds very much like conclusion
+that we came to
+
+309
+00:14:44,730 --> 00:14:48,900
+all at the end of the lectures on
+sensation and perception
+
+310
+00:14:48,900 --> 00:14:50,230
+remember that
+
+311
+00:14:50,230 --> 00:14:51,400
+gibson had argued
+
+312
+00:14:51,400 --> 00:14:56,360
+that perceiving was simply a matter of
+its team information from estimates that
+
+313
+00:14:56,360 --> 00:14:58,000
+that's all you had to do
+
+314
+00:14:58,000 --> 00:15:02,020
+whereas constructive tradition in
+perception says
+
+315
+00:15:02,020 --> 00:15:07,510
+that they perceive a has to go beyond
+the information given in the stimulus
+
+316
+00:15:07,510 --> 00:15:10,429
+and to supplement stimulus information
+
+317
+00:15:10,429 --> 00:15:12,000
+with general
+
+318
+00:15:12,000 --> 00:15:17,069
+doll world knowledge expectations
+beliefs and so on where basically argued
+
+319
+00:15:17,069 --> 00:15:19,389
+but the same thing happened in memory
+
+320
+00:15:19,389 --> 00:15:23,129
+you retrieved some trace information
+okay
+
+321
+00:15:23,129 --> 00:15:27,790
+but you also supplemented trace
+information
+
+322
+00:15:27,790 --> 00:15:30,909
+general world knowledge with information
+derived from
+
+323
+00:15:30,909 --> 00:15:36,660
+your dylan general knowledge expect of
+expectations and beliefs
+
+324
+00:15:36,660 --> 00:15:41,000
+this is a new perspective on the study
+of memory
+
+325
+00:15:41,000 --> 00:15:46,390
+albeit one that goes beyond the or the
+idea of memory is information retrieval
+
+326
+00:15:46,390 --> 00:15:51,420
+and basically all or the connects or
+understanding of how memory works
+
+327
+00:15:51,420 --> 00:15:55,520
+to our understanding of whole perception
+works
+
+328
+00:15:55,520 --> 00:15:56,550
+sickens
+
+329
+00:15:56,550 --> 00:15:58,050
+bartlett
+
+330
+00:15:58,050 --> 00:15:58,919
+his
+
+331
+00:15:58,919 --> 00:16:01,980
+book back in the nineteen thirties
+
+332
+00:16:01,980 --> 00:16:05,019
+psychologists have been are able to
+
+333
+00:16:05,019 --> 00:16:09,510
+study the kinds of process ease that
+bartlett talked about
+
+334
+00:16:09,510 --> 00:16:11,110
+within the context
+
+335
+00:16:11,110 --> 00:16:15,950
+all the familiar brutal learning
+paradigm that we use uh... in memory
+
+336
+00:16:15,950 --> 00:16:19,239
+psychologists been quite ingenious i
+think in trying to
+
+337
+00:16:19,239 --> 00:16:19,820
+all
+
+338
+00:16:19,820 --> 00:16:22,309
+or make of rigorous
+
+339
+00:16:22,309 --> 00:16:27,459
+fallen north experimental studies of the
+kinds of things the poor little the
+
+340
+00:16:27,459 --> 00:16:29,000
+bullet pointed out
+
+341
+00:16:29,000 --> 00:16:30,719
+one of these parallel lines
+
+342
+00:16:30,719 --> 00:16:35,099
+a basically an adaptation of the verbal
+warning paradigm for the study of
+
+343
+00:16:35,099 --> 00:16:36,369
+reconstructive principles
+
+344
+00:16:36,369 --> 00:16:37,880
+is bailout
+
+345
+00:16:37,880 --> 00:16:41,310
+called all the paradigm known as the
+eyewitness memory paradigm
+
+346
+00:16:41,310 --> 00:16:46,220
+that was fault tho pioneered by
+professor elizabeth loftis then at the
+
+347
+00:16:46,220 --> 00:16:50,130
+university of washington loftis is no
+professor of psychology
+
+348
+00:16:50,130 --> 00:16:52,000
+at u_c_ herb i'm
+
+349
+00:16:52,000 --> 00:16:53,180
+and here
+
+350
+00:16:53,180 --> 00:16:57,320
+filed as a list of things but the
+listeners are more or less continuous
+
+351
+00:16:57,320 --> 00:16:58,240
+scene
+
+352
+00:16:58,240 --> 00:16:58,759
+on
+
+353
+00:16:58,759 --> 00:16:59,639
+so that
+
+354
+00:16:59,639 --> 00:17:03,819
+there weren't isolated words and
+pictures but rather there's a storm or
+
+355
+00:17:03,819 --> 00:17:09,299
+less continuous seen that makes a lot of
+a on narrative presented either as a
+
+356
+00:17:09,299 --> 00:17:12,300
+slideshow or as a video
+
+357
+00:17:12,300 --> 00:17:14,199
+and then after
+
+358
+00:17:14,199 --> 00:17:18,280
+owned it's analogous to bartlett telling
+his subjects the story of the two young
+
+359
+00:17:18,280 --> 00:17:19,790
+men from that you like
+
+360
+00:17:19,790 --> 00:17:22,520
+and then later on alm
+
+361
+00:17:22,520 --> 00:17:23,970
+walters will have
+
+362
+00:17:23,970 --> 00:17:24,679
+subjects
+
+363
+00:17:24,679 --> 00:17:30,580
+questions about what they've seen as if
+they were i witness is of an accident or
+
+364
+00:17:30,580 --> 00:17:32,040
+crime or whatever
+
+365
+00:17:32,040 --> 00:17:33,620
+here's an example
+
+366
+00:17:33,620 --> 00:17:36,200
+bulb for the kind of thing that loftis
+david
+
+367
+00:17:36,200 --> 00:17:38,760
+what i've got a short of going to show
+you a little slideshow
+
+368
+00:17:38,760 --> 00:17:42,920
+and what i want you to do is to imagine
+a direct ice tender watching at the
+
+369
+00:17:42,920 --> 00:17:49,920
+following scenes as they transpire
+
+370
+00:18:55,010 --> 00:18:58,200
+that's the same that's all you get to
+see
+
+371
+00:18:58,200 --> 00:19:02,570
+now open for the next phase of the
+experiment left us what ask particular
+
+372
+00:19:02,570 --> 00:19:04,039
+kinds of questions like
+
+373
+00:19:04,039 --> 00:19:10,630
+did anyone passed a couple while they
+were walking down the driveway
+
+374
+00:19:10,630 --> 00:19:17,630
+that another car passed the red dotson
+while it was stopped at the stop sign
+
+375
+00:19:17,860 --> 00:19:24,860
+was there another car industry when the
+man entered the crosswalk
+
+376
+00:19:25,040 --> 00:19:28,330
+was the man in the red shirt the driver
+of the dots of
+
+377
+00:19:28,330 --> 00:19:32,360
+okay notice of is all factual questions
+and you can answer them
+
+378
+00:19:32,360 --> 00:19:36,130
+are correctly or incorrectly based on
+your observations
+
+379
+00:19:36,130 --> 00:19:38,370
+the c
+
+380
+00:19:38,370 --> 00:19:41,870
+after the sub after we have to some
+subjects answered those questions
+
+381
+00:19:41,870 --> 00:19:42,850
+she vendors
+
+382
+00:19:42,850 --> 00:19:48,090
+damn any recognition test in which she
+presented them with
+
+383
+00:19:48,090 --> 00:19:50,420
+slides from the slideshow
+
+384
+00:19:50,420 --> 00:19:54,140
+slides that weren't in the slideshow and
+asked them to indicate
+
+385
+00:19:54,140 --> 00:19:55,570
+which was which
+
+386
+00:19:55,570 --> 00:19:57,150
+so for example
+
+387
+00:19:57,150 --> 00:19:58,740
+which arby's
+
+388
+00:19:58,740 --> 00:20:01,729
+although of slides did you actually see
+
+389
+00:20:01,729 --> 00:20:03,790
+in the presentation
+
+390
+00:20:03,790 --> 00:20:08,250
+barbie
+
+391
+00:20:08,250 --> 00:20:10,760
+which of these lights did you see
+
+392
+00:20:10,760 --> 00:20:17,760
+the presentation a
+
+393
+00:20:18,260 --> 00:20:22,440
+yes you saw that when he saw the guy
+actually in the crosswalk before at the
+
+394
+00:20:22,440 --> 00:20:26,770
+red dots and although you hit him
+
+395
+00:20:26,770 --> 00:20:28,680
+but you actually saw it
+
+396
+00:20:28,680 --> 00:20:30,479
+this slide
+
+397
+00:20:30,479 --> 00:20:35,350
+almost all go a lot of loftis is
+subjects falsely recognized this slide
+
+398
+00:20:35,350 --> 00:20:36,360
+why are you
+
+399
+00:20:36,360 --> 00:20:37,669
+because
+
+400
+00:20:37,669 --> 00:20:39,860
+besides gotta stop sign in it
+
+401
+00:20:39,860 --> 00:20:44,740
+and they had already hard a question
+
+402
+00:20:44,740 --> 00:20:48,920
+remember
+
+403
+00:20:48,920 --> 00:20:52,909
+that another car passed the red dots and
+while it was stopped at the stop sign
+
+404
+00:20:52,909 --> 00:20:58,380
+the question assumes that there was a
+stop sign
+
+405
+00:20:58,380 --> 00:21:00,230
+in fact
+
+406
+00:21:00,230 --> 00:21:04,750
+there was a yield sign loftis was a
+little tricky here she painted the yield
+
+407
+00:21:04,750 --> 00:21:05,870
+sign read
+
+408
+00:21:05,870 --> 00:21:10,850
+okay but still it's a triangular yield
+sign that you saw not an octagonal
+
+409
+00:21:10,850 --> 00:21:12,610
+although the stop sign
+
+410
+00:21:12,610 --> 00:21:15,340
+but the fact that people
+
+411
+00:21:15,340 --> 00:21:20,350
+mister clark questioned that resolve the
+existence of a stop sign
+
+412
+00:21:20,350 --> 00:21:22,419
+led to many of the laughter is the
+subject
+
+413
+00:21:22,419 --> 00:21:27,640
+to falsely remember that they have
+actually seen eighty stop sign
+
+414
+00:21:27,640 --> 00:21:28,610
+okay
+
+415
+00:21:28,610 --> 00:21:30,410
+this is what is known
+
+416
+00:21:30,410 --> 00:21:31,440
+as
+
+417
+00:21:31,440 --> 00:21:35,090
+the post event of misinformation affect
+okay
+
+418
+00:21:35,090 --> 00:21:38,370
+it has a traffic accident there is a
+critical question
+
+419
+00:21:38,370 --> 00:21:43,320
+which for some subjects is man leading
+did you see a better car pass the reds
+
+420
+00:21:43,320 --> 00:21:48,200
+dog dotson while was stopped orwell was
+stopped at the yield sign which is what
+
+421
+00:21:48,200 --> 00:21:49,559
+that is
+
+422
+00:21:49,559 --> 00:21:51,080
+or a leading question
+
+423
+00:21:51,080 --> 00:21:56,529
+did you see other can car pass the red
+dotson while we stopped at the stop sign
+
+424
+00:21:56,529 --> 00:21:59,400
+a question of storms that there was a
+stop sign
+
+425
+00:21:59,400 --> 00:22:00,620
+when in fact
+
+426
+00:22:00,620 --> 00:22:02,410
+their wasn't
+
+427
+00:22:02,410 --> 00:22:05,900
+here is the design of the study
+
+428
+00:22:05,900 --> 00:22:08,039
+some subjects or a yield sign
+
+429
+00:22:08,039 --> 00:22:10,410
+or other subjects or stop sign
+
+430
+00:22:10,410 --> 00:22:12,440
+some subjects were given a question
+
+431
+00:22:12,440 --> 00:22:17,610
+that referred to a yield sign ok which
+is normally dean if you actually saw the
+
+432
+00:22:17,610 --> 00:22:18,519
+yield sign
+
+433
+00:22:18,519 --> 00:22:21,510
+but is misleading if you saw a stop sign
+
+434
+00:22:21,510 --> 00:22:25,330
+other subjects got a question assume the
+existence of a stop sign
+
+435
+00:22:25,330 --> 00:22:28,350
+which is normally dean if you actually
+saw the stop sign
+
+436
+00:22:28,350 --> 00:22:29,450
+but misleading
+
+437
+00:22:29,450 --> 00:22:31,299
+if you actually saw
+
+438
+00:22:31,299 --> 00:22:32,780
+you don't sign
+
+439
+00:22:32,780 --> 00:22:36,610
+and the results of the study on is that
+
+440
+00:22:36,610 --> 00:22:41,850
+subcompact our recognition of the sign
+dropped by about fifty percent
+
+441
+00:22:41,850 --> 00:22:42,600
+okay
+
+442
+00:22:42,600 --> 00:22:44,750
+if law for the subjects we were given
+
+443
+00:22:44,750 --> 00:22:47,170
+the misleading or the question
+
+444
+00:22:47,170 --> 00:22:51,160
+so if you've got the car would be our do
+not leading version of the author of the
+
+445
+00:22:51,160 --> 00:22:51,960
+inquiry
+
+446
+00:22:51,960 --> 00:22:53,220
+you were corrected
+
+447
+00:22:53,220 --> 00:22:56,970
+correctly recognize the stop sign about
+seventy five eighty percent of the time
+
+448
+00:22:56,970 --> 00:22:58,870
+if you've got the misleading version
+
+449
+00:22:58,870 --> 00:23:00,139
+of the inquiry
+
+450
+00:23:00,139 --> 00:23:04,340
+correct recognition trough to about
+forty over forty percent
+
+451
+00:23:04,340 --> 00:23:08,610
+this is what's known again as the post
+events misinformation affect
+
+452
+00:23:08,610 --> 00:23:10,090
+and the idea here is
+
+453
+00:23:10,090 --> 00:23:12,190
+they're leading questions
+
+454
+00:23:12,190 --> 00:23:18,070
+asked brian interrogator ten influenced
+pay all of the matter resolved by
+
+455
+00:23:18,070 --> 00:23:19,790
+witnesses okay
+
+456
+00:23:19,790 --> 00:23:20,840
+practices point here
+
+457
+00:23:20,840 --> 00:23:22,720
+is that memory isn't
+
+458
+00:23:22,720 --> 00:23:24,390
+purer
+
+459
+00:23:24,390 --> 00:23:30,180
+your memory other event isn't uncommon
+today memory once and for all at the
+
+460
+00:23:30,180 --> 00:23:32,240
+time the event happened
+
+461
+00:23:32,240 --> 00:23:34,960
+rather when you remembered something
+
+462
+00:23:34,960 --> 00:23:37,230
+you take information that was uncoated
+
+463
+00:23:37,230 --> 00:23:40,440
+and you put it together with everything
+else you know
+
+464
+00:23:40,440 --> 00:23:41,010
+including
+
+465
+00:23:41,010 --> 00:23:45,559
+the fact that somebody just as to a
+question that resume the existence of a
+
+466
+00:23:45,559 --> 00:23:46,520
+stop sign
+
+467
+00:23:46,520 --> 00:23:50,809
+so that your final memory your father
+though you remember the event
+
+468
+00:23:50,809 --> 00:23:52,850
+yes i've kind of blood
+
+469
+00:23:52,850 --> 00:23:55,620
+or information retrieved from memory
+
+470
+00:23:55,620 --> 00:23:58,900
+an information gathered from other
+sources
+
+471
+00:23:58,900 --> 00:24:01,640
+on stove post event misinformation
+effect
+
+472
+00:24:01,640 --> 00:24:02,940
+because here
+
+473
+00:24:02,940 --> 00:24:06,740
+knowledge acquired or events that occur
+or after an event
+
+474
+00:24:06,740 --> 00:24:08,940
+can affect memory
+
+475
+00:24:08,940 --> 00:24:13,310
+although the low four events that
+occurred before him
+
+476
+00:24:13,310 --> 00:24:18,720
+here is another example all of this kind
+of reconstructive process in memory
+
+477
+00:24:18,720 --> 00:24:23,690
+all this is our work by kathleen
+mcdermott and all on henry robert r at
+
+478
+00:24:23,690 --> 00:24:24,710
+uh...
+
+479
+00:24:24,710 --> 00:24:26,760
+awash in university in saint louis
+
+480
+00:24:26,760 --> 00:24:30,860
+they are subject to study a list of
+words like the following is just a
+
+481
+00:24:30,860 --> 00:24:33,080
+standard global learning experiment
+
+482
+00:24:33,080 --> 00:24:34,659
+thread to pin
+
+483
+00:24:34,659 --> 00:24:38,510
+always sewing sharp
+
+484
+00:24:38,510 --> 00:24:39,790
+symbol
+
+485
+00:24:39,790 --> 00:24:40,640
+haystack
+
+486
+00:24:40,640 --> 00:24:42,760
+borne
+
+487
+00:24:42,760 --> 00:24:45,160
+injection syringe
+
+488
+00:24:45,160 --> 00:24:46,950
+and in this team
+
+489
+00:24:46,950 --> 00:24:49,850
+okay i think that's that's that's a list
+of subject study
+
+490
+00:24:49,850 --> 00:24:51,240
+and it turns out
+
+491
+00:24:51,240 --> 00:24:53,830
+every one of these words of the study
+list
+
+492
+00:24:53,830 --> 00:24:58,360
+has a semantic associate all got the
+word neil
+
+493
+00:24:58,360 --> 00:25:03,929
+needle thread ten needle needles have
+always and so on and so forth
+
+494
+00:25:03,929 --> 00:25:05,859
+and what happened in this study
+
+495
+00:25:05,859 --> 00:25:09,790
+was that have been studied or list ald
+
+496
+00:25:09,790 --> 00:25:12,320
+associates of the word new york
+
+497
+00:25:12,320 --> 00:25:13,580
+subjects
+
+498
+00:25:13,580 --> 00:25:14,200
+remembered
+
+499
+00:25:14,200 --> 00:25:20,240
+that they studied a public nato as well
+then in fact day did not
+
+500
+00:25:20,240 --> 00:25:23,140
+here it is or dildo from that study
+
+501
+00:25:23,140 --> 00:25:26,630
+here's memory recognition memory for the
+study items is pretty good about eighty
+
+502
+00:25:26,630 --> 00:25:31,180
+five ninety percent of the studied items
+work correctly remembered
+
+503
+00:25:31,180 --> 00:25:32,450
+it turned out
+
+504
+00:25:32,450 --> 00:25:35,130
+that paul almost the same
+
+505
+00:25:35,130 --> 00:25:36,330
+percentage of subjects
+
+506
+00:25:36,330 --> 00:25:37,789
+for also remembered
+
+507
+00:25:37,789 --> 00:25:38,220
+studying
+
+508
+00:25:38,220 --> 00:25:39,240
+the word
+
+509
+00:25:39,240 --> 00:25:40,710
+needle as well
+
+510
+00:25:40,710 --> 00:25:41,720
+whereas
+
+511
+00:25:41,720 --> 00:25:46,010
+all of the word that was unrelated to
+the list what the word sleep wasn't
+
+512
+00:25:46,010 --> 00:25:51,380
+falsely recognized all here we have
+another example of bartlett's
+
+513
+00:25:51,380 --> 00:25:52,670
+reconstructive process
+
+514
+00:25:52,670 --> 00:25:58,320
+if you study of bunch of words all of
+which had to deal with the same concept
+
+515
+00:25:58,320 --> 00:26:02,160
+you begin to show your memory around
+that concept
+
+516
+00:26:02,160 --> 00:26:03,860
+not just around the words
+
+517
+00:26:03,860 --> 00:26:05,009
+at you studied
+
+518
+00:26:05,009 --> 00:26:07,859
+leedee noodle falsely remember
+
+519
+00:26:07,859 --> 00:26:10,360
+information that's consistent with the
+concept
+
+520
+00:26:10,360 --> 00:26:12,380
+even though you didn't actually
+
+521
+00:26:12,380 --> 00:26:13,500
+all encounter
+
+522
+00:26:13,500 --> 00:26:14,680
+that information
+
+523
+00:26:14,680 --> 00:26:15,749
+so again
+
+524
+00:26:15,749 --> 00:26:19,110
+this this is known as the associate of
+memory allusion
+
+525
+00:26:19,110 --> 00:26:21,700
+because people have an illusion
+
+526
+00:26:21,700 --> 00:26:24,290
+that they are not an illusion of memory
+
+527
+00:26:24,290 --> 00:26:28,530
+are that they actually started this word
+when in fact they didn't
+
+528
+00:26:28,530 --> 00:26:30,950
+it's an illusion bentsen induced
+
+529
+00:26:30,950 --> 00:26:31,720
+by
+
+530
+00:26:31,720 --> 00:26:34,600
+the active studying all these associate
+of lee
+
+531
+00:26:34,600 --> 00:26:37,590
+although the related words
+
+532
+00:26:37,590 --> 00:26:38,050
+again
+
+533
+00:26:38,050 --> 00:26:40,990
+though collisions in memory
+
+534
+00:26:40,990 --> 00:26:44,370
+just as there are illusions in
+perception
+
+535
+00:26:44,370 --> 00:26:48,720
+and the implications while big
+implication of these allusions in memory
+
+536
+00:26:48,720 --> 00:26:51,639
+is the same as the implication
+
+537
+00:26:51,639 --> 00:26:53,780
+of what of allusions in perception
+
+538
+00:26:53,780 --> 00:26:54,890
+and that is
+
+539
+00:26:54,890 --> 00:26:56,830
+but just as in perception
+
+540
+00:26:56,830 --> 00:27:01,559
+weeds we do more than extract college
+the information from the stimulus
+
+541
+00:27:01,559 --> 00:27:05,400
+in memory we do more then retrieve
+information
+
+542
+00:27:05,400 --> 00:27:06,509
+frome all
+
+543
+00:27:06,509 --> 00:27:07,999
+fro moans from storage
+
+544
+00:27:07,999 --> 00:27:11,470
+we go beyond the information given by
+the stimulus
+
+545
+00:27:11,470 --> 00:27:13,839
+we go beyond the information given
+
+546
+00:27:13,839 --> 00:27:16,059
+by the memory or trace
+
+547
+00:27:16,059 --> 00:27:17,660
+so that we can
+
+548
+00:27:17,660 --> 00:27:19,020
+falsely
+
+549
+00:27:19,020 --> 00:27:19,600
+remember
+
+550
+00:27:19,600 --> 00:27:21,179
+in the same way
+
+551
+00:27:21,179 --> 00:27:22,340
+weakened falsely
+
+552
+00:27:22,340 --> 00:27:23,610
+or perceive
+
+553
+00:27:23,610 --> 00:27:29,179
+so damn we have these para phenomena in
+perception and memory
+
+554
+00:27:29,179 --> 00:27:30,869
+in perceptual illusions
+
+555
+00:27:30,869 --> 00:27:34,050
+we perceive the president's inaccurately
+
+556
+00:27:34,050 --> 00:27:39,040
+there's a kind of systematic distortion
+of systematic bias in our perception
+
+557
+00:27:39,040 --> 00:27:40,110
+that's a product
+
+558
+00:27:40,110 --> 00:27:42,770
+all of this constructive activity
+
+559
+00:27:42,770 --> 00:27:45,889
+entailed in going beyond the information
+given
+
+560
+00:27:45,889 --> 00:27:47,680
+by the stimulus
+
+561
+00:27:47,680 --> 00:27:48,350
+similarly
+
+562
+00:27:48,350 --> 00:27:50,320
+we have allusions in memory
+
+563
+00:27:50,320 --> 00:27:54,320
+where we not proceeding with the
+president inaccurately but we're
+
+564
+00:27:54,320 --> 00:27:58,720
+remembering at the past inaccurately and
+again
+
+565
+00:27:58,720 --> 00:28:02,960
+are there systematic biases systematic
+distortions here
+
+566
+00:28:02,960 --> 00:28:04,450
+so that we remember
+
+567
+00:28:04,450 --> 00:28:05,790
+the past
+
+568
+00:28:05,790 --> 00:28:09,820
+in a way that makes it consistent with
+what we
+
+569
+00:28:09,820 --> 00:28:11,050
+believed to be the case
+
+570
+00:28:11,050 --> 00:28:13,000
+we remember the past
+
+571
+00:28:13,000 --> 00:28:15,150
+consistent with how we're perceiving the
+present
+
+572
+00:28:15,150 --> 00:28:16,010
+and again
+
+573
+00:28:16,010 --> 00:28:19,850
+this is an example of going beyond the
+information
+
+574
+00:28:19,850 --> 00:28:23,280
+that's given in the memory trace
+
+575
+00:28:23,280 --> 00:28:25,099
+so that we want to do now
+
+576
+00:28:25,099 --> 00:28:30,249
+is to explore the implication big
+implications all of this reconstructed
+
+577
+00:28:30,249 --> 00:28:32,760
+principal and memory
+
+578
+00:28:32,760 --> 00:28:34,119
+that memory
+
+579
+00:28:34,119 --> 00:28:38,530
+is a blend of information when you
+remember something
+
+580
+00:28:38,530 --> 00:28:39,600
+what you do
+
+581
+00:28:39,600 --> 00:28:44,910
+if you work on a mental representation
+of some past event
+
+582
+00:28:44,910 --> 00:28:48,230
+not necessarily in accurate record of
+that event
+
+583
+00:28:48,230 --> 00:28:50,900
+but rather your police
+
+584
+00:28:50,900 --> 00:28:52,140
+that event
+
+585
+00:28:52,140 --> 00:28:56,550
+memory is a with our memories are mental
+representations of the past
+
+586
+00:28:56,550 --> 00:29:00,070
+that reflect a blend of information
+contained in
+
+587
+00:29:00,070 --> 00:29:03,669
+memory traces things that are laid down
+at the time of encoding
+
+588
+00:29:03,669 --> 00:29:05,399
+but also
+
+589
+00:29:05,399 --> 00:29:06,009
+information
+
+590
+00:29:06,009 --> 00:29:08,839
+that is derived from other sources
+
+591
+00:29:08,839 --> 00:29:09,590
+information that's
+
+592
+00:29:09,590 --> 00:29:10,999
+qatar provided by
+
+593
+00:29:10,999 --> 00:29:15,110
+or knowledge about the world or
+expectations about the kinds of things
+
+594
+00:29:15,110 --> 00:29:19,530
+that go on and it or beliefs about world
+and so on
+
+595
+00:29:19,530 --> 00:29:22,490
+making the point again
+
+596
+00:29:22,490 --> 00:29:28,470
+memories are knots best viewed as
+
+597
+00:29:28,470 --> 00:29:29,450
+in orange
+
+598
+00:29:29,450 --> 00:29:33,350
+in variable records of past experience
+rather
+
+599
+00:29:33,350 --> 00:29:34,940
+when we remember something
+
+600
+00:29:34,940 --> 00:29:38,120
+what we're doing is we're reporting or
+beliefs
+
+601
+00:29:38,120 --> 00:29:38,970
+about what happened
+
+602
+00:29:38,970 --> 00:29:42,890
+i believe that the dotson was stopped at
+a stop sign
+
+603
+00:29:42,890 --> 00:29:45,210
+on the police needle was on the list
+
+604
+00:29:45,210 --> 00:29:48,270
+and so on and uh... and so forth
+
+605
+00:29:48,270 --> 00:29:52,120
+so i can of the library metaphor for
+memory
+
+606
+00:29:52,120 --> 00:29:57,120
+can take you a long way in the study of
+memory loved to try to analyze these
+
+607
+00:29:57,120 --> 00:30:00,610
+principles by which we encode
+information memory
+
+608
+00:30:00,610 --> 00:30:04,679
+retainer in memory storage and retrieve
+stored information
+
+609
+00:30:04,679 --> 00:30:07,460
+when we want to enter a question about
+the past
+
+610
+00:30:07,460 --> 00:30:13,340
+the library of metaphor for memory is or
+ism is a fairly good one as far as it
+
+611
+00:30:13,340 --> 00:30:14,500
+goes
+
+612
+00:30:14,500 --> 00:30:17,229
+but the important thing to remember is
+that
+
+613
+00:30:17,229 --> 00:30:21,799
+remembering isn't really like reading
+information from a book
+
+614
+00:30:21,799 --> 00:30:22,440
+remembering
+
+615
+00:30:22,440 --> 00:30:23,940
+is more like
+
+616
+00:30:23,940 --> 00:30:25,740
+writing
+
+617
+00:30:25,740 --> 00:30:27,930
+from fragmentary notes
+
+618
+00:30:27,930 --> 00:30:32,390
+fragmentary milton coated in memory and
+then everything else follows
+
+619
+00:30:32,390 --> 00:30:36,560
+from or from our various software
+various beliefs
+
+620
+00:30:36,560 --> 00:30:38,720
+so far we where we are now
+
+621
+00:30:38,720 --> 00:30:39,510
+is
+
+622
+00:30:39,510 --> 00:30:40,760
+we've got
+
+623
+00:30:40,760 --> 00:30:42,120
+unified view
+
+624
+00:30:42,120 --> 00:30:47,190
+are these two important cognitive
+functions unified view our perception
+
+625
+00:30:47,190 --> 00:30:48,330
+and memory
+
+626
+00:30:48,330 --> 00:30:52,420
+when i started his lectures i reminded
+you that
+
+627
+00:30:52,420 --> 00:30:54,220
+perception
+
+628
+00:30:54,220 --> 00:30:56,940
+dreads and memory in various ways
+
+629
+00:30:56,940 --> 00:30:58,470
+in order to
+
+630
+00:30:58,470 --> 00:31:01,870
+perceive the world we have to draw on
+
+631
+00:31:01,870 --> 00:31:06,620
+knowledge in police and expectations
+that are represented in memory
+
+632
+00:31:06,620 --> 00:31:08,970
+we've also talked about how
+
+633
+00:31:08,970 --> 00:31:09,970
+perception
+
+634
+00:31:09,970 --> 00:31:12,540
+changes the contents of memory
+
+635
+00:31:12,540 --> 00:31:14,799
+because the act of proceeding
+
+636
+00:31:14,799 --> 00:31:15,989
+leaves the record
+
+637
+00:31:15,989 --> 00:31:18,820
+if you will trace or a nanogram
+
+638
+00:31:18,820 --> 00:31:20,179
+of what we've
+
+639
+00:31:20,179 --> 00:31:20,889
+perceived
+
+640
+00:31:20,889 --> 00:31:24,640
+but more important perception and memory
+
+641
+00:31:24,640 --> 00:31:29,690
+perceiving the world in the present
+remembering the world in the past
+
+642
+00:31:29,690 --> 00:31:31,169
+both reflect
+
+643
+00:31:31,169 --> 00:31:33,230
+effort after meanie
+
+644
+00:31:33,230 --> 00:31:35,260
+both the perceive ur
+
+645
+00:31:35,260 --> 00:31:40,400
+and the remember are trying to make
+sense of what they've experienced
+
+646
+00:31:40,400 --> 00:31:44,730
+the person who is trying to make sense
+of the world that he or she perceives
+
+647
+00:31:44,730 --> 00:31:46,770
+right now
+
+648
+00:31:46,770 --> 00:31:51,320
+the remember is trying to make sense of
+the world that he or she experienced in
+
+649
+00:31:51,320 --> 00:31:54,290
+the past
+
+650
+00:31:54,290 --> 00:31:56,070
+perception and memory
+
+651
+00:31:56,070 --> 00:31:58,529
+both perceiving and remembering
+
+652
+00:31:58,529 --> 00:31:59,390
+reflect
+
+653
+00:31:59,390 --> 00:32:01,370
+problem solving activity
+
+654
+00:32:01,370 --> 00:32:03,529
+the problem for the perceive ur
+
+655
+00:32:03,529 --> 00:32:08,120
+is to figure out what objects are out
+there in the world
+
+656
+00:32:08,120 --> 00:32:09,679
+here they are
+
+657
+00:32:09,679 --> 00:32:11,210
+what they're doing
+
+658
+00:32:11,210 --> 00:32:13,740
+what can be done with them
+
+659
+00:32:13,740 --> 00:32:15,699
+and insulting that problem
+
+660
+00:32:15,699 --> 00:32:17,670
+the procedure takes information
+
+661
+00:32:17,670 --> 00:32:19,910
+from the stimulus environment
+
+662
+00:32:19,910 --> 00:32:21,899
+combines it with information retrieved
+
+663
+00:32:21,899 --> 00:32:23,020
+from memory
+
+664
+00:32:23,020 --> 00:32:25,070
+and produces
+
+665
+00:32:25,070 --> 00:32:26,050
+representation
+
+666
+00:32:26,050 --> 00:32:27,970
+all of the world
+
+667
+00:32:27,970 --> 00:32:29,930
+similarly
+
+668
+00:32:29,930 --> 00:32:30,620
+memory
+
+669
+00:32:30,620 --> 00:32:32,850
+the problem for the remember
+
+670
+00:32:32,850 --> 00:32:34,610
+it's difficult
+
+671
+00:32:34,610 --> 00:32:38,990
+what happened at such and such a time if
+i say to you know what to do you have
+
+672
+00:32:38,990 --> 00:32:42,460
+for dinner last thursday
+
+673
+00:32:42,460 --> 00:32:43,840
+or that's a problem
+
+674
+00:32:43,840 --> 00:32:48,640
+right you got to know what what was was
+thursday that they are when shopping
+
+675
+00:32:48,640 --> 00:32:52,210
+what would make it was too but with left
+overnight what were leftovers where
+
+676
+00:32:52,210 --> 00:32:56,150
+there was some meat loaf maybe there was
+some still toll for something like that
+
+677
+00:32:56,150 --> 00:32:59,210
+that i remember
+
+678
+00:32:59,210 --> 00:33:01,860
+trying to make sense of the question
+
+679
+00:33:01,860 --> 00:33:05,179
+trying to solve the problem posed by the
+question
+
+680
+00:33:05,179 --> 00:33:05,750
+is what
+
+681
+00:33:05,750 --> 00:33:08,159
+uh... or
+
+682
+00:33:08,159 --> 00:33:10,419
+people do in the act of remembering
+
+683
+00:33:10,419 --> 00:33:12,870
+and this was bartlett's great insight
+
+684
+00:33:12,870 --> 00:33:16,970
+at me and i was thought of memory is
+something we have
+
+685
+00:33:16,970 --> 00:33:18,740
+for eddie matos
+
+686
+00:33:18,740 --> 00:33:22,340
+memories and now it so i think that's
+out there
+
+687
+00:33:22,340 --> 00:33:27,150
+on he even titled his book on their
+memory in german
+
+688
+00:33:27,150 --> 00:33:30,200
+way the uh... went by the germans think
+about it
+
+689
+00:33:30,200 --> 00:33:33,130
+alm over that at least aidid then
+
+690
+00:33:33,130 --> 00:33:33,860
+well it's
+
+691
+00:33:33,860 --> 00:33:36,290
+walk was titled remembering
+
+692
+00:33:36,290 --> 00:33:37,880
+for him
+
+693
+00:33:37,880 --> 00:33:43,390
+memory is not so much and now not so
+much as being it's an activity
+
+694
+00:33:43,390 --> 00:33:43,790
+represented
+
+695
+00:33:43,790 --> 00:33:45,379
+by of bird
+
+696
+00:33:45,379 --> 00:33:48,119
+and it is reconstructive activity
+
+697
+00:33:48,119 --> 00:33:53,710
+by which the person challenge to
+remember some of them from the past
+
+698
+00:33:53,710 --> 00:33:57,000
+all the information that is that his or
+her disposal
+
+699
+00:33:57,000 --> 00:33:57,960
+and then
+
+700
+00:33:57,960 --> 00:33:59,410
+builds up
+
+701
+00:33:59,410 --> 00:34:03,480
+constructs reconstruct representation
+
+702
+00:34:03,480 --> 00:34:05,870
+that uh... of that passed a vent
+
+703
+00:34:05,870 --> 00:34:07,710
+so again
+
+704
+00:34:07,710 --> 00:34:08,230
+perception
+
+705
+00:34:08,230 --> 00:34:10,609
+and memory
+
+706
+00:34:10,609 --> 00:34:12,139
+all of the exemplify
+
+707
+00:34:12,139 --> 00:34:13,260
+this dream
+
+708
+00:34:13,260 --> 00:34:16,019
+of cognition as intelligent
+
+709
+00:34:16,019 --> 00:34:17,839
+problem solving activity
+
+710
+00:34:17,839 --> 00:34:18,999
+where people take
+
+711
+00:34:18,999 --> 00:34:21,190
+all the information that's available to
+them
+
+712
+00:34:21,190 --> 00:34:23,800
+to try to solve the problem set for them
+
+713
+00:34:23,800 --> 00:34:25,539
+by their environment
+
+714
+00:34:25,539 --> 00:34:28,439
+will see the steam workout again
+
+715
+00:34:28,439 --> 00:34:33,629
+in the lectures that begin on wednesday
+on thinking and reasoning and problem
+
+716
+00:34:33,629 --> 00:34:34,280
+solving
+
+717
+00:34:34,280 --> 00:34:36,710
+where again we'll see
+
+718
+00:34:36,710 --> 00:34:38,819
+or people attack
+
+719
+00:34:38,819 --> 00:34:42,509
+problems posed by their environment in
+various kinds of ways
+
+720
+00:34:42,509 --> 00:34:44,870
+for now that we've got a little bit of
+time
+
+721
+00:34:44,870 --> 00:34:49,439
+so let me are just stop and take
+whatever questions you might have
+
+722
+00:34:49,439 --> 00:34:53,789
+about memory we haven't had that much
+time for questions deflection sold for
+
+723
+00:34:53,789 --> 00:35:00,789
+any questions about memory at all
+
+724
+00:35:02,659 --> 00:35:06,569
+that is the kind of question what's the
+difference between short term memory and
+
+725
+00:35:06,569 --> 00:35:07,490
+working memory
+
+726
+00:35:07,490 --> 00:35:11,220
+that's the kind of question about which
+there are fistfights conferences of
+
+727
+00:35:11,220 --> 00:35:14,869
+memory researchers i don't think there's
+a dime's worth of difference between
+
+728
+00:35:14,869 --> 00:35:17,279
+short term memory and working memory
+
+729
+00:35:17,279 --> 00:35:22,549
+all part of part there are people out
+there who all of the pope who think that
+
+730
+00:35:22,549 --> 00:35:24,399
+is the difference
+
+731
+00:35:24,399 --> 00:35:29,049
+for our purposes there is no difference
+i would never ask you a question that i
+
+732
+00:35:29,049 --> 00:35:29,430
+asked
+
+733
+00:35:29,430 --> 00:35:34,589
+that has to make the distinction between
+short term from reworking memory
+
+734
+00:35:34,589 --> 00:35:38,859
+in fairly the differences
+
+735
+00:35:38,859 --> 00:35:43,789
+short term memory was conf was what was
+the heart of construed in early memory
+
+736
+00:35:43,789 --> 00:35:44,310
+theories
+
+737
+00:35:44,310 --> 00:35:49,150
+as a place where information is held for
+a relatively short period of time
+
+738
+00:35:49,150 --> 00:35:51,429
+and the point about
+
+739
+00:35:51,429 --> 00:35:55,529
+start switching the label from short
+term memory to working memory was to
+
+740
+00:35:55,529 --> 00:35:56,910
+make it clear
+
+741
+00:35:56,910 --> 00:36:02,940
+that working memory was where work was
+performed on memory okay it's not just a
+
+742
+00:36:02,940 --> 00:36:04,880
+passive storehouse of knowledge
+
+743
+00:36:04,880 --> 00:36:05,789
+but rather
+
+744
+00:36:05,789 --> 00:36:08,680
+it's a place where you you where
+
+745
+00:36:08,680 --> 00:36:09,569
+information is
+
+746
+00:36:09,569 --> 00:36:12,720
+brought into consciousness brought into
+attention
+
+747
+00:36:12,720 --> 00:36:16,479
+did something with it used to solve a
+problem or whatever
+
+748
+00:36:16,479 --> 00:36:20,549
+all it's a little more complicated than
+that but that's basically all of the
+
+749
+00:36:20,549 --> 00:36:21,439
+basically it
+
+750
+00:36:21,439 --> 00:36:23,020
+but this tension between
+
+751
+00:36:23,020 --> 00:36:26,859
+so-called short term memory and
+so-called long-term memory
+
+752
+00:36:26,859 --> 00:36:29,049
+thirty seconds
+
+753
+00:36:29,049 --> 00:36:32,259
+if that happened within the last thirty
+seconds we tend to think of it is short
+
+754
+00:36:32,259 --> 00:36:33,259
+term memory
+
+755
+00:36:33,259 --> 00:36:37,470
+if it happened longer ago than that we
+tend to think of it is long-term memory
+
+756
+00:36:37,470 --> 00:36:41,480
+that may seem like a stupid way to
+define long-term memory but if you try
+
+757
+00:36:41,480 --> 00:36:46,390
+to remember something that happened
+thirty seconds ago
+
+758
+00:36:46,390 --> 00:36:47,679
+that takes work
+
+759
+00:36:47,679 --> 00:36:50,399
+right or what was he talking about
+thirty seconds ago what was that
+
+760
+00:36:50,399 --> 00:36:53,309
+landslide or or or whatever
+
+761
+00:36:53,309 --> 00:36:56,059
+charter memory has a kind of a media see
+to it
+
+762
+00:36:56,059 --> 00:36:59,009
+wears a kind of directory dialed from
+consciousness
+
+763
+00:36:59,009 --> 00:37:03,709
+whereas of long-term memory you're
+actually trying to recover a conscious
+
+764
+00:37:03,709 --> 00:37:04,180
+state
+
+765
+00:37:04,180 --> 00:37:07,159
+that you experienced in the past
+
+766
+00:37:07,159 --> 00:37:08,540
+so don't get don't get
+
+767
+00:37:08,540 --> 00:37:11,020
+caught up on short-term versus working
+memory
+
+768
+00:37:11,020 --> 00:37:13,499
+if you take professor glenn berg's
+
+769
+00:37:13,499 --> 00:37:17,839
+although professor shlomo result of
+memory course like one twenty two
+
+770
+00:37:17,839 --> 00:37:19,709
+you'll get about a week on that
+
+771
+00:37:19,709 --> 00:37:22,379
+all but for our purposes you don't have
+to worry about it
+
+772
+00:37:22,379 --> 00:37:28,849
+i had a question down here
+
+773
+00:37:28,849 --> 00:37:33,549
+these principles work for all types of
+memory not address
+
+774
+00:37:33,549 --> 00:37:37,959
+but they are specially the principles
+that govern episodic ur autobiographical
+
+775
+00:37:37,959 --> 00:37:38,509
+memory
+
+776
+00:37:38,509 --> 00:37:41,759
+when i started the memory lectures i
+said we're going to talk about that the
+
+777
+00:37:41,759 --> 00:37:44,039
+sonic memory here
+
+778
+00:37:44,039 --> 00:37:47,769
+and that's where these principles have
+basically been on covered
+
+779
+00:37:47,769 --> 00:37:51,259
+in the next set of lectures we're going
+to talk a little bit about semantic
+
+780
+00:37:51,259 --> 00:37:52,150
+memory
+
+781
+00:37:52,150 --> 00:37:54,829
+and we're going to talk a little bit
+about procedural memory
+
+782
+00:37:54,829 --> 00:37:57,060
+you'll see that there are some
+differences
+
+783
+00:37:57,060 --> 00:37:58,420
+but still
+
+784
+00:37:58,420 --> 00:38:00,939
+on
+
+785
+00:38:00,939 --> 00:38:01,749
+encoding
+
+786
+00:38:01,749 --> 00:38:06,249
+a semantic memory depends on elaboration
+organization
+
+787
+00:38:06,249 --> 00:38:11,959
+retrieving a semantic memory depends on
+she win for mation and so on so that
+
+788
+00:38:11,959 --> 00:38:14,509
+does the same kinds of principle still
+do a ploy
+
+789
+00:38:14,509 --> 00:38:21,509
+to some extent
+
+790
+00:38:33,049 --> 00:38:36,949
+altera voters what kind of memory
+
+791
+00:38:36,949 --> 00:38:41,139
+that that's very fancy called identical
+memory
+
+792
+00:38:41,139 --> 00:38:44,939
+identical review i d_d_t_ i_c_i_ derek
+memory
+
+793
+00:38:44,939 --> 00:38:48,919
+and acclaimed as the focal all
+photographic memory that some
+
+794
+00:38:48,919 --> 00:38:51,979
+individuals have where that something
+passes and for them just once and they
+
+795
+00:38:51,979 --> 00:38:54,359
+can remember it forever
+
+796
+00:38:54,359 --> 00:38:55,029
+all the
+
+797
+00:38:55,029 --> 00:38:59,490
+i got a crime rate is something that's
+nice if you've got it but hardly anybody
+
+798
+00:38:59,490 --> 00:39:00,479
+does
+
+799
+00:39:00,479 --> 00:39:02,410
+also poland
+
+800
+00:39:02,410 --> 00:39:05,119
+hence the violate some of these kinds of
+principles
+
+801
+00:39:05,119 --> 00:39:09,849
+but even all the studies of people have
+fun normal memories
+
+802
+00:39:09,849 --> 00:39:10,949
+show that
+
+803
+00:39:10,949 --> 00:39:14,539
+the reason they have phenomenal memories
+is not that they have some kind of
+
+804
+00:39:14,539 --> 00:39:16,550
+photographic process in their heads
+
+805
+00:39:16,550 --> 00:39:17,590
+but rather
+
+806
+00:39:17,590 --> 00:39:19,039
+then intuitively use
+
+807
+00:39:19,039 --> 00:39:20,549
+the kinds of principles
+
+808
+00:39:20,549 --> 00:39:26,130
+that we talk about here or the into a
+deadly elaborate on their memories they
+
+809
+00:39:26,130 --> 00:39:31,059
+organize them in various ways to use
+lots retrieval cues and so on
+
+810
+00:39:31,059 --> 00:39:32,219
+almost sold out
+
+811
+00:39:32,219 --> 00:39:36,159
+even i'd so-called identical rs bill
+really violate of these rules even
+
+812
+00:39:36,159 --> 00:39:38,099
+though they seem to have
+
+813
+00:39:38,099 --> 00:39:39,480
+phenomenal memory so i
+
+814
+00:39:39,480 --> 00:39:40,979
+i knew a guy
+
+815
+00:39:40,979 --> 00:39:43,329
+ones too
+
+816
+00:39:43,329 --> 00:39:44,809
+sat down and memorize
+
+817
+00:39:44,809 --> 00:39:46,130
+a list of
+
+818
+00:39:46,130 --> 00:39:48,799
+four hundred words in a single sitting
+
+819
+00:39:48,799 --> 00:39:51,980
+it just hugged for nominal ability to
+memorize stuff
+
+820
+00:39:51,980 --> 00:39:56,239
+didn't do him any good in life i don't
+think but uh...
+
+821
+00:39:56,239 --> 00:39:57,700
+when you look at how we did it
+
+822
+00:39:57,700 --> 00:40:04,700
+use these kinds of principles
+
+823
+00:40:08,559 --> 00:40:12,329
+sqn congruent to their insurrection
+remembered it better than schema
+
+824
+00:40:12,329 --> 00:40:13,349
+cochran's events
+
+825
+00:40:13,349 --> 00:40:17,999
+and the reason i remembered better is
+that when we experience
+
+826
+00:40:17,999 --> 00:40:23,610
+an event that violates our expectations
+that's inconsistent with what we believe
+
+827
+00:40:23,610 --> 00:40:25,989
+we tend to do is
+
+828
+00:40:25,989 --> 00:40:28,859
+try to explain how that event occurred
+
+829
+00:40:28,859 --> 00:40:34,309
+and that extra explanatory activity
+creates a more elaborate
+
+830
+00:40:34,309 --> 00:40:35,130
+butcher
+
+831
+00:40:35,130 --> 00:40:36,259
+memory trace
+
+832
+00:40:36,259 --> 00:40:43,259
+than would otherwise be the case
+
+833
+00:40:44,079 --> 00:40:48,529
+yeah what they'll do is they will change
+it but they did not did that subjects
+
+834
+00:40:48,529 --> 00:40:52,060
+would rationalize would change something
+that didn't make sense
+
+835
+00:40:52,060 --> 00:40:55,179
+and then they remember did very well
+
+836
+00:40:55,179 --> 00:40:56,899
+they remembered
+
+837
+00:40:56,899 --> 00:41:01,359
+they'll remember that away they changed
+it so that it made sense
+
+838
+00:41:01,359 --> 00:41:02,859
+the ex drug
+
+839
+00:41:02,859 --> 00:41:07,140
+cognitive activity is what they
+remembered not the event itself okay so
+
+840
+00:41:07,140 --> 00:41:10,559
+they won't mind i'll remember that the
+place was egg you lack
+
+841
+00:41:10,559 --> 00:41:13,339
+right the name of the village
+
+842
+00:41:13,339 --> 00:41:14,399
+dino
+
+843
+00:41:14,399 --> 00:41:17,309
+female british college students they
+might remember
+
+844
+00:41:17,309 --> 00:41:18,959
+fall on eldon
+
+845
+00:41:18,959 --> 00:41:21,890
+cassell didn't sounds like a cue lack
+and that's the name that would be
+
+846
+00:41:21,890 --> 00:41:22,580
+familiar
+
+847
+00:41:22,580 --> 00:41:25,069
+uh... to uh... to them
+
+848
+00:41:25,069 --> 00:41:26,239
+alm
+
+849
+00:41:26,239 --> 00:41:29,389
+but again does the scheme of
+
+850
+00:41:29,389 --> 00:41:32,459
+the steam out of the schematic
+processing principle
+
+851
+00:41:32,459 --> 00:41:33,940
+of all
+
+852
+00:41:33,940 --> 00:41:34,549
+reflex
+
+853
+00:41:34,549 --> 00:41:36,410
+the relationship between
+
+854
+00:41:36,410 --> 00:41:37,939
+what you're trying to remember
+
+855
+00:41:37,939 --> 00:41:39,800
+and what you already know
+
+856
+00:41:39,800 --> 00:41:40,909
+okay
+
+857
+00:41:40,909 --> 00:41:41,619
+and
+
+858
+00:41:41,619 --> 00:41:43,790
+if it's consistent with what we already
+know
+
+859
+00:41:43,790 --> 00:41:48,579
+we remember that fairly well because for
+the orignal provides extra q information
+
+860
+00:41:48,579 --> 00:41:51,339
+if it's inconsistent with what we
+already knew
+
+861
+00:41:51,339 --> 00:41:53,229
+on what we're talking about people do
+
+862
+00:41:53,229 --> 00:41:57,079
+if you remember it better by virtue of
+this elaborate of activity this this
+
+863
+00:41:57,079 --> 00:41:58,579
+explanatory activity
+
+864
+00:41:58,579 --> 00:42:03,389
+but you may remember in a distorted
+fashion
+
+865
+00:42:03,389 --> 00:42:04,269
+alm
+
+866
+00:42:04,269 --> 00:42:05,790
+sold out to all
+
+867
+00:42:05,790 --> 00:42:06,400
+all
+
+868
+00:42:06,400 --> 00:42:11,610
+if i save you well what the judy do when
+you say well on judy had difficulty
+
+869
+00:42:11,610 --> 00:42:12,399
+remembering
+
+870
+00:42:12,399 --> 00:42:13,370
+the uh...
+
+871
+00:42:13,370 --> 00:42:17,799
+but the chair difficulty understanding
+the daytime television show
+
+872
+00:42:17,799 --> 00:42:20,969
+but you but you also remembers your
+explanation for that
+
+873
+00:42:20,969 --> 00:42:25,019
+she had difficulty remembering the
+daytime television show because she was
+
+874
+00:42:25,019 --> 00:42:28,759
+preparing her role acceptance speech for
+the nobel prize
+
+875
+00:42:28,759 --> 00:42:32,509
+or something like that right and that
+wasn't in the story
+
+876
+00:42:32,509 --> 00:42:37,359
+they'll remember for the event well but
+your email remember in this distorted
+
+877
+00:42:37,359 --> 00:42:39,719
+fashion that was one of bartlett's
+insights
+
+878
+00:42:39,719 --> 00:42:46,719
+well in the back yes
+
+879
+00:42:50,809 --> 00:42:55,569
+m evolutionary purpose to the fact that
+we armed
+
+880
+00:42:55,569 --> 00:43:02,569
+remember our beliefs but not accurate
+records
+
+881
+00:43:02,969 --> 00:43:07,660
+i think about answer the question two
+ways the first day is it's probably a
+
+882
+00:43:07,660 --> 00:43:13,160
+mistake to look for an adaptive purpose
+to every to every feature of the job
+
+883
+00:43:13,160 --> 00:43:15,649
+that that uh... that we present
+
+884
+00:43:15,649 --> 00:43:20,319
+or memory is a very adaptive thing to
+have okay
+
+885
+00:43:20,319 --> 00:43:21,579
+alm
+
+886
+00:43:21,579 --> 00:43:25,479
+and what the reasons that the deputies
+that almost as to
+
+887
+00:43:25,479 --> 00:43:27,019
+control their behavior
+
+888
+00:43:27,019 --> 00:43:31,209
+although but private behavior controlled
+by things other than what's immediately
+
+889
+00:43:31,209 --> 00:43:33,079
+present in the environment
+
+890
+00:43:33,079 --> 00:43:34,369
+okay
+
+891
+00:43:34,369 --> 00:43:37,039
+alm
+
+892
+00:43:37,039 --> 00:43:40,499
+that but what do you memory works
+
+893
+00:43:40,499 --> 00:43:44,859
+is also adapted because dole's done a
+lot of things out there that happen and
+
+894
+00:43:44,859 --> 00:43:50,009
+you don't necessarily want to remember
+every one of those things okay
+
+895
+00:43:50,009 --> 00:43:53,949
+so memory has a way of all
+
+896
+00:43:53,949 --> 00:43:55,690
+we're putting things together
+
+897
+00:43:55,690 --> 00:43:58,160
+so that you
+
+898
+00:43:58,160 --> 00:44:02,359
+our group things together so you can
+remember individuals individual items
+
+899
+00:44:02,359 --> 00:44:06,359
+better but not remember them as
+individual items ok so all that's very
+
+900
+00:44:06,359 --> 00:44:10,759
+adaptive part of memory but not
+everything we do is adaptive in that
+
+901
+00:44:10,759 --> 00:44:15,029
+sense stephen jay gould every step of
+they had a great example of why do we
+
+902
+00:44:15,029 --> 00:44:17,130
+have two arms and two legs
+
+903
+00:44:17,130 --> 00:44:20,859
+we have two arms into lakes not because
+that's particularly adaptive
+
+904
+00:44:20,859 --> 00:44:22,730
+we have two arms into legs
+
+905
+00:44:22,730 --> 00:44:26,139
+because for descended from fish that had
+four fins
+
+906
+00:44:26,139 --> 00:44:30,109
+okay that's just that's thus that's the
+whole story right
+
+907
+00:44:30,109 --> 00:44:34,869
+memory has the properties that has the
+class of
+
+908
+00:44:34,869 --> 00:44:39,709
+certain constraints on human information
+processing we can't remember everything
+
+909
+00:44:39,709 --> 00:44:43,849
+that's happened to us we can't process
+everything that's happened to us
+
+910
+00:44:43,849 --> 00:44:47,669
+what we remember is going to be filtered
+through attention going to be filtered
+
+911
+00:44:47,669 --> 00:44:52,739
+through believes it's going to be
+filtered through world knowledge
+
+912
+00:44:52,739 --> 00:44:55,599
+we have time for one or two more
+questions i think there is an exam
+
+913
+00:44:55,599 --> 00:45:02,599
+coming up so there's going to be some
+noise
+
+914
+00:45:07,279 --> 00:45:10,089
+yeah is there some kind of medium term
+memory
+
+915
+00:45:10,089 --> 00:45:12,229
+no i'm not really
+
+916
+00:45:12,229 --> 00:45:15,739
+as i say want to get past about thirty
+seconds
+
+917
+00:45:15,739 --> 00:45:17,700
+well any period of distraction at all
+
+918
+00:45:17,700 --> 00:45:21,079
+you're really operated on long-term
+memory in your following these
+
+919
+00:45:21,079 --> 00:45:22,799
+principles
+
+920
+00:45:22,799 --> 00:45:26,129
+okay i think there is an exam coming in
+so we're going to let you guys go a
+
+921
+00:45:26,129 --> 00:45:27,390
+little bit early
+
+922
+00:45:27,390 --> 00:45:30,760
+horsing around the state west are
+talking about think you know language
+

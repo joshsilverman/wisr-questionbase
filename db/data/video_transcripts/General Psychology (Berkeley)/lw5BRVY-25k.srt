@@ -1,0 +1,4503 @@
+﻿1
+00:00:08,299 --> 00:00:14,169
+okay last time wiki began our
+consideration of processes involved in
+
+2
+00:00:14,169 --> 00:00:15,229
+thinking
+
+3
+00:00:15,229 --> 00:00:17,630
+reasoning and problem solving
+
+4
+00:00:17,630 --> 00:00:20,260
+judgment and decision making
+
+5
+00:00:20,260 --> 00:00:24,740
+and i began with a basic carter problem
+
+6
+00:00:24,740 --> 00:00:30,190
+wonder comes up all the time which is
+how we form a categories to begin with
+
+7
+00:00:30,190 --> 00:00:34,450
+and how we categorize objects in terms
+of all of the categories that we know
+
+8
+00:00:34,450 --> 00:00:36,250
+something about
+
+9
+00:00:36,250 --> 00:00:37,380
+and i described for you
+
+10
+00:00:37,380 --> 00:00:40,700
+to anne
+
+11
+00:00:40,700 --> 00:00:45,900
+there as an example of memorable
+rationality the classic all proper said
+
+12
+00:00:45,900 --> 00:00:48,219
+fueled categories uncategorized ation
+
+13
+00:00:48,219 --> 00:00:52,920
+that has come down to us since the time
+of aristotle's psalm twenty five hundred
+
+14
+00:00:52,920 --> 00:00:54,470
+years ago
+
+15
+00:00:54,470 --> 00:00:57,780
+idea that categories are proper steps
+
+16
+00:00:57,780 --> 00:01:01,390
+we are all category members share in
+common
+
+17
+00:01:01,390 --> 00:01:05,110
+thumbs-up all defining features
+
+18
+00:01:05,110 --> 00:01:07,640
+and when you want to categorize an
+object
+
+19
+00:01:07,640 --> 00:01:09,190
+all there's an algorithm
+
+20
+00:01:09,190 --> 00:01:11,380
+and all you have to do to is too
+
+21
+00:01:11,380 --> 00:01:14,510
+all figure out what the features of the
+object are
+
+22
+00:01:14,510 --> 00:01:16,240
+compare those features
+
+23
+00:01:16,240 --> 00:01:21,300
+through the list to various lists of all
+features at the fine various categories
+
+24
+00:01:21,300 --> 00:01:26,150
+and when you find a match between the
+features of an object and the defining
+
+25
+00:01:26,150 --> 00:01:30,240
+features of a category then you solve
+the problem you know the object belongs
+
+26
+00:01:30,240 --> 00:01:32,470
+in that category
+
+27
+00:01:32,470 --> 00:01:37,930
+that is a fine idea of plots
+prescription for categorization in
+
+28
+00:01:37,930 --> 00:01:38,930
+principle
+
+29
+00:01:38,930 --> 00:01:42,250
+but in bless lecturer already
+
+30
+00:01:42,250 --> 00:01:44,940
+discussed a number of ways in which it
+just doesn't work out
+
+31
+00:01:44,940 --> 00:01:47,030
+that there is a series of problems
+
+32
+00:01:47,030 --> 00:01:51,140
+with his classical view of categories as
+proper sets
+
+33
+00:01:51,140 --> 00:01:55,390
+and they seem to be law
+
+34
+00:01:55,390 --> 00:01:56,159
+okay
+
+35
+00:01:56,159 --> 00:01:59,529
+as part of categorization is a matter of
+using proper sets
+
+36
+00:01:59,529 --> 00:02:02,189
+the wooden encounter these kinds of
+problems at all
+
+37
+00:02:02,189 --> 00:02:06,410
+so what do you know what needs to be
+categorized how do we do it
+
+38
+00:02:06,410 --> 00:02:06,919
+tall
+
+39
+00:02:06,919 --> 00:02:11,640
+it turns out we do something to all
+other than categorized in terms of
+
+40
+00:02:11,640 --> 00:02:13,040
+but think about categories
+
+41
+00:02:13,040 --> 00:02:16,909
+in terms of these songs and these
+defining features
+
+42
+00:02:16,909 --> 00:02:18,580
+and warn the
+
+43
+00:02:18,580 --> 00:02:20,839
+alternative view of categorization
+
+44
+00:02:20,839 --> 00:02:23,729
+wonder you get a lot of mileage out of
+
+45
+00:02:23,729 --> 00:02:28,620
+well i was proposed by berkeley zone
+professor eleanor rushed some years ago
+
+46
+00:02:28,620 --> 00:02:32,240
+in terms of what's known as the
+prototype view
+
+47
+00:02:32,240 --> 00:02:35,469
+all categories is fuzzy sets
+
+48
+00:02:35,469 --> 00:02:36,260
+arm
+
+49
+00:02:36,260 --> 00:02:37,820
+couple things going on here
+
+50
+00:02:37,820 --> 00:02:42,470
+first inspect categories are construed
+as fuzzy sets not process
+
+51
+00:02:42,470 --> 00:02:47,840
+proper sets recur in the category are
+not there are sharp boundaries between
+
+52
+00:02:47,840 --> 00:02:49,689
+contrasting categories
+
+53
+00:02:49,689 --> 00:02:52,780
+bargain russia's fauzi so if you have
+categorization
+
+54
+00:02:52,780 --> 00:02:57,550
+but the owner res between adjacent
+categories are not all that clear their
+
+55
+00:02:57,550 --> 00:02:58,419
+fussing
+
+56
+00:02:58,419 --> 00:03:01,799
+although it's not going that's the
+reason why it's not clear whether or not
+
+57
+00:03:01,799 --> 00:03:02,569
+or weather
+
+58
+00:03:02,569 --> 00:03:05,149
+a tornado was approved for a vegetable
+
+59
+00:03:05,149 --> 00:03:09,370
+or any religion is an article of
+furniture or not
+
+60
+00:03:09,370 --> 00:03:10,830
+rosh argued that
+
+61
+00:03:10,830 --> 00:03:15,750
+when we categorize we simply don't
+categorize on the basis of defining
+
+62
+00:03:15,750 --> 00:03:20,840
+features rather we define all good but
+we did we categorize on the basis of
+
+63
+00:03:20,840 --> 00:03:22,479
+what she called
+
+64
+00:03:22,479 --> 00:03:23,829
+characteristic features
+
+65
+00:03:23,829 --> 00:03:26,959
+features that are correlated
+
+66
+00:03:26,959 --> 00:03:28,620
+or category membership
+
+67
+00:03:28,620 --> 00:03:30,529
+but not perfectly
+
+68
+00:03:30,529 --> 00:03:32,749
+correlated with category membership
+
+69
+00:03:32,749 --> 00:03:35,630
+and in fact she'd yaar distinguished
+further
+
+70
+00:03:35,630 --> 00:03:37,709
+between two kinds of features
+
+71
+00:03:37,709 --> 00:03:40,190
+that are relevant to categorization
+
+72
+00:03:40,190 --> 00:03:45,099
+central features which are highly
+correlated with category membership
+
+73
+00:03:45,099 --> 00:03:45,859
+and
+
+74
+00:03:45,859 --> 00:03:46,819
+peripheral features
+
+75
+00:03:46,819 --> 00:03:51,749
+which are not so highly correlated with
+category membership
+
+76
+00:03:51,749 --> 00:03:52,990
+and she argued
+
+77
+00:03:52,990 --> 00:03:58,060
+federal rather than representing
+categories violence of defining features
+
+78
+00:03:58,060 --> 00:04:01,420
+features that are singly necessary and
+jointly sufficient
+
+79
+00:04:01,420 --> 00:04:04,599
+to define an object is a member of a
+category
+
+80
+00:04:04,599 --> 00:04:08,230
+rather what we do is irreparably
+represent categories by
+
+81
+00:04:08,230 --> 00:04:10,429
+are kind of payment type
+
+82
+00:04:10,429 --> 00:04:13,459
+are in a prototype in this all
+literature
+
+83
+00:04:13,459 --> 00:04:15,040
+means a kind of
+
+84
+00:04:15,040 --> 00:04:16,430
+average
+
+85
+00:04:16,430 --> 00:04:21,859
+category mem member all over the image
+of a category that has lots of features
+
+86
+00:04:21,859 --> 00:04:24,620
+that are central to category membership
+
+87
+00:04:24,620 --> 00:04:28,409
+and relatively few features that are
+central to membership and other
+
+88
+00:04:28,409 --> 00:04:29,239
+categories
+
+89
+00:04:29,239 --> 00:04:30,539
+all but the point is
+
+90
+00:04:30,539 --> 00:04:33,300
+that the features were used to
+categorize objects
+
+91
+00:04:33,300 --> 00:04:37,039
+may not be the defining features of a
+category
+
+92
+00:04:37,039 --> 00:04:42,339
+albendazole warm-blooded vertebrate with
+feathers and wings that's the biological
+
+93
+00:04:42,339 --> 00:04:43,360
+definition of a bird
+
+94
+00:04:43,360 --> 00:04:47,610
+if you've got those four peter zero bird
+if you don't have those for future if
+
+95
+00:04:47,610 --> 00:04:49,520
+you're not over
+
+96
+00:04:49,520 --> 00:04:51,340
+but then we think about birds
+
+97
+00:04:51,340 --> 00:04:55,290
+we don't think about bridge that way we
+think about birds in terms of
+
+98
+00:04:55,290 --> 00:04:57,759
+prototypical birds like robbins
+
+99
+00:04:57,759 --> 00:04:59,320
+as barros
+
+100
+00:04:59,320 --> 00:05:00,470
+and pigeons
+
+101
+00:05:00,470 --> 00:05:05,670
+and evils and hawks we have these
+prototypes that are mine and when we see
+
+102
+00:05:05,670 --> 00:05:06,969
+an object
+
+103
+00:05:06,969 --> 00:05:08,659
+that has many of the features
+
+104
+00:05:08,659 --> 00:05:10,190
+other category prototype
+
+105
+00:05:10,190 --> 00:05:11,399
+we call it a bird
+
+106
+00:05:11,399 --> 00:05:12,690
+and if we don't
+
+107
+00:05:12,690 --> 00:05:15,009
+policy those characteristic features
+
+108
+00:05:15,009 --> 00:05:16,990
+we don't call the object bird
+
+109
+00:05:16,990 --> 00:05:20,599
+which is why we have difficulty thinking
+about chickens as birds
+
+110
+00:05:20,599 --> 00:05:24,009
+we have difficulty thinking about pasta
+riches as bird
+
+111
+00:05:24,009 --> 00:05:28,949
+we have difficulty thinking about
+penguins as birds
+
+112
+00:05:28,949 --> 00:05:30,709
+and this
+
+113
+00:05:30,709 --> 00:05:32,780
+prototype view of categorization
+
+114
+00:05:32,780 --> 00:05:35,300
+goes a long way towards
+
+115
+00:05:35,300 --> 00:05:35,870
+solving
+
+116
+00:05:35,870 --> 00:05:40,000
+the kinds of problems of categorization
+that i talked about last time
+
+117
+00:05:40,000 --> 00:05:42,600
+for example the prototype view
+
+118
+00:05:42,600 --> 00:05:47,520
+permits a lot of heterogeneity within a
+category it permits you to have a lots
+
+119
+00:05:47,520 --> 00:05:51,810
+of objects in a category that don't
+necessarily look ball like each other
+
+120
+00:05:51,810 --> 00:05:54,870
+but most important the palm
+
+121
+00:05:54,870 --> 00:05:56,880
+the yacht the prototype view
+
+122
+00:05:56,880 --> 00:05:59,409
+allows for typically affects
+
+123
+00:05:59,409 --> 00:06:02,479
+it allows for salma category members
+
+124
+00:06:02,479 --> 00:06:04,460
+to be more technical
+
+125
+00:06:04,460 --> 00:06:06,919
+category members them other category
+members
+
+126
+00:06:06,919 --> 00:06:07,810
+why
+
+127
+00:06:07,810 --> 00:06:13,220
+because they more closely resemble
+prototypical category instances and
+
+128
+00:06:13,220 --> 00:06:14,760
+again the important thing here
+
+129
+00:06:14,760 --> 00:06:16,789
+is that we define
+
+130
+00:06:16,789 --> 00:06:17,879
+foam
+
+131
+00:06:17,879 --> 00:06:21,139
+five categories in terms of these
+characteristics features
+
+132
+00:06:21,139 --> 00:06:23,379
+which are not necessarily the same
+
+133
+00:06:23,379 --> 00:06:25,090
+as defining features
+
+134
+00:06:25,090 --> 00:06:28,030
+we think of eagles is birds because they
+fly
+
+135
+00:06:28,030 --> 00:06:32,469
+okay but not all birds fly that's not
+part of the biological definition of a
+
+136
+00:06:32,469 --> 00:06:33,020
+bird
+
+137
+00:06:33,020 --> 00:06:37,509
+we think of a robinson sparrows as birds
+because they fly in the same
+
+138
+00:06:37,509 --> 00:06:41,909
+but flying and singing are not defining
+features of the category birds
+
+139
+00:06:41,909 --> 00:06:44,020
+let's just one of the purple burglarized
+
+140
+00:06:44,020 --> 00:06:46,349
+difficult work for example fence and
+sings
+
+141
+00:06:46,349 --> 00:06:48,359
+for instance flies off the fence
+
+142
+00:06:48,359 --> 00:06:49,690
+does all these kinds of
+
+143
+00:06:49,690 --> 00:06:51,839
+birdie things
+
+144
+00:06:51,839 --> 00:06:55,049
+even though that doesn't have anything
+to do with being a warm-blooded
+
+145
+00:06:55,049 --> 00:06:55,449
+vertebrate
+
+146
+00:06:55,449 --> 00:06:57,539
+with feathers and wings
+
+147
+00:06:57,539 --> 00:07:00,830
+an alternative view of categorization
+
+148
+00:07:00,830 --> 00:07:03,829
+aldrich dog whiteman talks about a
+little bit
+
+149
+00:07:03,829 --> 00:07:07,669
+abandons the view of walla co dot that
+is the emphasis on features and
+
+150
+00:07:07,669 --> 00:07:08,399
+fireworks
+
+151
+00:07:08,399 --> 00:07:10,449
+in the proper sethi through
+
+152
+00:07:10,449 --> 00:07:14,979
+categories were defined by defining
+features features over singly necessary
+
+153
+00:07:14,979 --> 00:07:19,199
+in jointly sufficient to define an
+object as an instance of a category
+
+154
+00:07:19,199 --> 00:07:20,610
+in russia is
+
+155
+00:07:20,610 --> 00:07:23,119
+fuzzy set for you
+
+156
+00:07:23,119 --> 00:07:27,160
+categories were are defined in terms of
+prototypical features
+
+157
+00:07:27,160 --> 00:07:29,619
+features over highly correlated
+
+158
+00:07:29,619 --> 00:07:31,100
+with category membership
+
+159
+00:07:31,100 --> 00:07:35,729
+but not necessarily perfectly correlated
+with category membership and this
+
+160
+00:07:35,729 --> 00:07:37,159
+example our view
+
+161
+00:07:37,159 --> 00:07:38,259
+basically says
+
+162
+00:07:38,259 --> 00:07:40,099
+that you just abandon
+
+163
+00:07:40,099 --> 00:07:44,619
+for the use of features are all instead
+you have a category that's
+
+164
+00:07:44,619 --> 00:07:45,830
+representative your mind
+
+165
+00:07:45,830 --> 00:07:46,800
+as a
+
+166
+00:07:46,800 --> 00:07:49,129
+relatively short list
+
+167
+00:07:49,129 --> 00:07:50,469
+typical instances
+
+168
+00:07:50,469 --> 00:07:52,379
+so if i see an object
+
+169
+00:07:52,379 --> 00:07:55,999
+and i want to know if it's a bird i
+don't inspected to see that sings and
+
+170
+00:07:55,999 --> 00:07:57,099
+flies
+
+171
+00:07:57,099 --> 00:08:01,039
+which are characteristic features of
+birds ok why inspected to see if it
+
+172
+00:08:01,039 --> 00:08:04,899
+looks like a robin or a sterile or in
+the eagle or a hawk
+
+173
+00:08:04,899 --> 00:08:07,840
+and if it is like all of a bird and if
+it doesn't
+
+174
+00:08:07,840 --> 00:08:10,689
+hi all i don't recall the river
+
+175
+00:08:10,689 --> 00:08:11,430
+again
+
+176
+00:08:11,430 --> 00:08:14,279
+both the product ideal of categorization
+
+177
+00:08:14,279 --> 00:08:17,160
+and the exemplar view of categorization
+
+178
+00:08:17,160 --> 00:08:19,659
+depart radically from below
+
+179
+00:08:19,659 --> 00:08:24,719
+article record role classical view of
+categories as proper sucks
+
+180
+00:08:24,719 --> 00:08:26,870
+and they owe us straight the distinction
+
+181
+00:08:26,870 --> 00:08:30,259
+between what you might call logic
+
+182
+00:08:30,259 --> 00:08:32,839
+trickle approach to categorization
+
+183
+00:08:32,839 --> 00:08:37,350
+and what you might call the
+psychological approach to categorization
+
+184
+00:08:37,350 --> 00:08:41,620
+there's one way to do things that's
+prescribed by flaw sufferers
+
+185
+00:08:41,620 --> 00:08:44,220
+we're committed to normative rationality
+
+186
+00:08:44,220 --> 00:08:45,619
+and there's another way
+
+187
+00:08:45,619 --> 00:08:46,789
+to do things
+
+188
+00:08:46,789 --> 00:08:48,750
+that's described by psychologists
+
+189
+00:08:48,750 --> 00:08:50,900
+who actually look at hull
+
+190
+00:08:50,900 --> 00:08:53,100
+the mind works okay
+
+191
+00:08:53,100 --> 00:08:57,050
+so these problems with categorization
+
+192
+00:08:57,050 --> 00:09:02,350
+suggest that there's another awaited
+view human thought then through the lens
+
+193
+00:09:02,350 --> 00:09:03,170
+all
+
+194
+00:09:03,170 --> 00:09:08,140
+on normative rationality and in this
+lecture today we're going to see some
+
+195
+00:09:08,140 --> 00:09:10,850
+other examples of that
+
+196
+00:09:10,850 --> 00:09:16,820
+basically the idea here woods who have
+already talked about this let's go on to
+
+197
+00:09:16,820 --> 00:09:23,240
+albright problem of categorization
+
+198
+00:09:23,240 --> 00:09:27,560
+categorization is always a matter
+although judgment
+
+199
+00:09:27,560 --> 00:09:30,910
+problem solving the problem being to
+determine
+
+200
+00:09:30,910 --> 00:09:33,810
+what category and object belongs in
+
+201
+00:09:33,810 --> 00:09:39,090
+when we think about power problems are
+structured and how problems are solved
+
+202
+00:09:39,090 --> 00:09:41,610
+it turns out
+
+203
+00:09:41,610 --> 00:09:47,250
+algorithms for judgment or only work for
+a specific class the problems known as
+
+204
+00:09:47,250 --> 00:09:49,210
+well defined problems
+
+205
+00:09:49,210 --> 00:09:53,519
+well defined problems are ones that are
+completely specified
+
+206
+00:09:53,519 --> 00:09:54,759
+with respect to
+
+207
+00:09:54,759 --> 00:09:58,180
+the initial conditions set by the
+problem
+
+208
+00:09:58,180 --> 00:10:01,899
+the bolt to be reached in the problem
+
+209
+00:10:01,899 --> 00:10:05,429
+and the intermediate operations to be
+performed
+
+210
+00:10:05,429 --> 00:10:07,559
+did he knew from the initial conditions
+
+211
+00:10:07,559 --> 00:10:09,550
+to the goals
+
+212
+00:10:09,550 --> 00:10:11,890
+problems in elementary algebra
+
+213
+00:10:11,890 --> 00:10:12,759
+or
+
+214
+00:10:12,759 --> 00:10:14,530
+of are well-defined
+
+215
+00:10:14,530 --> 00:10:17,620
+uh... in in exactly the slaying if i
+said to you
+
+216
+00:10:17,620 --> 00:10:24,130
+three acts plus three equals twelve and
+i want you to solve for x
+
+217
+00:10:24,130 --> 00:10:25,190
+an algorithm
+
+218
+00:10:25,190 --> 00:10:27,059
+that'll allow you to do that
+
+219
+00:10:27,059 --> 00:10:30,079
+you subtract three from both sides of
+the equation
+
+220
+00:10:30,079 --> 00:10:33,279
+and then you divide both sides of the
+equation by three
+
+221
+00:10:33,279 --> 00:10:34,600
+so that you find out
+
+222
+00:10:34,600 --> 00:10:36,860
+that x equals three
+
+223
+00:10:36,860 --> 00:10:41,780
+in a problem like this the public this
+is well-defined because there is only
+
+224
+00:10:41,780 --> 00:10:45,480
+one possible representation of the
+problem
+
+225
+00:10:45,480 --> 00:10:50,830
+and there is a only one correct solution
+to the problem and there's an algorithm
+
+226
+00:10:50,830 --> 00:10:53,320
+that'll tell you what that solution is
+
+227
+00:10:53,320 --> 00:10:56,480
+and all you have to do is apply it
+
+228
+00:10:56,480 --> 00:11:00,420
+but there are there problems that art
+ill-defined
+
+229
+00:11:00,420 --> 00:11:05,060
+in that they are in one way or another
+not completely specified
+
+230
+00:11:05,060 --> 00:11:06,700
+you with your dole
+
+231
+00:11:06,700 --> 00:11:09,540
+necessary you don't know all the initial
+conditions
+
+232
+00:11:09,540 --> 00:11:11,530
+you may not know the goal
+
+233
+00:11:11,530 --> 00:11:15,120
+or you may not know the intermediate
+operations
+
+234
+00:11:15,120 --> 00:11:18,679
+on algebraic example might be ok
+unnikrishnan like this
+
+235
+00:11:18,679 --> 00:11:23,360
+three acts plus three white males twelve
+on yesterday solve racks
+
+236
+00:11:23,360 --> 00:11:28,690
+and he can't deliver exactly because the
+value of x depends on the value of life
+
+237
+00:11:28,690 --> 00:11:31,510
+if the if y equals one xd
+
+238
+00:11:31,510 --> 00:11:32,700
+as one value
+
+239
+00:11:32,700 --> 00:11:34,250
+if why he pulls too
+
+240
+00:11:34,250 --> 00:11:36,790
+x has another value
+
+241
+00:11:36,790 --> 00:11:38,940
+in ill-defined problems
+
+242
+00:11:38,940 --> 00:11:40,660
+there are many
+
+243
+00:11:40,660 --> 00:11:44,259
+different possible representations all
+of the problem
+
+244
+00:11:44,259 --> 00:11:48,110
+there are many different ways to look at
+the problem
+
+245
+00:11:48,110 --> 00:11:50,070
+and a solution to the problem
+
+246
+00:11:50,070 --> 00:11:51,720
+is going to be determined
+
+247
+00:11:51,720 --> 00:11:53,920
+but either way it's represented
+
+248
+00:11:53,920 --> 00:11:55,459
+the solution of problem
+
+249
+00:11:55,459 --> 00:11:57,100
+is going to be determined
+
+250
+00:11:57,100 --> 00:11:58,090
+all right
+
+251
+00:11:58,090 --> 00:11:58,959
+on on
+
+252
+00:11:58,959 --> 00:12:00,329
+by the are
+
+253
+00:12:00,329 --> 00:12:02,529
+but what you decide to specify
+
+254
+00:12:02,529 --> 00:12:04,610
+the initial conditions
+
+255
+00:12:04,610 --> 00:12:09,240
+walls or the intermediate operations for
+what have you and the fact of the matter
+
+256
+00:12:09,240 --> 00:12:09,939
+is
+
+257
+00:12:09,939 --> 00:12:14,289
+that most of the problems that we
+encounter in the ordinary course of
+
+258
+00:12:14,289 --> 00:12:15,409
+everyday living
+
+259
+00:12:15,409 --> 00:12:18,569
+more closely resemble build the foreign
+problems
+
+260
+00:12:18,569 --> 00:12:22,039
+then well-defined problems ok just about
+
+261
+00:12:22,039 --> 00:12:25,310
+all the kinds of problems that you
+encounter
+
+262
+00:12:25,310 --> 00:12:27,320
+hardly any of them look like
+
+263
+00:12:27,320 --> 00:12:30,409
+before nobody equations of elementary
+algebra
+
+264
+00:12:30,409 --> 00:12:32,930
+okay most of it look like
+
+265
+00:12:32,930 --> 00:12:36,319
+first thing you have to be rose what the
+goal is okay
+
+266
+00:12:36,319 --> 00:12:38,889
+then you have to have that you have to
+figure out what your condemned the
+
+267
+00:12:38,889 --> 00:12:40,959
+butcher intermediate conditions are
+
+268
+00:12:40,959 --> 00:12:44,559
+and then you have to figure out how do
+you get from point a to point b
+
+269
+00:12:44,559 --> 00:12:45,939
+all of these things
+
+270
+00:12:45,939 --> 00:12:49,830
+are relatively incompletely specified
+
+271
+00:12:49,830 --> 00:12:51,640
+in other words
+
+272
+00:12:51,640 --> 00:12:53,680
+most reasoning
+
+273
+00:12:53,680 --> 00:12:55,160
+judgment
+
+274
+00:12:55,160 --> 00:12:56,690
+and decision making
+
+275
+00:12:56,690 --> 00:13:00,379
+takes place under conditions of on the
+certainty
+
+276
+00:13:00,379 --> 00:13:01,550
+okay
+
+277
+00:13:01,550 --> 00:13:02,120
+and
+
+278
+00:13:02,120 --> 00:13:06,709
+weakens archived identified a number of
+these conditions which we call
+
+279
+00:13:06,709 --> 00:13:09,079
+conditions of uncertainty first
+
+280
+00:13:09,079 --> 00:13:12,130
+whenever you have an ill-defined a
+problem
+
+281
+00:13:12,130 --> 00:13:13,600
+whatever you have a problem
+
+282
+00:13:13,600 --> 00:13:17,170
+that'd mets of more than one
+representation
+
+283
+00:13:17,170 --> 00:13:21,779
+and bus all can be solved in more them
+one way okay
+
+284
+00:13:21,779 --> 00:13:26,309
+when you've got to build a fine problem
+there is no algorithm that will solve
+
+285
+00:13:26,309 --> 00:13:28,720
+that problem of for you
+
+286
+00:13:28,720 --> 00:13:33,150
+so that's one way in which we think
+about combat conditions of uncertainty
+
+287
+00:13:33,150 --> 00:13:34,930
+but there are other
+
+288
+00:13:34,930 --> 00:13:36,199
+conditions about certain people
+
+289
+00:13:36,199 --> 00:13:41,290
+where the problem could in principle be
+solved with an algorithm
+
+290
+00:13:41,290 --> 00:13:43,769
+for one reason or another it just
+doesn't work out
+
+291
+00:13:43,769 --> 00:13:48,439
+for example you may not know what the
+algorithm is somebody else might know
+
+292
+00:13:48,439 --> 00:13:50,589
+but you don't know what the algorithm is
+
+293
+00:13:50,589 --> 00:13:55,110
+if you don't know what the algorithm is
+you're trying to solve the problem under
+
+294
+00:13:55,110 --> 00:13:57,430
+conditions of uncertainty
+
+295
+00:13:57,430 --> 00:14:00,439
+or you may know what the algorithm is
+
+296
+00:14:00,439 --> 00:14:03,510
+but you may have insufficient
+information
+
+297
+00:14:03,510 --> 00:14:06,450
+if three x plus free wine equals twelve
+
+298
+00:14:06,450 --> 00:14:08,319
+i ask you to solve for x
+
+299
+00:14:08,319 --> 00:14:10,790
+and you don't know what why is
+
+300
+00:14:10,790 --> 00:14:14,220
+you can't apply the algorithm anyway
+okay
+
+301
+00:14:14,220 --> 00:14:17,590
+or there may be insufficient opportunity
+
+302
+00:14:17,590 --> 00:14:22,200
+to take all the information you need and
+slogged through the algorithm
+
+303
+00:14:22,200 --> 00:14:23,260
+to get from
+
+304
+00:14:23,260 --> 00:14:25,050
+uh... from the initial state
+
+305
+00:14:25,050 --> 00:14:28,870
+to the goal state insufficient
+opportunity either because you don't
+
+306
+00:14:28,870 --> 00:14:30,950
+have enough time
+
+307
+00:14:30,950 --> 00:14:36,000
+together all the information and to
+apply all the transformations
+
+308
+00:14:36,000 --> 00:14:38,100
+you just don't have enough
+
+309
+00:14:38,100 --> 00:14:39,139
+to do it
+
+310
+00:14:39,139 --> 00:14:40,610
+utah it's a
+
+311
+00:14:40,610 --> 00:14:44,730
+three x plus free wine equals twelve
+sulfur exit sec
+
+312
+00:14:44,730 --> 00:14:46,070
+wine
+
+313
+00:14:46,070 --> 00:14:48,550
+i don't want out
+
+314
+00:14:48,550 --> 00:14:54,080
+five x's five right because they don't
+carry a one a couple lunch or whatever
+
+315
+00:14:54,080 --> 00:14:55,009
+okay
+
+316
+00:14:55,009 --> 00:14:57,490
+all of these all circumstances
+
+317
+00:14:57,490 --> 00:14:58,699
+comprise what we call
+
+318
+00:14:58,699 --> 00:15:01,020
+all the conditions of uncertainty
+
+319
+00:15:01,020 --> 00:15:05,390
+and the point here is dead whenever you
+encounter a problem
+
+320
+00:15:05,390 --> 00:15:06,460
+broadly defined
+
+321
+00:15:06,460 --> 00:15:10,420
+under conditions of one thirty uses not
+going to use an algorithm either 'cause
+
+322
+00:15:10,420 --> 00:15:13,129
+there isn't an algorithm you don't know
+what it is
+
+323
+00:15:13,129 --> 00:15:15,089
+or you don't for whatever reason
+
+324
+00:15:15,089 --> 00:15:17,150
+you're not be able to
+
+325
+00:15:17,150 --> 00:15:22,280
+to to employ so what do you do one of
+those circumstances just stop
+
+326
+00:15:22,280 --> 00:15:23,370
+without
+
+327
+00:15:23,370 --> 00:15:24,819
+all we know no
+
+328
+00:15:24,819 --> 00:15:26,820
+that under conditions uncertainty
+
+329
+00:15:26,820 --> 00:15:32,330
+we shift to another moment all of the
+reasoning another mode of problem
+
+330
+00:15:32,330 --> 00:15:33,150
+solving
+
+331
+00:15:33,150 --> 00:15:34,609
+all of that has to do
+
+332
+00:15:34,609 --> 00:15:38,160
+with the application of water known as
+judgment
+
+333
+00:15:38,160 --> 00:15:40,090
+heuristics
+
+334
+00:15:40,090 --> 00:15:45,180
+judgment heuristics our approaches to
+reasoning and problem solving
+
+335
+00:15:45,180 --> 00:15:46,780
+that constitute
+
+336
+00:15:46,780 --> 00:15:49,320
+inferential shortcuts
+
+337
+00:15:49,320 --> 00:15:52,980
+or judgmental rules are followed
+
+338
+00:15:52,980 --> 00:15:59,300
+these rules of combat bypassed the
+principles of a logical inference okay
+
+339
+00:15:59,300 --> 00:16:03,129
+and all by bypassing the principles of
+logical inference
+
+340
+00:16:03,129 --> 00:16:04,150
+they permit
+
+341
+00:16:04,150 --> 00:16:06,519
+plus to make judgments under
+
+342
+00:16:06,519 --> 00:16:09,240
+various conditions of uncertainty
+
+343
+00:16:09,240 --> 00:16:11,580
+now the interesting thing is
+
+344
+00:16:11,580 --> 00:16:15,480
+judgment heuristics and able us to make
+judgments under conditions of
+
+345
+00:16:15,480 --> 00:16:19,190
+uncertainty but we tend to use them to
+make judgments under conditions of
+
+346
+00:16:19,190 --> 00:16:22,819
+certainty as well when we make tudjman
+civil all kinds
+
+347
+00:16:22,819 --> 00:16:27,740
+we tend to gravitate towards judgment
+your respects as opposed
+
+348
+00:16:27,740 --> 00:16:29,990
+judgment algorithms
+
+349
+00:16:29,990 --> 00:16:31,030
+usually
+
+350
+00:16:31,030 --> 00:16:36,130
+of reliance on judgment heuristics as
+opposed to judgment algorithms
+
+351
+00:16:36,130 --> 00:16:37,610
+is a good thing
+
+352
+00:16:37,610 --> 00:16:38,289
+because
+
+353
+00:16:38,289 --> 00:16:40,429
+you can get a reasonable
+
+354
+00:16:40,429 --> 00:16:41,740
+alaska a
+
+355
+00:16:41,740 --> 00:16:46,589
+of solution to a problem with relatively
+little time involved relatively little
+
+356
+00:16:46,589 --> 00:16:47,750
+after involved
+
+357
+00:16:47,750 --> 00:16:49,370
+the problem is
+
+358
+00:16:49,370 --> 00:16:52,360
+remember what i told you about
+algorithms last time
+
+359
+00:16:52,360 --> 00:16:54,520
+when there's an algorithm available
+
+360
+00:16:54,520 --> 00:16:57,600
+and over the world currency
+
+361
+00:16:57,600 --> 00:17:00,490
+that you get the correct solution to a
+problem
+
+362
+00:17:00,490 --> 00:17:03,039
+when you switch to judgment your
+respects
+
+363
+00:17:03,039 --> 00:17:05,739
+that bypass the rules of logical
+inference
+
+364
+00:17:05,739 --> 00:17:08,720
+you may never have that guarantee
+
+365
+00:17:08,720 --> 00:17:11,990
+judgment heuristic may get you to a
+solution of problem
+
+366
+00:17:11,990 --> 00:17:13,399
+or it may lead you
+
+367
+00:17:13,399 --> 00:17:14,329
+to make
+
+368
+00:17:14,329 --> 00:17:17,690
+some one or another kind of error
+
+369
+00:17:17,690 --> 00:17:19,560
+and in fact
+
+370
+00:17:19,560 --> 00:17:20,020
+psychologist
+
+371
+00:17:20,020 --> 00:17:24,320
+in further the kinds of judgment
+teristics of people use
+
+372
+00:17:24,320 --> 00:17:25,850
+from an analysis
+
+373
+00:17:25,850 --> 00:17:28,290
+of the others that they make
+
+374
+00:17:28,290 --> 00:17:29,630
+in reasoning
+
+375
+00:17:29,630 --> 00:17:31,000
+problem solving
+
+376
+00:17:31,000 --> 00:17:31,570
+judgment
+
+377
+00:17:31,570 --> 00:17:34,350
+and decision making
+
+378
+00:17:34,350 --> 00:17:35,520
+daniel common
+
+379
+00:17:35,520 --> 00:17:40,020
+who recently won nobel prize in
+economics couple years ago all for this
+
+380
+00:17:40,020 --> 00:17:40,530
+work
+
+381
+00:17:40,530 --> 00:17:44,220
+and his colleagues the lately must first
+be common was here at berkeley for many
+
+382
+00:17:44,220 --> 00:17:47,510
+years risky was down the road and
+stanford
+
+383
+00:17:47,510 --> 00:17:49,550
+before his untimely death
+
+384
+00:17:49,550 --> 00:17:50,640
+although
+
+385
+00:17:50,640 --> 00:17:55,150
+identified for commonly used a judgment
+heuristics
+
+386
+00:17:55,150 --> 00:18:02,150
+four commonly used teristics that are
+used for various kinds of
+
+387
+00:18:02,200 --> 00:18:03,870
+permits these
+
+388
+00:18:03,870 --> 00:18:06,970
+it had to go out
+
+389
+00:18:06,970 --> 00:18:08,140
+microphone okay
+
+390
+00:18:08,140 --> 00:18:09,540
+anyway
+
+391
+00:18:09,540 --> 00:18:10,390
+four
+
+392
+00:18:10,390 --> 00:18:13,980
+judgment to respect that are commonly
+used in a wide variety of reasoning
+
+393
+00:18:13,980 --> 00:18:17,270
+domains there are lots of other judgment
+to respect so i'm not going to give your
+
+394
+00:18:17,270 --> 00:18:22,000
+whole catalog from of them but i want
+you to appreciate kind of what these two
+
+395
+00:18:22,000 --> 00:18:27,170
+or teristics are so that you get an idea
+of how things go over a congenital
+
+396
+00:18:27,170 --> 00:18:28,289
+representative s
+
+397
+00:18:28,289 --> 00:18:32,510
+although it to respect that's commonly
+used in making judgments of
+
+398
+00:18:32,510 --> 00:18:33,600
+categorization
+
+399
+00:18:33,600 --> 00:18:36,960
+also making judgments of probability
+
+400
+00:18:36,960 --> 00:18:40,810
+capability with respect that's made in
+making used commonly in making judgments
+
+401
+00:18:40,810 --> 00:18:42,420
+of frequency
+
+402
+00:18:42,420 --> 00:18:43,779
+or simulation
+
+403
+00:18:43,779 --> 00:18:47,509
+ought to respect that's commonly used
+for making judgments of probability as
+
+404
+00:18:47,509 --> 00:18:48,320
+well
+
+405
+00:18:48,320 --> 00:18:52,610
+and anchoring and adjustment or
+heuristic that's commonly used an
+
+406
+00:18:52,610 --> 00:18:53,350
+estimation
+
+407
+00:18:53,350 --> 00:18:54,679
+let's see how each
+
+408
+00:18:54,679 --> 00:18:56,940
+of these
+
+409
+00:18:56,940 --> 00:18:59,060
+first the representative mr rustic
+
+410
+00:18:59,060 --> 00:19:01,669
+which is used as i said categorization
+
+411
+00:19:01,669 --> 00:19:02,710
+in a sense
+
+412
+00:19:02,710 --> 00:19:05,539
+you've already seen the representative
+mr respect
+
+413
+00:19:05,539 --> 00:19:08,220
+in our discussion of
+
+414
+00:19:08,220 --> 00:19:10,520
+prototype or probabilistic approaches
+
+415
+00:19:10,520 --> 00:19:12,720
+to categorization
+
+416
+00:19:12,720 --> 00:19:14,340
+where there's an algorithm
+
+417
+00:19:14,340 --> 00:19:18,539
+just compare the features of the object
+to the defining features of the target
+
+418
+00:19:18,539 --> 00:19:18,950
+category
+
+419
+00:19:18,950 --> 00:19:20,350
+and see if there's a match
+
+420
+00:19:20,350 --> 00:19:26,160
+but we don't do that instead we judge
+that things are all fruits or articles
+
+421
+00:19:26,160 --> 00:19:27,480
+of furniture
+
+422
+00:19:27,480 --> 00:19:28,350
+body
+
+423
+00:19:28,350 --> 00:19:31,059
+day look-alike and that's essentially
+
+424
+00:19:31,059 --> 00:19:33,840
+on what goes on if the represented in
+this
+
+425
+00:19:33,840 --> 00:19:34,850
+quality respect
+
+426
+00:19:34,850 --> 00:19:36,770
+here is a good example of it
+
+427
+00:19:36,770 --> 00:19:39,940
+there's a problem the continent frisky
+studied quite a bit
+
+428
+00:19:39,940 --> 00:19:41,909
+in families of six children
+
+429
+00:19:41,909 --> 00:19:44,559
+which is the most likely sequence
+
+430
+00:19:44,559 --> 00:19:49,450
+of boys and girls what's the most likely
+sequence of boys and girls that joel
+
+431
+00:19:49,450 --> 00:19:49,870
+observed
+
+432
+00:19:49,870 --> 00:19:53,720
+a girl followed by a boy followed by a
+girl following two boys followed by a
+
+433
+00:19:53,720 --> 00:19:55,760
+girl
+
+434
+00:19:55,760 --> 00:19:57,419
+three boys and a role
+
+435
+00:19:57,419 --> 00:20:00,780
+followed by three girls in a row
+
+436
+00:20:00,780 --> 00:20:02,200
+avoid followed by a girl
+
+437
+00:20:02,200 --> 00:20:03,770
+followed by
+
+438
+00:20:03,770 --> 00:20:05,760
+boys in a row
+
+439
+00:20:05,760 --> 00:20:07,690
+in families of six children
+
+440
+00:20:07,690 --> 00:20:10,910
+which is the most likely sequence of
+
+441
+00:20:10,910 --> 00:20:12,870
+and girls
+
+442
+00:20:12,870 --> 00:20:15,230
+most people
+
+443
+00:20:15,230 --> 00:20:19,380
+that this sequence girl boy girl boy boy
+girl
+
+444
+00:20:19,380 --> 00:20:21,220
+is much more likely
+
+445
+00:20:21,220 --> 00:20:24,429
+then this sequence three boys followed
+by three girls
+
+446
+00:20:24,429 --> 00:20:25,320
+which in turn
+
+447
+00:20:25,320 --> 00:20:26,870
+is much more likely
+
+448
+00:20:26,870 --> 00:20:30,440
+then sequence of a boy agrawal followed
+by
+
+449
+00:20:30,440 --> 00:20:31,770
+for boys as well
+
+450
+00:20:31,770 --> 00:20:34,370
+very common result in a five pulled you
+
+451
+00:20:34,370 --> 00:20:37,750
+the personnel you know that psychologist
+poor these kinds of tricks he wouldn't
+
+452
+00:20:37,750 --> 00:20:38,770
+answer
+
+453
+00:20:38,770 --> 00:20:40,500
+all of the right
+
+454
+00:20:40,500 --> 00:20:42,190
+back when people were naive
+
+455
+00:20:42,190 --> 00:20:47,289
+all of this is the kind of data or that
+the gave and of course this is world
+
+456
+00:20:47,289 --> 00:20:48,030
+okay
+
+457
+00:20:48,030 --> 00:20:49,839
+if you think about it for a second
+
+458
+00:20:49,839 --> 00:20:54,220
+the probability of any particular
+newborn being a boy is one of two
+
+459
+00:20:54,220 --> 00:20:57,509
+these probabilities are completely
+independent of each other
+
+460
+00:20:57,509 --> 00:20:58,139
+okay
+
+461
+00:20:58,139 --> 00:21:01,679
+so the probability that you were born a
+boy or girl didn't have an have anything
+
+462
+00:21:01,679 --> 00:21:04,760
+to do with the probability but your
+order brothers or sisters
+
+463
+00:21:04,760 --> 00:21:06,530
+were born boys or girls
+
+464
+00:21:06,530 --> 00:21:07,200
+therefore
+
+465
+00:21:07,200 --> 00:21:11,580
+the probability of the sequence girl boy
+girl boy boy girl
+
+466
+00:21:11,580 --> 00:21:13,210
+is about
+
+467
+00:21:13,210 --> 00:21:15,150
+one-and-a-half times out of a hundred
+
+468
+00:21:15,150 --> 00:21:19,790
+the probability of free voice followed
+by three girls is also about one and a
+
+469
+00:21:19,790 --> 00:21:21,639
+half times out of a hundred
+
+470
+00:21:21,639 --> 00:21:25,009
+and the probability of a boy followed by
+a girl followed by four boys
+
+471
+00:21:25,009 --> 00:21:28,620
+is again about one-and-a-half times out
+of a hundred
+
+472
+00:21:28,620 --> 00:21:31,030
+buffering probabilities in question
+
+473
+00:21:31,030 --> 00:21:33,520
+or precisely equal
+
+474
+00:21:33,520 --> 00:21:35,739
+if you have six children of family
+
+475
+00:21:35,739 --> 00:21:38,460
+the chance that the sequence is going to
+be this
+
+476
+00:21:38,460 --> 00:21:42,680
+is the same as the chance that the
+sequence is going to be that
+
+477
+00:21:42,680 --> 00:21:46,159
+but it doesn't look without getting okay
+
+478
+00:21:46,159 --> 00:21:50,540
+we think that the ways and girls appear
+more or less randomly in families
+
+479
+00:21:50,540 --> 00:21:51,420
+and so
+
+480
+00:21:51,420 --> 00:21:56,799
+when either so we expect the sequence
+two-b_-one that looks random
+
+481
+00:21:56,799 --> 00:21:59,599
+this sequence girl boy girl boy girl
+
+482
+00:21:59,599 --> 00:22:02,140
+looks more random than this sequence
+
+483
+00:22:02,140 --> 00:22:04,210
+three boys followed by three girls
+
+484
+00:22:04,210 --> 00:22:09,470
+and so we judge that this is the more
+likely probability when in fact it is
+
+485
+00:22:09,470 --> 00:22:12,520
+not is a classic illustration
+
+486
+00:22:12,520 --> 00:22:14,150
+of the home
+
+487
+00:22:14,150 --> 00:22:18,360
+of the above the use of the
+representative maintenance to respect
+
+488
+00:22:18,360 --> 00:22:21,750
+people are not actually calculated the
+probabilities
+
+489
+00:22:21,750 --> 00:22:23,769
+okay which is something in ohio to do
+
+490
+00:22:23,769 --> 00:22:28,429
+that's an algorithm for solving this
+problem just calculate the probabilities
+
+491
+00:22:28,429 --> 00:22:32,370
+one-half raised to the sixth power will
+do it every time
+
+492
+00:22:32,370 --> 00:22:37,470
+but instead are picking judgments about
+the way things look
+
+493
+00:22:37,470 --> 00:22:38,050
+about
+
+494
+00:22:38,050 --> 00:22:40,840
+how closely in event resembles
+
+495
+00:22:40,840 --> 00:22:42,910
+the image we have
+
+496
+00:22:42,910 --> 00:22:45,620
+the of the entire category
+
+497
+00:22:45,620 --> 00:22:49,630
+all this is a the representative
+representative nancy respect
+
+498
+00:22:49,630 --> 00:22:55,040
+all underlies a very common on problem
+known as the gambler's fallacy
+
+499
+00:22:55,040 --> 00:22:59,400
+we know that on a roulette wheel half
+the numbers are red and half a numbers
+
+500
+00:22:59,400 --> 00:23:00,490
+are blacks
+
+501
+00:23:00,490 --> 00:23:04,310
+if you were asked people which of the
+following runs is more likely to end
+
+502
+00:23:04,310 --> 00:23:05,450
+with a red
+
+503
+00:23:05,450 --> 00:23:07,080
+red blue red red
+
+504
+00:23:07,080 --> 00:23:11,580
+red black red red black red black
+
+505
+00:23:11,580 --> 00:23:15,020
+by blacks in a row
+
+506
+00:23:15,020 --> 00:23:18,130
+blacks in a row people will generally
+say
+
+507
+00:23:18,130 --> 00:23:23,970
+that these two sequences are more likely
+to end in a red then this sequence why
+
+508
+00:23:23,970 --> 00:23:25,740
+this one looks random
+
+509
+00:23:25,740 --> 00:23:27,730
+profanity this one looks random
+
+510
+00:23:27,730 --> 00:23:31,140
+and you figure you really can't tell
+with the move next one's going to be
+
+511
+00:23:31,140 --> 00:23:32,160
+black or red
+
+512
+00:23:32,160 --> 00:23:33,249
+whereas here
+
+513
+00:23:33,249 --> 00:23:34,450
+you think that
+
+514
+00:23:34,450 --> 00:23:40,350
+well in a random sequence it ought to
+straighten itself out ok so if you see a
+
+515
+00:23:40,350 --> 00:23:45,990
+local long-run of blacks you figure that
+are ready is more likely to come up next
+
+516
+00:23:45,990 --> 00:23:49,340
+huge numbers of people lose money
+gambling
+
+517
+00:23:49,340 --> 00:23:51,679
+by making judgments like this
+
+518
+00:23:51,679 --> 00:23:56,269
+it's a fallacy of course because all
+there is no
+
+519
+00:23:56,269 --> 00:24:01,169
+a fact on the probability of an event
+being black or red
+
+520
+00:24:01,169 --> 00:24:02,650
+depending upon the
+
+521
+00:24:02,650 --> 00:24:06,989
+of them on the of previous events not of
+that's a fair roulette wheel
+
+522
+00:24:06,989 --> 00:24:10,500
+anyway but i fixed roulette wheel that
+you're in big trouble
+
+523
+00:24:10,500 --> 00:24:11,929
+but the fact of the matter is
+
+524
+00:24:11,929 --> 00:24:15,910
+the probabilities or the same in each of
+these cases
+
+525
+00:24:15,910 --> 00:24:17,310
+again
+
+526
+00:24:17,310 --> 00:24:19,179
+gambler's fallacy occurrence
+
+527
+00:24:19,179 --> 00:24:24,200
+because people make judgments based on
+what things look like
+
+528
+00:24:24,200 --> 00:24:26,240
+whether a sequence looks
+
+529
+00:24:26,240 --> 00:24:27,470
+random or not
+
+530
+00:24:27,470 --> 00:24:32,029
+whether it resembles their ideal over
+random sequence or not
+
+531
+00:24:32,029 --> 00:24:34,620
+and fail to actually calculate
+
+532
+00:24:34,620 --> 00:24:37,299
+the probabilities
+
+533
+00:24:37,299 --> 00:24:42,200
+so here we have two examples of these
+represented in this your respect
+
+534
+00:24:42,200 --> 00:24:43,820
+being used in
+
+535
+00:24:43,820 --> 00:24:45,909
+making judgments although
+
+536
+00:24:45,909 --> 00:24:49,830
+probability so here weakened state the
+representative miss your respect
+
+537
+00:24:49,830 --> 00:24:51,220
+formally
+
+538
+00:24:51,220 --> 00:24:52,720
+representative is to respect
+
+539
+00:24:52,720 --> 00:24:54,669
+hoodies used when people
+
+540
+00:24:54,669 --> 00:24:56,340
+faith or judgements on
+
+541
+00:24:56,340 --> 00:25:01,140
+the extent to which an event resembles
+that's parent population
+
+542
+00:25:01,140 --> 00:25:04,180
+whether a string of numbers resembles
+
+543
+00:25:04,180 --> 00:25:07,640
+the whole population of random numbers
+or not
+
+544
+00:25:07,640 --> 00:25:09,750
+or whether an event
+
+545
+00:25:09,750 --> 00:25:13,500
+reflex salient features of
+
+546
+00:25:13,500 --> 00:25:14,730
+generating process
+
+547
+00:25:14,730 --> 00:25:17,830
+you expect that random generator
+
+548
+00:25:17,830 --> 00:25:21,980
+would generate roughly half poison
+roughly half girls and it did kind of
+
+549
+00:25:21,980 --> 00:25:24,169
+the all-star
+
+550
+00:25:24,169 --> 00:25:24,780
+intermixed
+
+551
+00:25:24,780 --> 00:25:25,999
+that's what we think about
+
+552
+00:25:25,999 --> 00:25:28,010
+a sequence of random numbers
+
+553
+00:25:28,010 --> 00:25:35,010
+but cores any sequence of five six ten
+random numbers may look very non random
+
+554
+00:25:35,890 --> 00:25:38,620
+that's the point of the representative
+mr respect
+
+555
+00:25:38,620 --> 00:25:42,740
+where judgments are based on similarity
+
+556
+00:25:42,740 --> 00:25:44,369
+judgments are based on similar to
+
+557
+00:25:44,369 --> 00:25:48,399
+and there a problem for me it's actually
+not a bad idea if i ask you whether an
+
+558
+00:25:48,399 --> 00:25:50,360
+object is a bird
+
+559
+00:25:50,360 --> 00:25:51,610
+okay
+
+560
+00:25:51,610 --> 00:25:51,970
+and on
+
+561
+00:25:51,970 --> 00:25:56,200
+a you can measure its body temperature
+is check to see if it's got a spinal
+
+562
+00:25:56,200 --> 00:25:56,579
+cord
+
+563
+00:25:56,579 --> 00:26:01,959
+if it looks like a boost barrel it's
+probably a bird right not a bad
+
+564
+00:26:01,959 --> 00:26:02,510
+militaristic
+
+565
+00:26:02,510 --> 00:26:03,999
+the problem is
+
+566
+00:26:03,999 --> 00:26:07,600
+problems crop up when people fail to
+appreciate base rates
+
+567
+00:26:07,600 --> 00:26:09,380
+when people fail to appreciate
+
+568
+00:26:09,380 --> 00:26:13,410
+the actual probabilities bombs on you
+know involved
+
+569
+00:26:13,410 --> 00:26:15,840
+that's what the representatives
+
+570
+00:26:15,840 --> 00:26:18,840
+can we do straight
+
+571
+00:26:18,840 --> 00:26:22,950
+bombarding seen an example of the
+representative mr respect in mister
+
+572
+00:26:22,950 --> 00:26:28,390
+justice graze supreme court decision all
+in the art of him in the tariff
+
+573
+00:26:28,390 --> 00:26:29,639
+activating eighty three
+
+574
+00:26:29,639 --> 00:26:31,890
+where gray basically said
+
+575
+00:26:31,890 --> 00:26:37,300
+tomatoes are vegetables because they
+were like vegetables
+
+576
+00:26:37,300 --> 00:26:42,640
+we treat them like vegetables also i'm
+going to call it a vegetable even though
+
+577
+00:26:42,640 --> 00:26:43,700
+botanically speaking
+
+578
+00:26:43,700 --> 00:26:45,580
+i know that fruits
+
+579
+00:26:45,580 --> 00:26:49,870
+are all vegetables or betrayals or
+fruits
+
+580
+00:26:49,870 --> 00:26:54,760
+what what justice graded was to set
+aside the algorithm
+
+581
+00:26:54,760 --> 00:26:56,070
+but instead
+
+582
+00:26:56,070 --> 00:26:58,909
+based his judgment on the degree to
+which
+
+583
+00:26:58,909 --> 00:26:59,679
+tomatoes
+
+584
+00:26:59,679 --> 00:27:02,830
+reptile resembled all other vegetables
+seenu
+
+585
+00:27:02,830 --> 00:27:03,989
+as opposed to
+
+586
+00:27:03,989 --> 00:27:09,500
+uh... resembling other
+
+587
+00:27:09,500 --> 00:27:13,420
+all here are there's another way in
+which you see either represented in this
+
+588
+00:27:13,420 --> 00:27:14,330
+your respect
+
+589
+00:27:14,330 --> 00:27:17,690
+all in operations the judgments of
+causality
+
+590
+00:27:17,690 --> 00:27:19,460
+in general people think
+
+591
+00:27:19,460 --> 00:27:24,490
+that causes and of facts should look
+like each other
+
+592
+00:27:24,490 --> 00:27:26,500
+and in public policy debates
+
+593
+00:27:26,500 --> 00:27:28,289
+you will often see
+
+594
+00:27:28,289 --> 00:27:30,380
+all people assuming
+
+595
+00:27:30,380 --> 00:27:35,540
+that causes of a fax will look somehow
+like the effects themselves
+
+596
+00:27:35,540 --> 00:27:36,630
+for example
+
+597
+00:27:36,630 --> 00:27:37,959
+when people claim
+
+598
+00:27:37,959 --> 00:27:42,819
+that sex education in schools or the
+provisional birth control and schools
+
+599
+00:27:42,819 --> 00:27:44,809
+will increase the likelihood
+
+600
+00:27:44,809 --> 00:27:46,409
+of teenage pregnancy
+
+601
+00:27:46,409 --> 00:27:47,450
+file for example
+
+602
+00:27:47,450 --> 00:27:51,799
+but that's not the case okay we have
+very good data on this
+
+603
+00:27:51,799 --> 00:27:57,190
+but people think that alter something
+sexual emea fact like teenage pregnancy
+
+604
+00:27:57,190 --> 00:27:59,080
+or teenage sexual behavior
+
+605
+00:27:59,080 --> 00:28:01,810
+there ought to be something sexual in
+the closet like
+
+606
+00:28:01,810 --> 00:28:05,490
+sex education putting ideas and kids'
+minds or whatever
+
+607
+00:28:05,490 --> 00:28:10,190
+the our debate about violence on movies
+and tv is has some of them to m_t_v_ has
+
+608
+00:28:10,190 --> 00:28:12,100
+some of the same kinds of qualities
+
+609
+00:28:12,100 --> 00:28:14,320
+the idea that violence
+
+610
+00:28:14,320 --> 00:28:19,620
+on media portrayals of violence causes
+violent behavior to occur
+
+611
+00:28:19,620 --> 00:28:22,600
+is very very very popular even though
+
+612
+00:28:22,600 --> 00:28:27,340
+the evidence on that part of the issue
+is highly controversial
+
+613
+00:28:27,340 --> 00:28:29,850
+yet it's very easy for people to
+conclude
+
+614
+00:28:29,850 --> 00:28:31,600
+that violence in society
+
+615
+00:28:31,600 --> 00:28:33,960
+is caused by violence in the media
+
+616
+00:28:33,960 --> 00:28:35,649
+again because they assume
+
+617
+00:28:35,649 --> 00:28:39,530
+that causes are going to resemble on
+their effects
+
+618
+00:28:39,530 --> 00:28:40,580
+all
+
+619
+00:28:40,580 --> 00:28:42,460
+here's another one a little bit more
+subtle
+
+620
+00:28:42,460 --> 00:28:46,310
+the idea that or it's an organ music
+education schools
+
+621
+00:28:46,310 --> 00:28:50,530
+causes students to are to work out what
+you prefer
+
+622
+00:28:50,530 --> 00:28:54,390
+works because we have this idea of the
+highest cheating stealing as somebody
+
+623
+00:28:54,390 --> 00:28:59,590
+could do calculus and physics and plays
+the violin and countries like
+
+624
+00:28:59,590 --> 00:29:00,600
+shakespeare right
+
+625
+00:29:00,600 --> 00:29:04,820
+they had this idea of what a
+highly-educated of person can do
+
+626
+00:29:04,820 --> 00:29:05,679
+in fact
+
+627
+00:29:05,679 --> 00:29:09,990
+although i'm certainly in favor of
+artnet norton music education in schools
+
+628
+00:29:09,990 --> 00:29:11,740
+the evidence that
+
+629
+00:29:11,740 --> 00:29:16,750
+art music education itself and has this
+academic achievement is very very very
+
+630
+00:29:16,750 --> 00:29:17,799
+controversial
+
+631
+00:29:17,799 --> 00:29:19,259
+people think it does
+
+632
+00:29:19,259 --> 00:29:22,570
+because they think that but one kind of
+on
+
+633
+00:29:22,570 --> 00:29:24,850
+of
+
+634
+00:29:24,850 --> 00:29:25,309
+sophistication
+
+635
+00:29:25,309 --> 00:29:28,120
+will go with another kind of
+sophistication
+
+636
+00:29:28,120 --> 00:29:30,869
+so all we are all in all these examples
+
+637
+00:29:30,869 --> 00:29:35,320
+we have people using the representative
+mr respect to make judgments
+
+638
+00:29:35,320 --> 00:29:36,280
+based on
+
+639
+00:29:36,280 --> 00:29:40,910
+broke resemblance or based upon
+similarity
+
+640
+00:29:40,910 --> 00:29:41,850
+here's another one
+
+641
+00:29:41,850 --> 00:29:46,590
+the availability to respect also
+described by condiment and doug fir uske
+
+642
+00:29:46,590 --> 00:29:49,429
+very commonly used to make judgments of
+frequency
+
+643
+00:29:49,429 --> 00:29:51,549
+and judgments of probability
+
+644
+00:29:51,549 --> 00:29:56,250
+here is a problem that condiments frisky
+cept for their subjects
+
+645
+00:29:56,250 --> 00:30:00,340
+all but i want to do is to estimate the
+number of words in english that begin
+
+646
+00:30:00,340 --> 00:30:02,160
+with the letter k
+
+647
+00:30:02,160 --> 00:30:06,770
+and estimate the number of words in
+english that have k as there
+
+648
+00:30:06,770 --> 00:30:07,720
+the report
+
+649
+00:30:07,720 --> 00:30:12,270
+who thinks that the other more of words
+in english that begin with caved in her
+
+650
+00:30:12,270 --> 00:30:13,549
+case or third letter
+
+651
+00:30:13,549 --> 00:30:17,560
+the honest with yourself
+
+652
+00:30:17,560 --> 00:30:21,040
+who thinks there are no more more called
+
+653
+00:30:21,040 --> 00:30:23,260
+likely is the third letter
+
+654
+00:30:23,260 --> 00:30:25,640
+you read ahead
+
+655
+00:30:25,640 --> 00:30:27,630
+of the fact of the matter is
+
+656
+00:30:27,630 --> 00:30:31,040
+most people who don't think
+psychologists are tricky take precisely
+
+657
+00:30:31,040 --> 00:30:32,409
+the opposite judgment
+
+658
+00:30:32,409 --> 00:30:35,280
+they think that there are vastly more
+
+659
+00:30:35,280 --> 00:30:39,350
+almost all of the words in english that
+begin with the letter k that had to pay
+
+660
+00:30:39,350 --> 00:30:42,980
+if their second or of second or third
+letter
+
+661
+00:30:42,980 --> 00:30:44,809
+when in fact quite the reverse
+
+662
+00:30:44,809 --> 00:30:47,180
+their many more our words in english
+
+663
+00:30:47,180 --> 00:30:49,820
+that have to pay as their second or
+third letter
+
+664
+00:30:49,820 --> 00:30:52,380
+that have as their of burst water
+
+665
+00:30:52,380 --> 00:30:55,160
+all why do people make this mistake
+
+666
+00:30:55,160 --> 00:30:58,289
+who couldn't think of all the word with
+kay is the first letter
+
+667
+00:30:58,289 --> 00:31:03,610
+put up your hand it seems to think of a
+word
+
+668
+00:31:03,610 --> 00:31:10,610
+and stone who can't think of a word with
+kay is the second letter
+
+669
+00:31:11,580 --> 00:31:14,869
+that's the dalaberti heuristic ok it's
+huge
+
+670
+00:31:14,869 --> 00:31:18,840
+the to think of words that have k is
+their first letter okay
+
+671
+00:31:18,840 --> 00:31:22,869
+it's not so easy to think about words
+that have k is their second or third
+
+672
+00:31:22,869 --> 00:31:27,930
+letter ok there are more of them but
+it's harder to think of them
+
+673
+00:31:27,930 --> 00:31:30,880
+that's the essence of the availability
+to respect
+
+674
+00:31:30,880 --> 00:31:33,820
+when people make judgments based on
+
+675
+00:31:33,820 --> 00:31:36,970
+the ease with which instances can come
+to mind
+
+676
+00:31:36,970 --> 00:31:40,230
+here's another example study by common
+for city
+
+677
+00:31:40,230 --> 00:31:42,190
+known as the committee problem
+
+678
+00:31:42,190 --> 00:31:44,180
+given a group of ten people
+
+679
+00:31:44,180 --> 00:31:48,930
+how many different committees of two
+people can you create
+
+680
+00:31:48,930 --> 00:31:50,759
+given a group of ten people
+
+681
+00:31:50,759 --> 00:31:53,409
+how many different committees of eight
+people
+
+682
+00:31:53,409 --> 00:31:55,090
+can you
+
+683
+00:31:55,090 --> 00:31:57,080
+when presented with this
+
+684
+00:31:57,080 --> 00:31:59,050
+problem most people
+
+685
+00:31:59,050 --> 00:31:59,620
+drawing
+
+686
+00:31:59,620 --> 00:32:03,510
+that you can create many more committees
+ought to people
+
+687
+00:32:03,510 --> 00:32:07,300
+then you can of eight people
+
+688
+00:32:07,300 --> 00:32:10,020
+though if you think about it for a
+second
+
+689
+00:32:10,020 --> 00:32:13,690
+you know that every time you create a
+committee of two people one of a group
+
+690
+00:32:13,690 --> 00:32:14,710
+of ten
+
+691
+00:32:14,710 --> 00:32:19,200
+you have automatically created a group
+of eight people
+
+692
+00:32:19,200 --> 00:32:21,350
+that's all that's left
+
+693
+00:32:21,350 --> 00:32:22,210
+there also
+
+694
+00:32:22,210 --> 00:32:27,150
+a committee of eight people so there are
+in fact exactly as many
+
+695
+00:32:27,150 --> 00:32:30,729
+committees of two that you can create
+from a group of ten
+
+696
+00:32:30,729 --> 00:32:32,759
+as there are committees of eight
+
+697
+00:32:32,759 --> 00:32:36,879
+that part that you can create from a
+committee of ten it's forty-fourth in
+
+698
+00:32:36,879 --> 00:32:38,649
+both cases a few
+
+699
+00:32:38,649 --> 00:32:41,240
+going to have to apply the bulb
+polynomial there from you can just kind
+
+700
+00:32:41,240 --> 00:32:42,050
+of
+
+701
+00:32:42,050 --> 00:32:44,809
+think about it for half a second
+
+702
+00:32:44,809 --> 00:32:47,299
+all but that's that that that's the
+basic answer
+
+703
+00:32:47,299 --> 00:32:49,890
+and why do people make this mistake
+
+704
+00:32:49,890 --> 00:32:54,840
+and make this mistake because it's use
+the to think about with these either
+
+705
+00:32:54,840 --> 00:32:56,970
+generate committees
+
+706
+00:32:56,970 --> 00:32:59,109
+so you think okay you got all call
+
+707
+00:32:59,109 --> 00:33:03,140
+you've got a committee of person any
+indian b and c and c indeed
+
+708
+00:33:03,140 --> 00:33:06,520
+india the indian our friend and after
+the indeed
+
+709
+00:33:06,520 --> 00:33:09,599
+on very easy to generate lots and lots
+of committees
+
+710
+00:33:09,599 --> 00:33:13,080
+but when you try to do the same thing
+with eight people use it
+
+711
+00:33:13,080 --> 00:33:13,990
+alternators person
+
+712
+00:33:13,990 --> 00:33:17,639
+a b_ c_ d_ e_ f_ g_ age
+
+713
+00:33:17,639 --> 00:33:24,639
+and then there's a person b c d e f g
+expired cd that's really are
+
+714
+00:33:25,290 --> 00:33:25,660
+rotate
+
+715
+00:33:25,660 --> 00:33:29,860
+it's just really hard you can keep a
+straight and so you think well gee you
+
+716
+00:33:29,860 --> 00:33:31,520
+know
+
+717
+00:33:31,520 --> 00:33:32,210
+he easy enough
+
+718
+00:33:32,210 --> 00:33:36,920
+i could be a lots of committees of two
+so there must be
+
+719
+00:33:36,920 --> 00:33:39,090
+the ability to respect
+
+720
+00:33:39,090 --> 00:33:44,859
+our current when people make judgments
+based on the ease with which
+
+721
+00:33:44,859 --> 00:33:46,990
+instances can be brought to mind
+
+722
+00:33:46,990 --> 00:33:48,820
+okay
+
+723
+00:33:48,820 --> 00:33:51,269
+all and that's not bad idea
+
+724
+00:33:51,269 --> 00:33:53,710
+in the ordinary course of thing
+
+725
+00:33:53,710 --> 00:33:58,580
+of the ordinary course of things highly
+frequent events ought to be easy
+
+726
+00:33:58,580 --> 00:34:02,389
+to come to mind or to be easy to
+retrieve of from memory
+
+727
+00:34:02,389 --> 00:34:03,710
+the problem is
+
+728
+00:34:03,710 --> 00:34:06,560
+that dot role availability teristics
+
+729
+00:34:06,560 --> 00:34:08,160
+ignores offer
+
+730
+00:34:08,160 --> 00:34:08,860
+factors
+
+731
+00:34:08,860 --> 00:34:10,599
+that can affect
+
+732
+00:34:10,599 --> 00:34:14,669
+home although the availability ok like
+just
+
+733
+00:34:14,669 --> 00:34:17,650
+limitations on human information
+processing capacity
+
+734
+00:34:17,650 --> 00:34:18,640
+one reason
+
+735
+00:34:18,640 --> 00:34:19,929
+why it's difficult
+
+736
+00:34:19,929 --> 00:34:25,019
+to generate committee of eight from a
+group of ten people is that the capacity
+
+737
+00:34:25,019 --> 00:34:29,649
+of short term memory is roughly seven
+plus or minus two
+
+738
+00:34:29,649 --> 00:34:32,330
+pretty much exceeds the capacity of
+short term memory
+
+739
+00:34:32,330 --> 00:34:36,240
+it's hard to keep the things in mind on
+dot com
+
+740
+00:34:36,240 --> 00:34:37,219
+at a time
+
+741
+00:34:37,219 --> 00:34:40,599
+all about money make our judgment of
+availability tweed onsite
+
+742
+00:34:40,599 --> 00:34:44,839
+all yeah well it's really hard to do
+that so i'm going to discount the uh...
+
+743
+00:34:44,839 --> 00:34:48,280
+the fact that it's hard and i'm going to
+say well they're probably more
+
+744
+00:34:48,280 --> 00:34:50,449
+remembers of body we don't do that
+
+745
+00:34:50,449 --> 00:34:52,509
+we ignore these other
+
+746
+00:34:52,509 --> 00:34:53,909
+kinds of uh...
+
+747
+00:34:53,909 --> 00:34:56,319
+these other kinds of factors
+
+748
+00:34:56,319 --> 00:34:59,089
+so that's the availability tourist
+
+749
+00:34:59,089 --> 00:35:00,529
+representative s
+
+750
+00:35:00,529 --> 00:35:05,039
+faithful where rebate judgments based on
+the resemblance or similarity
+
+751
+00:35:05,039 --> 00:35:08,480
+the availability to restrict where we
+make judgments
+
+752
+00:35:08,480 --> 00:35:10,890
+based on ease with which we can
+
+753
+00:35:10,890 --> 00:35:13,989
+bring instances to mind
+
+754
+00:35:13,989 --> 00:35:16,180
+related to the availability to respect
+
+755
+00:35:16,180 --> 00:35:20,579
+is what's known as the simulation
+heuristic
+
+756
+00:35:20,579 --> 00:35:23,399
+simulation heuristic also being calm
+
+757
+00:35:23,399 --> 00:35:29,299
+uh... used in judgment so probability of
+various kinds also being used in
+
+758
+00:35:29,299 --> 00:35:32,640
+judgments of causality of various kinds
+
+759
+00:35:32,640 --> 00:35:34,460
+here is an illustration
+
+760
+00:35:34,460 --> 00:35:36,269
+from carmen and frisky
+
+761
+00:35:36,269 --> 00:35:38,759
+known as the on doing problem
+
+762
+00:35:38,759 --> 00:35:42,229
+what what you imagine two different
+travelers heading for the airport
+
+763
+00:35:42,229 --> 00:35:45,269
+they're scheduled to take different
+flights out of the airport
+
+764
+00:35:45,269 --> 00:35:49,659
+that because of the way airline schedule
+things the planes are scheduled to leave
+
+765
+00:35:49,659 --> 00:35:51,439
+at the same time
+
+766
+00:35:51,439 --> 00:35:55,539
+these two travelers meet outside the
+hotel and they agreed to share a cab to
+
+767
+00:35:55,539 --> 00:35:57,129
+the airport
+
+768
+00:35:57,129 --> 00:35:59,669
+the cab gets caught in
+
+769
+00:35:59,669 --> 00:36:01,279
+a traffic jam
+
+770
+00:36:01,279 --> 00:36:03,449
+as tabs often
+
+771
+00:36:03,449 --> 00:36:06,699
+and the cab driver turns on sat i'm
+sorry guys i think you're going to miss
+
+772
+00:36:06,699 --> 00:36:07,959
+your plane
+
+773
+00:36:07,959 --> 00:36:11,050
+the two travelers then get to the
+airport
+
+774
+00:36:11,050 --> 00:36:14,150
+thirty minutes late
+
+775
+00:36:14,150 --> 00:36:16,289
+travel or me okay
+
+776
+00:36:16,289 --> 00:36:17,499
+gets to his gate
+
+777
+00:36:17,499 --> 00:36:22,640
+and finds out that his plane left on
+time
+
+778
+00:36:22,640 --> 00:36:23,739
+traveler b
+
+779
+00:36:23,739 --> 00:36:24,809
+gets to his gate
+
+780
+00:36:24,809 --> 00:36:30,689
+and finds out that his flight was
+delayed and left five minutes ago
+
+781
+00:36:30,689 --> 00:36:31,939
+and the question is
+
+782
+00:36:31,939 --> 00:36:34,640
+who's going to be more upset person pay
+
+783
+00:36:34,640 --> 00:36:36,249
+are or person
+
+784
+00:36:36,249 --> 00:36:39,609
+who's going to more upset under those
+circumstances
+
+785
+00:36:39,609 --> 00:36:40,980
+the okay
+
+786
+00:36:40,980 --> 00:36:41,679
+wine
+
+787
+00:36:41,679 --> 00:36:44,139
+that's in doc exactly the right answer
+
+788
+00:36:44,139 --> 00:36:48,659
+people think these are big vastly more
+upset than a wise be good to be more
+
+789
+00:36:48,659 --> 00:36:53,349
+upset
+
+790
+00:36:53,349 --> 00:36:57,289
+just missed it but will cable but what's
+the what what's why would i think it was
+
+791
+00:36:57,289 --> 00:37:02,619
+still missed it
+
+792
+00:37:02,619 --> 00:37:09,619
+these yes go ahead
+
+793
+00:37:09,659 --> 00:37:14,619
+okay bob why does that matter
+
+794
+00:37:14,619 --> 00:37:16,339
+okay something like that
+
+795
+00:37:16,339 --> 00:37:19,669
+easy total think of ways in which you
+could have caught five minutes off your
+
+796
+00:37:19,669 --> 00:37:23,160
+time if only i haven't brushed your
+teeth
+
+797
+00:37:23,160 --> 00:37:27,779
+if only i hadn't thought stop to call
+your husband if only i hadn't thought
+
+798
+00:37:27,779 --> 00:37:29,780
+stock for that extra cup of coffee or
+whatever
+
+799
+00:37:29,780 --> 00:37:33,670
+i would have gotten in a different have
+and i would have gone to the airport and
+
+800
+00:37:33,670 --> 00:37:37,759
+yes my claim would have been delayed but
+at least i would have been on the plane
+
+801
+00:37:37,759 --> 00:37:40,089
+here it is the third simulation
+heuristic us
+
+802
+00:37:40,089 --> 00:37:41,969
+you what you have no guarantee
+
+803
+00:37:41,969 --> 00:37:43,669
+that any of that's going to happen
+
+804
+00:37:43,669 --> 00:37:47,879
+you know for all you know the traffic
+jam was worth five minutes before that i
+
+805
+00:37:47,879 --> 00:37:49,320
+was five minutes later
+
+806
+00:37:49,320 --> 00:37:52,840
+for all you know the plane might have
+been delayed off for only twenty minutes
+
+807
+00:37:52,840 --> 00:37:55,109
+at the post of twenty five minutes or
+whatever
+
+808
+00:37:55,109 --> 00:37:57,019
+you simply don't know
+
+809
+00:37:57,019 --> 00:37:59,040
+you base your judgment
+
+810
+00:37:59,040 --> 00:38:04,409
+on the ease with which you can
+
+811
+00:38:04,409 --> 00:38:07,089
+various kinds of circumstances okay
+
+812
+00:38:07,089 --> 00:38:11,849
+in the simulation heuristic we base our
+judgments on the ease with which we can
+
+813
+00:38:11,849 --> 00:38:14,679
+imagine a plausible cid theo
+
+814
+00:38:14,679 --> 00:38:18,050
+the difference between simulation and
+availability
+
+815
+00:38:18,050 --> 00:38:24,709
+is that availability is always based on
+use of retrieval from memory
+
+816
+00:38:24,709 --> 00:38:26,649
+it tried to think
+
+817
+00:38:26,649 --> 00:38:29,859
+english words to begin with the letter k
+or whatever
+
+818
+00:38:29,859 --> 00:38:34,160
+but in simulation we have the ease with
+which you can construct something
+
+819
+00:38:34,160 --> 00:38:36,799
+the indian national usually
+
+820
+00:38:36,799 --> 00:38:39,009
+or sold out
+
+821
+00:38:39,009 --> 00:38:43,499
+all here do you think about just trying
+to concoct plausible scenario was and
+
+822
+00:38:43,499 --> 00:38:45,250
+again the problem here is
+
+823
+00:38:45,250 --> 00:38:49,740
+that while it may be easy to construct a
+plausible scenario that might have led
+
+824
+00:38:49,740 --> 00:38:53,740
+to a different state of affairs there's
+absolutely no guarantee that that
+
+825
+00:38:53,740 --> 00:38:54,740
+scenario
+
+826
+00:38:54,740 --> 00:38:57,739
+would have of what would have occurred
+
+827
+00:38:57,739 --> 00:38:58,310
+use
+
+828
+00:38:58,310 --> 00:39:01,519
+people use the simulation heuristic all
+the time
+
+829
+00:39:01,519 --> 00:39:05,480
+how many of you have misbehaved in high
+school instead to your friend
+
+830
+00:39:05,480 --> 00:39:08,669
+my parents are gonna kill me
+
+831
+00:39:08,669 --> 00:39:09,370
+okay
+
+832
+00:39:09,370 --> 00:39:13,350
+i'm going to be grounded for life or
+whatever it is that parents do to kids
+
+833
+00:39:13,350 --> 00:39:15,079
+these days right
+
+834
+00:39:15,079 --> 00:39:19,109
+that's the simulation heuristic ever
+really easy to think about how your
+
+835
+00:39:19,109 --> 00:39:20,820
+parents are going to react to something
+
+836
+00:39:20,820 --> 00:39:23,460
+and it's going to be awful of the
+world's going to come to an end in
+
+837
+00:39:23,460 --> 00:39:26,269
+you're going to die
+
+838
+00:39:26,269 --> 00:39:28,440
+these things don't usually happen
+
+839
+00:39:28,440 --> 00:39:29,650
+that way right
+
+840
+00:39:29,650 --> 00:39:33,309
+but the stimulation heuristic is easy to
+imagine how your parents are going to
+
+841
+00:39:33,309 --> 00:39:34,340
+react
+
+842
+00:39:34,340 --> 00:39:39,819
+or and they don't necessarily are they
+don't necessarily do it
+
+843
+00:39:39,819 --> 00:39:40,589
+all
+
+844
+00:39:40,589 --> 00:39:45,160
+if you think about it for a second
+something like the simulation heuristic
+
+845
+00:39:45,160 --> 00:39:46,410
+all underlies
+
+846
+00:39:46,410 --> 00:39:49,920
+many of our own motion all responses to
+events
+
+847
+00:39:49,920 --> 00:39:55,469
+there's a whole class of a motions known
+as the counterfactual emotions
+
+848
+00:39:55,469 --> 00:39:56,809
+frustration
+
+849
+00:39:56,809 --> 00:39:58,989
+regret
+
+850
+00:39:58,989 --> 00:40:01,900
+and indignation are really good examples
+
+851
+00:40:01,900 --> 00:40:02,450
+winner
+
+852
+00:40:02,450 --> 00:40:05,390
+the emotional state
+
+853
+00:40:05,390 --> 00:40:10,699
+is determined in some sense by your
+comparison between the actual state of
+
+854
+00:40:10,699 --> 00:40:12,259
+affairs
+
+855
+00:40:12,259 --> 00:40:12,809
+and
+
+856
+00:40:12,809 --> 00:40:15,929
+what might have been
+
+857
+00:40:15,929 --> 00:40:19,390
+if you think about from frustrations one
+thing you know
+
+858
+00:40:19,390 --> 00:40:20,859
+that's one thing that you'd
+
+859
+00:40:20,859 --> 00:40:21,839
+kind of debt
+
+860
+00:40:21,839 --> 00:40:23,490
+what you want in life for
+
+861
+00:40:23,490 --> 00:40:25,119
+within any particular instance
+
+862
+00:40:25,119 --> 00:40:28,729
+but when something occurs that didn't
+have to happen that way
+
+863
+00:40:28,729 --> 00:40:31,019
+that prevents you from
+
+864
+00:40:31,019 --> 00:40:34,949
+get into a particular fraternity or
+getting a particular date on friday
+
+865
+00:40:34,949 --> 00:40:35,569
+night or
+
+866
+00:40:35,569 --> 00:40:37,690
+or getting a particular job or whatever
+
+867
+00:40:37,690 --> 00:40:41,239
+that's when you really feel frustrated
+
+868
+00:40:41,239 --> 00:40:45,799
+really feel regret about sub is not when
+you do something better stupider
+
+869
+00:40:45,799 --> 00:40:47,049
+some negative outcome
+
+870
+00:40:47,049 --> 00:40:48,539
+you regret
+
+871
+00:40:48,539 --> 00:40:52,239
+doing something bad when u could have
+done something else but if you can
+
+872
+00:40:52,239 --> 00:40:54,739
+imagine i'll tell you only had said that
+
+873
+00:40:54,739 --> 00:40:56,399
+or whatever
+
+874
+00:40:56,399 --> 00:40:58,489
+that's the simulation heuristic
+
+875
+00:40:58,489 --> 00:40:59,460
+and i've been
+
+876
+00:40:59,460 --> 00:41:01,359
+the ability to army
+
+877
+00:41:01,359 --> 00:41:04,339
+najib things be different than what they
+are
+
+878
+00:41:04,339 --> 00:41:07,340
+imagine how things could be different
+from what they are
+
+879
+00:41:07,340 --> 00:41:09,289
+is what leads us to have
+
+880
+00:41:09,289 --> 00:41:10,859
+these kinds of particular
+
+881
+00:41:10,859 --> 00:41:13,849
+i'll these kinds of particular emotions
+
+882
+00:41:13,849 --> 00:41:16,739
+so represented in this
+
+883
+00:41:16,739 --> 00:41:17,739
+availability
+
+884
+00:41:17,739 --> 00:41:20,259
+purist on simulation
+
+885
+00:41:20,259 --> 00:41:24,159
+here it is the fourth of condominiums
+for cities
+
+886
+00:41:24,159 --> 00:41:26,680
+almost all of that all judgment to
+respect
+
+887
+00:41:26,680 --> 00:41:29,659
+known as the anchoring and adjustment to
+respect
+
+888
+00:41:29,659 --> 00:41:31,920
+and this is very commonly used
+
+889
+00:41:31,920 --> 00:41:36,380
+when we try to make drug for estimates
+of various kinds will be tried estimate
+
+890
+00:41:36,380 --> 00:41:38,280
+the frequency with which
+
+891
+00:41:38,280 --> 00:41:39,979
+all of them super
+
+892
+00:41:39,979 --> 00:41:46,609
+here is a problem that condiments risky
+used to of to a study angry adjustment
+
+893
+00:41:46,609 --> 00:41:50,930
+called the extrapolation problem u_s_
+people very quickly to estimate
+
+894
+00:41:50,930 --> 00:41:54,150
+the result of the following
+multiplication pick one group of
+
+895
+00:41:54,150 --> 00:41:55,419
+subjects who say
+
+896
+00:41:55,419 --> 00:41:57,680
+what's so what's the uh... producto
+
+897
+00:41:57,680 --> 00:42:02,329
+a time seven times six times five times
+four times three times two times one
+
+898
+00:42:02,329 --> 00:42:05,819
+you get an estimate adult google
+multiplication
+
+899
+00:42:05,819 --> 00:42:07,279
+do the estimate
+
+900
+00:42:07,279 --> 00:42:08,770
+bigger deliverables subject
+
+901
+00:42:08,770 --> 00:42:12,580
+and you say what's the product of one
+times two times three times four to five
+
+902
+00:42:12,580 --> 00:42:15,879
+point six and seven times a day
+
+903
+00:42:15,879 --> 00:42:17,890
+when you do that
+
+904
+00:42:17,890 --> 00:42:22,710
+befallen results when you get people
+behave sending version of the problem
+
+905
+00:42:22,710 --> 00:42:26,290
+one times two times three times four
+times five times six times seven times
+
+906
+00:42:26,290 --> 00:42:26,890
+eight
+
+907
+00:42:26,890 --> 00:42:29,679
+their estimation is much lower
+
+908
+00:42:29,679 --> 00:42:32,990
+then when you give them descending
+version of the problem
+
+909
+00:42:32,990 --> 00:42:36,609
+eight times seven times six times five
+times four times three times two times
+
+910
+00:42:36,609 --> 00:42:39,249
+what even though of course
+
+911
+00:42:39,249 --> 00:42:42,719
+the two problems are exactly alike
+they're exactly identical the products
+
+912
+00:42:42,719 --> 00:42:44,469
+are exactly identical
+
+913
+00:42:44,469 --> 00:42:46,239
+how does this happen
+
+914
+00:42:46,239 --> 00:42:48,950
+it turns out
+
+915
+00:42:48,950 --> 00:42:52,849
+try to estimate this you start out one
+times two times three times for you
+
+916
+00:42:52,849 --> 00:42:56,480
+could try to do it at your head one
+comes to his two times three and six
+
+917
+00:42:56,480 --> 00:43:00,910
+times for its twenty four e keep all
+that kind of straight in your head
+
+918
+00:43:00,910 --> 00:43:03,200
+but when you try to do with the other
+way
+
+919
+00:43:03,200 --> 00:43:07,949
+eight time six is fifty four times seven
+is that i can even do that in my head
+
+920
+00:43:07,949 --> 00:43:08,940
+okay
+
+921
+00:43:08,940 --> 00:43:12,940
+or i could do it on my head but i don't
+want to do in my head and it's getting
+
+922
+00:43:12,940 --> 00:43:15,839
+really vague
+
+923
+00:43:15,839 --> 00:43:20,999
+so what happens here is that people are
+making their estimates based on what you
+
+924
+00:43:20,999 --> 00:43:26,519
+might call early data returns one times
+two times three that's a relatively low
+
+925
+00:43:26,519 --> 00:43:30,930
+number so you think the final product is
+going to be relatively low eight times
+
+926
+00:43:30,930 --> 00:43:35,900
+six times seven a daytime seven-time sex
+is a relatively big number so you think
+
+927
+00:43:35,900 --> 00:43:39,629
+that the final product is going to be
+are relatively big
+
+928
+00:43:39,629 --> 00:43:41,960
+and corinne an adjustment
+
+929
+00:43:41,960 --> 00:43:44,269
+indoochawla estimates
+
+930
+00:43:44,269 --> 00:43:49,649
+anchor final estimates they hold them
+down they hold on where they are if the
+
+931
+00:43:49,649 --> 00:43:53,850
+initial estimate is bad than we think
+the final is going to be big
+
+932
+00:43:53,850 --> 00:43:58,230
+if the initial estimate a small then we
+get we think the final i was going to be
+
+933
+00:43:58,230 --> 00:44:01,869
+small is called anchoring an adjustment
+
+934
+00:44:01,869 --> 00:44:05,949
+nishal jostle additional estimates
+anchor a final estimates
+
+935
+00:44:05,949 --> 00:44:11,229
+and in making final estimates we engage
+in insufficient adjustment
+
+936
+00:44:11,229 --> 00:44:12,479
+from and nishal
+
+937
+00:44:12,479 --> 00:44:15,179
+our customers here is
+
+938
+00:44:15,179 --> 00:44:16,699
+another example of this
+
+939
+00:44:16,699 --> 00:44:19,910
+called the united nations problem
+comment first be studied this one as
+
+940
+00:44:19,910 --> 00:44:20,799
+well
+
+941
+00:44:20,799 --> 00:44:22,889
+they went off the people on the street
+
+942
+00:44:22,889 --> 00:44:23,530
+on said
+
+943
+00:44:23,530 --> 00:44:27,599
+i like 'em doing a survey i'd like you
+to estimate the percentage of countries
+
+944
+00:44:27,599 --> 00:44:31,710
+in the united nations that come from the
+continent of africa
+
+945
+00:44:31,710 --> 00:44:35,319
+went to one group of people inside some
+people say it's ten percent what do you
+
+946
+00:44:35,319 --> 00:44:37,249
+think
+
+947
+00:44:37,249 --> 00:44:39,080
+toward other triple subjects is that
+
+948
+00:44:39,080 --> 00:44:45,339
+some people say at sixty five percent
+what do you think
+
+949
+00:44:45,339 --> 00:44:48,239
+peoples as the mets
+
+950
+00:44:48,239 --> 00:44:53,079
+depended upon the information they were
+provided about what other people say ok
+
+951
+00:44:53,079 --> 00:44:58,759
+when people we're told that some people
+say it's ten percent they gave all lower
+
+952
+00:44:58,759 --> 00:45:00,630
+estimate then when they were told
+
+953
+00:45:00,630 --> 00:45:03,229
+that some people say its
+
+954
+00:45:03,229 --> 00:45:04,119
+five percent
+
+955
+00:45:04,119 --> 00:45:05,509
+so here
+
+956
+00:45:05,509 --> 00:45:07,039
+nishal estimate
+
+957
+00:45:07,039 --> 00:45:08,129
+anchors
+
+958
+00:45:08,129 --> 00:45:09,470
+the final estimate
+
+959
+00:45:09,470 --> 00:45:14,500
+there's insufficient adjustment from the
+additional estimate now you can say what
+
+960
+00:45:14,500 --> 00:45:18,799
+cool down the road told me in some
+people say it's ten percent
+
+961
+00:45:18,799 --> 00:45:19,929
+antonio hole was
+
+962
+00:45:19,929 --> 00:45:23,269
+for all you've got a complete idiot
+
+963
+00:45:23,269 --> 00:45:27,129
+at intel representative sample of the
+population says it's ten percent or
+
+964
+00:45:27,129 --> 00:45:32,400
+anything like that has had some people
+for all your does your brother
+
+965
+00:45:32,400 --> 00:45:35,079
+this works out this way even
+
+966
+00:45:35,079 --> 00:45:39,469
+when the august even when the initial
+estimate is given by this bit of a
+
+967
+00:45:39,469 --> 00:45:42,650
+roulette wheel they actually did this
+experiment
+
+968
+00:45:42,650 --> 00:45:44,319
+where they say they are
+
+969
+00:45:44,319 --> 00:45:48,149
+sump all of the budget tell me at all
+what percentage of the united nations
+
+970
+00:45:48,149 --> 00:45:51,179
+members come from a comment about her
+weight perceptible in spindle roulette
+
+971
+00:45:51,179 --> 00:45:52,569
+wheel
+
+972
+00:45:52,569 --> 00:45:56,919
+and a roulette wheel would come up five
+or six for forbes objects and
+
+973
+00:45:56,919 --> 00:46:00,739
+thirty four and thirty eight of the
+birth of thirty six for other subjects
+
+974
+00:46:00,739 --> 00:46:03,969
+the people of dot the five and six would
+give a lower estimate that the people
+
+975
+00:46:03,969 --> 00:46:08,519
+who got the thirty four and thirty five
+even though at some roulette wheel for
+
+976
+00:46:08,519 --> 00:46:10,209
+god's sake
+
+977
+00:46:10,209 --> 00:46:14,089
+the than this show as timid encouraged
+the final estimate
+
+978
+00:46:14,089 --> 00:46:17,470
+so and that's what the anchorage
+adjustment is all about
+
+979
+00:46:17,470 --> 00:46:21,949
+final estimates are overwhelmingly
+influenced by initial estimates okay
+
+980
+00:46:21,949 --> 00:46:25,749
+uh... where the initial values serves as
+well as as an anchor
+
+981
+00:46:25,749 --> 00:46:29,859
+and of course that's not a bad idea and
+put the kerrigan estimate something that
+
+982
+00:46:29,859 --> 00:46:33,239
+the big your initial estimate is
+probably going to be big too
+
+983
+00:46:33,239 --> 00:46:36,419
+if you're going to have straight
+something small your initial estimates
+
+984
+00:46:36,419 --> 00:46:38,450
+profile public under the small as well
+
+985
+00:46:38,450 --> 00:46:41,789
+but there are problems it's not an
+algorithm
+
+986
+00:46:41,789 --> 00:46:43,770
+it's not guaranteed to give you
+
+987
+00:46:43,770 --> 00:46:45,230
+be correct answer
+
+988
+00:46:45,230 --> 00:46:48,740
+because there could be problems in the
+formulation of the problem some people
+
+989
+00:46:48,740 --> 00:46:52,890
+say it's ten percent what do you say
+
+990
+00:46:52,890 --> 00:46:55,039
+that's no way to ask people this
+
+991
+00:46:55,039 --> 00:46:58,769
+all or the partial computation might be
+misleading one times two times three
+
+992
+00:46:58,769 --> 00:47:04,719
+times four vs eight ten seven times six
+times five ok in any event theories
+
+993
+00:47:04,719 --> 00:47:07,249
+insufficient adjustment from the a
+
+994
+00:47:07,249 --> 00:47:10,269
+from the foam from the uh... initial
+value
+
+995
+00:47:10,269 --> 00:47:12,349
+so there we go
+
+996
+00:47:12,349 --> 00:47:15,629
+represented s
+
+997
+00:47:15,629 --> 00:47:17,269
+availability
+
+998
+00:47:17,269 --> 00:47:18,470
+simulation
+
+999
+00:47:18,470 --> 00:47:23,379
+anchoring an adjustment or an agreement
+insufficient adjustment if you will
+
+1000
+00:47:23,379 --> 00:47:29,430
+four ways in which across a wide variety
+wide range of problems
+
+1001
+00:47:29,430 --> 00:47:31,889
+wider range of decision context
+
+1002
+00:47:31,889 --> 00:47:34,709
+people depart from
+
+1003
+00:47:34,709 --> 00:47:37,950
+uh... normative rules of logical
+inference
+
+1004
+00:47:37,950 --> 00:47:40,700
+people you can use these judgement she
+respects
+
+1005
+00:47:40,700 --> 00:47:42,929
+widely in everyday life
+
+1006
+00:47:42,929 --> 00:47:45,429
+either because
+
+1007
+00:47:45,429 --> 00:47:48,759
+un alberta isn't available to them there
+is no longer rhythm
+
+1008
+00:47:48,759 --> 00:47:51,839
+or because they're insufficiently
+motivated or they don't have enough
+
+1009
+00:47:51,839 --> 00:47:54,229
+information to use this over them
+
+1010
+00:47:54,229 --> 00:47:57,709
+but kinds of problems that we had
+counter
+
+1011
+00:47:57,709 --> 00:48:00,370
+the ordinary course of everyday living
+
+1012
+00:48:00,370 --> 00:48:01,729
+or technically
+
+1013
+00:48:01,729 --> 00:48:04,049
+ill defined problems
+
+1014
+00:48:04,049 --> 00:48:06,799
+there's either not an algorithm
+
+1015
+00:48:06,799 --> 00:48:10,869
+there's an algorithm that for one reason
+other the we don't know about or we can
+
+1016
+00:48:10,869 --> 00:48:14,219
+use or under those circumstances
+
+1017
+00:48:14,219 --> 00:48:15,379
+rely
+
+1018
+00:48:15,379 --> 00:48:22,229
+instead on judgment teristics like the
+ones the condom and for ski define
+
+1019
+00:48:22,229 --> 00:48:25,069
+okay will finish this up next time thank
+you very much
+

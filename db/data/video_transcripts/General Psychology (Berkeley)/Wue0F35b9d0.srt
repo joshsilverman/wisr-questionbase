@@ -1,0 +1,4803 @@
+﻿1
+00:00:06,110 --> 00:00:10,790
+okay let's begin let's begin by
+reminding you that there is an exam in
+
+2
+00:00:10,790 --> 00:00:12,629
+this class next week
+
+3
+00:00:12,629 --> 00:00:14,419
+on wednesday
+
+4
+00:00:14,419 --> 00:00:20,630
+although the review in class all by the
+geo size on monday i've already
+
+5
+00:00:20,630 --> 00:00:24,349
+distributed an announcement about the
+narrative review that i posted to the
+
+6
+00:00:24,349 --> 00:00:26,319
+course website
+
+7
+00:00:26,319 --> 00:00:30,569
+i've got some accommodation notices for
+his students in the d_s_p_ program but
+
+8
+00:00:30,569 --> 00:00:33,280
+if there are any others that i should
+have
+
+9
+00:00:33,280 --> 00:00:37,040
+gotta get those to me as soon as
+possible so we can make the appropriate
+
+10
+00:00:37,040 --> 00:00:39,090
+on arrangements
+
+11
+00:00:39,090 --> 00:00:43,690
+the exam as announced will cover all
+required reading some lectures to date
+
+12
+00:00:43,690 --> 00:00:48,200
+so the introductory resolve lecture and
+quite mins chapter one
+
+13
+00:00:48,200 --> 00:00:52,440
+the lectures on biological basis of
+behavior in playthings chapters two and
+
+14
+00:00:52,440 --> 00:00:53,180
+three
+
+15
+00:00:53,180 --> 00:00:56,990
+a lecture on where lectures on morning
+and lightens chapter six
+
+16
+00:00:56,990 --> 00:01:01,110
+and lectures on sensation and perception
+which are today and wednesday
+
+17
+00:01:01,110 --> 00:01:04,390
+and glickman's chapters four and five
+
+18
+00:01:04,390 --> 00:01:10,440
+we will not be having questions on the
+statistical appendix on this exam
+
+19
+00:01:10,440 --> 00:01:12,730
+but we will have some questions
+
+20
+00:01:12,730 --> 00:01:14,180
+on that material
+
+21
+00:01:14,180 --> 00:01:15,610
+on the final
+
+22
+00:01:15,610 --> 00:01:16,940
+exam
+
+23
+00:01:16,940 --> 00:01:20,460
+there are lots of resources for the exam
+as mentioned there's going to be a
+
+24
+00:01:20,460 --> 00:01:23,330
+review and our class on monday
+
+25
+00:01:23,330 --> 00:01:28,040
+all of the jia sides are not going to
+temp to covered all the lecture material
+
+26
+00:01:28,040 --> 00:01:29,980
+or all the textbook material
+
+27
+00:01:29,980 --> 00:01:33,219
+but they will be here and available to
+answer any
+
+28
+00:01:33,219 --> 00:01:35,800
+gault less than a questions that you may
+have
+
+29
+00:01:35,800 --> 00:01:38,890
+the study guide for the globe in text is
+pretty good
+
+30
+00:01:38,890 --> 00:01:40,710
+all a very good guide to
+
+31
+00:01:40,710 --> 00:01:45,310
+not only the uh... content of the exam
+but also the style of questions whiteman
+
+32
+00:01:45,310 --> 00:01:46,980
+was one of my teachers
+
+33
+00:01:46,980 --> 00:01:50,000
+like like to think i think like he does
+
+34
+00:01:50,000 --> 00:01:50,440
+along
+
+35
+00:01:50,440 --> 00:01:54,540
+there a lots of materials on the course
+website there lecture supplements there
+
+36
+00:01:54,540 --> 00:01:56,920
+are copies of past exams
+
+37
+00:01:56,920 --> 00:02:01,010
+all of which with the answers most of
+which with some analysis
+
+38
+00:02:01,010 --> 00:02:05,610
+in addition if you have any last minute
+questions ready questions at all
+
+39
+00:02:05,610 --> 00:02:10,320
+or if you post them to the forum on the
+corps on the block or so of course
+
+40
+00:02:10,320 --> 00:02:10,989
+website
+
+41
+00:02:10,989 --> 00:02:12,700
+by noon on tuesday
+
+42
+00:02:12,700 --> 00:02:15,550
+either rider the geoscience will all
+
+43
+00:02:15,550 --> 00:02:17,769
+do our best to get a response to you
+
+44
+00:02:17,769 --> 00:02:21,390
+are backed by the end of business
+birthday okay so there are lots of
+
+45
+00:02:21,390 --> 00:02:22,689
+things
+
+46
+00:02:22,689 --> 00:02:24,379
+available
+
+47
+00:02:24,379 --> 00:02:28,289
+on the exam format slice of the class
+dictates multiple-choice testing but
+
+48
+00:02:28,289 --> 00:02:30,680
+even if we did that the dead and will
+probably do it
+
+49
+00:02:30,680 --> 00:02:33,110
+'cause multiple-choice tests of the best
+s
+
+50
+00:02:33,110 --> 00:02:34,170
+their objective
+
+51
+00:02:34,170 --> 00:02:35,409
+they're reliable
+
+52
+00:02:35,409 --> 00:02:39,489
+there's no worry about whether the g s
+all i was tired when he or she was
+
+53
+00:02:39,489 --> 00:02:40,879
+reading your exam
+
+54
+00:02:40,879 --> 00:02:42,369
+or whatever
+
+55
+00:02:42,369 --> 00:02:46,249
+on the just pages run through the
+computer and dog that's it
+
+56
+00:02:46,249 --> 00:02:49,900
+all roughly half of the questions are
+drawn directly from the lectures roughly
+
+57
+00:02:49,900 --> 00:02:53,109
+half were drawn from the text there's
+overlap
+
+58
+00:02:53,109 --> 00:02:54,380
+all make sure
+
+59
+00:02:54,380 --> 00:02:58,489
+that you come to class with the proper
+red scantron form
+
+60
+00:02:58,489 --> 00:03:02,689
+which you can buy your ta as you see
+bookstore and other venues around campus
+
+61
+00:03:02,689 --> 00:03:03,809
+i know they are
+
+62
+00:03:03,809 --> 00:03:06,429
+let's have the right pat brown's grill
+
+63
+00:03:06,429 --> 00:03:09,949
+and bring a couple of number two pencils
+because you can fill these things in the
+
+64
+00:03:09,949 --> 00:03:10,649
+bank
+
+65
+00:03:10,649 --> 00:03:13,709
+you've got a filament
+
+66
+00:03:13,709 --> 00:03:16,950
+this is what the scantron form looks
+like this is the front
+
+67
+00:03:16,950 --> 00:03:21,240
+this is the back i've already got an
+example of that on the narrative
+
+68
+00:03:21,240 --> 00:03:25,039
+i'll review that i all posted to the
+course website
+
+69
+00:03:25,039 --> 00:03:27,309
+but if you have any doubts
+
+70
+00:03:27,309 --> 00:03:31,139
+one year there were two different red
+scantron forms
+
+71
+00:03:31,139 --> 00:03:32,390
+all of this is the one
+
+72
+00:03:32,390 --> 00:03:35,389
+it's about four or by
+
+73
+00:03:35,389 --> 00:03:38,629
+eight or nine or something like that
+that's the front
+
+74
+00:03:38,629 --> 00:03:40,969
+the uh... that's the back
+
+75
+00:03:40,969 --> 00:03:45,650
+all focus of the exams as always is on
+basic concepts and principles
+
+76
+00:03:45,650 --> 00:03:49,209
+at this level of the course for just
+trying to give you some appreciation of
+
+77
+00:03:49,209 --> 00:03:52,040
+how your minds work
+
+78
+00:03:52,040 --> 00:03:55,469
+also they're not going to be questions
+about the key details at least i don't
+
+79
+00:03:55,469 --> 00:03:58,109
+think they're picking details
+
+80
+00:03:58,109 --> 00:03:58,769
+qualm
+
+81
+00:03:58,769 --> 00:04:01,139
+i took the exam the other night
+
+82
+00:04:01,139 --> 00:04:04,199
+i passed
+
+83
+00:04:04,199 --> 00:04:04,930
+of
+
+84
+00:04:04,930 --> 00:04:08,020
+we also don't ask you about specific
+experiments
+
+85
+00:04:08,020 --> 00:04:13,080
+however i might naman investigator all
+might refer to an experiment as a way of
+
+86
+00:04:13,080 --> 00:04:18,010
+helping you retrieve the basic concept
+of principle that's associated with that
+
+87
+00:04:18,010 --> 00:04:22,169
+experiment ok so if i talk about
+garcia's experiment on taste aversion
+
+88
+00:04:22,169 --> 00:04:25,459
+learning tougher stand it should go off
+in your head is
+
+89
+00:04:25,459 --> 00:04:30,099
+the arbitrariness assumption and the
+preparedness principal if i ask you if i
+
+90
+00:04:30,099 --> 00:04:33,839
+could ask about caymans experiment on
+the block in effect buff first thing
+
+91
+00:04:33,839 --> 00:04:36,280
+that you go off in your head is
+
+92
+00:04:36,280 --> 00:04:38,990
+alm association by contingency
+
+93
+00:04:38,990 --> 00:04:42,639
+and predictability in surprise okay
+that's how that works
+
+94
+00:04:42,639 --> 00:04:46,520
+so we want to recommend recognize the
+implications of studies
+
+95
+00:04:46,520 --> 00:04:49,800
+but we don't need you to memorize
+studies
+
+96
+00:04:49,800 --> 00:04:51,370
+themselves
+
+97
+00:04:51,370 --> 00:04:55,800
+okay ought that's pretty much all i have
+to say about the exam for now any
+
+98
+00:04:55,800 --> 00:04:57,500
+questions about
+
+99
+00:04:57,500 --> 00:05:04,500
+format of the exam yes
+
+100
+00:05:09,089 --> 00:05:12,580
+know the statistical appendix that
+you're not going to be responsible for
+
+101
+00:05:12,580 --> 00:05:13,580
+on the midterm
+
+102
+00:05:13,580 --> 00:05:16,509
+is the appendix it's in the back of the
+book
+
+103
+00:05:16,509 --> 00:05:21,590
+but it was assigned in the readings for
+the introductory lectures along with
+
+104
+00:05:21,590 --> 00:05:23,439
+chapter one
+
+105
+00:05:23,439 --> 00:05:25,260
+it's in the back of the textbook
+
+106
+00:05:25,260 --> 00:05:29,889
+all appendices always in the back of the
+textbook
+
+107
+00:05:29,889 --> 00:05:34,589
+so if it's not on the exam i wouldn't go
+looking for it right now
+
+108
+00:05:34,589 --> 00:05:37,830
+i don't worry about the statistical
+appendix for now
+
+109
+00:05:37,830 --> 00:05:40,500
+you'll have plenty of time to worry
+about it
+
+110
+00:05:40,500 --> 00:05:45,349
+farm anything else about the exam yes
+
+111
+00:05:45,349 --> 00:05:47,479
+at the issues the bookstore
+
+112
+00:05:47,479 --> 00:05:48,310
+okay
+
+113
+00:05:48,310 --> 00:05:51,270
+all or there were other places around
+campus site
+
+114
+00:05:51,270 --> 00:05:58,270
+when i go getting a bunch of pat brown
+squirrel i see them at the cashiers
+
+115
+00:05:59,279 --> 00:06:00,059
+fifty
+
+116
+00:06:00,059 --> 00:06:05,059
+okay dot that's appear
+
+117
+00:06:05,059 --> 00:06:10,059
+ok anyway it's fifty
+
+118
+00:06:10,059 --> 00:06:14,759
+and that's probably doable in the fifty
+minutes you've got okay
+
+119
+00:06:14,759 --> 00:06:15,550
+armstrong
+
+120
+00:06:15,550 --> 00:06:17,469
+just get here get settled in
+
+121
+00:06:17,469 --> 00:06:21,699
+pass out the exams take the exam turn in
+the exam
+
+122
+00:06:21,699 --> 00:06:22,199
+phone
+
+123
+00:06:22,199 --> 00:06:22,970
+and that
+
+124
+00:06:22,970 --> 00:06:24,909
+all bombeck shore
+
+125
+00:06:24,909 --> 00:06:28,050
+you keep a record all of your
+
+126
+00:06:28,050 --> 00:06:31,479
+answers on your exam for you don't turn
+in the exams you just turn in the
+
+127
+00:06:31,479 --> 00:06:32,929
+scantron forms
+
+128
+00:06:32,929 --> 00:06:33,860
+because
+
+129
+00:06:33,860 --> 00:06:37,960
+right after the exam the our preliminary
+scoring key will go up and you can check
+
+130
+00:06:37,960 --> 00:06:39,689
+your answers
+
+131
+00:06:39,689 --> 00:06:45,699
+okay immediate feedback good
+psychological principle of learning
+
+132
+00:06:45,699 --> 00:06:50,050
+anything else about the exam
+
+133
+00:06:50,050 --> 00:06:53,239
+okay if you have any other questions we
+can catch them up on wednesday or just
+
+134
+00:06:53,239 --> 00:07:00,239
+post into the course website
+
+135
+00:07:01,520 --> 00:07:06,689
+okay last time we talked about some
+basic phenomenon of learning
+
+136
+00:07:06,689 --> 00:07:08,780
+and one of them major
+
+137
+00:07:08,780 --> 00:07:11,169
+earth thrusts of those lectures
+
+138
+00:07:11,169 --> 00:07:16,210
+wires that were in a man's not just a
+matter of what changing behavior
+
+139
+00:07:16,210 --> 00:07:18,490
+bringing behavioral responses
+
+140
+00:07:18,490 --> 00:07:22,740
+onto the control of various
+environmental stimuli
+
+141
+00:07:22,740 --> 00:07:28,139
+rather we want to think about learning
+in terms of a change in the knowledge
+
+142
+00:07:28,139 --> 00:07:31,860
+that an organism acquires new knowledge
+about the world
+
+143
+00:07:31,860 --> 00:07:33,729
+that at the very least
+
+144
+00:07:33,729 --> 00:07:36,889
+animals that to predict and control
+
+145
+00:07:36,889 --> 00:07:39,539
+what's going to go on and its
+environment
+
+146
+00:07:39,539 --> 00:07:45,289
+that's true for the dogs and cats in the
+riots and rabbits usually used an animal
+
+147
+00:07:45,289 --> 00:07:46,539
+condition experiments
+
+148
+00:07:46,539 --> 00:07:49,349
+but it's even more true
+
+149
+00:07:49,349 --> 00:07:49,929
+humans
+
+150
+00:07:49,929 --> 00:07:54,729
+we understand now that human beings are
+cognitive beans
+
+151
+00:07:54,729 --> 00:07:56,300
+our behaviors
+
+152
+00:07:56,300 --> 00:07:57,979
+go well beyond
+
+153
+00:07:57,979 --> 00:08:01,440
+mere associations between stimuli and
+responses
+
+154
+00:08:01,440 --> 00:08:05,419
+we do a lot more than reflex taxes
+
+155
+00:08:05,419 --> 00:08:06,340
+instinct
+
+156
+00:08:06,340 --> 00:08:07,870
+conditioned responses
+
+157
+00:08:07,870 --> 00:08:11,330
+instead our behavior is based is
+intelligent
+
+158
+00:08:11,330 --> 00:08:15,069
+it's based on our knowledge about the
+world
+
+159
+00:08:15,069 --> 00:08:16,910
+and so what we have to do
+
+160
+00:08:16,910 --> 00:08:18,900
+if we're going to understanding havier
+
+161
+00:08:18,900 --> 00:08:21,980
+is we have to understand hollow
+
+162
+00:08:21,980 --> 00:08:22,849
+organisms
+
+163
+00:08:22,849 --> 00:08:25,929
+specially humans acquired knowledge
+
+164
+00:08:25,929 --> 00:08:27,810
+paul would stored in the mind
+
+165
+00:08:27,810 --> 00:08:30,189
+how it's used in various ways
+
+166
+00:08:30,189 --> 00:08:34,219
+and how it's communicated to other all
+other people
+
+167
+00:08:34,219 --> 00:08:37,610
+and that's what cognitive psychology is
+all about
+
+168
+00:08:37,610 --> 00:08:40,490
+what we're going to be talking about for
+the next dong
+
+169
+00:08:40,490 --> 00:08:45,570
+for the next many weeks uh... in this
+course we want to know how organisms
+
+170
+00:08:45,570 --> 00:08:46,850
+specially humans
+
+171
+00:08:46,850 --> 00:08:49,560
+acquire information about the world
+
+172
+00:08:49,560 --> 00:08:51,660
+store it
+
+173
+00:08:51,660 --> 00:08:53,250
+and communicated
+
+174
+00:08:53,250 --> 00:08:58,670
+and the first step in that process is
+acquiring knowledge about of the world
+
+175
+00:08:58,670 --> 00:09:02,030
+for me mental representations of
+ourselves
+
+176
+00:09:02,030 --> 00:09:06,270
+for me mental representations of two
+things that we experience
+
+177
+00:09:06,270 --> 00:09:07,319
+and then
+
+178
+00:09:07,319 --> 00:09:09,660
+on making use of those representations
+
+179
+00:09:09,660 --> 00:09:12,600
+in various ways
+
+180
+00:09:12,600 --> 00:09:17,780
+this cats that question that has been a
+devil philosophers for our couple of
+
+181
+00:09:17,780 --> 00:09:19,680
+thousand years
+
+182
+00:09:19,680 --> 00:09:23,460
+all which is to say how is it that we
+know the world how is it that we are
+
+183
+00:09:23,460 --> 00:09:26,580
+quite that we get knowledge about the
+world
+
+184
+00:09:26,580 --> 00:09:29,120
+and in full of sooty at least
+
+185
+00:09:29,120 --> 00:09:33,100
+all the philosophical responses to this
+question philosophical answers to this
+
+186
+00:09:33,100 --> 00:09:35,800
+question boil down to
+
+187
+00:09:35,800 --> 00:09:37,870
+one of two answers
+
+188
+00:09:37,870 --> 00:09:41,730
+there's a group of philosophers known as
+nativist
+
+189
+00:09:41,730 --> 00:09:43,490
+who argued that
+
+190
+00:09:43,490 --> 00:09:46,310
+our knowledge is innate
+
+191
+00:09:46,310 --> 00:09:52,050
+that it comes to us independent of our
+sensory experiences into the were born
+
+192
+00:09:52,050 --> 00:09:52,820
+going
+
+193
+00:09:52,820 --> 00:09:53,200
+everything
+
+194
+00:09:53,200 --> 00:09:53,940
+we're going
+
+195
+00:09:53,940 --> 00:09:54,819
+to uh...
+
+196
+00:09:54,819 --> 00:09:56,370
+to know
+
+197
+00:09:56,370 --> 00:09:58,930
+and at the r_d_ contrary point of view
+
+198
+00:09:58,930 --> 00:10:01,500
+is what's known as empiricism
+
+199
+00:10:01,500 --> 00:10:04,490
+and basically the idea behind empiricism
+
+200
+00:10:04,490 --> 00:10:09,570
+is that knowledge is acquired through
+experience
+
+201
+00:10:09,570 --> 00:10:14,110
+or through our reflections on experience
+
+202
+00:10:14,110 --> 00:10:18,320
+now we now know that there are certain
+forms of knowledge that actually already
+
+203
+00:10:18,320 --> 00:10:23,350
+in eight all language was technologies
+in some important cincinnati we now know
+
+204
+00:10:23,350 --> 00:10:24,320
+that
+
+205
+00:10:24,320 --> 00:10:26,009
+but by and large
+
+206
+00:10:26,009 --> 00:10:28,010
+fault scientific psychology
+
+207
+00:10:28,010 --> 00:10:31,270
+comes down on the side all the
+empiricism
+
+208
+00:10:31,270 --> 00:10:36,620
+the idea that most of what we know about
+the world we know by virtue of
+
+209
+00:10:36,620 --> 00:10:37,820
+experience
+
+210
+00:10:37,820 --> 00:10:39,940
+especially sensory experience
+
+211
+00:10:39,940 --> 00:10:41,449
+and that's why
+
+212
+00:10:41,449 --> 00:10:44,549
+all psychology has spent so much time
+
+213
+00:10:44,549 --> 00:10:45,960
+trying to figure out
+
+214
+00:10:45,960 --> 00:10:50,370
+hollow sensation and perception
+
+215
+00:10:50,370 --> 00:10:55,540
+let's first make though some elementary
+distinctions between sensation and
+
+216
+00:10:55,540 --> 00:10:57,580
+perception
+
+217
+00:10:57,580 --> 00:10:58,760
+sensation
+
+218
+00:10:58,760 --> 00:11:01,040
+asks enhancers are basic
+
+219
+00:11:01,040 --> 00:11:02,670
+very very simple question
+
+220
+00:11:02,670 --> 00:11:04,460
+the job of sensation
+
+221
+00:11:04,460 --> 00:11:07,540
+is simply to detect the presence
+
+222
+00:11:07,540 --> 00:11:09,290
+all of us on the
+
+223
+00:11:09,290 --> 00:11:11,050
+object or event
+
+224
+00:11:11,050 --> 00:11:12,870
+the environment
+
+225
+00:11:12,870 --> 00:11:15,720
+basically sensation answers a question
+of
+
+226
+00:11:15,720 --> 00:11:17,409
+is there something out there
+
+227
+00:11:17,409 --> 00:11:18,710
+okay
+
+228
+00:11:18,710 --> 00:11:19,330
+alm
+
+229
+00:11:19,330 --> 00:11:23,740
+when i see you by sensory mechanisms are
+detecting the presence
+
+230
+00:11:23,740 --> 00:11:26,210
+of you in the environment
+
+231
+00:11:26,210 --> 00:11:29,060
+and almighty center mechanisms also tell
+me
+
+232
+00:11:29,060 --> 00:11:31,910
+there's a lot of you
+
+233
+00:11:31,910 --> 00:11:36,540
+so sensation basically says is there
+something out there
+
+234
+00:11:36,540 --> 00:11:38,790
+and how intense
+
+235
+00:11:38,790 --> 00:11:42,320
+okay very very very simple questions
+
+236
+00:11:42,320 --> 00:11:46,700
+perception the next stage in the
+information acquisition process
+
+237
+00:11:46,700 --> 00:11:51,670
+tries to answer some much more
+complicated questions
+
+238
+00:11:51,670 --> 00:11:53,190
+where is the object
+
+239
+00:11:53,190 --> 00:11:59,170
+is it in the left of the right as an
+awkward and as it near or far
+
+240
+00:11:59,170 --> 00:12:04,880
+what what is it doing is it's static is
+that movie knows that bending his rigid
+
+241
+00:12:04,880 --> 00:12:06,880
+and finally what i did
+
+242
+00:12:06,880 --> 00:12:09,200
+what's the identity of this object
+
+243
+00:12:09,200 --> 00:12:12,490
+what category of objects does it belong
+to
+
+244
+00:12:12,490 --> 00:12:17,839
+all blocked all are it's all dictate
+capacities what can it do to me
+
+245
+00:12:17,839 --> 00:12:18,739
+and not
+
+246
+00:12:18,739 --> 00:12:20,010
+any less important
+
+247
+00:12:20,010 --> 00:12:21,750
+what can i do with it
+
+248
+00:12:21,750 --> 00:12:22,989
+so sensation
+
+249
+00:12:22,989 --> 00:12:23,850
+the tax
+
+250
+00:12:23,850 --> 00:12:27,450
+the presence of an object in the
+environment
+
+251
+00:12:27,450 --> 00:12:28,500
+perception
+
+252
+00:12:28,500 --> 00:12:31,260
+identifies and categorize is that object
+
+253
+00:12:31,260 --> 00:12:33,880
+forms the mental representation of the
+object
+
+254
+00:12:33,880 --> 00:12:35,880
+which is the knowledge of the object
+
+255
+00:12:35,880 --> 00:12:36,629
+we have
+
+256
+00:12:36,629 --> 00:12:38,860
+in our minds
+
+257
+00:12:38,860 --> 00:12:43,650
+we can see of a little bit better i
+think the relations between sensation
+
+258
+00:12:43,650 --> 00:12:45,170
+and perception
+
+259
+00:12:45,170 --> 00:12:50,590
+if we examine what i'd like to call the
+basic vocabulary of sensation and
+
+260
+00:12:50,590 --> 00:12:51,890
+perception
+
+261
+00:12:51,890 --> 00:12:52,840
+or which is
+
+262
+00:12:52,840 --> 00:12:55,630
+uh... vocabulary that cludes
+
+263
+00:12:55,630 --> 00:12:58,250
+distal and proximal stimuli
+
+264
+00:12:58,250 --> 00:13:00,210
+and track instruction
+
+265
+00:13:00,210 --> 00:13:02,110
+the dust all-star annulus
+
+266
+00:13:02,110 --> 00:13:04,060
+is the term that we use
+
+267
+00:13:04,060 --> 00:13:05,579
+to refer to
+
+268
+00:13:05,579 --> 00:13:07,850
+any object or event
+
+269
+00:13:07,850 --> 00:13:11,150
+that occurs in the environment
+
+270
+00:13:11,150 --> 00:13:14,650
+fiscal stimulus is any object or event
+that occurs in the environment you're
+
+271
+00:13:14,650 --> 00:13:16,660
+all distal stimuli to me
+
+272
+00:13:16,660 --> 00:13:18,360
+uh... your
+
+273
+00:13:18,360 --> 00:13:20,330
+smiling faces your attorney in paper
+
+274
+00:13:20,330 --> 00:13:22,950
+rear coffee in all that stuff
+
+275
+00:13:22,950 --> 00:13:25,500
+art distal stimuli
+
+276
+00:13:25,500 --> 00:13:27,190
+approx little stimulus
+
+277
+00:13:27,190 --> 00:13:31,920
+refers to the energy the pattern of
+energy
+
+278
+00:13:31,920 --> 00:13:34,449
+is evident by the
+
+279
+00:13:34,449 --> 00:13:35,980
+distal stimulus
+
+280
+00:13:35,980 --> 00:13:39,980
+and falls on my sensory receptors
+
+281
+00:13:39,980 --> 00:13:41,410
+sold for example
+
+282
+00:13:41,410 --> 00:13:44,660
+although if i had that there's a tree in
+my environment
+
+283
+00:13:44,660 --> 00:13:45,599
+that tree
+
+284
+00:13:45,599 --> 00:13:47,709
+all people reflects light
+
+285
+00:13:47,709 --> 00:13:51,890
+and that light falls on the retinas of
+my arms
+
+286
+00:13:51,890 --> 00:13:53,689
+fault if the tree is
+
+287
+00:13:53,689 --> 00:13:57,970
+blowing in the wind it's going to
+russell it's going to make some noise
+
+288
+00:13:57,970 --> 00:13:59,470
+those sound waves
+
+289
+00:13:59,470 --> 00:14:01,210
+or remitted by the tree
+
+290
+00:14:01,210 --> 00:14:05,590
+and they fall on the alone dot on my
+dears
+
+291
+00:14:05,590 --> 00:14:07,100
+if i'd catch
+
+292
+00:14:07,100 --> 00:14:08,340
+the tree
+
+293
+00:14:08,340 --> 00:14:10,040
+but texture of its bark
+
+294
+00:14:10,040 --> 00:14:14,160
+the smell a bit like a bit so eucalyptus
+tree or a pine tree or whatever it might
+
+295
+00:14:14,160 --> 00:14:17,180
+take a bite out of it the taste of the
+tree
+
+296
+00:14:17,180 --> 00:14:19,420
+all of that stuff
+
+297
+00:14:19,420 --> 00:14:21,809
+dot that though that those
+
+298
+00:14:21,809 --> 00:14:27,090
+notice of the proximal stimuli that
+impinge on my sensory all mechanisms
+
+299
+00:14:27,090 --> 00:14:31,030
+so the testosterone it was is the object
+
+300
+00:14:31,030 --> 00:14:34,209
+proximal stimulus is the pattern of
+energy
+
+301
+00:14:34,209 --> 00:14:37,979
+that is re radiate order reflected by
+the object
+
+302
+00:14:37,979 --> 00:14:40,560
+that falls on my sensory receptors
+
+303
+00:14:40,560 --> 00:14:43,370
+and it's the job of the sensory
+receptors
+
+304
+00:14:43,370 --> 00:14:48,080
+to perform trans duction
+
+305
+00:14:48,080 --> 00:14:52,120
+transduced or transform
+
+306
+00:14:52,120 --> 00:14:54,100
+stepped proximo stimulus
+
+307
+00:14:54,100 --> 00:14:56,730
+into a pattern of neural impulses
+
+308
+00:14:56,730 --> 00:15:03,059
+the rods in clones in the rep moby ait
+take a light waves and transform
+
+309
+00:15:03,059 --> 00:15:03,670
+transduced
+
+310
+00:15:03,670 --> 00:15:05,600
+light waves into
+
+311
+00:15:05,600 --> 00:15:07,220
+on dural impulses
+
+312
+00:15:07,220 --> 00:15:10,259
+the basilar membrane and the cochlea of
+the year
+
+313
+00:15:10,259 --> 00:15:11,690
+take sound waves
+
+314
+00:15:11,690 --> 00:15:13,269
+and transducers at
+
+315
+00:15:13,269 --> 00:15:18,610
+into or pattern of electrical impulses
+so okay
+
+316
+00:15:18,610 --> 00:15:19,610
+all of that
+
+317
+00:15:19,610 --> 00:15:21,079
+is what
+
+318
+00:15:21,079 --> 00:15:23,250
+sensation does
+
+319
+00:15:23,250 --> 00:15:25,590
+taking a proximal stimulus
+
+320
+00:15:25,590 --> 00:15:28,120
+repudiated via distal stimulus
+
+321
+00:15:28,120 --> 00:15:30,290
+transduced into into a neural impulse
+
+322
+00:15:30,290 --> 00:15:32,389
+which is then transmitted
+
+323
+00:15:32,389 --> 00:15:37,759
+all bio various afferent nerves into the
+cortex of the brain
+
+324
+00:15:37,759 --> 00:15:39,540
+at which point
+
+325
+00:15:39,540 --> 00:15:41,570
+perceptual processes take over
+
+326
+00:15:41,570 --> 00:15:44,960
+to inform on mental representation
+
+327
+00:15:44,960 --> 00:15:46,330
+all but
+
+328
+00:15:46,330 --> 00:15:47,860
+distal stimulus
+
+329
+00:15:47,860 --> 00:15:49,850
+a mental representation
+
+330
+00:15:49,850 --> 00:15:53,259
+of the tree and image if you will of the
+tree
+
+331
+00:15:53,259 --> 00:15:55,369
+that exists in my mind
+
+332
+00:15:55,369 --> 00:16:00,320
+that represents paul or depicts if you
+will on the tree
+
+333
+00:16:00,320 --> 00:16:01,760
+that's outside
+
+334
+00:16:01,760 --> 00:16:05,940
+are both the physical features of the
+trees at paula's at shaw ridges that
+
+335
+00:16:05,940 --> 00:16:08,250
+green doesn't have leaves on it or
+whatever
+
+336
+00:16:08,250 --> 00:16:09,279
+and also
+
+337
+00:16:09,279 --> 00:16:13,060
+the home beyond the meaning of the tree
+
+338
+00:16:13,060 --> 00:16:14,150
+perception
+
+339
+00:16:14,150 --> 00:16:16,149
+forums this mental representation
+
+340
+00:16:16,149 --> 00:16:17,609
+an adult life is that
+
+341
+00:16:17,609 --> 00:16:19,529
+so that i don't defies
+
+342
+00:16:19,529 --> 00:16:20,920
+and categorize is
+
+343
+00:16:20,920 --> 00:16:22,310
+the object
+
+344
+00:16:22,310 --> 00:16:25,060
+so no the question is
+
+345
+00:16:25,060 --> 00:16:26,670
+how do we get
+
+346
+00:16:26,670 --> 00:16:29,190
+from the stimulus to the percept
+
+347
+00:16:29,190 --> 00:16:33,760
+how do we get from the pattern of
+stimulus energies radiating off the
+
+348
+00:16:33,760 --> 00:16:36,030
+distal stimulus
+
+349
+00:16:36,030 --> 00:16:39,370
+transduced into a pattern of neural
+impulses
+
+350
+00:16:39,370 --> 00:16:43,930
+sent to vote for various call cortical
+sites in the brain
+
+351
+00:16:43,930 --> 00:16:47,139
+or create a mental representation
+
+352
+00:16:47,139 --> 00:16:48,629
+of that distal
+
+353
+00:16:48,629 --> 00:16:51,029
+or stimulus
+
+354
+00:16:51,029 --> 00:16:54,500
+one important view of this process
+
+355
+00:16:54,500 --> 00:16:57,430
+one take if you will on this process
+
+356
+00:16:57,430 --> 00:17:01,740
+is known as the ecological view of
+perception
+
+357
+00:17:01,740 --> 00:17:06,140
+and it is our associated with two
+psychologist a husband and wife team at
+
+358
+00:17:06,140 --> 00:17:07,620
+cornell university
+
+359
+00:17:07,620 --> 00:17:12,439
+both now gone unafraid james j gibson an
+owner jack gibson
+
+360
+00:17:12,439 --> 00:17:14,150
+jimmy and jackie
+
+361
+00:17:14,150 --> 00:17:15,090
+gibson
+
+362
+00:17:15,090 --> 00:17:19,340
+are very very very famous very important
+perception psychologists
+
+363
+00:17:19,340 --> 00:17:22,160
+all who gave us this ecological view
+
+364
+00:17:22,160 --> 00:17:24,449
+what they did the sims argued
+
+365
+00:17:24,449 --> 00:17:29,120
+was it that way we get from sensation
+perception
+
+366
+00:17:29,120 --> 00:17:32,290
+the way we get from
+
+367
+00:17:32,290 --> 00:17:39,110
+distal stimulus in the environment why
+it's called the ecological view okay
+
+368
+00:17:39,110 --> 00:17:42,769
+presided for the percept are occurs
+because
+
+369
+00:17:42,769 --> 00:17:44,520
+every statement was
+
+370
+00:17:44,520 --> 00:17:50,520
+provides all the information you need to
+perceive the object or event in the
+
+371
+00:17:50,520 --> 00:17:51,800
+environment
+
+372
+00:17:51,800 --> 00:17:53,820
+every stimulus
+
+373
+00:17:53,820 --> 00:17:57,799
+provides all the information needed for
+perception
+
+374
+00:17:57,799 --> 00:18:00,610
+and what perception involves
+
+375
+00:18:00,610 --> 00:18:03,320
+is extracting this information
+
+376
+00:18:03,320 --> 00:18:05,660
+from the pattern ald
+
+377
+00:18:05,660 --> 00:18:09,500
+stimulus energies from the pattern of
+proximal stimulation
+
+378
+00:18:09,500 --> 00:18:12,039
+that falls on sensory
+
+379
+00:18:12,039 --> 00:18:14,770
+of on on the center receptors
+
+380
+00:18:14,770 --> 00:18:18,629
+another name for the ecological view is
+direct
+
+381
+00:18:18,629 --> 00:18:19,700
+perception
+
+382
+00:18:19,700 --> 00:18:23,950
+sometimes called directory elizabeth
+moore usually called direct perception
+
+383
+00:18:23,950 --> 00:18:24,710
+and again
+
+384
+00:18:24,710 --> 00:18:26,629
+it's called direct perception
+
+385
+00:18:26,629 --> 00:18:29,100
+because within the gibson's view
+
+386
+00:18:29,100 --> 00:18:34,700
+everything you need to perceive the
+world is supplied by the world itself
+
+387
+00:18:34,700 --> 00:18:37,260
+supplied by the distal stimulus
+
+388
+00:18:37,260 --> 00:18:39,970
+and the pattern of proximal stimulation
+
+389
+00:18:39,970 --> 00:18:43,100
+falling underwritten on your row center
+receptors
+
+390
+00:18:43,100 --> 00:18:44,519
+and there is no need
+
+391
+00:18:44,519 --> 00:18:45,980
+for any kind of
+
+392
+00:18:45,980 --> 00:18:48,640
+so called a higher cognitive activity
+
+393
+00:18:48,640 --> 00:18:50,809
+there's no need to make inferences
+
+394
+00:18:50,809 --> 00:18:55,100
+there's no need to make use of judgment
+of memory that stored in your mind
+
+395
+00:18:55,100 --> 00:18:56,269
+already
+
+396
+00:18:56,269 --> 00:18:58,380
+nothing's you already know about the
+world
+
+397
+00:18:58,380 --> 00:19:00,300
+no need to or
+
+398
+00:19:00,300 --> 00:19:03,620
+to engage in any kind of problem solving
+activity
+
+399
+00:19:03,620 --> 00:19:08,670
+all the information you need for
+perception is supplied
+
+400
+00:19:08,670 --> 00:19:09,720
+the home
+
+401
+00:19:09,720 --> 00:19:11,029
+by the stimulus
+
+402
+00:19:11,029 --> 00:19:12,780
+itself itself
+
+403
+00:19:12,780 --> 00:19:13,950
+and it turns out
+
+404
+00:19:13,950 --> 00:19:17,059
+this is a very powerful viewer
+perception
+
+405
+00:19:17,059 --> 00:19:18,460
+it kind of culture
+
+406
+00:19:18,460 --> 00:19:20,170
+for are a lot
+
+407
+00:19:20,170 --> 00:19:22,669
+of how perception works
+
+408
+00:19:22,669 --> 00:19:24,480
+it could account for
+
+409
+00:19:24,480 --> 00:19:28,300
+it you know as you'll see in a minute
+forth the basic principles of depth
+
+410
+00:19:28,300 --> 00:19:29,650
+perception
+
+411
+00:19:29,650 --> 00:19:30,959
+answering the question
+
+412
+00:19:30,959 --> 00:19:34,340
+is the object of perception nearer to me
+
+413
+00:19:34,340 --> 00:19:35,460
+close at hand
+
+414
+00:19:35,460 --> 00:19:37,390
+or is it
+
+415
+00:19:37,390 --> 00:19:38,570
+away
+
+416
+00:19:38,570 --> 00:19:41,490
+the ecological deal can also
+
+417
+00:19:41,490 --> 00:19:43,070
+our count four
+
+418
+00:19:43,070 --> 00:19:45,440
+most of motion perception
+
+419
+00:19:45,440 --> 00:19:46,930
+answering the question about
+
+420
+00:19:46,930 --> 00:19:48,600
+the distal stimulus
+
+421
+00:19:48,600 --> 00:19:50,320
+is the object
+
+422
+00:19:50,320 --> 00:19:52,090
+stable in the environment
+
+423
+00:19:52,090 --> 00:19:53,500
+or is it
+
+424
+00:19:53,500 --> 00:19:54,950
+moving around
+
+425
+00:19:54,950 --> 00:19:56,730
+and finally
+
+426
+00:19:56,730 --> 00:20:01,090
+olympic candle account for what's known
+in the trade as the perception of
+
+427
+00:20:01,090 --> 00:20:01,900
+plasticity
+
+428
+00:20:01,900 --> 00:20:05,310
+which just says is the object rigid
+
+429
+00:20:05,310 --> 00:20:06,289
+isn't flexible
+
+430
+00:20:06,289 --> 00:20:08,279
+in various kinds of ways
+
+431
+00:20:08,279 --> 00:20:09,740
+what i'm going to do
+
+432
+00:20:09,740 --> 00:20:13,229
+all used to demonstrate the ecological
+view a perception
+
+433
+00:20:13,229 --> 00:20:15,970
+by focusing in depth perception
+
+434
+00:20:15,970 --> 00:20:21,310
+but your textbook lightnings text has a
+very nice account of motion perception
+
+435
+00:20:21,310 --> 00:20:22,920
+along similar lines
+
+436
+00:20:22,920 --> 00:20:27,590
+not so much on the of on the perception
+of all plasticity
+
+437
+00:20:27,590 --> 00:20:31,100
+on a typical perception course you'll
+get allot of that
+
+438
+00:20:31,100 --> 00:20:32,010
+so again
+
+439
+00:20:32,010 --> 00:20:34,830
+what the ecological viewer perception
+says
+
+440
+00:20:34,830 --> 00:20:38,520
+is that if you want to know rarely
+object is
+
+441
+00:20:38,520 --> 00:20:40,009
+what it's doing
+
+442
+00:20:40,009 --> 00:20:41,910
+and what it's basic form is
+
+443
+00:20:41,910 --> 00:20:43,560
+the object itself
+
+444
+00:20:43,560 --> 00:20:47,809
+the enviroment itself supplies all the
+information that you need
+
+445
+00:20:47,809 --> 00:20:53,390
+all for this song of for this purpose
+but there is a trek
+
+446
+00:20:53,390 --> 00:20:55,170
+in the ecological view
+
+447
+00:20:55,170 --> 00:20:57,769
+and it's one that's important to
+understand
+
+448
+00:20:57,769 --> 00:21:00,969
+and that is that the ecological view
+
+449
+00:21:00,969 --> 00:21:03,330
+defines the stimulus
+
+450
+00:21:03,330 --> 00:21:04,590
+very broadly
+
+451
+00:21:04,590 --> 00:21:08,950
+to include not just the object that
+you're looking at if i'm looking at one
+
+452
+00:21:08,950 --> 00:21:10,049
+of you
+
+453
+00:21:10,049 --> 00:21:11,440
+okay
+
+454
+00:21:11,440 --> 00:21:14,370
+you're the distal stimulus invited in by
+sensory field
+
+455
+00:21:14,370 --> 00:21:16,210
+but so is everything else
+
+456
+00:21:16,210 --> 00:21:16,950
+okay
+
+457
+00:21:16,950 --> 00:21:19,620
+so the idea here
+
+458
+00:21:19,620 --> 00:21:23,720
+all the information needed for
+perception is supplied
+
+459
+00:21:23,720 --> 00:21:24,530
+body
+
+460
+00:21:24,530 --> 00:21:27,820
+this dog by the distal stimulus but
+thing you're looking at
+
+461
+00:21:27,820 --> 00:21:31,900
+but also by the surrounding the stimulus
+field
+
+462
+00:21:31,900 --> 00:21:33,770
+all the context
+
+463
+00:21:33,770 --> 00:21:35,289
+that surrounds
+
+464
+00:21:35,289 --> 00:21:36,539
+father at object
+
+465
+00:21:36,539 --> 00:21:41,520
+although basically or the environmental
+context i'm looking at one of you
+
+466
+00:21:41,520 --> 00:21:44,649
+everybody else in the room such errors
+everything else
+
+467
+00:21:44,649 --> 00:21:47,570
+of while provide some of the context
+
+468
+00:21:47,570 --> 00:21:49,650
+and also
+
+469
+00:21:49,650 --> 00:21:51,190
+information from my own body
+
+470
+00:21:51,190 --> 00:21:52,309
+as you'll see
+
+471
+00:21:52,309 --> 00:21:57,050
+or in a minute provides some of the
+stimulus information needed for
+
+472
+00:21:57,050 --> 00:21:59,100
+perception but the idea is that
+
+473
+00:21:59,100 --> 00:22:01,590
+it's also in the world
+
+474
+00:22:01,590 --> 00:22:06,280
+everything you need for perception is
+provided by the stimulus environment
+
+475
+00:22:06,280 --> 00:22:09,110
+provided that you define the stimulus
+environments
+
+476
+00:22:09,110 --> 00:22:12,860
+broadly enough to include both the
+object of regard
+
+477
+00:22:12,860 --> 00:22:15,140
+and its context
+
+478
+00:22:15,140 --> 00:22:17,450
+both information in the environment
+
+479
+00:22:17,450 --> 00:22:19,940
+and information
+
+480
+00:22:19,940 --> 00:22:22,940
+deep receivers
+
+481
+00:22:22,940 --> 00:22:24,530
+let's see how this works
+
+482
+00:22:24,530 --> 00:22:26,360
+when we look that
+
+483
+00:22:26,360 --> 00:22:28,100
+perception of distance
+
+484
+00:22:28,100 --> 00:22:29,820
+how do we know
+
+485
+00:22:29,820 --> 00:22:33,340
+whether their called whether an object
+that we're looking at
+
+486
+00:22:33,340 --> 00:22:35,470
+is close to was
+
+487
+00:22:35,470 --> 00:22:36,679
+far away
+
+488
+00:22:36,679 --> 00:22:38,040
+it turns out
+
+489
+00:22:38,040 --> 00:22:41,050
+there are a number of cubes
+
+490
+00:22:41,050 --> 00:22:43,200
+provided by the stimulus environment
+
+491
+00:22:43,200 --> 00:22:49,880
+that do a very good job of telling us
+whether an object izmir or or far away
+
+492
+00:22:49,880 --> 00:22:50,350
+and
+
+493
+00:22:50,350 --> 00:22:51,820
+one of these cues
+
+494
+00:22:51,820 --> 00:22:54,170
+is known as convergence
+
+495
+00:22:54,170 --> 00:22:59,650
+it's a but we call the binoculars q for
+the perception of distance because this
+
+496
+00:22:59,650 --> 00:23:05,140
+is a cue that requires that we have two
+lines
+
+497
+00:23:05,140 --> 00:23:08,730
+doesn't work if you've only got one i
+look at it cover one are you up
+
+498
+00:23:08,730 --> 00:23:09,540
+you lose
+
+499
+00:23:09,540 --> 00:23:11,540
+the convergence cues
+
+500
+00:23:11,540 --> 00:23:13,460
+and the convergence q
+
+501
+00:23:13,460 --> 00:23:18,330
+basically comes from the fact that when
+you focus your rise on an object
+
+502
+00:23:18,330 --> 00:23:21,050
+you're always turned inward
+
+503
+00:23:21,050 --> 00:23:21,920
+okay
+
+504
+00:23:21,920 --> 00:23:25,700
+also if i'm focusing on you here my eyes
+are turned inward
+
+505
+00:23:25,700 --> 00:23:31,040
+if i'm focusing on you back there my
+eyes or returned
+
+506
+00:23:31,040 --> 00:23:35,700
+but if you think about your work cut
+high-school sophomore geometry for a
+
+507
+00:23:35,700 --> 00:23:36,480
+second
+
+508
+00:23:36,480 --> 00:23:37,510
+it turns out
+
+509
+00:23:37,510 --> 00:23:40,700
+at the angle of convergence is different
+
+510
+00:23:40,700 --> 00:23:43,610
+when you're focusing your eyes on a
+nearby they object
+
+511
+00:23:43,610 --> 00:23:46,960
+then if you're focusing arise on an
+object
+
+512
+00:23:46,960 --> 00:23:47,909
+far away
+
+513
+00:23:47,909 --> 00:23:53,459
+so that the angle of the two vectors the
+angle created by the vectors the eyes go
+
+514
+00:23:53,459 --> 00:23:55,049
+into the object
+
+515
+00:23:55,049 --> 00:23:58,779
+indicates is a very good indicator of
+distance for up for you
+
+516
+00:23:58,779 --> 00:24:00,929
+thirty or forty feet
+
+517
+00:24:00,929 --> 00:24:02,070
+here's the diagram
+
+518
+00:24:02,070 --> 00:24:07,020
+that shows that this is the case here
+are two wise
+
+519
+00:24:07,020 --> 00:24:09,220
+converging onto wa objects
+
+520
+00:24:09,220 --> 00:24:10,839
+object they won
+
+521
+00:24:10,839 --> 00:24:13,130
+and object eighty two
+
+522
+00:24:13,130 --> 00:24:14,490
+and you can see
+
+523
+00:24:14,490 --> 00:24:19,690
+that if the eyes are focused are
+converging on this nearby object to
+
+524
+00:24:19,690 --> 00:24:20,220
+anyone
+
+525
+00:24:20,220 --> 00:24:24,350
+the angle of convergys is relatively
+large
+
+526
+00:24:24,350 --> 00:24:26,970
+if the eyes are focusing on this
+
+527
+00:24:26,970 --> 00:24:29,900
+relatively far away object
+
+528
+00:24:29,900 --> 00:24:30,670
+paid through
+
+529
+00:24:30,670 --> 00:24:34,399
+the angle of convergence is relatively
+are small
+
+530
+00:24:34,399 --> 00:24:36,820
+so you jeff depth information
+
+531
+00:24:36,820 --> 00:24:41,200
+because you get feedback from the
+muscles of the arise that tells you
+
+532
+00:24:41,200 --> 00:24:47,070
+whether the angle of convergence is a
+big angle or a relatively small angle
+
+533
+00:24:47,070 --> 00:24:53,150
+big angled means the object is nearby a
+small angle means the object is far away
+
+534
+00:24:53,150 --> 00:24:56,909
+so here is a cute to distance
+
+535
+00:24:56,909 --> 00:24:58,120
+cute in depth
+
+536
+00:24:58,120 --> 00:25:01,700
+that's provided by the stimulus
+environment that we haven't talked about
+
+537
+00:25:01,700 --> 00:25:05,440
+the white waves radiating off the object
+yet
+
+538
+00:25:05,440 --> 00:25:07,070
+a stimulus environment
+
+539
+00:25:07,070 --> 00:25:11,570
+but summa signals information has been
+provided by by own body
+
+540
+00:25:11,570 --> 00:25:17,119
+that is the muscles in my eyes or
+sending feedback to my visual system
+
+541
+00:25:17,119 --> 00:25:21,759
+about the angle of convergence that
+provides information as to whether the
+
+542
+00:25:21,759 --> 00:25:26,440
+object is close
+
+543
+00:25:26,440 --> 00:25:28,940
+here is another q
+
+544
+00:25:28,940 --> 00:25:29,549
+alm
+
+545
+00:25:29,549 --> 00:25:34,500
+that paula is also a binoculars q for
+the perception of distance this is known
+
+546
+00:25:34,500 --> 00:25:36,870
+as the retinal disparity
+
+547
+00:25:36,870 --> 00:25:40,740
+it's also sometimes called binoculars on
+disparity
+
+548
+00:25:40,740 --> 00:25:42,360
+and it comes from the fact
+
+549
+00:25:42,360 --> 00:25:46,800
+that your eyes are separated by a
+distance of about couple or couple of
+
+550
+00:25:46,800 --> 00:25:47,920
+inches
+
+551
+00:25:47,920 --> 00:25:52,480
+and by virtue of the fact that your two
+eyes are separated by a distance of a
+
+552
+00:25:52,480 --> 00:25:53,960
+couple of inches
+
+553
+00:25:53,960 --> 00:25:54,760
+each
+
+554
+00:25:54,760 --> 00:25:57,969
+alrighty receives are somewhat different
+
+555
+00:25:57,969 --> 00:26:00,320
+image of the object
+
+556
+00:26:00,320 --> 00:26:01,860
+in question
+
+557
+00:26:01,860 --> 00:26:03,639
+and so what happens is
+
+558
+00:26:03,639 --> 00:26:06,560
+these to slightly different
+
+559
+00:26:06,560 --> 00:26:08,230
+two-dimensional images
+
+560
+00:26:08,230 --> 00:26:10,910
+which are on the retinas of the allies
+
+561
+00:26:10,910 --> 00:26:15,030
+are then diffused into a
+three-dimensional image in the brain
+
+562
+00:26:15,030 --> 00:26:17,770
+but basically the idea is
+
+563
+00:26:17,770 --> 00:26:19,710
+all of the more disparity
+
+564
+00:26:19,710 --> 00:26:21,020
+or less disparity
+
+565
+00:26:21,020 --> 00:26:22,120
+is a q
+
+566
+00:26:22,120 --> 00:26:24,899
+for the perception of distance it's
+actually the fact
+
+567
+00:26:24,899 --> 00:26:27,429
+that each on receives a somewhat
+different
+
+568
+00:26:27,429 --> 00:26:28,880
+your view of the object
+
+569
+00:26:28,880 --> 00:26:29,999
+that produces
+
+570
+00:26:29,999 --> 00:26:31,009
+the of
+
+571
+00:26:31,009 --> 00:26:32,029
+the illusion
+
+572
+00:26:32,029 --> 00:26:34,500
+all of a lot of seeing things and depth
+
+573
+00:26:34,500 --> 00:26:38,780
+here is a demonstration
+
+574
+00:26:38,780 --> 00:26:41,390
+on here you've got
+
+575
+00:26:41,390 --> 00:26:42,830
+you're left died
+
+576
+00:26:42,830 --> 00:26:44,540
+and you're right on me
+
+577
+00:26:44,540 --> 00:26:47,560
+and you're looking at these three
+objects
+
+578
+00:26:47,560 --> 00:26:50,010
+object death is far away
+
+579
+00:26:50,010 --> 00:26:54,929
+object he is in the middle object c is
+all it is very close
+
+580
+00:26:54,929 --> 00:26:56,480
+and what you can see here
+
+581
+00:26:56,480 --> 00:27:00,840
+is that each of these are key to these
+dogs ripple retinal views
+
+582
+00:27:00,840 --> 00:27:02,240
+is a little bit different
+
+583
+00:27:02,240 --> 00:27:03,820
+okay and then
+
+584
+00:27:03,820 --> 00:27:07,950
+ubu individual when the two images or
+sent to the visual system
+
+585
+00:27:07,950 --> 00:27:11,289
+they are or their fused into
+
+586
+00:27:11,289 --> 00:27:15,500
+here is that there is an example of this
+just do this is a demonstration
+
+587
+00:27:15,500 --> 00:27:16,760
+hold your left
+
+588
+00:27:16,760 --> 00:27:19,300
+index finger a full arms-length
+
+589
+00:27:19,300 --> 00:27:20,700
+okay
+
+590
+00:27:20,700 --> 00:27:22,669
+hold your right index finger
+
+591
+00:27:22,669 --> 00:27:24,330
+at half alarms length
+
+592
+00:27:24,330 --> 00:27:26,920
+and close your right on
+
+593
+00:27:26,920 --> 00:27:28,990
+closer right on
+
+594
+00:27:28,990 --> 00:27:32,830
+now align your two fingers using your
+left on him
+
+595
+00:27:32,830 --> 00:27:35,539
+so that both of them coincide with the
+cross
+
+596
+00:27:35,539 --> 00:27:38,150
+okay do that
+
+597
+00:27:38,150 --> 00:27:40,300
+now having done that
+
+598
+00:27:40,300 --> 00:27:47,300
+close your left aryan open your right
+away
+
+599
+00:27:47,799 --> 00:27:52,399
+your each of your lives gets a somewhat
+different view of these objects okay
+
+600
+00:27:52,399 --> 00:27:56,020
+and it's the disparity between them that
+helps to create
+
+601
+00:27:56,020 --> 00:27:58,370
+on image of the world
+
+602
+00:27:58,370 --> 00:27:59,750
+enough in-depth
+
+603
+00:27:59,750 --> 00:28:02,880
+okay so we've got now these two
+different views
+
+604
+00:28:02,880 --> 00:28:04,330
+convergence
+
+605
+00:28:04,330 --> 00:28:06,029
+and retinal
+
+606
+00:28:06,029 --> 00:28:08,620
+disparity
+
+607
+00:28:08,620 --> 00:28:11,980
+there are other accused for the
+perception of distance
+
+608
+00:28:11,980 --> 00:28:14,710
+that are not binoculars in nature
+
+609
+00:28:14,710 --> 00:28:17,739
+but instead are more documentation or
+
+610
+00:28:17,739 --> 00:28:20,649
+meaning that they all do require that
+you have what i
+
+611
+00:28:20,649 --> 00:28:27,649
+if you close one eye you still get this
+information about depth and distance
+
+612
+00:28:27,790 --> 00:28:28,790
+one
+
+613
+00:28:28,790 --> 00:28:33,920
+molecular q for all for depth or
+distance is known as accommodation
+
+614
+00:28:33,920 --> 00:28:40,740
+and this q reflects the fact that when
+you will focus on an object
+
+615
+00:28:40,740 --> 00:28:45,750
+lands of you're alright changes shape
+
+616
+00:28:45,750 --> 00:28:49,099
+if you focus on an object that is nearer
+to you
+
+617
+00:28:49,099 --> 00:28:53,080
+your lens has to bolger gets that
+
+618
+00:28:53,080 --> 00:28:57,350
+and if you focus your eye on an object
+that is distant
+
+619
+00:28:57,350 --> 00:29:00,820
+full lens will stretch out
+
+620
+00:29:00,820 --> 00:29:01,970
+flattened
+
+621
+00:29:01,970 --> 00:29:02,539
+again
+
+622
+00:29:02,539 --> 00:29:08,780
+this accommodation is produced by a
+muscles in the army
+
+623
+00:29:08,780 --> 00:29:12,280
+okayed the federal way itself is
+produced by muscles of the special
+
+624
+00:29:12,280 --> 00:29:13,710
+muscles in the eye
+
+625
+00:29:13,710 --> 00:29:17,450
+and these muscles send feedback to the
+visual system
+
+626
+00:29:17,450 --> 00:29:19,480
+that tells the visual system
+
+627
+00:29:19,480 --> 00:29:21,040
+whether there
+
+628
+00:29:21,040 --> 00:29:23,730
+flatly both ends
+
+629
+00:29:23,730 --> 00:29:25,480
+making a bulge in the lens
+
+630
+00:29:25,480 --> 00:29:26,279
+in order
+
+631
+00:29:26,279 --> 00:29:27,750
+too
+
+632
+00:29:27,750 --> 00:29:29,820
+in order to
+
+633
+00:29:29,820 --> 00:29:31,590
+bring the object into focus
+
+634
+00:29:31,590 --> 00:29:35,910
+here is the diagram of that we've got to
+whites here
+
+635
+00:29:35,910 --> 00:29:39,029
+and we've got an object that is close-up
+
+636
+00:29:39,029 --> 00:29:43,019
+here is the lens of the are you can see
+it's become a little bulge
+
+637
+00:29:43,019 --> 00:29:44,820
+inept back here
+
+638
+00:29:44,820 --> 00:29:49,580
+and hear you've got an object that is
+relatively far away
+
+639
+00:29:49,580 --> 00:29:51,970
+and when the i_e_ focuses on that
+
+640
+00:29:51,970 --> 00:29:56,210
+the lens has two planes just like you
+and all like a projector for example or
+
+641
+00:29:56,210 --> 00:29:58,530
+two or as a sort of some cameras
+
+642
+00:29:58,530 --> 00:30:01,279
+all you have to do so uh... something
+very similar
+
+643
+00:30:01,279 --> 00:30:05,040
+but again the point here is that there
+are muscles
+
+644
+00:30:05,040 --> 00:30:07,149
+doing this bulging and flattening
+
+645
+00:30:07,149 --> 00:30:09,919
+they provide feedback to the visual
+system
+
+646
+00:30:09,919 --> 00:30:12,450
+that's part of the stimulus environment
+
+647
+00:30:12,450 --> 00:30:14,490
+this is the information that's coming
+
+648
+00:30:14,490 --> 00:30:16,909
+from the body of the perceive ur
+
+649
+00:30:16,909 --> 00:30:18,190
+in the same way
+
+650
+00:30:18,190 --> 00:30:20,909
+that the angle of convergence
+
+651
+00:30:20,909 --> 00:30:23,350
+columns from the body of the
+
+652
+00:30:23,350 --> 00:30:24,930
+perceive her
+
+653
+00:30:24,930 --> 00:30:27,510
+case all accommodation is one such
+
+654
+00:30:27,510 --> 00:30:31,200
+so-called mon ocular q for the
+perception of distance
+
+655
+00:30:31,200 --> 00:30:36,380
+here's another one very good q for the
+perception distance known as relative
+
+656
+00:30:36,380 --> 00:30:37,420
+size
+
+657
+00:30:37,420 --> 00:30:43,380
+and this relative size occu basically
+reflects another aspect of geometry
+
+658
+00:30:43,380 --> 00:30:45,529
+known as the the size
+
+659
+00:30:45,529 --> 00:30:47,120
+distance rule
+
+660
+00:30:47,120 --> 00:30:48,620
+if you hold
+
+661
+00:30:48,620 --> 00:30:50,540
+the distance
+
+662
+00:30:50,540 --> 00:30:53,639
+between the observer and turn wild
+checks
+
+663
+00:30:53,639 --> 00:30:56,580
+constant if you hold the distance
+constant
+
+664
+00:30:56,580 --> 00:30:58,929
+the size of the object
+
+665
+00:30:58,929 --> 00:31:01,600
+will be of of will be
+
+666
+00:31:01,600 --> 00:31:04,690
+directly control the size of the object
+
+667
+00:31:04,690 --> 00:31:08,150
+of that the of the image that the object
+tests on the retina
+
+668
+00:31:08,150 --> 00:31:14,169
+so object size will be a function of the
+image size if you hold distance constant
+
+669
+00:31:14,169 --> 00:31:17,210
+if you hold side is constant
+
+670
+00:31:17,210 --> 00:31:18,230
+aldrich distance
+
+671
+00:31:18,230 --> 00:31:19,330
+is a function of
+
+672
+00:31:19,330 --> 00:31:21,779
+the embers of the image size
+
+673
+00:31:21,779 --> 00:31:23,789
+if you hold size constant
+
+674
+00:31:23,789 --> 00:31:27,610
+on target that far away will cast a
+smaller image on the road no
+
+675
+00:31:27,610 --> 00:31:31,350
+than an object that's of clothes if you
+hold
+
+676
+00:31:31,350 --> 00:31:35,009
+distance constant large objects cast a
+large
+
+677
+00:31:35,009 --> 00:31:36,480
+image on the rattler
+
+678
+00:31:36,480 --> 00:31:39,580
+small objects cast a small image on the
+bottom of the retina
+
+679
+00:31:39,580 --> 00:31:41,679
+if you hold size constant
+
+680
+00:31:41,679 --> 00:31:43,210
+close objects
+
+681
+00:31:43,210 --> 00:31:45,440
+a large image on the retina
+
+682
+00:31:45,440 --> 00:31:46,650
+distant objects
+
+683
+00:31:46,650 --> 00:31:47,870
+cast a small
+
+684
+00:31:47,870 --> 00:31:49,909
+all image on the road
+
+685
+00:31:49,909 --> 00:31:52,190
+so you could take this information
+
+686
+00:31:52,190 --> 00:31:56,960
+about the relative size of of of the
+rebel images
+
+687
+00:31:56,960 --> 00:31:59,169
+and that is information about
+
+688
+00:31:59,169 --> 00:32:02,110
+uh... about distance
+
+689
+00:32:02,110 --> 00:32:04,820
+good example of this comes from
+
+690
+00:32:04,820 --> 00:32:09,039
+professor palmer's of dot book here we
+have a dolly
+
+691
+00:32:09,039 --> 00:32:11,030
+and we have to trees
+
+692
+00:32:11,030 --> 00:32:12,780
+a close-up three
+
+693
+00:32:12,780 --> 00:32:15,210
+and a tree that's far away
+
+694
+00:32:15,210 --> 00:32:19,809
+the image all the clothes tree
+
+695
+00:32:19,809 --> 00:32:21,580
+is larger
+
+696
+00:32:21,580 --> 00:32:25,420
+then the image
+
+697
+00:32:25,420 --> 00:32:26,559
+tree okay
+
+698
+00:32:26,559 --> 00:32:28,490
+so when u
+
+699
+00:32:28,490 --> 00:32:32,789
+seat this is what the rebel image of
+those trees would look like you see but
+
+700
+00:32:32,789 --> 00:32:35,539
+one triple larger image
+
+701
+00:32:35,539 --> 00:32:37,560
+are closer to you
+
+702
+00:32:37,560 --> 00:32:43,670
+the of them smaller image relative size
+is an important q
+
+703
+00:32:43,670 --> 00:32:48,850
+distance if we have to objects that are
+pretty much the same size
+
+704
+00:32:48,850 --> 00:32:51,740
+the one that passed the larger image on
+the retina
+
+705
+00:32:51,740 --> 00:32:53,239
+is going to be closer
+
+706
+00:32:53,239 --> 00:32:54,190
+than the one
+
+707
+00:32:54,190 --> 00:32:55,040
+the tests
+
+708
+00:32:55,040 --> 00:32:56,520
+the smaller
+
+709
+00:32:56,520 --> 00:32:57,340
+on the road
+
+710
+00:32:57,340 --> 00:32:58,899
+so relative size
+
+711
+00:32:58,899 --> 00:33:01,679
+is another q to distance and
+
+712
+00:33:01,679 --> 00:33:05,790
+it's eight mode ocular q you don't need
+to wise to get this q
+
+713
+00:33:05,790 --> 00:33:08,150
+all you need is one i
+
+714
+00:33:08,150 --> 00:33:10,299
+onto to have retinal image
+
+715
+00:33:10,299 --> 00:33:11,440
+rebel size
+
+716
+00:33:11,440 --> 00:33:13,580
+if u to distance
+
+717
+00:33:13,580 --> 00:33:15,380
+here is another
+
+718
+00:33:15,380 --> 00:33:18,160
+more doctor weir queuing for the
+perception distance
+
+719
+00:33:18,160 --> 00:33:20,370
+known and superposition
+
+720
+00:33:20,370 --> 00:33:24,050
+and superposition simply refers to date
+
+721
+00:33:24,050 --> 00:33:25,190
+obvious fact
+
+722
+00:33:25,190 --> 00:33:27,520
+obvious ones to think about it for a
+second
+
+723
+00:33:27,520 --> 00:33:29,419
+that nearby objects
+
+724
+00:33:29,419 --> 00:33:30,840
+will call it off
+
+725
+00:33:30,840 --> 00:33:33,190
+views of more distant objects
+
+726
+00:33:33,190 --> 00:33:34,630
+all you have more distant
+
+727
+00:33:34,630 --> 00:33:38,030
+from u than this podium and at the
+podium
+
+728
+00:33:38,030 --> 00:33:40,400
+cuts off
+
+729
+00:33:40,400 --> 00:33:44,290
+your view of me cause sits in front of
+me right
+
+730
+00:33:44,290 --> 00:33:47,880
+science looks very simple but it's a
+profound q
+
+731
+00:33:47,880 --> 00:33:52,200
+i know move infront of the podium
+
+732
+00:33:52,200 --> 00:33:55,900
+and you know one closer to use in the
+podium is because no one blocking your
+
+733
+00:33:55,900 --> 00:33:57,530
+view of the podium
+
+734
+00:33:57,530 --> 00:33:58,529
+superposition
+
+735
+00:33:58,529 --> 00:34:03,620
+is a very powerful q_-two distance it's
+something cuts off
+
+736
+00:34:03,620 --> 00:34:05,429
+your view of something else
+
+737
+00:34:05,429 --> 00:34:08,220
+then obviously it's closer to you
+
+738
+00:34:08,220 --> 00:34:10,309
+then that other raj ect is
+
+739
+00:34:10,309 --> 00:34:15,639
+this is a cue that artists have used at
+least since the medieval period
+
+740
+00:34:15,639 --> 00:34:17,919
+to or to depict distance
+
+741
+00:34:17,919 --> 00:34:19,369
+and it's also a q
+
+742
+00:34:19,369 --> 00:34:22,069
+that artists can have some
+
+743
+00:34:22,069 --> 00:34:24,639
+here's an example
+
+744
+00:34:24,639 --> 00:34:27,320
+just kind of schematic example of
+superposition
+
+745
+00:34:27,320 --> 00:34:29,259
+you see the orange
+
+746
+00:34:29,259 --> 00:34:30,439
+won't block
+
+747
+00:34:30,439 --> 00:34:31,280
+closer to you
+
+748
+00:34:31,280 --> 00:34:36,270
+than the green blocked because the
+orange q cuts off your view of the green
+
+749
+00:34:36,270 --> 00:34:38,409
+or square
+
+750
+00:34:38,409 --> 00:34:43,409
+here is a painting by the french
+surrealist painter renee migrate in-car
+
+751
+00:34:43,409 --> 00:34:44,169
+plunge
+
+752
+00:34:44,169 --> 00:34:45,509
+in which he
+
+753
+00:34:45,509 --> 00:34:49,189
+playin swept the superposition q for
+distance
+
+754
+00:34:49,189 --> 00:34:52,099
+woman riding a horse through a forest
+
+755
+00:34:52,099 --> 00:34:57,019
+this tree cuts off your view of the
+horses hind quarters
+
+756
+00:34:57,019 --> 00:35:00,229
+this tree cuts off your view of the
+woman
+
+757
+00:35:00,229 --> 00:35:01,410
+but the woman
+
+758
+00:35:01,410 --> 00:35:03,860
+cuts off your view artistry
+
+759
+00:35:03,860 --> 00:35:05,590
+and of course is four part
+
+760
+00:35:05,590 --> 00:35:06,840
+cuts off your view
+
+761
+00:35:06,840 --> 00:35:11,980
+of this tree picture that doesn't make
+any sense okay as a depiction of the
+
+762
+00:35:11,980 --> 00:35:13,459
+world that doesn't work
+
+763
+00:35:13,459 --> 00:35:19,949
+but it's although i'm by screwing around
+with a superposition q for distance okay
+
+764
+00:35:19,949 --> 00:35:23,549
+i'm a greater safety autolearn this
+culinary arts school
+
+765
+00:35:23,549 --> 00:35:27,709
+and look what i could do with that i can
+make this really interesting painting
+
+766
+00:35:27,709 --> 00:35:31,499
+all of that you know the more you look
+at it the autre it looks
+
+767
+00:35:31,499 --> 00:35:34,839
+and it's or because the distance
+relationships
+
+768
+00:35:34,839 --> 00:35:37,420
+between the horse and writer on the one
+hand
+
+769
+00:35:37,420 --> 00:35:44,209
+and the trees on the other hand have
+been home have been played with
+
+770
+00:35:44,209 --> 00:35:45,740
+so superposition
+
+771
+00:35:45,740 --> 00:35:50,180
+is all is another one of these important
+to all accuse
+
+772
+00:35:50,180 --> 00:35:54,329
+another when ocular cupid a perception
+distance one that
+
+773
+00:35:54,329 --> 00:35:59,119
+began to be used in painting in a
+renaissance art and is now a very very
+
+774
+00:35:59,119 --> 00:36:01,260
+important in realistic painting
+
+775
+00:36:01,260 --> 00:36:03,709
+is linear perspective
+
+776
+00:36:03,709 --> 00:36:06,090
+and the idea behind linear perspective
+
+777
+00:36:06,090 --> 00:36:09,990
+is that when objects are arranged in
+linear perspective
+
+778
+00:36:09,990 --> 00:36:12,309
+are there are perspective lines
+
+779
+00:36:12,309 --> 00:36:13,769
+that conver
+
+780
+00:36:13,769 --> 00:36:16,089
+torrid a valuation point
+
+781
+00:36:16,089 --> 00:36:19,550
+and all jokes along those lines or
+
+782
+00:36:19,550 --> 00:36:22,319
+of for shortened or accordingly
+
+783
+00:36:22,319 --> 00:36:27,589
+on here is a mix of famous example
+apiece renaissance art raphael school of
+
+784
+00:36:27,589 --> 00:36:29,209
+aphids
+
+785
+00:36:29,209 --> 00:36:29,959
+aristotle
+
+786
+00:36:29,959 --> 00:36:32,849
+socrates bunch of other people
+
+787
+00:36:32,849 --> 00:36:36,169
+all used to be able to name them all
+can't do that right now
+
+788
+00:36:36,169 --> 00:36:37,910
+all pointed at the event
+
+789
+00:36:37,910 --> 00:36:39,650
+notice what's happening here
+
+790
+00:36:39,650 --> 00:36:40,809
+you see
+
+791
+00:36:40,809 --> 00:36:42,649
+these people
+
+792
+00:36:42,649 --> 00:36:43,119
+closer
+
+793
+00:36:43,119 --> 00:36:44,150
+to you
+
+794
+00:36:44,150 --> 00:36:46,779
+this person somewhere in the middle
+
+795
+00:36:46,779 --> 00:36:48,250
+these people
+
+796
+00:36:48,250 --> 00:36:49,750
+forever alway
+
+797
+00:36:49,750 --> 00:36:51,430
+and then in the distance
+
+798
+00:36:51,430 --> 00:36:53,839
+this arch way behind them
+
+799
+00:36:53,839 --> 00:36:58,339
+unit this is a a canvas this is a
+two-dimensional painting of course but
+
+800
+00:36:58,339 --> 00:37:01,800
+you see add asst three-dimensional
+singing
+
+801
+00:37:01,800 --> 00:37:04,890
+and the reason you see it as a
+three-dimensional singing
+
+802
+00:37:04,890 --> 00:37:10,580
+is that raphael has carefully
+constructed these images saw all along
+
+803
+00:37:10,580 --> 00:37:15,580
+all along perspective lines here's our
+kind of rough and ready analysis of the
+
+804
+00:37:15,580 --> 00:37:16,269
+painting
+
+805
+00:37:16,269 --> 00:37:17,989
+if you follow
+
+806
+00:37:17,989 --> 00:37:22,959
+these lines from the tops of the columns
+
+807
+00:37:22,959 --> 00:37:24,079
+down
+
+808
+00:37:24,079 --> 00:37:26,100
+you see they converge right here in
+
+809
+00:37:26,100 --> 00:37:28,469
+dead center in the center of the
+painting
+
+810
+00:37:28,469 --> 00:37:31,429
+if you take phone lines
+
+811
+00:37:31,429 --> 00:37:34,970
+suggested by that tiling in the floor
+here
+
+812
+00:37:34,970 --> 00:37:38,119
+and follow them write-up again they
+converge
+
+813
+00:37:38,119 --> 00:37:39,710
+right in the dead center
+
+814
+00:37:39,710 --> 00:37:41,969
+of the painting and then
+
+815
+00:37:41,969 --> 00:37:43,109
+various objects
+
+816
+00:37:43,109 --> 00:37:44,089
+are now
+
+817
+00:37:44,089 --> 00:37:45,350
+for shortened
+
+818
+00:37:45,350 --> 00:37:48,150
+as you move along the perspective lines
+
+819
+00:37:48,150 --> 00:37:50,959
+so here's a character here
+
+820
+00:37:50,959 --> 00:37:51,969
+person and white
+
+821
+00:37:51,969 --> 00:37:54,119
+who is about
+
+822
+00:37:54,119 --> 00:37:55,049
+toll
+
+823
+00:37:55,049 --> 00:37:58,729
+and hear is onto
+
+824
+00:37:58,729 --> 00:37:59,719
+authorities okay
+
+825
+00:37:59,719 --> 00:38:02,460
+who is painted as shorter than that
+
+826
+00:38:02,460 --> 00:38:03,410
+about how we work
+
+827
+00:38:03,410 --> 00:38:06,530
+if you were that far away along the
+prospective lines
+
+828
+00:38:06,530 --> 00:38:08,839
+here's a person in the middle
+
+829
+00:38:08,839 --> 00:38:09,419
+and
+
+830
+00:38:09,419 --> 00:38:13,539
+that's well thong behind it that figure
+is somewhere inbetween
+
+831
+00:38:13,539 --> 00:38:15,419
+the height of the speaker and the height
+
+832
+00:38:15,419 --> 00:38:16,799
+of that figure
+
+833
+00:38:16,799 --> 00:38:20,059
+these perspective lines when you talk
+art in
+
+834
+00:38:20,059 --> 00:38:20,930
+grade school
+
+835
+00:38:20,930 --> 00:38:24,730
+they taught you to do this right cannot
+draw these lines you know i've been told
+
+836
+00:38:24,730 --> 00:38:29,800
+make sure that everybody is arrayed all
+along them this is a doubt that uh...
+
+837
+00:38:29,800 --> 00:38:34,419
+technique that was basically discovered
+in the fourteenth century
+
+838
+00:38:34,419 --> 00:38:38,009
+people didn't know about it before the
+fourteenth century and it's been used
+
+839
+00:38:38,009 --> 00:38:38,979
+ever since
+
+840
+00:38:38,979 --> 00:38:40,269
+to depict
+
+841
+00:38:40,269 --> 00:38:41,780
+that and distance
+
+842
+00:38:41,780 --> 00:38:43,729
+in the home
+
+843
+00:38:43,729 --> 00:38:45,180
+into dimensional space
+
+844
+00:38:45,180 --> 00:38:51,039
+and it turns out that our visual systems
+use the same kind of information
+
+845
+00:38:51,039 --> 00:38:55,380
+what i'm looking at you no especially
+from looking down this road
+
+846
+00:38:55,380 --> 00:38:59,920
+i get this nice perspective line the
+converges back there are a little bit
+
+847
+00:38:59,920 --> 00:39:01,099
+people up here
+
+848
+00:39:01,099 --> 00:39:02,719
+you're pretty big
+
+849
+00:39:02,719 --> 00:39:03,860
+people back there
+
+850
+00:39:03,860 --> 00:39:08,090
+your pretty little right and it all fits
+together all but with a full of the
+
+851
+00:39:08,090 --> 00:39:12,430
+regular for shortening along the all
+along the prospective lines
+
+852
+00:39:12,430 --> 00:39:14,280
+so linear perspective
+
+853
+00:39:14,280 --> 00:39:17,489
+very very important to you
+
+854
+00:39:17,489 --> 00:39:18,170
+although
+
+855
+00:39:18,170 --> 00:39:22,749
+wrote again since the renaissance at
+least painters have tried to paint
+
+856
+00:39:22,749 --> 00:39:23,510
+scenes
+
+857
+00:39:23,510 --> 00:39:24,310
+as if
+
+858
+00:39:24,310 --> 00:39:26,589
+you were looking at the scene
+
+859
+00:39:26,589 --> 00:39:31,109
+through our window on the frame supplies
+that window here is our painting by
+
+860
+00:39:31,109 --> 00:39:34,199
+marguerite that all basically
+
+861
+00:39:34,199 --> 00:39:36,950
+salt blob of plays on this principle
+
+862
+00:39:36,950 --> 00:39:38,579
+on you've got it
+
+863
+00:39:38,579 --> 00:39:39,499
+canvas
+
+864
+00:39:39,499 --> 00:39:40,659
+island evil
+
+865
+00:39:40,659 --> 00:39:42,339
+it's a canvas of the field
+
+866
+00:39:42,339 --> 00:39:44,100
+with you treated it
+
+867
+00:39:44,100 --> 00:39:46,310
+and notice that this shrubbery here
+
+868
+00:39:46,310 --> 00:39:47,529
+is continuous
+
+869
+00:39:47,529 --> 00:39:49,679
+with the shrubbery that your view
+
+870
+00:39:49,679 --> 00:39:51,180
+the window
+
+871
+00:39:51,180 --> 00:39:51,700
+again
+
+872
+00:39:51,700 --> 00:39:53,789
+all of those artists with views
+
+873
+00:39:53,789 --> 00:39:54,550
+cues like
+
+874
+00:39:54,550 --> 00:39:57,879
+all than your perspective to create the
+image
+
+875
+00:39:57,879 --> 00:39:58,940
+the painting
+
+876
+00:39:58,940 --> 00:40:01,790
+is just what the world would look like a
+outside
+
+877
+00:40:01,790 --> 00:40:03,559
+if you were looking at it
+
+878
+00:40:03,559 --> 00:40:05,539
+e window
+
+879
+00:40:05,539 --> 00:40:08,970
+here's another example of a great way to
+do this
+
+880
+00:40:08,970 --> 00:40:12,980
+on uh... mine but these titles are the
+he was a surrealistic titles don't have
+
+881
+00:40:12,980 --> 00:40:15,269
+anything to do with the painting
+
+882
+00:40:15,269 --> 00:40:15,830
+alm
+
+883
+00:40:15,830 --> 00:40:18,799
+but you can see again here is the easel
+
+884
+00:40:18,799 --> 00:40:20,130
+here's the canvas
+
+885
+00:40:20,130 --> 00:40:22,530
+there's a cluster of houses here
+
+886
+00:40:22,530 --> 00:40:26,059
+in the painting we have the horse cart
+and most of the house
+
+887
+00:40:26,059 --> 00:40:27,690
+little bit of shrubbery here
+
+888
+00:40:27,690 --> 00:40:29,380
+but it's continuous with
+
+889
+00:40:29,380 --> 00:40:32,319
+the rest of this on comic readers
+
+890
+00:40:32,319 --> 00:40:32,920
+lighting up
+
+891
+00:40:32,920 --> 00:40:34,460
+his perspective lines
+
+892
+00:40:34,460 --> 00:40:36,809
+so was to create delusion
+
+893
+00:40:36,809 --> 00:40:39,449
+that you're looking at the world
+
+894
+00:40:39,449 --> 00:40:42,209
+the window
+
+895
+00:40:42,209 --> 00:40:43,459
+canvas
+
+896
+00:40:43,459 --> 00:40:47,090
+here it is another migrate love
+marguerite don't you
+
+897
+00:40:47,090 --> 00:40:49,150
+on the promenade suv euclid
+
+898
+00:40:49,150 --> 00:40:52,249
+all work the greatest on something very
+interesting
+
+899
+00:40:52,249 --> 00:40:55,729
+with altman with the lines of
+perspectives so here we've got another
+
+900
+00:40:55,729 --> 00:40:58,529
+these all another tenders right at the
+scene
+
+901
+00:40:58,529 --> 00:41:00,009
+what do you know the window
+
+902
+00:41:00,009 --> 00:41:00,960
+there is this
+
+903
+00:41:00,960 --> 00:41:05,089
+are tolerant here with the conical our
+top on a condom
+
+904
+00:41:05,089 --> 00:41:06,069
+disneyland
+
+905
+00:41:06,069 --> 00:41:06,919
+power
+
+906
+00:41:06,919 --> 00:41:09,950
+and then there is this long boulevard
+
+907
+00:41:09,950 --> 00:41:12,199
+receding are receiving them to the
+distance
+
+908
+00:41:12,199 --> 00:41:13,890
+you can see here clearly
+
+909
+00:41:13,890 --> 00:41:17,799
+the visual perspective lines
+
+910
+00:41:17,799 --> 00:41:19,719
+the vanishing point
+
+911
+00:41:19,719 --> 00:41:20,220
+creating
+
+912
+00:41:20,220 --> 00:41:23,920
+the law the illusion the that the uh...
+the impression
+
+913
+00:41:23,920 --> 00:41:26,839
+that these houses down here
+
+914
+00:41:26,839 --> 00:41:28,390
+farther away from the viewer
+
+915
+00:41:28,390 --> 00:41:31,259
+than these houses or or or here
+
+916
+00:41:31,259 --> 00:41:33,019
+okay see i was done that
+
+917
+00:41:33,019 --> 00:41:35,760
+notice however that does
+
+918
+00:41:35,760 --> 00:41:37,460
+conical power top
+
+919
+00:41:37,460 --> 00:41:39,949
+is exactly the same
+
+920
+00:41:39,949 --> 00:41:41,199
+in shape
+
+921
+00:41:41,199 --> 00:41:42,489
+and size
+
+922
+00:41:42,489 --> 00:41:43,279
+as
+
+923
+00:41:43,279 --> 00:41:44,829
+the conversion lines
+
+924
+00:41:44,829 --> 00:41:46,029
+in this boulevard
+
+925
+00:41:46,029 --> 00:41:49,549
+these are exactly the same shape and
+size
+
+926
+00:41:49,549 --> 00:41:53,099
+but you don't see these is converging
+lines y
+
+927
+00:41:53,099 --> 00:41:57,849
+because my brief has used the principle
+of superposition
+
+928
+00:41:57,849 --> 00:42:01,309
+get you to see this power as being in
+front
+
+929
+00:42:01,309 --> 00:42:02,959
+of this all
+
+930
+00:42:02,959 --> 00:42:05,029
+uh... that this apartment building
+
+931
+00:42:05,029 --> 00:42:07,470
+there is no superposition q
+
+932
+00:42:07,470 --> 00:42:08,519
+on here
+
+933
+00:42:08,519 --> 00:42:12,969
+rather you see these as prospective
+lines and the world going out
+
+934
+00:42:12,969 --> 00:42:16,259
+or the distance it's a very charming and
+i think illustration
+
+935
+00:42:16,259 --> 00:42:17,330
+of how
+
+936
+00:42:17,330 --> 00:42:19,809
+all written realistic painters
+
+937
+00:42:19,809 --> 00:42:20,810
+mccree would probably
+
+938
+00:42:20,810 --> 00:42:24,089
+turn over his grave if you've heard
+nicole more realistic painter but that's
+
+939
+00:42:24,089 --> 00:42:26,239
+what it is
+
+940
+00:42:26,239 --> 00:42:28,009
+datatable boulevard right
+
+941
+00:42:28,009 --> 00:42:28,710
+all
+
+942
+00:42:28,710 --> 00:42:30,790
+on to use these
+
+943
+00:42:30,790 --> 00:42:31,829
+accused the depth
+
+944
+00:42:31,829 --> 00:42:34,500
+to communicate on all of the
+
+945
+00:42:34,500 --> 00:42:36,540
+depth and to represent
+
+946
+00:42:36,540 --> 00:42:39,199
+depth distance
+
+947
+00:42:39,199 --> 00:42:42,400
+here's another q that's commonly used
+
+948
+00:42:42,400 --> 00:42:43,200
+elevation
+
+949
+00:42:43,200 --> 00:42:45,039
+distance from the horizon
+
+950
+00:42:45,039 --> 00:42:48,009
+when you look out at the world
+
+951
+00:42:48,009 --> 00:42:53,779
+distant objects up here are closer to
+the horizon then nearby objects to
+
+952
+00:42:53,779 --> 00:42:56,580
+just next time you look at the world
+check that out
+
+953
+00:42:56,580 --> 00:43:01,890
+and you'll see that it's true here it is
+all dusk a medic depiction of it we've
+
+954
+00:43:01,890 --> 00:43:03,719
+got a horizon here
+
+955
+00:43:03,719 --> 00:43:05,200
+we've got a tree here
+
+956
+00:43:05,200 --> 00:43:08,600
+we've got a tree here on these trees are
+the same size
+
+957
+00:43:08,600 --> 00:43:10,219
+all but you perceive
+
+958
+00:43:10,219 --> 00:43:12,520
+this tree as closer to you
+
+959
+00:43:12,520 --> 00:43:17,649
+that industry distant objects or closer
+to the horizon
+
+960
+00:43:17,649 --> 00:43:19,729
+near by objects
+
+961
+00:43:19,729 --> 00:43:23,390
+here's another example from a professor
+plummer
+
+962
+00:43:23,390 --> 00:43:25,249
+here's an array of trees
+
+963
+00:43:25,249 --> 00:43:26,839
+a horizon
+
+964
+00:43:26,839 --> 00:43:28,030
+some alums
+
+965
+00:43:28,030 --> 00:43:29,709
+and some clothes
+
+966
+00:43:29,709 --> 00:43:33,169
+and notice that these trees
+
+967
+00:43:33,169 --> 00:43:34,520
+appear closer to you
+
+968
+00:43:34,520 --> 00:43:35,649
+than these trees
+
+969
+00:43:35,649 --> 00:43:39,719
+there closer to be streets are close to
+the horizon a pure farther away
+
+970
+00:43:39,719 --> 00:43:41,539
+and that this cloud
+
+971
+00:43:41,539 --> 00:43:42,460
+appears
+
+972
+00:43:42,460 --> 00:43:43,410
+farther away
+
+973
+00:43:43,410 --> 00:43:44,789
+that these clouds
+
+974
+00:43:44,789 --> 00:43:49,700
+again the clothes closer to the horizon
+so it's not a matter of up-and-down ok
+
+975
+00:43:49,700 --> 00:43:51,839
+thought about urban high on though
+
+976
+00:43:51,839 --> 00:43:53,680
+the image or lowered the image
+
+977
+00:43:53,680 --> 00:43:54,730
+it's a matter of
+
+978
+00:43:54,730 --> 00:43:55,770
+where you wore
+
+979
+00:43:55,770 --> 00:43:57,849
+with respect
+
+980
+00:43:57,849 --> 00:43:59,839
+horizon
+
+981
+00:43:59,839 --> 00:44:04,669
+on governor qal from a perception of
+distance known as aerial prospective or
+
+982
+00:44:04,669 --> 00:44:06,109
+atmospheric perspective
+
+983
+00:44:06,109 --> 00:44:09,309
+and this that this q works because
+
+984
+00:44:09,309 --> 00:44:13,929
+uh... in the air there are best
+particles are sometimes water particles
+
+985
+00:44:13,929 --> 00:44:16,369
+are under liquid particles
+
+986
+00:44:16,369 --> 00:44:17,470
+onto a fraction
+
+987
+00:44:17,470 --> 00:44:19,279
+the light okay
+
+988
+00:44:19,279 --> 00:44:22,069
+all and produce the kind of blowing
+
+989
+00:44:22,069 --> 00:44:24,240
+but more distance
+
+990
+00:44:24,240 --> 00:44:27,009
+there is between you and the object
+
+991
+00:44:27,009 --> 00:44:33,040
+the more cost and water there is in the
+error between you when the object
+
+992
+00:44:33,040 --> 00:44:34,690
+and more willing
+
+993
+00:44:34,690 --> 00:44:36,509
+all actually occurs
+
+994
+00:44:36,509 --> 00:44:39,059
+here are two really good examples of
+this
+
+995
+00:44:39,059 --> 00:44:42,709
+this is a photograph of the blue ridge
+mountains and north carolina
+
+996
+00:44:42,709 --> 00:44:46,559
+one of the reasons the blue ridge
+mountains look blue it'll look blue if
+
+997
+00:44:46,559 --> 00:44:50,889
+you're sitting on a blue ridge about
+looks very green cause
+
+998
+00:44:50,889 --> 00:44:52,639
+trees are grain
+
+999
+00:44:52,639 --> 00:44:55,320
+the reason at the blue ridge bones look
+below
+
+1000
+00:44:55,320 --> 00:45:00,400
+is that these all of the chinese on
+these moments or a minute ago kind of
+
+1001
+00:45:00,400 --> 00:45:01,220
+oil
+
+1002
+00:45:01,220 --> 00:45:04,199
+that alter frac slight in the distance
+
+1003
+00:45:04,199 --> 00:45:07,400
+here's another example the supporter
+preferably cottage one
+
+1004
+00:45:07,400 --> 00:45:09,089
+in guatemala
+
+1005
+00:45:09,089 --> 00:45:13,309
+and on a close by you see your this
+green
+
+1006
+00:45:13,309 --> 00:45:16,940
+and that is to go to his art would look
+at the more distant volcanoes
+
+1007
+00:45:16,940 --> 00:45:21,619
+you see the baby turned blue again
+that's because even in such a pristine
+
+1008
+00:45:21,619 --> 00:45:23,100
+environment as we got to climb
+
+1009
+00:45:23,100 --> 00:45:27,640
+there's still a lot of doston stuff for
+the year and that creates gluing of what
+
+1010
+00:45:27,640 --> 00:45:29,190
+would otherwise be green
+
+1011
+00:45:29,190 --> 00:45:34,599
+but below where it is not for the way it
+is to make along the story short
+
+1012
+00:45:34,599 --> 00:45:36,040
+on these are always
+
+1013
+00:45:36,040 --> 00:45:40,849
+are good cues on to distance
+
+1014
+00:45:40,849 --> 00:45:45,179
+and finally thickness finally and i
+think you've heard dog for a productive
+
+1015
+00:45:45,179 --> 00:45:46,830
+is texter gradients
+
+1016
+00:45:46,830 --> 00:45:48,270
+and that simply means
+
+1017
+00:45:48,270 --> 00:45:53,789
+that there is more texture apparent in
+an object that's close at hand
+
+1018
+00:45:53,789 --> 00:45:56,600
+then there is in an object that's for a
+way
+
+1019
+00:45:56,600 --> 00:45:58,420
+when i look at you like to see
+
+1020
+00:45:58,420 --> 00:46:02,500
+kind of into done he reckons he can
+individual hairs and things like that i
+
+1021
+00:46:02,500 --> 00:46:04,229
+could see your shoelaces
+
+1022
+00:46:04,229 --> 00:46:07,589
+what i look at somebody back there i
+don't get anything like that i know the
+
+1023
+00:46:07,589 --> 00:46:10,329
+releases on that shoe but i'd just
+
+1024
+00:46:10,329 --> 00:46:11,509
+see them
+
+1025
+00:46:11,509 --> 00:46:15,950
+on here are some photographic depictions
+of this would be seen
+
+1026
+00:46:15,950 --> 00:46:17,380
+these rocks are closer
+
+1027
+00:46:17,380 --> 00:46:18,579
+to the observer
+
+1028
+00:46:18,579 --> 00:46:21,190
+you can see a lot of detail
+
+1029
+00:46:21,190 --> 00:46:23,850
+these rocks same kinda rocks farther
+away
+
+1030
+00:46:23,850 --> 00:46:25,680
+they blur into the distance
+
+1031
+00:46:25,680 --> 00:46:31,440
+here it is a elva crowd scene of the
+football stadium you see a lot of detail
+
+1032
+00:46:31,440 --> 00:46:32,880
+on here
+
+1033
+00:46:32,880 --> 00:46:37,740
+in the objects utter farther away much
+less so that there is out
+
+1034
+00:46:37,740 --> 00:46:42,669
+gradient of texture gave a more texture
+the more detail you can see the closer
+
+1035
+00:46:42,669 --> 00:46:44,220
+the object all
+
+1036
+00:46:44,220 --> 00:46:45,609
+host of the objectives
+
+1037
+00:46:45,609 --> 00:46:47,089
+and then finally
+
+1038
+00:46:47,089 --> 00:46:49,879
+uh... we have are shadowing
+
+1039
+00:46:49,879 --> 00:46:50,880
+as an index
+
+1040
+00:46:50,880 --> 00:46:52,969
+to ardent adept
+
+1041
+00:46:52,969 --> 00:46:54,019
+this calmness
+
+1042
+00:46:54,019 --> 00:46:55,360
+from the fact that
+
+1043
+00:46:55,360 --> 00:46:57,860
+or visual systems evolved
+
+1044
+00:46:57,860 --> 00:47:01,199
+in an environment where there was only
+one source of light
+
+1045
+00:47:01,199 --> 00:47:02,859
+the sun or the moon
+
+1046
+00:47:02,859 --> 00:47:04,000
+and it was always
+
+1047
+00:47:04,000 --> 00:47:06,579
+pretty much always over had
+
+1048
+00:47:06,579 --> 00:47:09,520
+when u_n_ evolve a visual system
+
+1049
+00:47:09,520 --> 00:47:14,659
+in an environment where the source of
+light is always overhead
+
+1050
+00:47:14,659 --> 00:47:17,190
+the pattern of shadows
+
+1051
+00:47:17,190 --> 00:47:17,790
+communicates
+
+1052
+00:47:17,790 --> 00:47:21,019
+dot all of the depth and distance okay
+
+1053
+00:47:21,019 --> 00:47:23,599
+so here
+
+1054
+00:47:23,599 --> 00:47:24,459
+these
+
+1055
+00:47:24,459 --> 00:47:25,980
+three circles here
+
+1056
+00:47:25,980 --> 00:47:30,029
+you perceive them as convex you perceive
+them as coming out
+
+1057
+00:47:30,029 --> 00:47:31,450
+all of the screen
+
+1058
+00:47:31,450 --> 00:47:32,969
+towards you
+
+1059
+00:47:32,969 --> 00:47:36,619
+whereas use block received these
+
+1060
+00:47:36,619 --> 00:47:38,380
+circles as concave
+
+1061
+00:47:38,380 --> 00:47:41,109
+and dented in to the screen
+
+1062
+00:47:41,109 --> 00:47:42,479
+going away from you
+
+1063
+00:47:42,479 --> 00:47:44,699
+against evil pattern of light here
+
+1064
+00:47:44,699 --> 00:47:47,660
+these are illuminated casting a shadow
+
+1065
+00:47:47,660 --> 00:47:49,050
+there's a shadow here
+
+1066
+00:47:49,050 --> 00:47:50,380
+and this is eliminated
+
+1067
+00:47:50,380 --> 00:47:52,339
+that's an impression that's created
+
+1068
+00:47:52,339 --> 00:47:53,570
+simply by
+
+1069
+00:47:53,570 --> 00:47:57,149
+hollow polite works you can see this
+very clearly
+
+1070
+00:47:57,149 --> 00:48:00,529
+to flip it upside down
+
+1071
+00:48:00,529 --> 00:48:03,590
+these used to be on the bottom these is
+to be on the top
+
+1072
+00:48:03,590 --> 00:48:05,329
+but no okay
+
+1073
+00:48:05,329 --> 00:48:10,159
+what was once convex is now a concave
+
+1074
+00:48:10,159 --> 00:48:13,019
+as and what was cool what was once
+convex
+
+1075
+00:48:13,019 --> 00:48:17,789
+what would what one's concave is no
+convex all because of the pattern of
+
+1076
+00:48:17,789 --> 00:48:18,319
+light
+
+1077
+00:48:18,319 --> 00:48:19,019
+so dead
+
+1078
+00:48:19,019 --> 00:48:22,229
+it's the pattern of light radio off the
+object
+
+1079
+00:48:22,229 --> 00:48:24,889
+that communicates
+
+1080
+00:48:24,889 --> 00:48:27,319
+and what's
+
+1081
+00:48:27,319 --> 00:48:32,129
+so we've got no it's wholesale accuse
+
+1082
+00:48:32,129 --> 00:48:34,850
+saamne binoculars in nature
+
+1083
+00:48:34,850 --> 00:48:37,010
+requiring tour guides
+
+1084
+00:48:37,010 --> 00:48:39,079
+someone ocular in nature
+
+1085
+00:48:39,079 --> 00:48:41,599
+requiring only one died
+
+1086
+00:48:41,599 --> 00:48:43,550
+somewhat ocular in nature
+
+1087
+00:48:43,550 --> 00:48:48,750
+because the information is provided by
+the always themselves in the muscles
+
+1088
+00:48:48,750 --> 00:48:49,799
+attached to them
+
+1089
+00:48:49,799 --> 00:48:54,269
+and all others optical in nature having
+to do with the pattern of light the
+
+1090
+00:48:54,269 --> 00:48:59,179
+falls on the retinal i'll be all right
+these inferred these fused together
+
+1091
+00:48:59,179 --> 00:48:59,909
+create
+
+1092
+00:48:59,909 --> 00:49:02,170
+the perception of depth
+
+1093
+00:49:02,170 --> 00:49:05,339
+or distance invasion
+
+1094
+00:49:05,339 --> 00:49:08,159
+as the gibson's whitewater reminders
+
+1095
+00:49:08,159 --> 00:49:09,690
+highly information
+
+1096
+00:49:09,690 --> 00:49:13,049
+if you need to four perception of
+distance
+
+1097
+00:49:13,049 --> 00:49:16,789
+is provided by the stimulus itself
+
+1098
+00:49:16,789 --> 00:49:21,279
+provided you define the stimulus broadly
+enough to print to include
+
+1099
+00:49:21,279 --> 00:49:21,799
+figure
+
+1100
+00:49:21,799 --> 00:49:24,409
+as well as the ground
+
+1101
+00:49:24,409 --> 00:49:24,839
+information
+
+1102
+00:49:24,839 --> 00:49:26,109
+in the light
+
+1103
+00:49:26,109 --> 00:49:29,699
+and information in the muscles as well
+information
+
+1104
+00:49:29,699 --> 00:49:34,160
+coming through the perceive ur it
+information in the body of the procedure
+
+1105
+00:49:34,160 --> 00:49:39,479
+all the information for perception is
+provided by the stimulus
+
+1106
+00:49:39,479 --> 00:49:40,800
+not quite true
+
+1107
+00:49:40,800 --> 00:49:43,039
+and soul explain on wednesday
+
+1108
+00:49:43,039 --> 00:49:43,449
+thank you very much
+

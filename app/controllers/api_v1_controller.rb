@@ -27,16 +27,26 @@ class ApiV1Controller < ApplicationController
     respond_to :json
   end
   
+  def get_lesson_details
+    chapters = []
+    params[:ids].split('+').each do |id|
+      chapter = Chapter.find(id)
+      chapters << {:id => chapter.id, :name => chapter.name}
+    end
+    render :json => chapters
+  end
+
   def get_all_questions
-    @chapter = Chapter.find(params[:id])
-    @questions = @chapter.questions.includes(:answers, :resources).sort!{|a, b| a.created_at <=> b.created_at}
-#    json = @questions.to_json \
-#      :only => [:id, :question],
-#      :include => {
-#        :answers => {:only => [:id, :answer, :correct]},
-#        :resources => {:only => [:url, :contains_answer, :media_type, :begin, :end, :article_text]}
-#      }
-#    render :json => json
+    @questions = Chapter.find(params[:id]).questions.includes(:answers, :resources).sort!{|a, b| a.created_at <=> b.created_at}
+    # puts @questions.to_json
+    # json = @questions.to_json \
+    #   :only => [:id, :question],
+    #   :include => {
+    #   :answers => {:only => [:id, :answer, :correct]},
+    #   :resources => {:only => [:url, :contains_answer, :media_type, :begin, :end, :article_text]}
+    # }
+    # puts json
+    # render :json => json
     respond_to :json
   end
 
@@ -46,6 +56,44 @@ class ApiV1Controller < ApplicationController
     respond_to :json
   end
   
+  def get_question_count
+    render :json => Chapter.find(params[:chapter_id]).questions.count
+  end
+
+  def get_questions_topics(keywords = [], topics_questions = [])
+    question_ids = params[:question_ids].split('+')
+    Question.find(question_ids, :include => :keywords).each do |question|
+      question.keywords.each {|keyword| keywords << keyword}
+    end
+    keywords.uniq!.each do |keyword|
+      keywords_questions = []
+      keyword.questions.each {|question| keywords_questions << question.id if question_ids.include? question.id.to_s }
+      topics_questions << {:keyword => keyword.keyword, :questions => keywords_questions}
+    end
+    render :json => topics_questions
+    # questions = Question.select('questions.*', 'keywords.keyword').include(:keywords).where(:id => question_ids)
+    # puts questions.to_json
+    # questions.each do |question|
+    #   puts question.keywords.to_json
+    # end
+    # puts questions.to_json
+    # question_ids.each do |question_id|
+    #   Question.find(question_id)#.keywords.each do |keyword|
+    # #     keywords << keyword if !keywords.include? keyword
+    # #   end
+    # end
+    # keywords.each do |keyword|
+    #   kq = []
+    #   keyword.questions.each do |question|
+    #     if question_ids.include? question.id.to_s
+    #       kq << question.id
+    #     end
+    #   end
+    #   topics_questions << {:keyword => keyword.keyword, :questions => kq}
+    # end
+    # render :json => topics_questions
+  end
+
   def get_public
     @book = @books = Book.where(:public => true)
     respond_to :json

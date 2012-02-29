@@ -1,0 +1,5207 @@
+﻿1
+00:00:03,310 --> 00:00:07,220
+volcano last time all introduced you to
+the literature to some of the
+
+2
+00:00:07,220 --> 00:00:09,050
+experiments early experiments on
+
+3
+00:00:09,050 --> 00:00:12,179
+a phenomenon known as implicit memory
+
+4
+00:00:12,179 --> 00:00:17,409
+which i'm going to take as a model for
+all of the experimental study of other
+
+5
+00:00:17,409 --> 00:00:20,359
+aspects of unconscious mental life
+
+6
+00:00:20,359 --> 00:00:21,560
+and if you
+
+7
+00:00:21,560 --> 00:00:25,579
+reading this literature even reading and
+writing a swale for all of them
+
+8
+00:00:25,579 --> 00:00:26,380
+rosenthal's book
+
+9
+00:00:26,380 --> 00:00:27,550
+for example
+
+10
+00:00:27,550 --> 00:00:29,139
+you all along
+
+11
+00:00:29,139 --> 00:00:30,339
+noticed that
+
+12
+00:00:30,339 --> 00:00:34,010
+there are a number of different terms
+that investigators use
+
+13
+00:00:34,010 --> 00:00:35,360
+palm
+
+14
+00:00:35,360 --> 00:00:37,040
+to refer to this phenomena
+
+15
+00:00:37,040 --> 00:00:41,170
+i follow schachter in home
+
+16
+00:00:41,170 --> 00:00:43,770
+distinguishing between explicit
+conscious memory
+
+17
+00:00:43,770 --> 00:00:47,350
+and implicit unconscious memory does
+that work for me
+
+18
+00:00:47,350 --> 00:00:49,330
+on the question him my task is
+
+19
+00:00:49,330 --> 00:00:53,380
+why don't you just say conscious purses
+on conscious memory logistic use those
+
+20
+00:00:53,380 --> 00:00:54,480
+terms
+
+21
+00:00:54,480 --> 00:00:55,970
+well polished
+
+22
+00:00:55,970 --> 00:00:56,730
+dud i asked
+
+23
+00:00:56,730 --> 00:00:58,830
+schachter about this once and he said
+
+24
+00:00:58,830 --> 00:01:01,340
+two-term on conscious just has too much
+
+25
+00:01:01,340 --> 00:01:04,850
+all spare baggage associated with it too
+much floridian baggage
+
+26
+00:01:04,850 --> 00:01:06,920
+too much psychoanalytic baggage
+
+27
+00:01:06,920 --> 00:01:09,350
+and he just wanted to stay away from it
+
+28
+00:01:09,350 --> 00:01:11,400
+for him and for me
+
+29
+00:01:11,400 --> 00:01:12,910
+explicit means conscious
+
+30
+00:01:12,910 --> 00:01:15,720
+and implicit means unconscious
+
+31
+00:01:15,720 --> 00:01:19,009
+now you will see in the literature from
+time to time
+
+32
+00:01:19,009 --> 00:01:20,229
+references to
+
+33
+00:01:20,229 --> 00:01:20,720
+direct
+
+34
+00:01:20,720 --> 00:01:23,230
+and indirect tests of memory
+
+35
+00:01:23,230 --> 00:01:25,670
+direct tests like recall and recognition
+
+36
+00:01:25,670 --> 00:01:27,320
+and indirect s
+
+37
+00:01:27,320 --> 00:01:31,660
+mike priming pets or savings that
+relearning or something like that
+
+38
+00:01:31,660 --> 00:01:34,400
+and that means pretty much the same
+thing
+
+39
+00:01:34,400 --> 00:01:34,920
+home
+
+40
+00:01:34,920 --> 00:01:36,880
+i want to avoid at all
+
+41
+00:01:36,880 --> 00:01:40,250
+uh... the the the direct indirect
+distinction however because
+
+42
+00:01:40,250 --> 00:01:44,280
+it's not just that prime innocent
+indirect test of memory
+
+43
+00:01:44,280 --> 00:01:45,050
+that is
+
+44
+00:01:45,050 --> 00:01:46,119
+some kind of
+
+45
+00:01:46,119 --> 00:01:49,210
+varies so dole's sneaky test that
+
+46
+00:01:49,210 --> 00:01:49,940
+lol
+
+47
+00:01:49,940 --> 00:01:53,680
+and get somebody to reveal that he has a
+memory that is not reporting
+
+48
+00:01:53,680 --> 00:01:57,780
+it's not just a non intrusive measure
+memory we're really talking about on
+
+49
+00:01:57,780 --> 00:01:59,270
+conscious memories here
+
+50
+00:01:59,270 --> 00:02:00,149
+priming affects
+
+51
+00:02:00,149 --> 00:02:01,880
+that occur in the absence
+
+52
+00:02:01,880 --> 00:02:04,500
+of conscious recall a recognition
+
+53
+00:02:04,500 --> 00:02:08,269
+and then finally you will see some all
+theorist referred to
+
+54
+00:02:08,269 --> 00:02:09,580
+this same distinction
+
+55
+00:02:09,580 --> 00:02:13,269
+as a distinction between declarative and
+procedural memory
+
+56
+00:02:13,269 --> 00:02:17,900
+or sometimes as a distinction between
+declarative and non declarative memory
+
+57
+00:02:17,900 --> 00:02:19,600
+and that's just really wrong
+
+58
+00:02:19,600 --> 00:02:21,949
+that's just the raw fun way to think
+about this
+
+59
+00:02:21,949 --> 00:02:23,509
+the reason for that is
+
+60
+00:02:23,509 --> 00:02:27,719
+the declarant or procedural distinction
+in cognitive science psychology in
+
+61
+00:02:27,719 --> 00:02:28,919
+cognos lives
+
+62
+00:02:28,919 --> 00:02:30,399
+refers to
+
+63
+00:02:30,399 --> 00:02:32,809
+format in which knowledge is represented
+
+64
+00:02:32,809 --> 00:02:37,139
+declarative knowledge is factual
+knowledge that can be represented in
+
+65
+00:02:37,139 --> 00:02:39,369
+sentence like propositions
+
+66
+00:02:39,369 --> 00:02:43,149
+procedural knowledge and skill knowledge
+that can be represented in
+
+67
+00:02:43,149 --> 00:02:44,959
+on
+
+68
+00:02:44,959 --> 00:02:47,760
+structures known as productions that
+have a kind of
+
+69
+00:02:47,760 --> 00:02:49,999
+conditional
+
+70
+00:02:49,999 --> 00:02:50,999
+nature to them
+
+71
+00:02:50,999 --> 00:02:53,229
+you want to do with a then
+
+72
+00:02:53,229 --> 00:02:54,819
+be furs
+
+73
+00:02:54,819 --> 00:02:55,979
+and so
+
+74
+00:02:55,979 --> 00:02:59,429
+yeah it's true you could declare
+explicit memories of a way that you
+
+75
+00:02:59,429 --> 00:03:01,739
+can't declare it implicit memories
+
+76
+00:03:01,739 --> 00:03:02,920
+but that's just a
+
+77
+00:03:02,920 --> 00:03:04,290
+that it confuses
+
+78
+00:03:04,290 --> 00:03:07,080
+the format in which knowledge is
+represented
+
+79
+00:03:07,080 --> 00:03:08,189
+with the
+
+80
+00:03:08,189 --> 00:03:09,740
+way in which
+
+81
+00:03:09,740 --> 00:03:11,449
+memory can be expressed so
+
+82
+00:03:11,449 --> 00:03:12,480
+all for me
+
+83
+00:03:12,480 --> 00:03:15,520
+it's always an explicit horses implicit
+distinction
+
+84
+00:03:15,520 --> 00:03:17,349
+all referring to
+
+85
+00:03:17,349 --> 00:03:20,909
+unconscious versus one conscious world
+memories
+
+86
+00:03:20,909 --> 00:03:22,869
+one other thing i have to say is
+
+87
+00:03:22,869 --> 00:03:26,690
+all of the studies that i that i
+described to you last time
+
+88
+00:03:26,690 --> 00:03:30,999
+involved the particular formal priming
+donors repetition programming
+
+89
+00:03:30,999 --> 00:03:35,569
+and to remember be defined repetition
+priming as a kind of priming
+
+90
+00:03:35,569 --> 00:03:40,279
+the prime and the target share physical
+features in common
+
+91
+00:03:40,279 --> 00:03:45,809
+your primed with the word ash can and
+then the target is a stem like a sage
+
+92
+00:03:45,809 --> 00:03:48,969
+that you're supposed to complete with
+the new world with the legal english
+
+93
+00:03:48,969 --> 00:03:50,929
+word
+
+94
+00:03:50,929 --> 00:03:53,540
+repetition priming is the most commonly
+studied
+
+95
+00:03:53,540 --> 00:03:57,150
+well called kind of prime news special
+evil it in the literature on the
+
+96
+00:03:57,150 --> 00:03:58,419
+implicit memory
+
+97
+00:03:58,419 --> 00:04:01,609
+but it's not the only kind of prime in
+you can get
+
+98
+00:04:01,609 --> 00:04:04,319
+and it's for that matter or not the most
+interesting
+
+99
+00:04:04,319 --> 00:04:06,419
+are kind of crime you know it's amazing
+
+100
+00:04:06,419 --> 00:04:09,969
+how many studies have been performed on
+repetition priming
+
+101
+00:04:09,969 --> 00:04:13,629
+a phenomenon that itself is
+
+102
+00:04:13,629 --> 00:04:16,359
+don't tell anybody
+
+103
+00:04:16,359 --> 00:04:20,369
+repetition priming can be mediated by
+what we call a perception based
+
+104
+00:04:20,369 --> 00:04:21,630
+representation
+
+105
+00:04:21,630 --> 00:04:22,729
+alban event
+
+106
+00:04:22,729 --> 00:04:25,400
+all perception based representations
+
+107
+00:04:25,400 --> 00:04:26,340
+represent
+
+108
+00:04:26,340 --> 00:04:29,600
+thought that the whole or ordered
+knowledge representations
+
+109
+00:04:29,600 --> 00:04:30,569
+the represent
+
+110
+00:04:30,569 --> 00:04:35,039
+the physical structure of an event what
+it looks like what it sounds like
+
+111
+00:04:35,039 --> 00:04:39,449
+where it is in space are what its
+relative location is with respect to all
+
+112
+00:04:39,449 --> 00:04:41,569
+other call don't bother robbed
+
+113
+00:04:41,569 --> 00:04:44,610
+butter perception based representations
+dawson represent
+
+114
+00:04:44,610 --> 00:04:45,620
+the meaning
+
+115
+00:04:45,620 --> 00:04:47,039
+of the event
+
+116
+00:04:47,039 --> 00:04:52,170
+that is something that's represented by
+army need-based representation
+
+117
+00:04:52,170 --> 00:04:52,610
+alm
+
+118
+00:04:52,610 --> 00:04:55,540
+all bought more like a propositional
+representation
+
+119
+00:04:55,540 --> 00:04:59,979
+all deb represents both the meaning of
+the event and it's so it's a magic
+
+120
+00:04:59,979 --> 00:05:04,159
+relations armenian relations based on no
+m
+
+121
+00:05:04,159 --> 00:05:06,650
+on the among various kinds of objects
+
+122
+00:05:06,650 --> 00:05:09,979
+so what you really like to know
+
+123
+00:05:09,979 --> 00:05:15,500
+can the implicit memory which we know
+includes all sorts of repetition priming
+
+124
+00:05:15,500 --> 00:05:16,360
+effects
+
+125
+00:05:16,360 --> 00:05:19,379
+can implicit memory extend to
+
+126
+00:05:19,379 --> 00:05:21,280
+also magic priming effects
+
+127
+00:05:21,280 --> 00:05:22,790
+that have to be mediated
+
+128
+00:05:22,790 --> 00:05:26,290
+by a meanie based representations
+
+129
+00:05:26,290 --> 00:05:28,250
+product of semantic analysis
+
+130
+00:05:28,250 --> 00:05:29,870
+that goes beyond
+
+131
+00:05:29,870 --> 00:05:30,390
+palm
+
+132
+00:05:30,390 --> 00:05:34,080
+just the physical analysis albee idm and
+destruction
+
+133
+00:05:34,080 --> 00:05:38,419
+and there are calm as i say they're not
+too much with all of them
+
+134
+00:05:38,419 --> 00:05:40,020
+or was torture on this
+
+135
+00:05:40,020 --> 00:05:43,219
+but there are all of the good examples
+all of it
+
+136
+00:05:43,219 --> 00:05:46,180
+so for example what you'd like to see is
+something like
+
+137
+00:05:46,180 --> 00:05:52,860
+category prime if a person studies the
+word tree
+
+138
+00:05:52,860 --> 00:05:57,849
+is he or she faster to identify a
+particular kind of tree
+
+139
+00:05:57,849 --> 00:05:59,979
+all of that that does the word so you
+get
+
+140
+00:05:59,979 --> 00:06:02,660
+also magic relationship between three
+and oak
+
+141
+00:06:02,660 --> 00:06:05,370
+and oak is a member of the category
+three
+
+142
+00:06:05,370 --> 00:06:06,990
+or a solicitor priming
+
+143
+00:06:06,990 --> 00:06:08,910
+if the person studies
+
+144
+00:06:08,910 --> 00:06:10,210
+forward like table
+
+145
+00:06:10,210 --> 00:06:11,870
+can you get a priming effect
+
+146
+00:06:11,870 --> 00:06:13,969
+on a target mike chair
+
+147
+00:06:13,969 --> 00:06:16,460
+although the fact that has to be
+mediated by
+
+148
+00:06:16,460 --> 00:06:18,310
+the associate of relationship
+
+149
+00:06:18,310 --> 00:06:19,129
+between
+
+150
+00:06:19,129 --> 00:06:20,619
+or and share
+
+151
+00:06:20,619 --> 00:06:25,459
+or you can construct autostart denture
+actors dot a couple of times idiomatic
+
+152
+00:06:25,459 --> 00:06:28,259
+associates like sour grapes
+
+153
+00:06:28,259 --> 00:06:32,289
+sour grapes don't belong to the same
+category they are not exactly associate
+
+154
+00:06:32,289 --> 00:06:33,449
+would prime
+
+155
+00:06:33,449 --> 00:06:38,179
+but the phrase so we're grapes isn't
+idiom in the english so somebody's
+
+156
+00:06:38,179 --> 00:06:39,230
+studies so our
+
+157
+00:06:39,230 --> 00:06:39,900
+are they
+
+158
+00:06:39,900 --> 00:06:44,739
+now primed to deal with something like
+of the the two was
+
+159
+00:06:44,739 --> 00:06:48,020
+idiomatic lee associated word
+
+160
+00:06:48,020 --> 00:06:52,789
+here is one of pearly study of category
+priming and amnesia work by a gardener
+
+161
+00:06:52,789 --> 00:06:54,269
+is associates
+
+162
+00:06:54,269 --> 00:06:55,929
+where the calm
+
+163
+00:06:55,929 --> 00:06:59,469
+of those subjects did in fact study
+
+164
+00:06:59,469 --> 00:07:05,169
+category labels like tree and then they
+were asked to make lexical decisions
+
+165
+00:07:05,169 --> 00:07:07,120
+about items like
+
+166
+00:07:07,120 --> 00:07:09,020
+or produce alm
+
+167
+00:07:09,020 --> 00:07:10,689
+or category associates
+
+168
+00:07:10,689 --> 00:07:12,550
+as old as free associates
+
+169
+00:07:12,550 --> 00:07:15,319
+and you've got a music patients and
+controls
+
+170
+00:07:15,319 --> 00:07:18,719
+and you can see that the n_b_c_ patients
+don't remember the items that they
+
+171
+00:07:18,719 --> 00:07:21,180
+studied very well on the test of
+
+172
+00:07:21,180 --> 00:07:23,099
+or kit would recall
+
+173
+00:07:23,099 --> 00:07:27,369
+but if you know ask them to generate
+instances of the target i'll get out of
+
+174
+00:07:27,369 --> 00:07:29,010
+the category that they started
+
+175
+00:07:29,010 --> 00:07:30,509
+they show prime minister act
+
+176
+00:07:30,509 --> 00:07:32,229
+so on here are
+
+177
+00:07:32,229 --> 00:07:35,629
+on here the rest of the demonstrate
+interest instances of targets they
+
+178
+00:07:35,629 --> 00:07:37,600
+didn't study can't be any priming
+
+179
+00:07:37,600 --> 00:07:38,740
+that's the baseline
+
+180
+00:07:38,740 --> 00:07:43,400
+and they show a nice priming effect when
+there has to get very all instances of
+
+181
+00:07:43,400 --> 00:07:46,089
+targets of the cold front categories
+that they did study
+
+182
+00:07:46,089 --> 00:07:48,029
+so this is a prime ineffective
+
+183
+00:07:48,029 --> 00:07:52,470
+that can't just be mediated by the
+physical appearance all the work
+
+184
+00:07:52,470 --> 00:07:56,099
+it has to be mediated by something about
+it's priming
+
+185
+00:07:56,099 --> 00:07:58,120
+and this is just a little demonstration
+
+186
+00:07:58,120 --> 00:08:00,259
+that shows you
+
+187
+00:08:00,259 --> 00:08:04,720
+on semantic priming can occur
+independently or in the absence of
+
+188
+00:08:04,720 --> 00:08:05,660
+explicit memory
+
+189
+00:08:05,660 --> 00:08:07,180
+just like repetition priming
+
+190
+00:08:07,180 --> 00:08:09,650
+all i can occur
+
+191
+00:08:09,650 --> 00:08:14,089
+all a distinction between repetition
+priming and semantic priming
+
+192
+00:08:14,089 --> 00:08:16,170
+becomes all but more important
+
+193
+00:08:16,170 --> 00:08:17,890
+when we get to the next topic
+
+194
+00:08:17,890 --> 00:08:19,250
+which is
+
+195
+00:08:19,250 --> 00:08:19,650
+implicit
+
+196
+00:08:19,650 --> 00:08:22,369
+or unconscious perception
+
+197
+00:08:22,369 --> 00:08:24,060
+descriptors okay
+
+198
+00:08:24,060 --> 00:08:26,469
+all implicit or unconscious perception
+
+199
+00:08:26,469 --> 00:08:30,000
+which is a phenomenon that's kind of
+model dawan
+
+200
+00:08:30,000 --> 00:08:31,870
+implicit memory
+
+201
+00:08:31,870 --> 00:08:33,870
+in implicit memory we have
+
+202
+00:08:33,870 --> 00:08:36,240
+an effective a past event
+
+203
+00:08:36,240 --> 00:08:39,350
+study the word sometime in the past
+
+204
+00:08:39,350 --> 00:08:44,420
+the person's current experience for
+direction like making a lexical decision
+
+205
+00:08:44,420 --> 00:08:46,480
+or generating a free associate
+
+206
+00:08:46,480 --> 00:08:48,700
+or generating a category instance
+
+207
+00:08:48,700 --> 00:08:52,140
+in the absence of conscious recollection
+of that event
+
+208
+00:08:52,140 --> 00:08:54,589
+but in these could be in the case of
+implicit memory
+
+209
+00:08:54,589 --> 00:09:00,660
+the prime univ and occurred sometime in
+the past
+
+210
+00:09:00,660 --> 00:09:05,660
+now what we want to know is all i can
+you get implicit perception by analogy
+
+211
+00:09:05,660 --> 00:09:09,650
+to implicit memory unconscious
+perception where you can show the effect
+
+212
+00:09:09,650 --> 00:09:11,210
+of a current event
+
+213
+00:09:11,210 --> 00:09:14,330
+an event of the current stimulus
+environment
+
+214
+00:09:14,330 --> 00:09:17,030
+on the person's experience water action
+
+215
+00:09:17,030 --> 00:09:20,110
+in the absence of conscious perception
+
+216
+00:09:20,110 --> 00:09:21,150
+that event
+
+217
+00:09:21,150 --> 00:09:26,090
+this of course is the classic question
+about sub little perception
+
+218
+00:09:26,090 --> 00:09:28,760
+sold let's do a little bit of background
+
+219
+00:09:28,760 --> 00:09:33,310
+those of you who were all living in this
+country and all two thousand
+
+220
+00:09:33,310 --> 00:09:37,500
+on me remember this famous alba
+political advertisement that occurred
+
+221
+00:09:37,500 --> 00:09:40,300
+ald caught in the context of the bush
+more
+
+222
+00:09:40,300 --> 00:09:42,760
+of the presidential on campaign
+
+223
+00:09:42,760 --> 00:09:44,460
+this was a arm
+
+224
+00:09:44,460 --> 00:09:46,080
+this was a alone
+
+225
+00:09:46,080 --> 00:09:50,070
+uh... advertisement mounted by the
+republican allowed that national
+
+226
+00:09:50,070 --> 00:09:51,779
+committee where first
+
+227
+00:09:51,779 --> 00:09:53,870
+you see
+
+228
+00:09:53,870 --> 00:09:56,180
+pole vault with oval algo rithm
+
+229
+00:09:56,180 --> 00:09:58,370
+go that the vice president
+
+230
+00:09:58,370 --> 00:09:59,100
+all and then
+
+231
+00:09:59,100 --> 00:10:03,430
+a whole bunch of words come floating in
+on the screen like democrats uh...
+
+232
+00:10:03,430 --> 00:10:06,340
+dollop of taxes and things like that
+
+233
+00:10:06,340 --> 00:10:07,300
+and four
+
+234
+00:10:07,300 --> 00:10:09,480
+one frame of the video
+
+235
+00:10:09,480 --> 00:10:14,090
+you get this piece of the word democrats
+racks
+
+236
+00:10:14,090 --> 00:10:15,730
+flashed off on the screen
+
+237
+00:10:15,730 --> 00:10:17,310
+and that don't followed by
+
+238
+00:10:17,310 --> 00:10:21,880
+all of the gore prescription plan
+bureaucrats will decide and just another
+
+239
+00:10:21,880 --> 00:10:23,860
+repetition of the word wraps
+
+240
+00:10:23,860 --> 00:10:28,690
+and there were some complaints that this
+was the use of some little advertising
+
+241
+00:10:28,690 --> 00:10:31,629
+all over the time to influence people's
+voting
+
+242
+00:10:31,629 --> 00:10:35,650
+all by means of this kind of
+psychological called uh... treachery
+
+243
+00:10:35,650 --> 00:10:39,040
+and their bed there've been a lot of all
+i have that there's been a lot of
+
+244
+00:10:39,040 --> 00:10:40,009
+interest over the years
+
+245
+00:10:40,009 --> 00:10:43,250
+and whether these kinds of things the
+hard part all affective
+
+246
+00:10:43,250 --> 00:10:46,120
+or not they'll have something to say
+about that
+
+247
+00:10:46,120 --> 00:10:47,970
+at the end of the lecture
+
+248
+00:10:47,970 --> 00:10:52,040
+the idea of sub little perception goes
+back a long way
+
+249
+00:10:52,040 --> 00:10:55,980
+widen its writing onto beginning of the
+eighteenth century
+
+250
+00:10:55,980 --> 00:10:56,759
+argued
+
+251
+00:10:56,759 --> 00:10:57,649
+that calm
+
+252
+00:10:57,649 --> 00:10:59,959
+in addition the conscious perception
+
+253
+00:10:59,959 --> 00:11:04,810
+we had an infinite number of what he
+called petite perceptions little
+
+254
+00:11:04,810 --> 00:11:06,190
+perceptions
+
+255
+00:11:06,190 --> 00:11:08,849
+are governed that are unaccompanied by
+awareness
+
+256
+00:11:08,849 --> 00:11:11,320
+and he argued that are conscious
+perceptions
+
+257
+00:11:11,320 --> 00:11:13,650
+were built up all these called
+
+258
+00:11:13,650 --> 00:11:17,349
+of these smaller proof of the
+perceptions road smaller percept
+
+259
+00:11:17,349 --> 00:11:20,660
+that were not aware of sewing
+
+260
+00:11:20,660 --> 00:11:24,020
+dropping pebbles into our commitment
+when aquarium or something
+
+261
+00:11:24,020 --> 00:11:27,950
+all you don't see those pebbles but as
+they fall on top of each other gradually
+
+262
+00:11:27,950 --> 00:11:33,310
+they come to the surface that was my
+dances idea about how perception works
+
+263
+00:11:33,310 --> 00:11:35,480
+at the beginning of the nineteenth
+century
+
+264
+00:11:35,480 --> 00:11:37,110
+all her bart called
+
+265
+00:11:37,110 --> 00:11:38,100
+or argued
+
+266
+00:11:38,100 --> 00:11:42,580
+that there was an actual threshold the
+german word is lyman
+
+267
+00:11:42,580 --> 00:11:44,320
+that has to be crossed
+
+268
+00:11:44,320 --> 00:11:47,440
+all by a percept before it becomes
+conscious
+
+269
+00:11:47,440 --> 00:11:49,040
+anne argued that our minds work
+
+270
+00:11:49,040 --> 00:11:50,609
+for would be
+
+271
+00:11:50,609 --> 00:11:51,310
+percept
+
+272
+00:11:51,310 --> 00:11:53,390
+and if one of them gain strength
+
+273
+00:11:53,390 --> 00:11:56,940
+it push the other ones out of the way
+and cross the threshold into
+
+274
+00:11:56,940 --> 00:11:57,850
+consciousness
+
+275
+00:11:57,850 --> 00:11:59,660
+very nice spatial metaphor
+
+276
+00:11:59,660 --> 00:12:01,330
+all for consciousness
+
+277
+00:12:01,330 --> 00:12:03,700
+on it that's the one big we became aware
+of
+
+278
+00:12:03,700 --> 00:12:04,800
+but her heart
+
+279
+00:12:04,800 --> 00:12:06,339
+also suggested
+
+280
+00:12:06,339 --> 00:12:10,159
+that even though these although the cell
+belittle
+
+281
+00:12:10,159 --> 00:12:11,029
+percept
+
+282
+00:12:11,029 --> 00:12:12,700
+syllable little percept
+
+283
+00:12:12,700 --> 00:12:16,020
+didn't cross the front loop threshold
+into consciousness
+
+284
+00:12:16,020 --> 00:12:16,800
+nevertheless
+
+285
+00:12:16,800 --> 00:12:20,170
+they could all exerted an influence on
+our ralph
+
+286
+00:12:20,170 --> 00:12:24,490
+on our behavior so one of the questions
+for the nineteen th century cycle
+
+287
+00:12:24,490 --> 00:12:25,610
+physicists
+
+288
+00:12:25,610 --> 00:12:28,249
+is there really such a threshold
+
+289
+00:12:28,249 --> 00:12:33,560
+all the that a that that out of stimulus
+has to cross percept host across
+
+290
+00:12:33,560 --> 00:12:36,070
+before we can become consciously aware
+of it
+
+291
+00:12:36,070 --> 00:12:40,770
+or before if you had any effect all on
+us
+
+292
+00:12:40,770 --> 00:12:44,770
+again whiteness thought argued the
+contras perceptions were built up from
+
+293
+00:12:44,770 --> 00:12:45,530
+unconscious
+
+294
+00:12:45,530 --> 00:12:47,140
+petite perceptions
+
+295
+00:12:47,140 --> 00:12:50,640
+by french is not very good so i'm not a
+good gonna try
+
+296
+00:12:50,640 --> 00:12:54,560
+of herbert argued that on conscious
+perceptions have an effect on
+
+297
+00:12:54,560 --> 00:12:55,530
+consciousness
+
+298
+00:12:55,530 --> 00:12:57,260
+and a philosopher
+
+299
+00:12:57,260 --> 00:12:58,379
+c_s_ first
+
+300
+00:12:58,379 --> 00:12:59,479
+and his
+
+301
+00:12:59,479 --> 00:13:01,730
+graduate student joseph just roll
+
+302
+00:13:01,730 --> 00:13:05,610
+all actually decided to do well and
+experimented too deep too well good to
+
+303
+00:13:05,610 --> 00:13:07,880
+test out this idea of the wyman
+
+304
+00:13:07,880 --> 00:13:11,050
+published six that this experiment in
+eighteen eighty four
+
+305
+00:13:11,050 --> 00:13:12,930
+just roll was the first american
+
+306
+00:13:12,930 --> 00:13:15,549
+to take the them for the first american
+to take
+
+307
+00:13:15,549 --> 00:13:19,050
+a p_h_d_ in the united states in
+psychology
+
+308
+00:13:19,050 --> 00:13:22,480
+although of this is the first
+psychological experiment to be published
+
+309
+00:13:22,480 --> 00:13:26,580
+in the american scientific literature
+really lovely experiment
+
+310
+00:13:26,580 --> 00:13:28,600
+and what percent just road ahead
+
+311
+00:13:28,600 --> 00:13:32,820
+was to ask their subjects was mostly
+just road doing this
+
+312
+00:13:32,820 --> 00:13:36,700
+are to make us all of us there is a very
+difficult comparative judgments
+
+313
+00:13:36,700 --> 00:13:38,389
+they'd put to weights
+
+314
+00:13:38,389 --> 00:13:41,410
+on aren't all of the uh... alone on the
+subject skin
+
+315
+00:13:41,410 --> 00:13:43,270
+they were very close together
+
+316
+00:13:43,270 --> 00:13:45,339
+or did not do not need in weight
+
+317
+00:13:45,339 --> 00:13:49,240
+and simply ask him to what george which
+one was the heavier
+
+318
+00:13:49,240 --> 00:13:50,420
+or they'd flash
+
+319
+00:13:50,420 --> 00:13:52,600
+to lights and ask
+
+320
+00:13:52,600 --> 00:13:54,399
+release of the the observer
+
+321
+00:13:54,399 --> 00:13:56,230
+to judge which of the two lights
+
+322
+00:13:56,230 --> 00:13:57,769
+all were wrong of
+
+323
+00:13:57,769 --> 00:13:59,210
+where the brighter
+
+324
+00:13:59,210 --> 00:14:00,210
+all up and
+
+325
+00:14:00,210 --> 00:14:02,740
+all the help that the observer will get
+worse
+
+326
+00:14:02,740 --> 00:14:04,420
+typically just roll here
+
+327
+00:14:04,420 --> 00:14:06,020
+had to make eight
+
+328
+00:14:06,020 --> 00:14:09,140
+art had to rate how confident he was in
+his judgment
+
+329
+00:14:09,140 --> 00:14:12,660
+now sometimes the discriminations were
+really easy
+
+330
+00:14:12,660 --> 00:14:16,900
+the ought to stimulate were far apart in
+terms of weight
+
+331
+00:14:16,900 --> 00:14:17,640
+brightness
+
+332
+00:14:17,640 --> 00:14:21,900
+or other times p discrimination was very
+difficult or because they were very
+
+333
+00:14:21,900 --> 00:14:22,929
+close together
+
+334
+00:14:22,929 --> 00:14:24,740
+in weight or brightness
+
+335
+00:14:24,740 --> 00:14:26,100
+on it at some point
+
+336
+00:14:26,100 --> 00:14:29,110
+all the observers confidence rating went
+zero
+
+337
+00:14:29,110 --> 00:14:33,720
+the observer would say i'm sorry i just
+can't tell what the differences
+
+338
+00:14:33,720 --> 00:14:37,380
+so there is no conscious perception all
+the difference
+
+339
+00:14:37,380 --> 00:14:38,589
+and at that point
+
+340
+00:14:38,589 --> 00:14:40,980
+or the observer was forced to choose
+
+341
+00:14:40,980 --> 00:14:42,800
+which white was the brighter
+
+342
+00:14:42,800 --> 00:14:44,110
+for which weight
+
+343
+00:14:44,110 --> 00:14:45,810
+or was the heavier
+
+344
+00:14:45,810 --> 00:14:47,620
+here are the basic results
+
+345
+00:14:47,620 --> 00:14:51,260
+all from the stall them from this study
+is from the weight judgment
+
+346
+00:14:51,260 --> 00:14:54,770
+all portion of the experiment with the
+collected more data
+
+347
+00:14:54,770 --> 00:14:56,719
+here you have the ratio of the weights
+
+348
+00:14:56,719 --> 00:14:58,290
+one point oh six to one
+
+349
+00:14:58,290 --> 00:15:00,319
+one point no three one point oh two
+
+350
+00:15:00,319 --> 00:15:03,040
+one point four one five one point
+
+351
+00:15:03,040 --> 00:15:04,339
+of hold
+
+352
+00:15:04,339 --> 00:15:07,520
+the whole farted and so on just kind of
+goes way down
+
+353
+00:15:07,520 --> 00:15:08,990
+are here
+
+354
+00:15:08,990 --> 00:15:09,990
+and all
+
+355
+00:15:09,990 --> 00:15:14,230
+this is transfer form is is to
+alternative force choice ordered a
+
+356
+00:15:14,230 --> 00:15:14,830
+judgment
+
+357
+00:15:14,830 --> 00:15:17,840
+and here it is so above the percentage
+correct
+
+358
+00:15:17,840 --> 00:15:21,000
+when the observer was at zero accuracy
+
+359
+00:15:21,000 --> 00:15:23,959
+okay when the observer could not
+consciously tel
+
+360
+00:15:23,959 --> 00:15:24,850
+which one
+
+361
+00:15:24,850 --> 00:15:29,250
+was of which weight was the heavier and
+what you can see
+
+362
+00:15:29,250 --> 00:15:33,579
+at all of these ratios even down to this
+teeny tiny ratio of one
+
+363
+00:15:33,579 --> 00:15:35,180
+about five and a thousand
+
+364
+00:15:35,180 --> 00:15:36,360
+all of the difference
+
+365
+00:15:36,360 --> 00:15:38,180
+the all moody observer
+
+366
+00:15:38,180 --> 00:15:40,459
+was right more often then you'd
+
+367
+00:15:40,459 --> 00:15:43,160
+that they need be by chance and in fact
+
+368
+00:15:43,160 --> 00:15:47,850
+person just roll had to work out new
+statistics which hadn't been invented
+
+369
+00:15:47,850 --> 00:15:48,610
+yet
+
+370
+00:15:48,610 --> 00:15:54,290
+are in order to god convinced people all
+of that uh... that this act this value
+
+371
+00:15:54,290 --> 00:15:56,200
+fifty nine percent accuracy
+
+372
+00:15:56,200 --> 00:15:58,630
+or was in fact significantly better
+
+373
+00:15:58,630 --> 00:15:59,680
+that you'd expect
+
+374
+00:15:59,680 --> 00:16:00,640
+five chips
+
+375
+00:16:00,640 --> 00:16:02,560
+so here we have the first
+
+376
+00:16:02,560 --> 00:16:05,520
+expert psychological experiment
+published in the united states
+
+377
+00:16:05,520 --> 00:16:09,350
+all by the first p_h_d_ in the united
+states
+
+378
+00:16:09,350 --> 00:16:11,580
+are ended fund subliminal perception
+
+379
+00:16:11,580 --> 00:16:15,250
+and its own awful portrayed of
+experiments
+
+380
+00:16:15,250 --> 00:16:18,069
+especially in the early part of the
+twentieth century
+
+381
+00:16:18,069 --> 00:16:19,419
+trying to
+
+382
+00:16:19,419 --> 00:16:20,700
+trying to determine
+
+383
+00:16:20,700 --> 00:16:22,360
+all-weather on whether
+
+384
+00:16:22,360 --> 00:16:24,980
+did something like subliminal perception
+is possible
+
+385
+00:16:24,980 --> 00:16:26,330
+that is
+
+386
+00:16:26,330 --> 00:16:27,790
+cannot stimulus
+
+387
+00:16:27,790 --> 00:16:31,860
+that is below the threshold for
+conscious awareness in this case
+
+388
+00:16:31,860 --> 00:16:33,790
+the difference between to wait
+
+389
+00:16:33,790 --> 00:16:35,100
+is the stimulus
+
+390
+00:16:35,100 --> 00:16:38,940
+can a stimulus that's below the
+threshold for conscious awareness
+
+391
+00:16:38,940 --> 00:16:41,260
+nonverbal less be perceived
+
+392
+00:16:41,260 --> 00:16:43,830
+and we can track that perception
+
+393
+00:16:43,830 --> 00:16:47,050
+all by vide the influence of the
+stimulus
+
+394
+00:16:47,050 --> 00:16:50,170
+on the observers ongoing behavior
+
+395
+00:16:50,170 --> 00:16:54,750
+now in fact experiments like this
+generated a lot of criticism and are
+
+396
+00:16:54,750 --> 00:16:58,170
+some of these were interesting and some
+of them were not interesting
+
+397
+00:16:58,170 --> 00:17:02,290
+all above bunch of criticisms had to do
+with what i call the threshold bugaboo
+
+398
+00:17:02,290 --> 00:17:04,490
+a lot of complaints about
+
+399
+00:17:04,490 --> 00:17:06,160
+threshold setting procedures
+
+400
+00:17:06,160 --> 00:17:10,160
+also for example you could say well the
+reason person just throw got these
+
+401
+00:17:10,160 --> 00:17:11,170
+results was better
+
+402
+00:17:11,170 --> 00:17:15,080
+they'd invite that they didn't correctly
+identified the threshold for perception
+
+403
+00:17:15,080 --> 00:17:18,839
+and what it looked like all got them
+subliminal ordered stimuli
+
+404
+00:17:18,839 --> 00:17:21,540
+really word subliminal stimulus
+
+405
+00:17:21,540 --> 00:17:23,069
+that's an argument that
+
+406
+00:17:23,069 --> 00:17:26,450
+completely circular but
+
+407
+00:17:26,450 --> 00:17:27,290
+palm
+
+408
+00:17:27,290 --> 00:17:28,770
+or they say what what
+
+409
+00:17:28,770 --> 00:17:32,250
+the way we are dental five the threshold
+is
+
+410
+00:17:32,250 --> 00:17:35,940
+buffer in psychophysical threshold is
+the point at which
+
+411
+00:17:35,940 --> 00:17:39,830
+a stimulus the presence of the stimulus
+could be detected only fifty percent of
+
+412
+00:17:39,830 --> 00:17:41,670
+the time
+
+413
+00:17:41,670 --> 00:17:43,090
+that's how we define a stimulus
+
+414
+00:17:43,090 --> 00:17:45,700
+or that that's how we define of that
+threshold
+
+415
+00:17:45,700 --> 00:17:50,000
+so if you've got a job you get your
+below threshold where the stimulus is
+
+416
+00:17:50,000 --> 00:17:52,400
+being detected less than fifty percent
+of the time
+
+417
+00:17:52,400 --> 00:17:54,690
+it's still being detected some of the
+time
+
+418
+00:17:54,690 --> 00:17:56,690
+and that might be enough to push
+
+419
+00:17:56,690 --> 00:17:59,029
+uh... performance art
+
+420
+00:17:59,029 --> 00:18:00,310
+performance above chance
+
+421
+00:18:00,310 --> 00:18:02,210
+but the most important thing
+
+422
+00:18:02,210 --> 00:18:05,280
+on something a lot of foreshadowed
+involved in the last what was uh... some
+
+423
+00:18:05,280 --> 00:18:06,279
+of lectures
+
+424
+00:18:06,279 --> 00:18:08,670
+was a kind of theoretical blinder
+
+425
+00:18:08,670 --> 00:18:10,359
+that people had on
+
+426
+00:18:10,359 --> 00:18:11,980
+which was the idea
+
+427
+00:18:11,980 --> 00:18:15,679
+that home
+
+428
+00:18:15,679 --> 00:18:17,070
+subliminal perception
+
+429
+00:18:17,070 --> 00:18:21,070
+really has to be confined to what we
+would call pre attentive perceptual
+
+430
+00:18:21,070 --> 00:18:21,710
+analyses
+
+431
+00:18:21,710 --> 00:18:26,290
+so all yes you can get these kinds of
+facts with calm with all
+
+432
+00:18:26,290 --> 00:18:29,430
+all with all pr
+
+433
+00:18:29,430 --> 00:18:33,120
+physical analyses like detecting the
+presence of the absence of a deal of the
+
+434
+00:18:33,120 --> 00:18:33,630
+stimulus
+
+435
+00:18:33,630 --> 00:18:36,909
+but you can't get anything interesting
+out of it you can't extract the meaning
+
+436
+00:18:36,909 --> 00:18:38,220
+of a stimulus
+
+437
+00:18:38,220 --> 00:18:40,010
+although subliminally
+
+438
+00:18:40,010 --> 00:18:41,530
+precisely because
+
+439
+00:18:41,530 --> 00:18:46,000
+if there is such a thing as subliminal
+perception by definition it has to be
+
+440
+00:18:46,000 --> 00:18:49,350
+confined to pre attentive perceptual
+analyses
+
+441
+00:18:49,350 --> 00:18:52,360
+and the prevailing theory of attention
+at that time
+
+442
+00:18:52,360 --> 00:18:53,070
+was that
+
+443
+00:18:53,070 --> 00:18:57,350
+pre attentive analyses were themselves
+confined to a dollop two
+
+444
+00:18:57,350 --> 00:19:01,140
+on extract information about the
+perception of the of the physical
+
+445
+00:19:01,140 --> 00:19:02,810
+properties of the stimulus
+
+446
+00:19:02,810 --> 00:19:05,250
+generating a perception that he's calm
+
+447
+00:19:05,250 --> 00:19:06,220
+uh...
+
+448
+00:19:06,220 --> 00:19:09,160
+uh... but representation
+
+449
+00:19:09,160 --> 00:19:12,500
+what happens is there's our challenge
+laid down
+
+450
+00:19:12,500 --> 00:19:13,910
+not to do studies like
+
+451
+00:19:13,910 --> 00:19:17,040
+what pure sva person just road did but
+rather
+
+452
+00:19:17,040 --> 00:19:22,130
+to try to dead evidence for
+
+453
+00:19:22,130 --> 00:19:23,490
+processing of the meeting
+
+454
+00:19:23,490 --> 00:19:27,490
+of a subliminal stimulus can you add
+allies the meaning of the stimulus
+
+455
+00:19:27,490 --> 00:19:28,900
+that's not
+
+456
+00:19:28,900 --> 00:19:30,890
+conscious awareness that's where that
+
+457
+00:19:30,890 --> 00:19:35,610
+debate i talked about about between
+proponents of early versus late flexion
+
+458
+00:19:35,610 --> 00:19:39,220
+that's without all comes
+
+459
+00:19:39,220 --> 00:19:44,040
+another bella another criticism i think
+with uh... it was even more revealing
+
+460
+00:19:44,040 --> 00:19:48,660
+and this is all criticism that
+identifies consciousness
+
+461
+00:19:48,660 --> 00:19:50,000
+discriminative behavior
+
+462
+00:19:50,000 --> 00:19:51,250
+any argument went
+
+463
+00:19:51,250 --> 00:19:53,630
+this way
+
+464
+00:19:53,630 --> 00:19:57,120
+the evidence for subliminal perception
+whether it's a person just roll
+
+465
+00:19:57,120 --> 00:19:58,830
+experimenter somebody else's
+
+466
+00:19:58,830 --> 00:20:02,820
+always takes the form of some
+discriminative response to a subliminal
+
+467
+00:20:02,820 --> 00:20:04,649
+stimulus
+
+468
+00:20:04,649 --> 00:20:05,869
+notice the dates here
+
+469
+00:20:05,869 --> 00:20:10,840
+these guys were writing at the heyday of
+behavior is and they didn't like
+
+470
+00:20:10,840 --> 00:20:13,230
+thousand-dollar don't terms by cult-like
+
+471
+00:20:13,230 --> 00:20:13,890
+consciousness
+
+472
+00:20:13,890 --> 00:20:16,730
+didn't even like using terms like
+perception
+
+473
+00:20:16,730 --> 00:20:20,650
+the only way we can define consciousness
+is behaviorally
+
+474
+00:20:20,650 --> 00:20:23,900
+and the behavioral definition of
+consciousness is in terms of
+
+475
+00:20:23,900 --> 00:20:25,310
+discriminative response
+
+476
+00:20:25,310 --> 00:20:26,900
+europe aware in something
+
+477
+00:20:26,900 --> 00:20:28,690
+if you could respond to it
+
+478
+00:20:28,690 --> 00:20:29,690
+discredited privilege
+
+479
+00:20:29,690 --> 00:20:31,270
+so in fact
+
+480
+00:20:31,270 --> 00:20:34,220
+any discriminative response to
+stimulation
+
+481
+00:20:34,220 --> 00:20:37,119
+counts as evidence of conscious
+perception
+
+482
+00:20:37,119 --> 00:20:40,270
+that's how we know somebody's
+consciously perceived something
+
+483
+00:20:40,270 --> 00:20:44,919
+so but uh... on when this criticism was
+directed at the person just row study
+
+484
+00:20:44,919 --> 00:20:46,780
+the idea was
+
+485
+00:20:46,780 --> 00:20:50,360
+jest role in the other observers were
+just warm when they said that they
+
+486
+00:20:50,360 --> 00:20:51,750
+couldn't i'll proceed
+
+487
+00:20:51,750 --> 00:20:54,620
+all of the uh... the uh... difference
+consciously
+
+488
+00:20:54,620 --> 00:20:57,529
+the fact that they could perceive the
+difference consciously
+
+489
+00:20:57,529 --> 00:20:59,010
+was
+
+490
+00:20:59,010 --> 00:21:02,490
+gammon by the fact that they could
+respond to a discriminative lee so the
+
+491
+00:21:02,490 --> 00:21:04,460
+trick here is
+
+492
+00:21:04,460 --> 00:21:06,810
+all no discriminative response
+
+493
+00:21:06,810 --> 00:21:09,809
+on can count as evidence of one
+conscious perception
+
+494
+00:21:09,809 --> 00:21:12,679
+and the effective this basically is to
+rule
+
+495
+00:21:12,679 --> 00:21:15,470
+fall some liberal perception
+
+496
+00:21:15,470 --> 00:21:16,410
+palm
+
+497
+00:21:16,410 --> 00:21:18,020
+opry or
+
+498
+00:21:18,020 --> 00:21:20,419
+if you can't come to discriminative
+response
+
+499
+00:21:20,419 --> 00:21:24,380
+to a stimulus that you're not aware of
+it as evidence of subliminal perception
+
+500
+00:21:24,380 --> 00:21:26,930
+what are you going to count
+
+501
+00:21:26,930 --> 00:21:29,240
+and if there is no evidence that can
+count
+
+502
+00:21:29,240 --> 00:21:33,740
+because dispirited responses taken as
+indicated consciousness then you're
+
+503
+00:21:33,740 --> 00:21:36,370
+never going to be able to home
+
+504
+00:21:36,370 --> 00:21:39,940
+to test this hypothesis
+
+505
+00:21:39,940 --> 00:21:42,379
+the other thing that happened in this
+literature
+
+506
+00:21:42,379 --> 00:21:46,909
+is that there was a shift in method that
+is that that that turns out to be
+
+507
+00:21:46,909 --> 00:21:47,919
+important
+
+508
+00:21:47,919 --> 00:21:51,910
+in studies of the sort gone by person
+just ro
+
+509
+00:21:51,910 --> 00:21:56,650
+all dawn subliminal stimulus was defined
+as one that was very weak
+
+510
+00:21:56,650 --> 00:21:58,690
+very small difference between
+
+511
+00:21:58,690 --> 00:22:02,210
+the weight of two stimuli or the very a
+very small difference
+
+512
+00:22:02,210 --> 00:22:06,810
+between the brightness orble of to uh...
+of two lights
+
+513
+00:22:06,810 --> 00:22:09,739
+and what happened to end up with in in
+the l
+
+514
+00:22:09,739 --> 00:22:13,120
+early twentieth century assist move
+overture began to build
+
+515
+00:22:13,120 --> 00:22:18,690
+is that all people began to use first
+the device called a to cast a scope
+
+516
+00:22:18,690 --> 00:22:21,349
+more recently art other computers
+
+517
+00:22:21,349 --> 00:22:24,710
+to control the amount of time that the
+stimulus
+
+518
+00:22:24,710 --> 00:22:25,700
+is present
+
+519
+00:22:25,700 --> 00:22:28,109
+so a subliminal stimulus is now
+
+520
+00:22:28,109 --> 00:22:31,750
+fall defined as one that is thought that
+that is
+
+521
+00:22:31,750 --> 00:22:35,960
+flashed very briefly not necessarily a
+low-intensity stimulus
+
+522
+00:22:35,960 --> 00:22:37,880
+but one that's very brief
+
+523
+00:22:37,880 --> 00:22:39,399
+or that's fine
+
+524
+00:22:39,399 --> 00:22:43,720
+except that we have this kind of memory
+cold iconic memory
+
+525
+00:22:43,720 --> 00:22:45,870
+devil hold
+
+526
+00:22:45,870 --> 00:22:48,700
+favorable representation of a visual
+star realist
+
+527
+00:22:48,700 --> 00:22:49,970
+senior
+
+528
+00:22:49,970 --> 00:22:55,179
+visual system invision even after the
+stimulus goes off
+
+529
+00:22:55,179 --> 00:22:59,030
+you'd be can't justify the subliminal
+stimulus is one that's presented for
+
+530
+00:22:59,030 --> 00:23:01,810
+five milliseconds or something
+
+531
+00:23:01,810 --> 00:23:05,730
+the thought visual image of that
+stimulus will persist for much longer
+
+532
+00:23:05,730 --> 00:23:06,750
+than that
+
+533
+00:23:06,750 --> 00:23:07,970
+for that reason
+
+534
+00:23:07,970 --> 00:23:12,630
+people developed a whole bunch of
+masking procedures masking procedures
+
+535
+00:23:12,630 --> 00:23:14,010
+that effectively
+
+536
+00:23:14,010 --> 00:23:15,559
+all paul
+
+537
+00:23:15,559 --> 00:23:16,559
+you raised
+
+538
+00:23:16,559 --> 00:23:18,440
+this iconic memory
+
+539
+00:23:18,440 --> 00:23:19,529
+and on the phone
+
+540
+00:23:19,529 --> 00:23:20,759
+uh...
+
+541
+00:23:20,759 --> 00:23:21,980
+andrew render
+
+542
+00:23:21,980 --> 00:23:23,190
+visual stimulus
+
+543
+00:23:23,190 --> 00:23:25,150
+effectively or invisible
+
+544
+00:23:25,150 --> 00:23:26,240
+here's a little
+
+545
+00:23:26,240 --> 00:23:28,740
+figure that shows some of these mask and
+procedures
+
+546
+00:23:28,740 --> 00:23:30,230
+here's up about two years old
+
+547
+00:23:30,230 --> 00:23:31,279
+technique called
+
+548
+00:23:31,279 --> 00:23:34,860
+phone energy basking we've got a prime
+
+549
+00:23:34,860 --> 00:23:36,720
+and a target
+
+550
+00:23:36,720 --> 00:23:38,450
+and the subject
+
+551
+00:23:38,450 --> 00:23:40,650
+fixate on this point
+
+552
+00:23:40,650 --> 00:23:42,560
+very bright light is flash
+
+553
+00:23:42,560 --> 00:23:43,909
+followed by the prime
+
+554
+00:23:43,909 --> 00:23:46,150
+followed by another very bright white
+
+555
+00:23:46,150 --> 00:23:47,390
+followed by the target
+
+556
+00:23:47,390 --> 00:23:50,220
+and what happens is these two energy
+
+557
+00:23:50,220 --> 00:23:51,820
+all of those stimuli
+
+558
+00:23:51,820 --> 00:23:53,380
+affectively vendors
+
+559
+00:23:53,380 --> 00:23:57,510
+evidence just bright light it's not of
+did this not any kind of target
+
+560
+00:23:57,510 --> 00:23:59,690
+affectively all prevents the person
+
+561
+00:23:59,690 --> 00:24:01,100
+from home
+
+562
+00:24:01,100 --> 00:24:03,860
+from being conscious of the prime
+
+563
+00:24:03,860 --> 00:24:05,830
+so that's how that works
+
+564
+00:24:05,830 --> 00:24:08,230
+and we're talking about
+
+565
+00:24:08,230 --> 00:24:12,440
+this is called as a way stimulus on
+cities agrees we're talking about
+
+566
+00:24:12,440 --> 00:24:16,600
+bug that acer craze of like less than a
+second
+
+567
+00:24:16,600 --> 00:24:18,919
+here's a phenomenon called forward
+masking
+
+568
+00:24:18,919 --> 00:24:20,530
+where you fixate
+
+569
+00:24:20,530 --> 00:24:25,580
+then that there is a fault that hash
+mark hearsay rollbacks is new preview
+
+570
+00:24:25,580 --> 00:24:26,610
+warm
+
+571
+00:24:26,610 --> 00:24:27,740
+present the prime
+
+572
+00:24:27,740 --> 00:24:29,129
+followed by a blank
+
+573
+00:24:29,129 --> 00:24:29,470
+screen
+
+574
+00:24:29,470 --> 00:24:31,340
+a lot and the target
+
+575
+00:24:31,340 --> 00:24:33,860
+and lift the this stimulus
+
+576
+00:24:33,860 --> 00:24:39,500
+onset they synchrony is less than about
+called the fifty fifty milliseconds
+
+577
+00:24:39,500 --> 00:24:43,430
+all of the forward mask will effectively
+prevent you from the from consciously
+
+578
+00:24:43,430 --> 00:24:44,870
+perceiving the prime
+
+579
+00:24:44,870 --> 00:24:47,070
+here's the same mask and procedure
+
+580
+00:24:47,070 --> 00:24:49,640
+they're very popular one except it's
+gone backwards
+
+581
+00:24:49,640 --> 00:24:51,000
+you fix it
+
+582
+00:24:51,000 --> 00:24:52,350
+the present the prime
+
+583
+00:24:52,350 --> 00:24:54,860
+you present the mask and then the target
+
+584
+00:24:54,860 --> 00:24:57,440
+and this mask affectively
+
+585
+00:24:57,440 --> 00:25:00,640
+all-new erases the prime from conscious
+perception
+
+586
+00:25:00,640 --> 00:25:04,390
+if you're one of these belts and
+suspenders kinds of guys
+
+587
+00:25:04,390 --> 00:25:05,270
+you can
+
+588
+00:25:05,270 --> 00:25:07,530
+do with the forward primer
+
+589
+00:25:07,530 --> 00:25:08,830
+then present the prime
+
+590
+00:25:08,830 --> 00:25:10,220
+that a backward mask
+
+591
+00:25:10,220 --> 00:25:10,930
+and present
+
+592
+00:25:10,930 --> 00:25:14,509
+the target so there are just lots of
+these kinds of of them
+
+593
+00:25:14,509 --> 00:25:16,810
+procedures are better off that are being
+used
+
+594
+00:25:16,810 --> 00:25:20,570
+and all of them have the effect
+
+595
+00:25:20,570 --> 00:25:22,029
+rendering the prime
+
+596
+00:25:22,029 --> 00:25:23,190
+essentially invisible
+
+597
+00:25:23,190 --> 00:25:25,179
+well not essentially invisible
+
+598
+00:25:25,179 --> 00:25:28,140
+invisible
+
+599
+00:25:28,140 --> 00:25:30,780
+the prime
+
+600
+00:25:30,780 --> 00:25:36,030
+tony marcel anthony marcela psychologist
+at cambridge university maybe use of
+
+601
+00:25:36,030 --> 00:25:37,820
+masked priming
+
+602
+00:25:37,820 --> 00:25:41,679
+all-girl indictment classic study
+reported in nineteen eighty three
+
+603
+00:25:41,679 --> 00:25:43,809
+that demonstrated for the first time
+
+604
+00:25:43,809 --> 00:25:45,799
+all water known as mast
+
+605
+00:25:45,799 --> 00:25:47,070
+priming affects
+
+606
+00:25:47,070 --> 00:25:49,330
+math semantic priming effects
+
+607
+00:25:49,330 --> 00:25:53,620
+his subjects were put in august that
+would be use one of two on different
+
+608
+00:25:53,620 --> 00:25:57,620
+procedures electrical decision procedure
+in which they are asked to
+
+609
+00:25:57,620 --> 00:26:02,370
+they could to decide whether a target is
+a legal english word or not
+
+610
+00:26:02,370 --> 00:26:05,440
+or a perceptual identification procedure
+
+611
+00:26:05,440 --> 00:26:10,190
+immature simply ask to read the ordinary
+the target why don't apply what the
+
+612
+00:26:10,190 --> 00:26:10,640
+target
+
+613
+00:26:10,640 --> 00:26:13,150
+uh... is
+
+614
+00:26:13,150 --> 00:26:13,820
+and then
+
+615
+00:26:13,820 --> 00:26:14,899
+this case
+
+616
+00:26:14,899 --> 00:26:19,090
+all of the targets were words like nurse
+
+617
+00:26:19,090 --> 00:26:21,419
+and dot masked prime
+
+618
+00:26:21,419 --> 00:26:26,510
+once they semantically related word like
+doctor sold doctor comes up with the
+
+619
+00:26:26,510 --> 00:26:27,260
+prime
+
+620
+00:26:27,260 --> 00:26:29,300
+it's mask so you can see here
+
+621
+00:26:29,300 --> 00:26:31,289
+that nurse comes up as a target
+
+622
+00:26:31,289 --> 00:26:34,840
+and the subject is asked to make a
+lexical decision about the word nurse
+
+623
+00:26:34,840 --> 00:26:36,309
+or to identify
+
+624
+00:26:36,309 --> 00:26:37,370
+of the legal
+
+625
+00:26:37,370 --> 00:26:39,030
+the word mirrors
+
+626
+00:26:39,030 --> 00:26:42,570
+and so that the target is always
+presented super liberally you can see it
+
+627
+00:26:42,570 --> 00:26:43,690
+clearly
+
+628
+00:26:43,690 --> 00:26:49,320
+the primers presented sublet only in the
+sense that its exposure
+
+629
+00:26:49,320 --> 00:26:49,710
+mast
+
+630
+00:26:49,710 --> 00:26:52,120
+so the subjects do not see
+
+631
+00:26:52,120 --> 00:26:54,360
+the prime
+
+632
+00:26:54,360 --> 00:26:58,160
+but the rest to do something with this
+target burst
+
+633
+00:26:58,160 --> 00:26:59,390
+and the question is
+
+634
+00:26:59,390 --> 00:27:02,290
+can you see upright mean effect
+
+635
+00:27:02,290 --> 00:27:06,780
+the sailboat does the master
+presentation i'll be associated warlike
+
+636
+00:27:06,780 --> 00:27:08,170
+dr
+
+637
+00:27:08,170 --> 00:27:09,320
+facilitate
+
+638
+00:27:09,320 --> 00:27:11,850
+performance all of the whatever task it
+is
+
+639
+00:27:11,850 --> 00:27:13,780
+on the target
+
+640
+00:27:13,780 --> 00:27:16,000
+and of course the answer is yes
+
+641
+00:27:16,000 --> 00:27:18,000
+here are all
+
+642
+00:27:18,000 --> 00:27:22,500
+thaw what one of one of morsels
+experiments doggedly expert five
+
+643
+00:27:22,500 --> 00:27:24,400
+and what we're seeing
+
+644
+00:27:24,400 --> 00:27:28,830
+ins on some trials the prime in the car
+guitar not semantically related so you
+
+645
+00:27:28,830 --> 00:27:31,860
+wouldn't expect to see any semantic
+priming
+
+646
+00:27:31,860 --> 00:27:33,399
+on other trials
+
+647
+00:27:33,399 --> 00:27:38,580
+all of the primary target are associate
+lee related like doctor nurse cable
+
+648
+00:27:38,580 --> 00:27:40,059
+chair so on
+
+649
+00:27:40,059 --> 00:27:43,560
+also you would expect to see some of
+semantic priming
+
+650
+00:27:43,560 --> 00:27:44,700
+alm
+
+651
+00:27:44,700 --> 00:27:47,659
+but brielle prime
+
+652
+00:27:47,659 --> 00:27:49,880
+is pres presented just once
+
+653
+00:27:49,880 --> 00:27:54,590
+to for twelve sixteen twenty times that
+doesn't seem to make any difference
+
+654
+00:27:54,590 --> 00:27:57,830
+all but what you've got here is
+responsibly missy
+
+655
+00:27:57,830 --> 00:27:59,890
+all of them but you can see here is
+
+656
+00:27:59,890 --> 00:28:04,770
+there's a nice primate affecting about a
+ten percent priming effect
+
+657
+00:28:04,770 --> 00:28:07,430
+called when the prime in the target or
+not related
+
+658
+00:28:07,430 --> 00:28:08,820
+our response latency
+
+659
+00:28:08,820 --> 00:28:11,980
+is about five hundred and seventy five
+milliseconds
+
+660
+00:28:11,980 --> 00:28:13,040
+palm
+
+661
+00:28:13,040 --> 00:28:15,400
+when the private target are related
+
+662
+00:28:15,400 --> 00:28:18,869
+response leads his vote five hundred
+twenty-five on milliseconds
+
+663
+00:28:18,869 --> 00:28:22,589
+temper sub-prime in fact that's a pretty
+nice priming effect or in this
+
+664
+00:28:22,589 --> 00:28:23,680
+literature
+
+665
+00:28:23,680 --> 00:28:27,930
+all and so what martin what marcel was
+able to claim was that
+
+666
+00:28:27,930 --> 00:28:32,070
+yes it's possible to extract something
+about the meaning
+
+667
+00:28:32,070 --> 00:28:36,220
+all busted pollack of a subliminal
+stimulus you're getting subliminal
+
+668
+00:28:36,220 --> 00:28:37,169
+semantic priming
+
+669
+00:28:37,169 --> 00:28:38,419
+where the priming
+
+670
+00:28:38,419 --> 00:28:40,450
+of the young the prime
+
+671
+00:28:40,450 --> 00:28:42,679
+has been rendered essentially
+
+672
+00:28:42,679 --> 00:28:43,229
+inaccessible
+
+673
+00:28:43,229 --> 00:28:45,149
+to conscious perception
+
+674
+00:28:45,149 --> 00:28:48,299
+by means of the mask
+
+675
+00:28:48,299 --> 00:28:49,860
+here's another experiment
+
+676
+00:28:49,860 --> 00:28:50,840
+followed
+
+677
+00:28:50,840 --> 00:28:52,510
+above the marcel did i want one
+
+678
+00:28:52,510 --> 00:28:55,950
+there's no called the subliminal strip
+affect your number the stroop effect
+
+679
+00:28:55,950 --> 00:28:58,840
+from uga of from an earlier class
+
+680
+00:28:58,840 --> 00:29:01,280
+the subjects task is to identify
+
+681
+00:29:01,280 --> 00:29:03,910
+the color all big color patch
+
+682
+00:29:03,910 --> 00:29:07,160
+art that's presented all of the to a lot
+of computer
+
+683
+00:29:07,160 --> 00:29:11,440
+and what marcel dared was to embed in
+the caller
+
+684
+00:29:11,440 --> 00:29:11,880
+patch
+
+685
+00:29:11,880 --> 00:29:14,230
+a color word
+
+686
+00:29:14,230 --> 00:29:17,600
+but the color word itself was mast
+
+687
+00:29:17,600 --> 00:29:20,470
+so you can't actually see the color word
+
+688
+00:29:20,470 --> 00:29:25,200
+are sometimes the color word is congress
+
+689
+00:29:25,200 --> 00:29:26,279
+or other times
+
+690
+00:29:26,279 --> 00:29:27,630
+the caller word is
+
+691
+00:29:27,630 --> 00:29:29,250
+in congruent
+
+692
+00:29:29,250 --> 00:29:31,760
+or green or there's a very
+
+693
+00:29:31,760 --> 00:29:33,000
+paused ulm uh...
+
+694
+00:29:33,000 --> 00:29:37,270
+uh... short dog interval or hear and the
+question is
+
+695
+00:29:37,270 --> 00:29:39,559
+will the mask presentation
+
+696
+00:29:39,559 --> 00:29:42,350
+i'll be in congruent color word
+
+697
+00:29:42,350 --> 00:29:44,880
+disrupt color naming performance
+
+698
+00:29:44,880 --> 00:29:45,890
+the answer
+
+699
+00:29:45,890 --> 00:29:48,480
+on is
+
+700
+00:29:48,480 --> 00:29:49,660
+here is where
+
+701
+00:29:49,660 --> 00:29:54,250
+the all of them color and the the color
+patches presented simultaneously with
+
+702
+00:29:54,250 --> 00:29:55,760
+the last word
+
+703
+00:29:55,760 --> 00:29:59,430
+here is appalled by members of the
+experiment where the color blue or the
+
+704
+00:29:59,430 --> 00:30:01,190
+color patches presented
+
+705
+00:30:01,190 --> 00:30:05,570
+a little bit after nor the presentation
+called on of the word
+
+706
+00:30:05,570 --> 00:30:07,040
+and what you're seeing here
+
+707
+00:30:07,040 --> 00:30:09,549
+these are the income grew in trials
+
+708
+00:30:09,549 --> 00:30:11,380
+and you see the stroop effect
+
+709
+00:30:11,380 --> 00:30:13,710
+when the word in the pattern in
+congruent
+
+710
+00:30:13,710 --> 00:30:17,789
+it takes longer to want to did to
+identify the caller patch
+
+711
+00:30:17,789 --> 00:30:20,889
+when the word of the patch or conger
+would
+
+712
+00:30:20,889 --> 00:30:22,710
+last time
+
+713
+00:30:22,710 --> 00:30:24,260
+all the way
+
+714
+00:30:24,260 --> 00:30:25,610
+across
+
+715
+00:30:25,610 --> 00:30:26,660
+all of this effect
+
+716
+00:30:26,660 --> 00:30:28,870
+so you can get a straw perfect
+
+717
+00:30:28,870 --> 00:30:32,620
+even when the word that suggesting this
+drew perfect
+
+718
+00:30:32,620 --> 00:30:34,629
+not consciously perceptible
+
+719
+00:30:34,629 --> 00:30:36,720
+because or because it's been
+
+720
+00:30:36,720 --> 00:30:39,600
+all because it's been maps
+
+721
+00:30:39,600 --> 00:30:43,330
+here's another example of this message
+from the canadian laboratory on she's
+
+722
+00:30:43,330 --> 00:30:45,980
+been americorps all that experiment
+
+723
+00:30:45,980 --> 00:30:48,230
+all be buried
+
+724
+00:30:48,230 --> 00:30:50,370
+v_r_ that the masking conditions
+
+725
+00:30:50,370 --> 00:30:52,240
+when there is no matter
+
+726
+00:30:52,240 --> 00:30:56,190
+you get a big stroup affect
+
+727
+00:30:56,190 --> 00:31:00,960
+or or the amount of interference had not
+been color naming
+
+728
+00:31:00,960 --> 00:31:05,190
+follow you could detect the prime ninety
+percent of time still pretty visible
+
+729
+00:31:05,190 --> 00:31:06,369
+you still get
+
+730
+00:31:06,369 --> 00:31:08,600
+austral perfect
+
+731
+00:31:08,600 --> 00:31:12,540
+all the subjects are detecting the video
+of crime
+
+732
+00:31:12,540 --> 00:31:14,580
+all of the via the incongruity word
+
+733
+00:31:14,580 --> 00:31:16,750
+just barely above
+
+734
+00:31:16,750 --> 00:31:21,100
+and you're still getting that's the
+significance drupal fact
+
+735
+00:31:21,100 --> 00:31:25,330
+and then when they can see the when
+they're not the fact of the prime of all
+
+736
+00:31:25,330 --> 00:31:27,330
+poorly on twenty five percent of trials
+
+737
+00:31:27,330 --> 00:31:31,480
+the through perfect finally on finally
+goes away
+
+738
+00:31:31,480 --> 00:31:36,660
+on the basis of this kind of finding
+
+739
+00:31:36,660 --> 00:31:37,480
+fallen
+
+740
+00:31:37,480 --> 00:31:40,060
+the magnitude of the strip affect
+
+741
+00:31:40,060 --> 00:31:43,030
+varies with the detective bility of the
+problem
+
+742
+00:31:43,030 --> 00:31:45,350
+she's run an article
+
+743
+00:31:45,350 --> 00:31:46,030
+suggested that
+
+744
+00:31:46,030 --> 00:31:49,440
+we don't have just one threshold for
+perception
+
+745
+00:31:49,440 --> 00:31:51,960
+in fact
+
+746
+00:31:51,960 --> 00:31:52,450
+thresholds
+
+747
+00:31:52,450 --> 00:31:57,640
+for perception which they called the
+subject of threshold and the of
+
+748
+00:31:57,640 --> 00:32:01,120
+and beyond objective threshold hong
+
+749
+00:32:01,120 --> 00:32:01,850
+respectively
+
+750
+00:32:01,850 --> 00:32:03,389
+the subject of level
+
+751
+00:32:03,389 --> 00:32:05,000
+the subject of threshold
+
+752
+00:32:05,000 --> 00:32:09,350
+they defined as a detection level where
+subjects claim not to be able to
+
+753
+00:32:09,350 --> 00:32:12,690
+discriminate perceptual information at
+better than chance levels
+
+754
+00:32:12,690 --> 00:32:13,559
+when subjects a
+
+755
+00:32:13,559 --> 00:32:16,500
+i don't see it
+
+756
+00:32:16,500 --> 00:32:18,530
+the object differential
+
+757
+00:32:18,530 --> 00:32:22,649
+they hall identified as the level of the
+detect ability
+
+758
+00:32:22,649 --> 00:32:27,830
+where perceptual information is actually
+discriminated actions levels
+
+759
+00:32:27,830 --> 00:32:30,000
+remember the person just relax permit
+
+760
+00:32:30,000 --> 00:32:33,040
+where the the subjects that i can see it
+anymore
+
+761
+00:32:33,040 --> 00:32:34,679
+by the response to choose
+
+762
+00:32:34,679 --> 00:32:38,950
+and he was able to choose
+
+763
+00:32:38,950 --> 00:32:39,630
+worrying
+
+764
+00:32:39,630 --> 00:32:44,090
+here somewhere if subliminal perception
+occurs somewhere in this area of between
+
+765
+00:32:44,090 --> 00:32:45,890
+the subject of threshold
+
+766
+00:32:45,890 --> 00:32:49,540
+this is the threshold for conscious
+awareness
+
+767
+00:32:49,540 --> 00:32:52,470
+this is the point where conscious
+awareness goes to zero
+
+768
+00:32:52,470 --> 00:32:54,350
+and the object of threshold
+
+769
+00:32:54,350 --> 00:32:58,370
+this is the point where discrimination
+
+770
+00:32:58,370 --> 00:33:02,120
+subliminal perception explains or you
+know
+
+771
+00:33:02,120 --> 00:33:03,309
+in roughly alone
+
+772
+00:33:03,309 --> 00:33:04,980
+in roughly the space
+
+773
+00:33:04,980 --> 00:33:11,720
+okay so there's number-one fresh old
+their or in fact
+
+774
+00:33:11,720 --> 00:33:15,720
+now let's
+
+775
+00:33:15,720 --> 00:33:19,420
+see how you can call deb how you can see
+this
+
+776
+00:33:19,420 --> 00:33:20,670
+we have
+
+777
+00:33:20,670 --> 00:33:21,120
+palm
+
+778
+00:33:21,120 --> 00:33:25,990
+the again its radio subliminal all the
+screw perfect we're looking at response
+
+779
+00:33:25,990 --> 00:33:28,040
+latencies
+
+780
+00:33:28,040 --> 00:33:30,470
+between in congruent incongruous of
+
+781
+00:33:30,470 --> 00:33:31,150
+cellulite
+
+782
+00:33:31,150 --> 00:33:35,330
+here we have are clearly still
+preliminary presentation
+
+783
+00:33:35,330 --> 00:33:36,500
+the uh...
+
+784
+00:33:36,500 --> 00:33:42,399
+i'll be all of the of the word you get a
+big through perfect
+
+785
+00:33:42,399 --> 00:33:43,700
+you've got
+
+786
+00:33:43,700 --> 00:33:44,740
+mask that
+
+787
+00:33:44,740 --> 00:33:48,670
+takes the subject below the subject of
+threshold
+
+788
+00:33:48,670 --> 00:33:50,840
+you still get a strip affect
+
+789
+00:33:50,840 --> 00:33:51,929
+when you
+
+790
+00:33:51,929 --> 00:33:52,780
+reduce
+
+791
+00:33:52,780 --> 00:33:56,059
+when when you increase the masking
+ordered even further
+
+792
+00:33:56,059 --> 00:33:57,089
+taking the subject
+
+793
+00:33:57,089 --> 00:33:59,060
+closer to the object of threshold
+
+794
+00:33:59,060 --> 00:34:01,990
+the strip affect is home
+
+795
+00:34:01,990 --> 00:34:03,579
+is correspondingly weakened
+
+796
+00:34:03,579 --> 00:34:05,460
+and again the same thing here
+
+797
+00:34:05,460 --> 00:34:07,169
+super liberal presentation
+
+798
+00:34:07,169 --> 00:34:08,669
+big through perfect
+
+799
+00:34:08,669 --> 00:34:12,129
+below the subject of threshold you still
+get a strip of fact
+
+800
+00:34:12,129 --> 00:34:13,859
+down at the object of pressure or
+
+801
+00:34:13,859 --> 00:34:15,229
+it's gone
+
+802
+00:34:15,229 --> 00:34:19,619
+and the same thing or here so that's
+basically how duong road we would like
+
+803
+00:34:19,619 --> 00:34:21,080
+to distinguish between
+
+804
+00:34:21,080 --> 00:34:24,789
+the object of in subject of threshold
+
+805
+00:34:24,789 --> 00:34:26,469
+here's what i think
+
+806
+00:34:26,469 --> 00:34:29,839
+for anybody is interested
+
+807
+00:34:29,839 --> 00:34:32,859
+you're likely to get some magic priming
+
+808
+00:34:32,859 --> 00:34:34,039
+doctor nurse
+
+809
+00:34:34,039 --> 00:34:36,119
+kinda priming
+
+810
+00:34:36,119 --> 00:34:37,899
+when you were in this region
+
+811
+00:34:37,899 --> 00:34:39,280
+vera relatively close
+
+812
+00:34:39,280 --> 00:34:41,799
+for the subject of threshold
+
+813
+00:34:41,799 --> 00:34:43,169
+the further you get
+
+814
+00:34:43,169 --> 00:34:47,379
+to do toward the towards the object of
+threshold it seems to me looking at the
+
+815
+00:34:47,379 --> 00:34:48,669
+literature
+
+816
+00:34:48,669 --> 00:34:52,209
+the likelihood of getting semantic
+priming
+
+817
+00:34:52,209 --> 00:34:54,329
+correspondingly
+
+818
+00:34:54,329 --> 00:34:58,509
+all but you can still get repetition
+priming priming based on a perception
+
+819
+00:34:58,509 --> 00:35:00,099
+based in dallas
+
+820
+00:35:00,099 --> 00:35:01,100
+even when you get
+
+821
+00:35:01,100 --> 00:35:01,860
+very close
+
+822
+00:35:01,860 --> 00:35:04,060
+to what used to an americorps cold
+
+823
+00:35:04,060 --> 00:35:09,879
+of the young the object of threshold
+
+824
+00:35:09,879 --> 00:35:14,549
+this is what the literature on
+subliminal perception looks like these
+
+825
+00:35:14,549 --> 00:35:15,159
+days
+
+826
+00:35:15,159 --> 00:35:20,440
+the stimuli are not sublingual in the
+sense that they used to be subliminal
+
+827
+00:35:20,440 --> 00:35:23,520
+and the classic subliminal perception
+literature
+
+828
+00:35:23,520 --> 00:35:26,279
+subliminal stimuli were very weak
+
+829
+00:35:26,279 --> 00:35:27,150
+stimuli
+
+830
+00:35:27,150 --> 00:35:28,540
+in the modern
+
+831
+00:35:28,540 --> 00:35:30,400
+subliminal perception literature
+
+832
+00:35:30,400 --> 00:35:32,819
+subliminal stimuli are
+
+833
+00:35:32,819 --> 00:35:34,310
+stimuli that's not
+
+834
+00:35:34,310 --> 00:35:34,579
+exactly
+
+835
+00:35:34,579 --> 00:35:37,449
+um... that's not exactly the same thing
+
+836
+00:35:37,449 --> 00:35:40,279
+but beginning with this pioneer in excel
+experiment
+
+837
+00:35:40,279 --> 00:35:43,140
+by uh... by marcel
+
+838
+00:35:43,140 --> 00:35:44,509
+we're taught
+
+839
+00:35:44,509 --> 00:35:46,720
+we now understand all of them
+
+840
+00:35:46,720 --> 00:35:49,489
+pretty clearly
+
+841
+00:35:49,489 --> 00:35:53,819
+subliminal of the perception can extend
+to semantic priming effect
+
+842
+00:35:53,819 --> 00:35:56,439
+as well as repetition priming effect
+
+843
+00:35:56,439 --> 00:35:58,849
+i didn't show you repetition priming
+texas
+
+844
+00:35:58,849 --> 00:36:00,359
+they're boring
+
+845
+00:36:00,359 --> 00:36:04,789
+the really interesting question is ken
+you extract some magic information out
+
+846
+00:36:04,789 --> 00:36:06,609
+of a subliminal stimulus
+
+847
+00:36:06,609 --> 00:36:08,489
+and the answer peers to be yes
+
+848
+00:36:08,489 --> 00:36:09,670
+though it turns out
+
+849
+00:36:09,670 --> 00:36:12,689
+that there are limits
+
+850
+00:36:12,689 --> 00:36:15,659
+which i'll talk about on nanosecond
+
+851
+00:36:15,659 --> 00:36:18,759
+so now we have
+
+852
+00:36:18,759 --> 00:36:23,339
+it was a perception can occur when the
+stimuli are
+
+853
+00:36:23,339 --> 00:36:27,039
+we we know that that occurs when they're
+when they're super liberal
+
+854
+00:36:27,039 --> 00:36:29,300
+all and also when they're sab liberal
+
+855
+00:36:29,300 --> 00:36:33,410
+now there are also a bunch of
+demonstrations all been plus a
+
+856
+00:36:33,410 --> 00:36:34,360
+perception effects
+
+857
+00:36:34,360 --> 00:36:36,230
+in brain-damaged patients
+
+858
+00:36:36,230 --> 00:36:38,919
+who were having some difficulty
+
+859
+00:36:38,919 --> 00:36:40,899
+conscious of perception
+
+860
+00:36:40,899 --> 00:36:46,069
+the famous example of this is the case
+of blindside described by larry weiss
+
+861
+00:36:46,069 --> 00:36:47,760
+cranston a book length
+
+862
+00:36:47,760 --> 00:36:51,699
+organ study of a single patient patient
+d_b_
+
+863
+00:36:51,699 --> 00:36:54,459
+all dv suffered brain damage
+
+864
+00:36:54,459 --> 00:36:55,829
+in his
+
+865
+00:36:55,829 --> 00:36:58,580
+visual primary visual cortex area
+
+866
+00:36:58,580 --> 00:37:02,759
+although the area b_-one in the yard in
+in the occipital lobe
+
+867
+00:37:02,759 --> 00:37:03,599
+that call
+
+868
+00:37:03,599 --> 00:37:06,430
+of rendered him affectively blind
+
+869
+00:37:06,430 --> 00:37:08,939
+in his left visual field
+
+870
+00:37:08,939 --> 00:37:11,789
+left visual field a bullfrogs
+
+871
+00:37:11,789 --> 00:37:14,649
+you could see clearly in his right
+visual field
+
+872
+00:37:14,649 --> 00:37:15,670
+couldn't see a thing
+
+873
+00:37:15,670 --> 00:37:17,679
+in his left visual field
+
+874
+00:37:17,679 --> 00:37:19,010
+all gradually
+
+875
+00:37:19,010 --> 00:37:22,919
+this this is called a skirt alma or
+blind
+
+876
+00:37:22,919 --> 00:37:23,759
+alm
+
+877
+00:37:23,759 --> 00:37:28,269
+piled up eventually is blind field
+receded a little bit so that it was the
+
+878
+00:37:28,269 --> 00:37:32,769
+lower left quadrant of his visual field
+that he couldn't see anything
+
+879
+00:37:32,769 --> 00:37:36,400
+uh... couldn't see anything in but the
+fact of the matter is that you presented
+
+880
+00:37:36,400 --> 00:37:37,449
+a stimulus
+
+881
+00:37:37,449 --> 00:37:42,069
+if this aerial of space the lower left
+quadrant of his visual field
+
+882
+00:37:42,069 --> 00:37:44,529
+you couldn't see it
+
+883
+00:37:44,529 --> 00:37:46,600
+what why scratched discovered
+
+884
+00:37:46,600 --> 00:37:52,880
+was that despite the fact that d be
+could not consciously c
+
+885
+00:37:52,880 --> 00:37:54,829
+stimuli presented in
+
+886
+00:37:54,829 --> 00:37:58,009
+a blind apportion of his visual field
+
+887
+00:37:58,009 --> 00:37:58,840
+nevertheless
+
+888
+00:37:58,840 --> 00:38:00,130
+you could make
+
+889
+00:38:00,130 --> 00:38:02,589
+although judgments about the stimuli
+
+890
+00:38:02,589 --> 00:38:04,219
+city quincy
+
+891
+00:38:04,219 --> 00:38:06,630
+judgments about their visual features
+
+892
+00:38:06,630 --> 00:38:08,459
+better than chance levels
+
+893
+00:38:08,459 --> 00:38:10,859
+so that he was able to
+
+894
+00:38:10,859 --> 00:38:12,919
+when just has to guess
+
+895
+00:38:12,919 --> 00:38:17,269
+so i know you can see a big just guess
+is there a stimulus there or not
+
+896
+00:38:17,269 --> 00:38:18,519
+we could do that
+
+897
+00:38:18,519 --> 00:38:19,849
+better than chance
+
+898
+00:38:19,849 --> 00:38:21,889
+where is it
+
+899
+00:38:21,889 --> 00:38:22,910
+he could do that
+
+900
+00:38:22,910 --> 00:38:24,019
+better the chance
+
+901
+00:38:24,019 --> 00:38:27,770
+what it's four minutes he can do that
+better than chance is that morning
+
+902
+00:38:27,770 --> 00:38:31,209
+is a moving faster slow is a papa right
+
+903
+00:38:31,209 --> 00:38:33,239
+is a horizontal or vertical
+
+904
+00:38:33,239 --> 00:38:35,390
+is a big recive small
+
+905
+00:38:35,390 --> 00:38:37,289
+in each of these cases
+
+906
+00:38:37,289 --> 00:38:39,430
+didi cad
+
+907
+00:38:39,430 --> 00:38:40,090
+judgments
+
+908
+00:38:40,090 --> 00:38:42,969
+guesses about the stimulus
+
+909
+00:38:42,969 --> 00:38:44,340
+better pensions
+
+910
+00:38:44,340 --> 00:38:47,469
+levels they're not great but they're
+better than chance levels
+
+911
+00:38:47,469 --> 00:38:48,299
+all
+
+912
+00:38:48,299 --> 00:38:48,959
+even though
+
+913
+00:38:48,959 --> 00:38:53,019
+he cannot see the stimulus and we can
+see the stimulus
+
+914
+00:38:53,019 --> 00:38:54,090
+he's blind
+
+915
+00:38:54,090 --> 00:38:58,149
+and that portion ald visual spaces
+cortical blindness
+
+916
+00:38:58,149 --> 00:38:59,509
+here's a nice example
+
+917
+00:38:59,509 --> 00:39:00,789
+although this
+
+918
+00:39:00,789 --> 00:39:02,469
+so long
+
+919
+00:39:02,469 --> 00:39:03,919
+kal
+
+920
+00:39:03,919 --> 00:39:07,479
+indeed in this particular experiment
+phoebe was simply ask appoint his finger
+
+921
+00:39:07,479 --> 00:39:10,319
+where the stimulus was
+
+922
+00:39:10,319 --> 00:39:13,170
+and if the stimulus is presented it is
+intact
+
+923
+00:39:13,170 --> 00:39:14,119
+visual field
+
+924
+00:39:14,119 --> 00:39:17,890
+he's precisely accurate complete right
+at the stimulus
+
+925
+00:39:17,890 --> 00:39:20,159
+if the stimulus is presented
+
+926
+00:39:20,159 --> 00:39:23,860
+uh... in his own sga thoma those blind
+portion space
+
+927
+00:39:23,860 --> 00:39:25,859
+he's still pretty good
+
+928
+00:39:25,859 --> 00:39:27,029
+the screws up here
+
+929
+00:39:27,029 --> 00:39:28,409
+once in awhile
+
+930
+00:39:28,409 --> 00:39:29,359
+he's of
+
+931
+00:39:29,359 --> 00:39:30,339
+is pretty good
+
+932
+00:39:30,339 --> 00:39:31,250
+about uh...
+
+933
+00:39:31,250 --> 00:39:32,269
+about that
+
+934
+00:39:32,269 --> 00:39:36,990
+here is on the other example this is
+perception of orientation
+
+935
+00:39:36,990 --> 00:39:39,099
+palm here is asked
+
+936
+00:39:39,099 --> 00:39:42,329
+judge whether this though whether a bar
+is
+
+937
+00:39:42,329 --> 00:39:43,749
+horizontal or vertical
+
+938
+00:39:43,749 --> 00:39:45,189
+and he does that
+
+939
+00:39:45,189 --> 00:39:47,029
+very well be right
+
+940
+00:39:47,029 --> 00:39:48,819
+almost every time
+
+941
+00:39:48,819 --> 00:39:52,790
+parties asked to discriminate between a
+vertical bar
+
+942
+00:39:52,790 --> 00:39:54,769
+and a diagonal bar
+
+943
+00:39:54,769 --> 00:39:55,710
+he's right
+
+944
+00:39:55,710 --> 00:39:58,099
+over ninety percent of the time
+
+945
+00:39:58,099 --> 00:40:03,070
+if he's asked to discriminate between
+haldeman stimulus extra stimulus o
+
+946
+00:40:03,070 --> 00:40:04,650
+he's right
+
+947
+00:40:04,650 --> 00:40:08,839
+almost ninety percent of the time he
+can't see the stimulus
+
+948
+00:40:08,839 --> 00:40:09,970
+but he can make
+
+949
+00:40:09,970 --> 00:40:15,479
+akbar though chance of guesses about the
+physical properties of the stimulus
+
+950
+00:40:15,479 --> 00:40:16,550
+that or ralph
+
+951
+00:40:16,550 --> 00:40:18,799
+that are better than chance
+
+952
+00:40:18,799 --> 00:40:19,640
+palm
+
+953
+00:40:19,640 --> 00:40:22,869
+here's another one this is a very very
+subtle test
+
+954
+00:40:22,869 --> 00:40:26,469
+onwards act i've been asked to detect
+what's known as the grading
+
+955
+00:40:26,469 --> 00:40:27,899
+here we have
+
+956
+00:40:27,899 --> 00:40:31,859
+called bob examples of what or the what
+grade he looks like
+
+957
+00:40:31,859 --> 00:40:33,869
+could barely see
+
+958
+00:40:33,869 --> 00:40:37,409
+like you don't want any broader goal
+lines here
+
+959
+00:40:37,409 --> 00:40:41,789
+you can begin to see some vertical lines
+here
+
+960
+00:40:41,789 --> 00:40:44,560
+easier to see them here very easy to see
+them
+
+961
+00:40:44,560 --> 00:40:47,759
+uh... load here
+
+962
+00:40:47,759 --> 00:40:49,979
+graders
+
+963
+00:40:49,979 --> 00:40:53,299
+measured in terms of the with of these
+bars
+
+964
+00:40:53,299 --> 00:40:55,069
+and evolving
+
+965
+00:40:55,069 --> 00:40:56,410
+baby is simply asked
+
+966
+00:40:56,410 --> 00:41:01,729
+is for that is the stimulus or the
+graded or all of the great it or not
+
+967
+00:41:01,729 --> 00:41:03,359
+chance levels
+
+968
+00:41:03,359 --> 00:41:03,780
+and
+
+969
+00:41:03,780 --> 00:41:06,370
+is that the sales has presented in the
+
+970
+00:41:06,370 --> 00:41:08,039
+part in the impact portion
+
+971
+00:41:08,039 --> 00:41:09,200
+of his visual field
+
+972
+00:41:09,200 --> 00:41:11,159
+is pretty good
+
+973
+00:41:11,159 --> 00:41:13,799
+if the studios has presented in a script
+alma
+
+974
+00:41:13,799 --> 00:41:15,529
+he's still pretty good
+
+975
+00:41:15,529 --> 00:41:16,290
+especially with
+
+976
+00:41:16,290 --> 00:41:18,689
+the wider stimulus
+
+977
+00:41:18,689 --> 00:41:22,549
+so he fails when there's very little
+
+978
+00:41:22,549 --> 00:41:23,470
+in the grading
+
+979
+00:41:23,470 --> 00:41:25,970
+but the fact that he can detect a great
+enough all
+
+980
+00:41:25,970 --> 00:41:28,819
+when he can't see the stimulus
+
+981
+00:41:28,819 --> 00:41:30,929
+what account for something
+
+982
+00:41:30,929 --> 00:41:33,309
+so we've got to poland we've got this
+
+983
+00:41:33,309 --> 00:41:34,889
+there's one patient
+
+984
+00:41:34,889 --> 00:41:37,819
+i know where you're going to them
+
+985
+00:41:37,819 --> 00:41:39,439
+despite the next dog question
+
+986
+00:41:39,439 --> 00:41:41,679
+there's also a phenomenon of deaf
+hearing
+
+987
+00:41:41,679 --> 00:41:43,440
+here is patient on a daily
+
+988
+00:41:43,440 --> 00:41:46,899
+who sustained a traumatic cause injury
+to arm
+
+989
+00:41:46,899 --> 00:41:51,859
+to the oil primary auditory area anyone
+in the temporal lobe has been called
+
+990
+00:41:51,859 --> 00:41:54,769
+kore dekh li death nothing wrong with
+his ears
+
+991
+00:41:54,769 --> 00:41:56,439
+ald and it turns out
+
+992
+00:41:56,439 --> 00:41:59,399
+that home
+
+993
+00:41:59,399 --> 00:42:03,630
+by a can detect the presence of an
+auditory stimulus
+
+994
+00:42:03,630 --> 00:42:06,109
+just as well as control subjects do
+
+995
+00:42:06,109 --> 00:42:10,339
+bacall soul localize the auditory
+stimulus whether it's front or back or
+
+996
+00:42:10,339 --> 00:42:11,899
+uh... or the side
+
+997
+00:42:11,899 --> 00:42:15,569
+all pretty well
+
+998
+00:42:15,569 --> 00:42:18,919
+saving about the language of the
+stimulus you can't distinguish between a
+
+999
+00:42:18,919 --> 00:42:21,529
+melody and just of the pure tone
+
+1000
+00:42:21,529 --> 00:42:23,790
+all but he can make some judgments
+
+1001
+00:42:23,790 --> 00:42:29,099
+about an auditory stimulus that he
+simply cannot hear he has no conscious
+
+1002
+00:42:29,099 --> 00:42:30,559
+experience appearing
+
+1003
+00:42:30,559 --> 00:42:32,809
+and i don't have a slide for it but
+there's also
+
+1004
+00:42:32,809 --> 00:42:33,849
+one patient
+
+1005
+00:42:33,849 --> 00:42:36,839
+actually there couple patients now
+
+1006
+00:42:36,839 --> 00:42:37,649
+nonsense
+
+1007
+00:42:37,649 --> 00:42:38,509
+they have
+
+1008
+00:42:38,509 --> 00:42:43,509
+on damage to the primary somatosensory
+cortex in the priore
+
+1009
+00:42:43,509 --> 00:42:47,960
+followed a don't have the conscious
+experience of tactile sensation
+
+1010
+00:42:47,960 --> 00:42:52,779
+but yet they can make certain tactile
+discriminations
+
+1011
+00:42:52,779 --> 00:42:56,509
+outside all outside of awareness
+
+1012
+00:42:56,509 --> 00:43:00,769
+on here's another phenomenon where you
+can see implicit perception of work
+
+1013
+00:43:00,769 --> 00:43:04,299
+this is a phenomenon known as pro so
+peggy no joke
+
+1014
+00:43:04,299 --> 00:43:09,229
+alm per person purposes will justify dog
+ordered define problem for possible
+
+1015
+00:43:09,229 --> 00:43:10,009
+nausea
+
+1016
+00:43:10,009 --> 00:43:13,130
+as with the inability of a patient to
+
+1017
+00:43:13,130 --> 00:43:15,059
+recognize right down to fly
+
+1018
+00:43:15,059 --> 00:43:15,780
+faces
+
+1019
+00:43:15,780 --> 00:43:18,289
+that car
+
+1020
+00:43:18,289 --> 00:43:20,140
+faces a people who are objectively
+familiar
+
+1021
+00:43:20,140 --> 00:43:21,419
+um... too
+
+1022
+00:43:21,419 --> 00:43:23,400
+he could describe the faces
+
+1023
+00:43:23,400 --> 00:43:25,760
+it's a little purses got blue eyes
+
+1024
+00:43:25,760 --> 00:43:30,010
+all persons got tall brown hair person's
+got along those persons got this
+
+1025
+00:43:30,010 --> 00:43:30,669
+person's got that
+
+1026
+00:43:30,669 --> 00:43:32,989
+to describe all the features
+
+1027
+00:43:32,989 --> 00:43:36,059
+are and then the classic case they can
+recognize other objects
+
+1028
+00:43:36,059 --> 00:43:38,499
+they just can't do faces
+
+1029
+00:43:38,499 --> 00:43:39,550
+and all
+
+1030
+00:43:39,550 --> 00:43:40,769
+this fella phenomenon
+
+1031
+00:43:40,769 --> 00:43:46,009
+the syndrome is caused by brain damage
+all here in the home
+
+1032
+00:43:46,009 --> 00:43:50,139
+although lower portion of the uh... of
+the temporal lobe
+
+1033
+00:43:50,139 --> 00:43:55,099
+of the with rosa fuse a forum drivers
+what's sometimes called the fuse that
+
+1034
+00:43:55,099 --> 00:43:56,589
+face area
+
+1035
+00:43:56,589 --> 00:43:58,179
+damage in this part of the brain
+
+1036
+00:43:58,179 --> 00:43:59,910
+produces a selective
+
+1037
+00:43:59,910 --> 00:44:04,689
+inability to recognize objectively
+afternoon your faces now that's an
+
+1038
+00:44:04,689 --> 00:44:06,999
+interesting phenomenon
+
+1039
+00:44:06,999 --> 00:44:08,399
+on
+
+1040
+00:44:08,399 --> 00:44:10,539
+russ bauer and his associates
+
+1041
+00:44:10,539 --> 00:44:14,029
+did a really interesting all of the
+study of course of a goes our patients
+
+1042
+00:44:14,029 --> 00:44:19,880
+uh... new york a number of years ago
+that showed that they were able to
+
+1043
+00:44:19,880 --> 00:44:23,180
+palm make discriminate but they were
+actually should ripple to show prime
+
+1044
+00:44:23,180 --> 00:44:24,769
+interfax
+
+1045
+00:44:24,769 --> 00:44:26,930
+from faces that they could recognize
+
+1046
+00:44:26,930 --> 00:44:28,530
+what happens here
+
+1047
+00:44:28,530 --> 00:44:30,990
+is that the subjects are
+
+1048
+00:44:30,990 --> 00:44:34,499
+prime with the name
+
+1049
+00:44:34,499 --> 00:44:36,089
+mark you go off
+
+1050
+00:44:36,089 --> 00:44:38,429
+or the face
+
+1051
+00:44:38,429 --> 00:44:38,960
+photograph
+
+1052
+00:44:38,960 --> 00:44:41,660
+of all about the whole book a president
+utah
+
+1053
+00:44:41,660 --> 00:44:46,339
+and then have to make some judgment
+about an associated content associated
+
+1054
+00:44:46,339 --> 00:44:47,039
+target
+
+1055
+00:44:47,039 --> 00:44:51,929
+and what you can see here where it is
+where the name
+
+1056
+00:44:51,929 --> 00:44:56,219
+fit or defend the the love the the
+private part of the same
+
+1057
+00:44:56,219 --> 00:44:56,810
+remains
+
+1058
+00:44:56,810 --> 00:44:58,150
+you've got a very nice
+
+1059
+00:44:58,150 --> 00:45:02,009
+although facilitation effect very nice
+prime minister
+
+1060
+00:45:02,009 --> 00:45:03,940
+compared compared to when
+
+1061
+00:45:03,940 --> 00:45:07,229
+the names are on familiar
+
+1062
+00:45:07,229 --> 00:45:09,049
+the same effect
+
+1063
+00:45:09,049 --> 00:45:11,530
+we all go but when the prime is a face
+
+1064
+00:45:11,530 --> 00:45:13,900
+so here and all the subjects or not
+
+1065
+00:45:13,900 --> 00:45:16,199
+consciously recognizing the face
+
+1066
+00:45:16,199 --> 00:45:18,799
+a face that should be familiar to them
+
+1067
+00:45:18,799 --> 00:45:24,019
+fun consciously there is some perception
+of the face as familiar there is some
+
+1068
+00:45:24,019 --> 00:45:25,719
+unconscious recognition of the face
+
+1069
+00:45:25,719 --> 00:45:28,179
+that produces these kinds of
+
+1070
+00:45:28,179 --> 00:45:30,769
+these kinds of priming effects
+
+1071
+00:45:30,769 --> 00:45:32,809
+one more example
+
+1072
+00:45:32,809 --> 00:45:36,989
+and that's from another girl logical
+phenomenon known as hemi spatial neglect
+
+1073
+00:45:36,989 --> 00:45:39,509
+is one of my favorite clinical studies
+
+1074
+00:45:39,509 --> 00:45:41,269
+on a very special neglect
+
+1075
+00:45:41,269 --> 00:45:45,369
+alm is a gardeners are the neurological
+syndrome
+
+1076
+00:45:45,369 --> 00:45:46,369
+patients
+
+1077
+00:45:46,369 --> 00:45:51,299
+pay no attention to something that in
+one visual field or the other
+
+1078
+00:45:51,299 --> 00:45:52,900
+on usually occurs
+
+1079
+00:45:52,900 --> 00:45:56,039
+by virtue of damage in the right
+hemisphere
+
+1080
+00:45:56,039 --> 00:45:58,400
+part in this area basically where the
+
+1081
+00:45:58,400 --> 00:46:03,869
+off quite old and the trouble will be of
+from two uh... come together
+
+1082
+00:46:03,869 --> 00:46:04,720
+all
+
+1083
+00:46:04,720 --> 00:46:08,570
+and what time we now know that dumping
+these patients have a lot of difficulty
+
+1084
+00:46:08,570 --> 00:46:09,809
+of pending
+
+1085
+00:46:09,809 --> 00:46:12,979
+damages on the right or the business in
+the right side of the brain
+
+1086
+00:46:12,979 --> 00:46:17,719
+they have a lot of difficulty attending
+to the left portion
+
+1087
+00:46:17,719 --> 00:46:19,309
+so for example
+
+1088
+00:46:19,309 --> 00:46:21,449
+here in some clinical tests
+
+1089
+00:46:21,449 --> 00:46:23,270
+if you ask such a patient
+
+1090
+00:46:23,270 --> 00:46:25,979
+to draw a flower
+
+1091
+00:46:25,979 --> 00:46:29,559
+still draw a flower but they'll leave
+off the left side of the flower
+
+1092
+00:46:29,559 --> 00:46:33,079
+the left leaf isn't here
+
+1093
+00:46:33,079 --> 00:46:34,089
+hard here
+
+1094
+00:46:34,089 --> 00:46:37,710
+if you give them a bunch of of wines and
+ask them simply too
+
+1095
+00:46:37,710 --> 00:46:38,430
+all of them
+
+1096
+00:46:38,430 --> 00:46:39,380
+put a yacht
+
+1097
+00:46:39,380 --> 00:46:41,200
+or they'll put a line through each of
+them
+
+1098
+00:46:41,200 --> 00:46:47,009
+you know they would find for the lines
+that are in the right side of the paper
+
+1099
+00:46:47,009 --> 00:46:49,349
+the lines that are on
+
+1100
+00:46:49,349 --> 00:46:50,929
+are left side of the paper
+
+1101
+00:46:50,929 --> 00:46:54,119
+if your present them with along the
+horizontal line
+
+1102
+00:46:54,119 --> 00:46:57,529
+and u_s_ withdrawal vertical line right
+in the middle of it
+
+1103
+00:46:57,529 --> 00:47:00,129
+they'll put their burka line
+
+1104
+00:47:00,129 --> 00:47:03,579
+a quarter third of the way across it's
+as if they don't see
+
+1105
+00:47:03,579 --> 00:47:05,929
+this part of space
+
+1106
+00:47:05,929 --> 00:47:08,259
+if you present the word like this
+
+1107
+00:47:08,259 --> 00:47:09,329
+cowboy
+
+1108
+00:47:09,329 --> 00:47:11,400
+rape in the center of their visual field
+
+1109
+00:47:11,400 --> 00:47:13,369
+and ask them to read the word
+
+1110
+00:47:13,369 --> 00:47:16,219
+they'll tell you the word is boring
+
+1111
+00:47:16,219 --> 00:47:17,839
+we'll miss
+
+1112
+00:47:17,839 --> 00:47:19,029
+they won't read
+
+1113
+00:47:19,029 --> 00:47:19,550
+cowboy
+
+1114
+00:47:19,550 --> 00:47:22,229
+they are inattentive
+
+1115
+00:47:22,229 --> 00:47:25,670
+of wall of space
+
+1116
+00:47:25,670 --> 00:47:29,489
+marshall and how we're going to british
+alguna duda ro psychologist performed a
+
+1117
+00:47:29,489 --> 00:47:31,099
+really interesting study
+
+1118
+00:47:31,099 --> 00:47:34,009
+palm or the though dot on couple of
+years ago
+
+1119
+00:47:34,009 --> 00:47:35,999
+in which they asked patients
+
+1120
+00:47:35,999 --> 00:47:37,259
+to all
+
+1121
+00:47:37,259 --> 00:47:39,639
+to examine
+
+1122
+00:47:39,639 --> 00:47:42,470
+almost identical line drawings of
+something
+
+1123
+00:47:42,470 --> 00:47:47,209
+for example like of like a house
+
+1124
+00:47:47,209 --> 00:47:50,589
+the first test will go on for the
+subjects was to ask if there was any
+
+1125
+00:47:50,589 --> 00:47:52,759
+difference between them
+
+1126
+00:47:52,759 --> 00:47:54,049
+neglect patients
+
+1127
+00:47:54,049 --> 00:47:57,049
+don't pay any attention to the left part
+of space
+
+1128
+00:47:57,049 --> 00:48:00,829
+they say now they're the same
+
+1129
+00:48:00,829 --> 00:48:02,449
+even though this one's got
+
+1130
+00:48:02,449 --> 00:48:04,929
+smoke coming out of it for something
+like that
+
+1131
+00:48:04,929 --> 00:48:08,120
+but then what marcia lamb elegant did
+was to ask
+
+1132
+00:48:08,120 --> 00:48:11,979
+well which one would you rather live in
+
+1133
+00:48:11,979 --> 00:48:16,429
+let me ask which one would you rather
+live in is the neglect patients
+
+1134
+00:48:16,429 --> 00:48:18,239
+are almost always chose
+
+1135
+00:48:18,239 --> 00:48:21,779
+siong the that the impact house
+
+1136
+00:48:21,779 --> 00:48:24,869
+and that doesn't happen
+
+1137
+00:48:24,869 --> 00:48:26,430
+you reverse the image
+
+1138
+00:48:26,430 --> 00:48:29,699
+so that the fire in the smoke is in the
+right
+
+1139
+00:48:29,699 --> 00:48:30,799
+albums of space
+
+1140
+00:48:30,799 --> 00:48:32,479
+if you were asked subjects
+
+1141
+00:48:32,479 --> 00:48:34,569
+a good usc seeing patients
+
+1142
+00:48:34,569 --> 00:48:37,989
+but there's a difference between the two
+houses there they'll say yes
+
+1143
+00:48:37,989 --> 00:48:41,239
+and if you go on and stable which one
+would you rather live in they look at
+
+1144
+00:48:41,239 --> 00:48:43,459
+you like you're a moron
+
+1145
+00:48:43,459 --> 00:48:46,699
+polum principle of course would rather
+live in uh... live in this one
+
+1146
+00:48:46,699 --> 00:48:50,439
+the subjects are not consciously aware
+
+1147
+00:48:50,439 --> 00:48:55,219
+of this feature of the visual stimulus
+yet they seem to be responding to what
+
+1148
+00:48:55,219 --> 00:48:56,640
+they seem to be
+
+1149
+00:48:56,640 --> 00:48:57,309
+of
+
+1150
+00:48:57,309 --> 00:48:58,800
+they seem to be at all
+
+1151
+00:48:58,800 --> 00:49:04,319
+uh... taking that information in and it
+seems to be influencing their behavior
+
+1152
+00:49:04,319 --> 00:49:06,630
+outside of awareness
+
+1153
+00:49:06,630 --> 00:49:08,899
+okay
+
+1154
+00:49:08,899 --> 00:49:09,859
+all
+
+1155
+00:49:09,859 --> 00:49:13,609
+no i won't do that either
+
+1156
+00:49:13,609 --> 00:49:15,179
+yall do this one this is cool
+
+1157
+00:49:15,179 --> 00:49:19,999
+this is an auditory example in normal
+neurologically intact subjects doesn't
+
+1158
+00:49:19,999 --> 00:49:22,569
+work by eric wright who's a psychologist
+
+1159
+00:49:22,569 --> 00:49:26,999
+at the university of british columbia
+use a dichotomous named procedure in
+
+1160
+00:49:26,999 --> 00:49:31,429
+which subjects were asked a shadow a
+complicated pros passage that was
+
+1161
+00:49:31,429 --> 00:49:36,589
+presented to one of their here's and
+ignore what was presented to the other
+
+1162
+00:49:36,589 --> 00:49:38,029
+on here
+
+1163
+00:49:38,029 --> 00:49:42,489
+already on attended channel in the dike
+article are same procedure say heard
+
+1164
+00:49:42,489 --> 00:49:46,200
+paris socio consisting appalled a
+
+1165
+00:49:46,200 --> 00:49:47,269
+have a phone
+
+1166
+00:49:47,269 --> 00:49:50,779
+a word that it has two different
+meanings but
+
+1167
+00:49:50,779 --> 00:49:52,549
+the same sound
+
+1168
+00:49:52,549 --> 00:49:58,489
+all along with a descend biggie waiting
+word like taxi
+
+1169
+00:49:58,489 --> 00:50:00,529
+and peace
+
+1170
+00:50:00,529 --> 00:50:04,390
+later on after they finish the shadow in
+procedure they were asked if they
+
+1171
+00:50:04,390 --> 00:50:05,599
+remembered anything
+
+1172
+00:50:05,599 --> 00:50:08,349
+all of what had come over the audit
+ended channel
+
+1173
+00:50:08,349 --> 00:50:12,680
+and because it was a complicated shadow
+we cut their recognition test was of the
+
+1174
+00:50:12,680 --> 00:50:15,049
+recognition performance was very bad
+
+1175
+00:50:15,049 --> 00:50:16,119
+and then
+
+1176
+00:50:16,119 --> 00:50:19,660
+all what i did was do what they say okay
+now less than we're going to a spelling
+
+1177
+00:50:19,660 --> 00:50:23,089
+test i want to spell the following words
+for me
+
+1178
+00:50:23,089 --> 00:50:27,390
+and he presented them with these
+powerful
+
+1179
+00:50:27,390 --> 00:50:31,739
+how do you spell the word fair you can
+spell it that they are really as in taxi
+
+1180
+00:50:31,739 --> 00:50:36,319
+fare or you can split so that they are
+yaar as unfair plays
+
+1181
+00:50:36,319 --> 00:50:39,699
+you could spell at p_ a c_ is that
+warranties
+
+1182
+00:50:39,699 --> 00:50:44,229
+or you can spell it p r_u_c_ as in piece
+of pie
+
+1183
+00:50:44,229 --> 00:50:49,309
+and what you see here is recognition is
+very poor no better recognizing targets
+
+1184
+00:50:49,309 --> 00:50:50,890
+that morris
+
+1185
+00:50:50,890 --> 00:50:57,289
+faith showed dot strong tendency to
+spell the hama phones in their direction
+
+1186
+00:50:57,289 --> 00:51:01,319
+implied by the paris owes his presented
+over the unattended channel
+
+1187
+00:51:01,319 --> 00:51:04,140
+no conscious awareness of this
+
+1188
+00:51:04,140 --> 00:51:08,660
+it prime their performance on the
+spelling test a bunch of examples of
+
+1189
+00:51:08,660 --> 00:51:11,539
+implicit perception
+
+1190
+00:51:11,539 --> 00:51:15,559
+okay have a good weekend next week will
+gobble gobble move on
+
+1191
+00:51:15,559 --> 00:51:18,289
+to a couple other domains of implicit
+cognition
+
+1192
+00:51:18,289 --> 00:51:22,200
+and then we'll talk about implicit or
+unconscious
+
+1193
+00:51:22,200 --> 00:51:22,579
+thank you very much
+

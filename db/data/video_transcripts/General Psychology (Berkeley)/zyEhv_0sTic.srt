@@ -1,0 +1,4975 @@
+﻿1
+00:00:09,559 --> 00:00:12,619
+okay
+
+2
+00:00:12,619 --> 00:00:15,369
+last time we began to discuss
+
+3
+00:00:15,369 --> 00:00:17,320
+the
+
+4
+00:00:17,320 --> 00:00:22,769
+problems with the traditional stimulus
+response or s our theory of learning
+
+5
+00:00:22,769 --> 00:00:24,560
+one of which comes from
+
+6
+00:00:24,560 --> 00:00:30,949
+a classic study of taste aversion by
+garcia and his colleagues
+
+7
+00:00:30,949 --> 00:00:34,450
+errant gallery called the white garcia's
+colleagues did
+
+8
+00:00:34,450 --> 00:00:38,620
+was to take a compound conditioned
+stimulus
+
+9
+00:00:38,620 --> 00:00:41,110
+bright noisy sweetwater
+
+10
+00:00:41,110 --> 00:00:41,989
+and parent
+
+11
+00:00:41,989 --> 00:00:47,699
+either with a food chocolate bird while
+the animal was drinking which elicits
+
+12
+00:00:47,699 --> 00:00:48,840
+immediate
+
+13
+00:00:48,840 --> 00:00:50,160
+unpleasantness
+
+14
+00:00:50,160 --> 00:00:52,719
+or with x radiation
+
+15
+00:00:52,719 --> 00:00:54,860
+delivered while the animal was drinking
+
+16
+00:00:54,860 --> 00:00:56,490
+which
+
+17
+00:00:56,490 --> 00:00:58,600
+all of you a sense
+
+18
+00:00:58,600 --> 00:00:59,300
+delayed
+
+19
+00:00:59,300 --> 00:01:01,080
+on pleasant news
+
+20
+00:01:01,080 --> 00:01:05,290
+and that what garcia did was to
+
+21
+00:01:05,290 --> 00:01:06,509
+test
+
+22
+00:01:06,509 --> 00:01:08,890
+the animals
+
+23
+00:01:08,890 --> 00:01:10,959
+fear in the presence of the water
+
+24
+00:01:10,959 --> 00:01:14,990
+by giving them to different sources of
+water to drink from to choose from
+
+25
+00:01:14,990 --> 00:01:19,620
+either bright noisy water water
+accompanied by the light minorities
+
+26
+00:01:19,620 --> 00:01:23,869
+or sweetwater water flavored with
+saccharine
+
+27
+00:01:23,869 --> 00:01:25,869
+and as i showed you last time
+
+28
+00:01:25,869 --> 00:01:29,310
+the animals that were shocked
+
+29
+00:01:29,310 --> 00:01:31,299
+preferred the sweetwater
+
+30
+00:01:31,299 --> 00:01:34,520
+intended to avoid the bright noisy water
+
+31
+00:01:34,520 --> 00:01:37,380
+whereas the animals that were
+
+32
+00:01:37,380 --> 00:01:38,400
+irradiated
+
+33
+00:01:38,400 --> 00:01:42,060
+tended to prefer the bright noisy water
+
+34
+00:01:42,060 --> 00:01:45,190
+and to avoid the sweetwater
+
+35
+00:01:45,190 --> 00:01:48,279
+what we have here at this and citizens
+
+36
+00:01:48,279 --> 00:01:49,160
+interesting
+
+37
+00:01:49,160 --> 00:01:49,660
+instance
+
+38
+00:01:49,660 --> 00:01:53,140
+of the violation of the arbitrariness
+assumption
+
+39
+00:01:53,140 --> 00:01:54,049
+because
+
+40
+00:01:54,049 --> 00:01:56,770
+all three all of these
+
+41
+00:01:56,770 --> 00:01:57,420
+balance
+
+42
+00:01:57,420 --> 00:01:58,799
+have been
+
+43
+00:01:58,799 --> 00:02:02,549
+parent equally well with the un
+conditions stimuli
+
+44
+00:02:02,549 --> 00:02:06,520
+yet it turns out
+
+45
+00:02:06,520 --> 00:02:12,200
+it's easier for an animal to learn about
+the association between light and noise
+
+46
+00:02:12,200 --> 00:02:14,329
+and shock
+
+47
+00:02:14,329 --> 00:02:17,539
+that it is to learn about the
+association between
+
+48
+00:02:17,539 --> 00:02:17,950
+paste
+
+49
+00:02:17,950 --> 00:02:18,979
+and shock
+
+50
+00:02:18,979 --> 00:02:20,419
+and it's easier for the animal
+
+51
+00:02:20,419 --> 00:02:23,040
+to learn the association between taste
+
+52
+00:02:23,040 --> 00:02:24,339
+and nausea
+
+53
+00:02:24,339 --> 00:02:27,460
+that it is worth a learned the
+association between light
+
+54
+00:02:27,460 --> 00:02:28,400
+and always
+
+55
+00:02:28,400 --> 00:02:29,689
+and nausea
+
+56
+00:02:29,689 --> 00:02:31,319
+now last time i argued
+
+57
+00:02:31,319 --> 00:02:33,109
+that this experiment
+
+58
+00:02:33,109 --> 00:02:34,219
+violates
+
+59
+00:02:34,219 --> 00:02:37,679
+the result of these experienced by first
+and foremost
+
+60
+00:02:37,679 --> 00:02:39,720
+violates the arbitrariness assumption
+
+61
+00:02:39,720 --> 00:02:43,920
+of the stimulus response learning theory
+because the arbitrariness assumption
+
+62
+00:02:43,920 --> 00:02:44,250
+says
+
+63
+00:02:44,250 --> 00:02:47,249
+you can take any condition stimulus
+
+64
+00:02:47,249 --> 00:02:51,199
+and paragraph anytime conditions
+stimulus and get conditioning it turns
+
+65
+00:02:51,199 --> 00:02:52,939
+out not to be the case
+
+66
+00:02:52,939 --> 00:02:54,310
+it's much easier
+
+67
+00:02:54,310 --> 00:02:55,659
+to condition
+
+68
+00:02:55,659 --> 00:02:57,449
+fear of shock
+
+69
+00:02:57,449 --> 00:02:58,799
+or avoidance of shock
+
+70
+00:02:58,799 --> 00:03:02,170
+to light and sound that it is to taste
+
+71
+00:03:02,170 --> 00:03:03,420
+it's much easier
+
+72
+00:03:03,420 --> 00:03:04,610
+the condition
+
+73
+00:03:04,610 --> 00:03:06,969
+all version two x radiation
+
+74
+00:03:06,969 --> 00:03:08,209
+for nausea
+
+75
+00:03:08,209 --> 00:03:09,239
+to taste
+
+76
+00:03:09,239 --> 00:03:11,689
+than the light and sound
+
+77
+00:03:11,689 --> 00:03:13,889
+apparently rats are built
+
+78
+00:03:13,889 --> 00:03:15,319
+by evolution
+
+79
+00:03:15,319 --> 00:03:17,069
+to associate taste
+
+80
+00:03:17,069 --> 00:03:21,620
+with the gastrointestinal consequences
+of what
+
+81
+00:03:21,620 --> 00:03:22,219
+ingest
+
+82
+00:03:22,219 --> 00:03:24,680
+and they were built by virtue of
+evolution
+
+83
+00:03:24,680 --> 00:03:26,009
+to associate
+
+84
+00:03:26,009 --> 00:03:27,269
+the alone
+
+85
+00:03:27,269 --> 00:03:32,069
+our sights and sounds in their
+environment
+
+86
+00:03:32,069 --> 00:03:36,739
+so not only though do these results
+violate the arbitrariness assumption
+
+87
+00:03:36,739 --> 00:03:40,170
+they also violate the assumption of the
+empty organism
+
+88
+00:03:40,170 --> 00:03:43,290
+because they tell us that we have to
+know something about the organisms
+
+89
+00:03:43,290 --> 00:03:48,369
+evolutionary history power it is built
+as a biological
+
+90
+00:03:48,369 --> 00:03:48,920
+creature
+
+91
+00:03:48,920 --> 00:03:52,889
+to understand wanted can learn and what
+it at work
+
+92
+00:03:52,889 --> 00:03:57,509
+and then i think i said in passing last
+time
+
+93
+00:03:57,509 --> 00:03:59,990
+this is an experiment also violated
+
+94
+00:03:59,990 --> 00:04:03,719
+the assumption of association by
+conjugate woody
+
+95
+00:04:03,719 --> 00:04:09,379
+and the reason for that is the elements
+on the compound condition stimulus are
+
+96
+00:04:09,379 --> 00:04:14,039
+all equally contiguous
+
+97
+00:04:14,039 --> 00:04:15,539
+for charter
+
+98
+00:04:15,539 --> 00:04:18,600
+and they're all equally contiguous
+
+99
+00:04:18,600 --> 00:04:20,070
+the x-ray
+
+100
+00:04:20,070 --> 00:04:21,219
+okay
+
+101
+00:04:21,219 --> 00:04:22,240
+yet
+
+102
+00:04:22,240 --> 00:04:24,650
+some of these stimuli
+
+103
+00:04:24,650 --> 00:04:28,389
+get associated with these on cat what
+some of these conditions there like a
+
+104
+00:04:28,389 --> 00:04:28,970
+dissociated
+
+105
+00:04:28,970 --> 00:04:32,019
+with these different on conditions there
+like and others don't
+
+106
+00:04:32,019 --> 00:04:32,720
+moreover
+
+107
+00:04:32,720 --> 00:04:34,440
+if you think about it for a second
+
+108
+00:04:34,440 --> 00:04:39,330
+the arable may feel before chalk
+certainly does deal with which are
+
+109
+00:04:39,330 --> 00:04:40,559
+condones of like it
+
+110
+00:04:40,559 --> 00:04:45,680
+but the adult docent feel the x-rays
+when they were being
+
+111
+00:04:45,680 --> 00:04:48,249
+deliver okay you don't feel those things
+
+112
+00:04:48,249 --> 00:04:52,009
+but what the animal does feel is the
+nausea
+
+113
+00:04:52,009 --> 00:04:54,119
+that occurs much later
+
+114
+00:04:54,119 --> 00:04:56,199
+so if we have a condition
+
+115
+00:04:56,199 --> 00:04:57,259
+in which
+
+116
+00:04:57,259 --> 00:05:00,810
+and but the commission stimulus the
+taste of the water
+
+117
+00:05:00,810 --> 00:05:03,310
+ken get paired off with nausea
+
+118
+00:05:03,310 --> 00:05:05,629
+even though there's a big delaying
+
+119
+00:05:05,629 --> 00:05:07,830
+between the taste
+
+120
+00:05:07,830 --> 00:05:08,979
+and the dawn steel
+
+121
+00:05:08,979 --> 00:05:10,310
+so this violates
+
+122
+00:05:10,310 --> 00:05:14,069
+the assumption of association by kon
+tiki audios well
+
+123
+00:05:14,069 --> 00:05:15,180
+by showing
+
+124
+00:05:15,180 --> 00:05:17,349
+that an association to be forum
+
+125
+00:05:17,349 --> 00:05:21,639
+between events that are widely separated
+in time
+
+126
+00:05:21,639 --> 00:05:24,650
+what i want to do today is to pick up
+
+127
+00:05:24,650 --> 00:05:26,629
+on
+
+128
+00:05:26,629 --> 00:05:29,349
+problem of association by kon tiki
+already
+
+129
+00:05:29,349 --> 00:05:30,680
+and demonstrate
+
+130
+00:05:30,680 --> 00:05:34,659
+in some other ways that it is not the
+right principle
+
+131
+00:05:34,659 --> 00:05:37,089
+of association
+
+132
+00:05:37,089 --> 00:05:41,650
+here for example is what's known as the
+standard paradigm for classical
+
+133
+00:05:41,650 --> 00:05:42,689
+conditioning
+
+134
+00:05:42,689 --> 00:05:46,960
+this is a schematic diagram of a century
+what pavlov did
+
+135
+00:05:46,960 --> 00:05:49,560
+and for that matter what everybody else
+does
+
+136
+00:05:49,560 --> 00:05:51,039
+huang
+
+137
+00:05:51,039 --> 00:05:53,860
+held with who studies boat
+
+138
+00:05:53,860 --> 00:05:54,949
+classical conditioning
+
+139
+00:05:54,949 --> 00:05:59,189
+we have conditioned stimulus the battle
+
+140
+00:05:59,189 --> 00:06:00,449
+is presented
+
+141
+00:06:00,449 --> 00:06:02,749
+at roughly the same time as the food
+
+142
+00:06:02,749 --> 00:06:03,900
+dole food
+
+143
+00:06:03,900 --> 00:06:08,280
+bell food bell food and by virtue of the
+repeated paryant
+
+144
+00:06:08,280 --> 00:06:10,020
+of the bell and the food
+
+145
+00:06:10,020 --> 00:06:13,259
+the adl comes to celebrate to the battle
+
+146
+00:06:13,259 --> 00:06:15,389
+in the same way as it celebrates
+
+147
+00:06:15,389 --> 00:06:16,379
+to the photo
+
+148
+00:06:16,379 --> 00:06:19,460
+i remember the standard exploration of
+this is
+
+149
+00:06:19,460 --> 00:06:22,460
+that because the ballad of food are
+presented
+
+150
+00:06:22,460 --> 00:06:24,689
+close together in time
+
+151
+00:06:24,689 --> 00:06:27,790
+that's what association by conjugate
+woody means
+
+152
+00:06:27,790 --> 00:06:33,289
+close together in time that an
+association is formed between them
+
+153
+00:06:33,289 --> 00:06:35,979
+all well and go ahead
+
+154
+00:06:35,979 --> 00:06:37,129
+except that
+
+155
+00:06:37,129 --> 00:06:40,870
+here it is another paradigm in classical
+conditioning
+
+156
+00:06:40,870 --> 00:06:43,189
+known as delay conditioning
+
+157
+00:06:43,189 --> 00:06:44,030
+and here
+
+158
+00:06:44,030 --> 00:06:46,699
+the onset of the condition stimulus
+
+159
+00:06:46,699 --> 00:06:47,789
+occurs
+
+160
+00:06:47,789 --> 00:06:49,520
+and then some
+
+161
+00:06:49,520 --> 00:06:50,979
+time later
+
+162
+00:06:50,979 --> 00:06:54,830
+the odds that all of the un conditions
+stimulus occurs
+
+163
+00:06:54,830 --> 00:06:55,909
+and the fact is
+
+164
+00:06:55,909 --> 00:06:58,900
+that even though the onset of the
+convention stimulus
+
+165
+00:06:58,900 --> 00:07:03,160
+and the onset of young condition
+stimulus are now separated by an
+
+166
+00:07:03,160 --> 00:07:04,970
+appreciable da way
+
+167
+00:07:04,970 --> 00:07:09,719
+you still get good conditioning you
+still get the animal
+
+168
+00:07:09,719 --> 00:07:11,759
+responding to bell
+
+169
+00:07:11,759 --> 00:07:14,419
+all it the way it had responded to the
+following
+
+170
+00:07:14,419 --> 00:07:16,360
+they could say well alright
+
+171
+00:07:16,360 --> 00:07:18,990
+the onset of the condition stimulus
+
+172
+00:07:18,990 --> 00:07:22,590
+is delay the onset of young condition
+stimulus is delayed
+
+173
+00:07:22,590 --> 00:07:25,499
+with respect to the onset of the
+conditions that those
+
+174
+00:07:25,499 --> 00:07:27,469
+but there's still this period of time
+
+175
+00:07:27,469 --> 00:07:28,979
+when they're together
+
+176
+00:07:28,979 --> 00:07:31,370
+where the animal is getting food
+
+177
+00:07:31,370 --> 00:07:33,619
+and the bell is still on
+
+178
+00:07:33,619 --> 00:07:35,319
+all right
+
+179
+00:07:35,319 --> 00:07:36,330
+leads us to
+
+180
+00:07:36,330 --> 00:07:37,900
+on a third
+
+181
+00:07:37,900 --> 00:07:39,930
+paradigm in classical conditioning
+
+182
+00:07:39,930 --> 00:07:41,999
+known as trace conditioning
+
+183
+00:07:41,999 --> 00:07:44,409
+where the bell comes on
+
+184
+00:07:44,409 --> 00:07:46,210
+and then it goes off
+
+185
+00:07:46,210 --> 00:07:48,630
+and sometime later the food
+
+186
+00:07:48,630 --> 00:07:49,650
+comes on
+
+187
+00:07:49,650 --> 00:07:52,500
+and then later the food goes off
+
+188
+00:07:52,500 --> 00:07:55,720
+there is a delay between the offset
+
+189
+00:07:55,720 --> 00:07:57,289
+of the condition stimulus
+
+190
+00:07:57,289 --> 00:08:00,089
+and the onset of the on conditions
+stimulus
+
+191
+00:08:00,089 --> 00:08:03,449
+there are no longer presented together
+at any point
+
+192
+00:08:03,449 --> 00:08:04,949
+in the procedure
+
+193
+00:08:04,949 --> 00:08:06,819
+but you still
+
+194
+00:08:06,819 --> 00:08:08,680
+fairer amount all
+
+195
+00:08:08,680 --> 00:08:09,689
+classical
+
+196
+00:08:09,689 --> 00:08:10,199
+conditioning
+
+197
+00:08:10,199 --> 00:08:13,309
+you still get the animals celebrating
+for the bell
+
+198
+00:08:13,309 --> 00:08:14,619
+as it's elevated
+
+199
+00:08:14,619 --> 00:08:16,319
+to for food
+
+200
+00:08:16,319 --> 00:08:17,800
+and to kind of
+
+201
+00:08:17,800 --> 00:08:19,849
+nail down the point
+
+202
+00:08:19,849 --> 00:08:24,349
+here is a fourth variant on the
+classical conditioning
+
+203
+00:08:24,349 --> 00:08:25,110
+paradigm
+
+204
+00:08:25,110 --> 00:08:27,410
+known as simultaneous conditioning
+
+205
+00:08:27,410 --> 00:08:28,509
+where
+
+206
+00:08:28,509 --> 00:08:31,830
+notice that the audience that of the
+conditions stimulus
+
+207
+00:08:31,830 --> 00:08:36,710
+occurs at exactly the same time as the
+onset of the on condition stimulus
+
+208
+00:08:36,710 --> 00:08:41,180
+and the offset of the conditions
+stimulus occurs at exactly the same time
+
+209
+00:08:41,180 --> 00:08:45,030
+as the offset of the unconditional
+stimulus
+
+210
+00:08:45,030 --> 00:08:46,340
+as this
+
+211
+00:08:46,340 --> 00:08:47,340
+line indicates
+
+212
+00:08:47,340 --> 00:08:49,550
+no condition occurs
+
+213
+00:08:49,550 --> 00:08:50,970
+how could that be
+
+214
+00:08:50,970 --> 00:08:54,560
+if conditioning if forming an
+association
+
+215
+00:08:54,560 --> 00:09:00,790
+was a matter of associating temporally
+contiguous events you ought to get very
+
+216
+00:09:00,790 --> 00:09:02,819
+nice association between
+
+217
+00:09:02,819 --> 00:09:05,800
+the conditioned stimulus and the on
+conditions there was
+
+218
+00:09:05,800 --> 00:09:08,080
+because the tuesday lawyer or a career
+
+219
+00:09:08,080 --> 00:09:10,890
+at precisely the same time
+
+220
+00:09:10,890 --> 00:09:14,790
+you can get more contiguous than that
+
+221
+00:09:14,790 --> 00:09:19,270
+there's no conditioning that occurrence
+
+222
+00:09:19,270 --> 00:09:21,740
+and if
+
+223
+00:09:21,740 --> 00:09:23,919
+for their demonstration needed
+
+224
+00:09:23,919 --> 00:09:28,579
+here's a paradigm known as backwards
+conditioning another variant on
+
+225
+00:09:28,579 --> 00:09:29,970
+classical conditioning
+
+226
+00:09:29,970 --> 00:09:34,590
+where the odd condition stimulus comes
+on the food is presented
+
+227
+00:09:34,590 --> 00:09:35,210
+before
+
+228
+00:09:35,210 --> 00:09:38,660
+the condition stimulus comes on so it's
+food bell
+
+229
+00:09:38,660 --> 00:09:43,280
+food bell food bell
+
+230
+00:09:43,280 --> 00:09:46,140
+and even though there's some overlap
+
+231
+00:09:46,140 --> 00:09:50,120
+and even though the onset of the food in
+the onset of the bellacor pretty close
+
+232
+00:09:50,120 --> 00:09:51,170
+together
+
+233
+00:09:51,170 --> 00:09:55,440
+enough in time still noel conditioning
+occurs
+
+234
+00:09:55,440 --> 00:09:57,839
+notice that in backwards conditioning
+
+235
+00:09:57,839 --> 00:10:00,950
+the temporal arrangements are exactly
+the same
+
+236
+00:10:00,950 --> 00:10:04,640
+except that they've been reversed
+
+237
+00:10:04,640 --> 00:10:08,240
+shortly followed by dole
+
+238
+00:10:08,240 --> 00:10:10,420
+whereas in the standard paradigm
+
+239
+00:10:10,420 --> 00:10:13,190
+it's bell shortly buffaloed by food
+
+240
+00:10:13,190 --> 00:10:19,710
+when the bell as follow by food you get
+conditioning
+
+241
+00:10:19,710 --> 00:10:23,510
+when the food is followed by the bell
+you know
+
+242
+00:10:23,510 --> 00:10:24,740
+conditioning
+
+243
+00:10:24,740 --> 00:10:26,250
+even though
+
+244
+00:10:26,250 --> 00:10:27,310
+temporal relations
+
+245
+00:10:27,310 --> 00:10:30,709
+or otherwise exactly the same betu
+
+246
+00:10:30,709 --> 00:10:31,850
+ulm of events
+
+247
+00:10:31,850 --> 00:10:33,339
+are occurring
+
+248
+00:10:33,339 --> 00:10:35,720
+close together in space and time
+
+249
+00:10:35,720 --> 00:10:40,000
+let me say one more thing about
+backwards conditioning in fact what you
+
+250
+00:10:40,000 --> 00:10:41,380
+get in
+
+251
+00:10:41,380 --> 00:10:42,340
+backwards commissioning
+
+252
+00:10:42,340 --> 00:10:44,500
+is not just be the lack
+
+253
+00:10:44,500 --> 00:10:46,270
+of a conditioned response
+
+254
+00:10:46,270 --> 00:10:51,460
+you will actually get the in addition
+other conditioned response or a police
+
+255
+00:10:51,460 --> 00:10:53,510
+oppression of air conditioned response
+
+256
+00:10:53,510 --> 00:11:00,180
+we see this very clearly enough paradigm
+known as fair conditioning where tone
+
+257
+00:11:00,180 --> 00:11:01,510
+paired with shock
+
+258
+00:11:01,510 --> 00:11:02,850
+the tones so yes
+
+259
+00:11:02,850 --> 00:11:05,169
+is followed by the shock
+
+260
+00:11:05,169 --> 00:11:06,480
+u_s_ okay
+
+261
+00:11:06,480 --> 00:11:07,600
+and what happens
+
+262
+00:11:07,600 --> 00:11:08,629
+when you do this
+
+263
+00:11:08,629 --> 00:11:10,029
+is that you get
+
+264
+00:11:10,029 --> 00:11:14,899
+they could that one of the physiological
+responses to beyond commission stimulus
+
+265
+00:11:14,899 --> 00:11:15,890
+shock
+
+266
+00:11:15,890 --> 00:11:18,510
+heart rate the celebration the alleles
+were frayed
+
+267
+00:11:18,510 --> 00:11:19,639
+and when you're afraid
+
+268
+00:11:19,639 --> 00:11:21,810
+your heart rate or speeds off
+
+269
+00:11:21,810 --> 00:11:26,650
+that's a physiological index of fear and
+what happens is after repeated parents
+
+270
+00:11:26,650 --> 00:11:28,639
+of the tone and the shock
+
+271
+00:11:28,639 --> 00:11:29,499
+you've got
+
+272
+00:11:29,499 --> 00:11:32,249
+heart rate a celebration to the tone
+
+273
+00:11:32,249 --> 00:11:35,299
+as well as to the shock that's air
+conditioned
+
+274
+00:11:35,299 --> 00:11:36,590
+for your response
+
+275
+00:11:36,590 --> 00:11:39,250
+now that's true if u
+
+276
+00:11:39,250 --> 00:11:41,790
+golf ball use the standard paradigm
+
+277
+00:11:41,790 --> 00:11:43,800
+where the toll follows shock
+
+278
+00:11:43,800 --> 00:11:46,310
+you'll get the heart rate deceleration
+of the tone
+
+279
+00:11:46,310 --> 00:11:48,890
+what's known as a condition for your
+response
+
+280
+00:11:48,890 --> 00:11:50,730
+but if u
+
+281
+00:11:50,730 --> 00:11:52,170
+the arrangements
+
+282
+00:11:52,170 --> 00:11:53,390
+the reverse
+
+283
+00:11:53,390 --> 00:11:57,530
+where shock comes on and then the tone
+comes on
+
+284
+00:11:57,530 --> 00:12:00,850
+you don't get heart rate the celebration
+during the tone
+
+285
+00:12:00,850 --> 00:12:02,459
+in fact you get its opposite
+
+286
+00:12:02,459 --> 00:12:04,830
+you get heart rate deceleration
+
+287
+00:12:04,830 --> 00:12:05,759
+for the tone
+
+288
+00:12:05,759 --> 00:12:09,170
+okay the suppression of a condition for
+your response
+
+289
+00:12:09,170 --> 00:12:14,610
+why would that be
+
+290
+00:12:14,610 --> 00:12:18,260
+one hello hello
+
+291
+00:12:18,260 --> 00:12:20,390
+that's right exactly what's happening
+
+292
+00:12:20,390 --> 00:12:24,540
+off the hours in the starter paradigm
+the tone communicates to the animal yet
+
+293
+00:12:24,540 --> 00:12:26,450
+i got shocked
+
+294
+00:12:26,450 --> 00:12:27,280
+okay
+
+295
+00:12:27,280 --> 00:12:30,670
+in the backward paradigm the tone
+communicates to be out of all that you
+
+296
+00:12:30,670 --> 00:12:34,330
+not being shocked anymore you're not
+going to get shocked for a while
+
+297
+00:12:34,330 --> 00:12:36,860
+it's consul most like the safety signal
+
+298
+00:12:36,860 --> 00:12:39,240
+so here in backwards conditioning
+
+299
+00:12:39,240 --> 00:12:40,080
+you will get the
+
+300
+00:12:40,080 --> 00:12:45,150
+in addition or the suppression all volvo
+video of a normal
+
+301
+00:12:45,150 --> 00:12:47,139
+of course the condition
+
+302
+00:12:47,139 --> 00:12:49,230
+condition response
+
+303
+00:12:49,230 --> 00:12:50,570
+what these
+
+304
+00:12:50,570 --> 00:12:55,450
+points illustrate is that associations
+are not toward according to a principle
+
+305
+00:12:55,450 --> 00:12:56,580
+of
+
+306
+00:12:56,580 --> 00:12:59,350
+contingent of of what kinda get woody
+
+307
+00:12:59,350 --> 00:13:00,760
+instead
+
+308
+00:13:00,760 --> 00:13:01,700
+associations are formed
+
+309
+00:13:01,700 --> 00:13:05,050
+by principal all contingency
+
+310
+00:13:05,050 --> 00:13:08,870
+bike i think you honey we mean but the
+condition stimulus and the young
+
+311
+00:13:08,870 --> 00:13:11,940
+conditioned stimulus occur together in
+space and time
+
+312
+00:13:11,940 --> 00:13:13,690
+co-occurring space and time
+
+313
+00:13:13,690 --> 00:13:16,120
+by contingency we mean
+
+314
+00:13:16,120 --> 00:13:18,120
+that the conditions they millis
+
+315
+00:13:18,120 --> 00:13:19,230
+pretexts
+
+316
+00:13:19,230 --> 00:13:21,650
+be on condition stimulus
+
+317
+00:13:21,650 --> 00:13:24,740
+then the standard paradigm for classical
+conditioning
+
+318
+00:13:24,740 --> 00:13:29,390
+where the c_s_ and the u_s_ occur close
+together with the c_s_ preceding the
+
+319
+00:13:29,390 --> 00:13:31,170
+u_s_ by your short interval
+
+320
+00:13:31,170 --> 00:13:35,679
+but couldnt believe was seen as the u_s_
+are both contentioned and contiguous
+
+321
+00:13:35,679 --> 00:13:38,630
+they occur close together in space and
+time
+
+322
+00:13:38,630 --> 00:13:40,079
+bop more important
+
+323
+00:13:40,079 --> 00:13:41,979
+the condition stimulus
+
+324
+00:13:41,979 --> 00:13:42,330
+pretext
+
+325
+00:13:42,330 --> 00:13:45,720
+the onset albion conditioned stimulus
+
+326
+00:13:45,720 --> 00:13:47,310
+and delay conditioning
+
+327
+00:13:47,310 --> 00:13:48,899
+and then trace conditioning
+
+328
+00:13:48,899 --> 00:13:50,710
+we degraded
+
+329
+00:13:50,710 --> 00:13:52,150
+but continuity
+
+330
+00:13:52,150 --> 00:13:53,939
+between the c_b_s_ in the u_s_
+
+331
+00:13:53,939 --> 00:13:57,800
+they're no longer appearing so close
+together in space and time
+
+332
+00:13:57,800 --> 00:13:59,150
+but it's still the case
+
+333
+00:13:59,150 --> 00:14:04,070
+that the c_s_ predicts the u_s_ so it's
+the c_s_ comes on first
+
+334
+00:14:04,070 --> 00:14:05,190
+and then the u_s_
+
+335
+00:14:05,190 --> 00:14:06,740
+comes on later
+
+336
+00:14:06,740 --> 00:14:10,019
+where the c_ as in the u_s_ are
+contingent but not contiguous
+
+337
+00:14:10,019 --> 00:14:11,460
+you still get
+
+338
+00:14:11,460 --> 00:14:13,920
+okay conditioning
+
+339
+00:14:13,920 --> 00:14:16,400
+notice what happens in the simultaneous
+case
+
+340
+00:14:16,400 --> 00:14:20,139
+the c_s_ in the u_s_ they're contiguous
+with each other
+
+341
+00:14:20,139 --> 00:14:24,040
+therapy reno's close together in space
+and time is anytime stimuli possibly
+
+342
+00:14:24,040 --> 00:14:25,030
+could
+
+343
+00:14:25,030 --> 00:14:29,080
+but the contingency has now been
+degraded
+
+344
+00:14:29,080 --> 00:14:32,310
+when the bell comes on at the same time
+as the food
+
+345
+00:14:32,310 --> 00:14:35,750
+or the tone comes on at the same time as
+the shock
+
+346
+00:14:35,750 --> 00:14:39,990
+this the c_s_ ism predicting anything
+anymore
+
+347
+00:14:39,990 --> 00:14:40,870
+on and
+
+348
+00:14:40,870 --> 00:14:42,689
+in backwards conditioning
+
+349
+00:14:42,689 --> 00:14:46,559
+where the u_s_ comes on and then later
+the c_s_ comes on
+
+350
+00:14:46,559 --> 00:14:49,430
+what the c_s_ is actually predict
+because the absence
+
+351
+00:14:49,430 --> 00:14:51,320
+of the on conditions there
+
+352
+00:14:51,320 --> 00:14:53,350
+so we get conditioning
+
+353
+00:14:53,350 --> 00:14:55,460
+so long as
+
+354
+00:14:55,460 --> 00:14:59,610
+yes and the u_s_ are in a contingent
+relationship
+
+355
+00:14:59,610 --> 00:15:01,550
+regardless of the continuity
+
+356
+00:15:01,550 --> 00:15:02,709
+even though
+
+357
+00:15:02,709 --> 00:15:05,230
+on that as well as long as the c_e_o_'s
+predicts
+
+358
+00:15:05,230 --> 00:15:06,839
+the u_s_ you're going
+
+359
+00:15:06,839 --> 00:15:09,850
+to get or they're going to get
+
+360
+00:15:09,850 --> 00:15:11,460
+conditioning
+
+361
+00:15:11,460 --> 00:15:14,590
+so what we're looking at here now
+
+362
+00:15:14,590 --> 00:15:17,500
+the importance of the information
+
+363
+00:15:17,500 --> 00:15:20,449
+that's provided by the condition
+stimulus
+
+364
+00:15:20,449 --> 00:15:22,660
+to the adult
+
+365
+00:15:22,660 --> 00:15:27,210
+when the upon conditioned stimulus is
+contingent on the condition stimulus
+
+366
+00:15:27,210 --> 00:15:30,950
+then the conditions they're most is
+providing information to be out of all
+
+367
+00:15:30,950 --> 00:15:33,970
+about what's going to happen next when
+the bell comes on
+
+368
+00:15:33,970 --> 00:15:37,420
+the bell tells the animal your gonna get
+fed
+
+369
+00:15:37,420 --> 00:15:38,979
+when the tone comes on
+
+370
+00:15:38,979 --> 00:15:42,640
+but only tells the animal you're gonna
+get shocked
+
+371
+00:15:42,640 --> 00:15:44,980
+but in the final taneous case
+
+372
+00:15:44,980 --> 00:15:47,870
+what the tone tells the animal is
+
+373
+00:15:47,870 --> 00:15:50,240
+european shocked
+
+374
+00:15:50,240 --> 00:15:52,840
+any other will already knows that
+
+375
+00:15:52,840 --> 00:15:53,560
+okay
+
+376
+00:15:53,560 --> 00:15:56,170
+doesn't mean that information is got no
+use
+
+377
+00:15:56,170 --> 00:16:01,710
+offer that information so condition
+occurs because
+
+378
+00:16:01,710 --> 00:16:03,510
+and all the f
+
+379
+00:16:03,510 --> 00:16:07,490
+the condition stimulus provides
+information about the u_n_ conditions
+
+380
+00:16:07,490 --> 00:16:08,260
+stimulus
+
+381
+00:16:08,260 --> 00:16:09,179
+where
+
+382
+00:16:09,179 --> 00:16:12,339
+beyonce condition stimulus is not
+informative about the on conditions
+
+383
+00:16:12,339 --> 00:16:13,470
+there goes
+
+384
+00:16:13,470 --> 00:16:19,160
+condition stimulus or the conditioning
+simply isn't going to
+
+385
+00:16:19,160 --> 00:16:22,760
+let's take a break for a second any
+questions about these various paradox of
+
+386
+00:16:22,760 --> 00:16:25,140
+what the report rations are
+
+387
+00:16:25,140 --> 00:16:26,740
+association by contribution
+
+388
+00:16:26,740 --> 00:16:30,650
+appears not to be the principle of
+association
+
+389
+00:16:30,650 --> 00:16:33,460
+association by cob by contingency
+
+390
+00:16:33,460 --> 00:16:37,530
+the principal it's not whether the c_s_
+in the u_s_ occur close together in
+
+391
+00:16:37,530 --> 00:16:38,839
+space and time
+
+392
+00:16:38,839 --> 00:16:40,050
+that's important
+
+393
+00:16:40,050 --> 00:16:42,269
+what's important is at the c_e_o_s
+
+394
+00:16:42,269 --> 00:16:48,230
+predicts the u_s_ yes
+
+395
+00:16:48,230 --> 00:16:49,080
+sure
+
+396
+00:16:49,080 --> 00:16:52,800
+in delay conditioning where i my
+
+397
+00:16:52,800 --> 00:16:54,320
+in delay conditioning
+
+398
+00:16:54,320 --> 00:16:55,889
+the asset
+
+399
+00:16:55,889 --> 00:17:01,150
+all of the on conditions stimulus is
+delayed by some interval
+
+400
+00:17:01,150 --> 00:17:02,720
+notice that this
+
+401
+00:17:02,720 --> 00:17:06,160
+interval between onset of csn onset of
+u_s_
+
+402
+00:17:06,160 --> 00:17:07,730
+is longer
+
+403
+00:17:07,730 --> 00:17:08,530
+then in
+
+404
+00:17:08,530 --> 00:17:11,079
+the standard case
+
+405
+00:17:11,079 --> 00:17:13,310
+so there's our domain
+
+406
+00:17:13,310 --> 00:17:17,480
+between the onset of the one in the
+onset of the other okay
+
+407
+00:17:17,480 --> 00:17:19,600
+notice that there's still some overlap
+
+408
+00:17:19,600 --> 00:17:25,410
+the condition stimulus is still on when
+the food comes on
+
+409
+00:17:25,410 --> 00:17:26,230
+trace
+
+410
+00:17:26,230 --> 00:17:27,730
+conditioning
+
+411
+00:17:27,730 --> 00:17:30,410
+the convention stimulus is gone
+
+412
+00:17:30,410 --> 00:17:32,089
+before the food comes on
+
+413
+00:17:32,089 --> 00:17:35,830
+it's called trace conditioning because
+it's as if you have to have a trace of
+
+414
+00:17:35,830 --> 00:17:37,830
+the c_b_s_ and memory
+
+415
+00:17:37,830 --> 00:17:38,730
+for conditioning
+
+416
+00:17:38,730 --> 00:17:40,530
+to occur
+
+417
+00:17:40,530 --> 00:17:43,370
+that interval between the offset of the
+c_ yes
+
+418
+00:17:43,370 --> 00:17:44,669
+and beyond said
+
+419
+00:17:44,669 --> 00:17:49,380
+of the u_s_ that makes a difference
+between delay conditioning
+
+420
+00:17:49,380 --> 00:17:52,299
+treats condition
+
+421
+00:17:52,299 --> 00:17:59,299
+anything else about this
+
+422
+00:18:04,880 --> 00:18:05,740
+well what
+
+423
+00:18:05,740 --> 00:18:09,390
+what rates conditioning n delay
+conditioning both do
+
+424
+00:18:09,390 --> 00:18:13,740
+is to degrade the conjugate our country
+guilty
+
+425
+00:18:13,740 --> 00:18:14,750
+the interval
+
+426
+00:18:14,750 --> 00:18:19,399
+the time interval between the onset of
+the c_b_s_ in the onset of the u_s_
+
+427
+00:18:19,399 --> 00:18:21,179
+is now
+
+428
+00:18:21,179 --> 00:18:22,110
+longer
+
+429
+00:18:22,110 --> 00:18:23,600
+then it is
+
+430
+00:18:23,600 --> 00:18:25,780
+the standard case
+
+431
+00:18:25,780 --> 00:18:28,070
+but in all three of these cases
+
+432
+00:18:28,070 --> 00:18:30,749
+the onset of the c_s_ still
+
+433
+00:18:30,749 --> 00:18:33,280
+is a perfect predictor
+
+434
+00:18:33,280 --> 00:18:34,380
+the u_s_
+
+435
+00:18:34,380 --> 00:18:39,700
+and that's what's important
+
+436
+00:18:39,700 --> 00:18:43,960
+arnaud if there is that's because of a
+slip of my head there isn't more
+
+437
+00:18:43,960 --> 00:18:50,830
+response these are supposed to be
+identical
+
+438
+00:18:50,830 --> 00:18:53,200
+there's not there's only more response
+
+439
+00:18:53,200 --> 00:18:58,710
+there's only more response because bugs
+c_s_ is on longer
+
+440
+00:18:58,710 --> 00:19:00,040
+from apple is
+
+441
+00:19:00,040 --> 00:19:03,970
+if you look at it just in terms of
+probability response it's the same
+
+442
+00:19:03,970 --> 00:19:10,940
+one more question
+
+443
+00:19:10,940 --> 00:19:15,160
+no in the in the yard in the center
+pairing the c_s_ in the u_s_ are both
+
+444
+00:19:15,160 --> 00:19:17,220
+contiguous and contingent
+
+445
+00:19:17,220 --> 00:19:20,220
+they occur close together in time
+
+446
+00:19:20,220 --> 00:19:22,990
+and the c_s_ predicts the u_s_
+
+447
+00:19:22,990 --> 00:19:24,070
+them
+
+448
+00:19:24,070 --> 00:19:26,440
+delay conditioning
+
+449
+00:19:26,440 --> 00:19:28,170
+continuity is degraded
+
+450
+00:19:28,170 --> 00:19:31,830
+they no longer kirk so close together in
+space and time
+
+451
+00:19:31,830 --> 00:19:35,930
+but the c_s_ is still a predictor of the
+u_s_
+
+452
+00:19:35,930 --> 00:19:37,300
+traits conditioning
+
+453
+00:19:37,300 --> 00:19:39,170
+they also
+
+454
+00:19:39,170 --> 00:19:41,250
+not so contiguous any longer
+
+455
+00:19:41,250 --> 00:19:44,360
+they don't occur so close together in
+space and time
+
+456
+00:19:44,360 --> 00:19:45,960
+but the csce still critics
+
+457
+00:19:45,960 --> 00:19:47,750
+the u_s_
+
+458
+00:19:47,750 --> 00:19:50,080
+in simultaneously conditioning
+
+459
+00:19:50,080 --> 00:19:52,299
+they're perfectly contiguous
+
+460
+00:19:52,299 --> 00:19:57,289
+beyond sets of the offsets are exactly
+at the same time but the c_s_ no longer
+
+461
+00:19:57,289 --> 00:19:58,720
+predicts the u_s_
+
+462
+00:19:58,720 --> 00:20:00,400
+no condition occurs
+
+463
+00:20:00,400 --> 00:20:04,030
+and then finally in backwards
+conditioning
+
+464
+00:20:04,030 --> 00:20:07,650
+the interval between unscented ross that
+is supposed to be the same here as in
+
+465
+00:20:07,650 --> 00:20:10,760
+the standard case just that it's
+backwards now
+
+466
+00:20:10,760 --> 00:20:11,789
+so there are as
+
+467
+00:20:11,789 --> 00:20:15,690
+in some sense there is contiguous is
+they are in the standard case but the
+
+468
+00:20:15,690 --> 00:20:17,809
+c_e_o_'s no longer predicts the u_s_
+
+469
+00:20:17,809 --> 00:20:20,410
+what the c_s_ predicts is the offset
+
+470
+00:20:20,410 --> 00:20:22,919
+of the u_s_
+
+471
+00:20:22,919 --> 00:20:27,310
+now let's add a very and on this just to
+try to make it even clearer
+
+472
+00:20:27,310 --> 00:20:31,580
+let's look at another famous experiment
+in the are conditioned literature
+
+473
+00:20:31,580 --> 00:20:34,160
+by leon came in
+
+474
+00:20:34,160 --> 00:20:37,679
+on what's known as the blocking affect
+
+475
+00:20:37,679 --> 00:20:39,429
+in the caymans experiment
+
+476
+00:20:39,429 --> 00:20:42,970
+he used a compound stimulus
+
+477
+00:20:42,970 --> 00:20:44,410
+noise and light
+
+478
+00:20:44,410 --> 00:20:48,890
+the onset of the noise the onset of a
+white exactly the same time
+
+479
+00:20:48,890 --> 00:20:52,420
+onset all seven always also polite
+exactly at the same time
+
+480
+00:20:52,420 --> 00:20:53,710
+and then
+
+481
+00:20:53,710 --> 00:20:56,039
+this compound condition stimulus
+
+482
+00:20:56,039 --> 00:20:57,460
+is paired
+
+483
+00:20:57,460 --> 00:21:00,160
+the on condition stimulus
+
+484
+00:21:00,160 --> 00:21:03,890
+what happens here of course is the
+animals going out of a choir a condition
+
+485
+00:21:03,890 --> 00:21:06,480
+for your response the animals going to
+
+486
+00:21:06,480 --> 00:21:07,509
+acquire
+
+487
+00:21:07,509 --> 00:21:09,600
+air-conditioned response
+
+488
+00:21:09,600 --> 00:21:13,020
+this compound stimulus but what came in
+did
+
+489
+00:21:13,020 --> 00:21:19,770
+waters to decide to test the elements of
+the compounds of condition stimulus
+
+490
+00:21:19,770 --> 00:21:20,400
+separately
+
+491
+00:21:20,400 --> 00:21:21,820
+so what he did here
+
+492
+00:21:21,820 --> 00:21:23,520
+was to condition the animal
+
+493
+00:21:23,520 --> 00:21:24,900
+to be afraid
+
+494
+00:21:24,900 --> 00:21:26,169
+in the presence of
+
+495
+00:21:26,169 --> 00:21:30,770
+the compound stimulus noise white and
+then just test the animals response to
+
+496
+00:21:30,770 --> 00:21:32,140
+the white alone
+
+497
+00:21:32,140 --> 00:21:33,740
+and what came and discovered
+
+498
+00:21:33,740 --> 00:21:36,350
+was a big apple gives
+
+499
+00:21:36,350 --> 00:21:38,500
+solid for your response
+
+500
+00:21:38,500 --> 00:21:42,700
+the elements that's true for the noise
+or as well
+
+501
+00:21:42,700 --> 00:21:45,280
+even though the animals been conditioned
+
+502
+00:21:45,280 --> 00:21:47,720
+a compound conditioned stimulus
+
+503
+00:21:47,720 --> 00:21:50,059
+it shows a condition fear response
+
+504
+00:21:50,059 --> 00:21:51,000
+to each
+
+505
+00:21:51,000 --> 00:21:52,650
+of the elements
+
+506
+00:21:52,650 --> 00:21:56,880
+but now what came in did was something
+all little tricky
+
+507
+00:21:56,880 --> 00:21:59,020
+you break this up a little bit
+
+508
+00:21:59,020 --> 00:22:01,159
+in the first phase of the experiment
+
+509
+00:22:01,159 --> 00:22:05,010
+he conditions the animal to nahis
+
+510
+00:22:05,010 --> 00:22:05,900
+terrible shock
+
+511
+00:22:05,900 --> 00:22:07,110
+noida shock
+
+512
+00:22:07,110 --> 00:22:12,059
+noise shock nor a shock for several
+trials
+
+513
+00:22:12,059 --> 00:22:14,210
+then what came in did
+
+514
+00:22:14,210 --> 00:22:15,930
+was to introduce
+
+515
+00:22:15,930 --> 00:22:17,050
+the light
+
+516
+00:22:17,050 --> 00:22:19,640
+as a compound condition stimulus
+
+517
+00:22:19,640 --> 00:22:20,549
+so now what
+
+518
+00:22:20,549 --> 00:22:22,390
+noise of light
+
+519
+00:22:22,390 --> 00:22:24,290
+noise a light
+
+520
+00:22:24,290 --> 00:22:26,240
+noise and light
+
+521
+00:22:26,240 --> 00:22:28,200
+and then what came in did
+
+522
+00:22:28,200 --> 00:22:30,690
+was to test the animals
+
+523
+00:22:30,690 --> 00:22:35,480
+respond condition for your response to a
+white and he thought that there was no
+
+524
+00:22:35,480 --> 00:22:36,640
+condition for your response
+
+525
+00:22:36,640 --> 00:22:38,270
+to the light
+
+526
+00:22:38,270 --> 00:22:38,630
+contrast
+
+527
+00:22:38,630 --> 00:22:40,690
+the absence
+
+528
+00:22:40,690 --> 00:22:41,910
+the condition
+
+529
+00:22:41,910 --> 00:22:43,180
+for your response
+
+530
+00:22:43,180 --> 00:22:45,900
+when the animal's first condition to the
+noise
+
+531
+00:22:45,900 --> 00:22:48,110
+and then to the noise unlike compound
+
+532
+00:22:48,110 --> 00:22:50,380
+the animal doesn't respond
+
+533
+00:22:50,380 --> 00:22:52,620
+the after the light
+
+534
+00:22:52,620 --> 00:22:53,390
+compared to
+
+535
+00:22:53,390 --> 00:22:58,000
+the first uxbridge of experiment where
+the animals condition to light employees
+
+536
+00:22:58,000 --> 00:22:59,820
+right from the get go
+
+537
+00:22:59,820 --> 00:23:00,930
+and then
+
+538
+00:23:00,930 --> 00:23:03,460
+shows a strong condition
+
+539
+00:23:03,460 --> 00:23:05,700
+response
+
+540
+00:23:05,700 --> 00:23:10,140
+what seems to be happening here this is
+not depiction of kuala caymans actual
+
+541
+00:23:10,140 --> 00:23:11,050
+results
+
+542
+00:23:11,050 --> 00:23:14,090
+where animals are condition to the noise
+alone
+
+543
+00:23:14,090 --> 00:23:16,310
+and then get test responsible light
+
+544
+00:23:16,310 --> 00:23:18,300
+if their condition of the noise alone
+
+545
+00:23:18,300 --> 00:23:20,630
+they don't show when he peered of alike
+
+546
+00:23:20,630 --> 00:23:23,570
+if they are conditioned on the compound
+alone
+
+547
+00:23:23,570 --> 00:23:25,630
+they show after your response
+
+548
+00:23:25,630 --> 00:23:26,580
+from all white
+
+549
+00:23:26,580 --> 00:23:29,260
+but if they are conditioned first of the
+noise
+
+550
+00:23:29,260 --> 00:23:31,060
+and then to the compound
+
+551
+00:23:31,060 --> 00:23:34,169
+they show no more fear of the light
+
+552
+00:23:34,169 --> 00:23:36,950
+then if they had never been exposed
+
+553
+00:23:36,950 --> 00:23:38,540
+for the white at all
+
+554
+00:23:38,540 --> 00:23:42,059
+this is known as da blocking affect
+
+555
+00:23:42,059 --> 00:23:44,460
+conditioning an animal
+
+556
+00:23:44,460 --> 00:23:48,330
+all
+
+557
+00:23:48,330 --> 00:23:49,890
+but no worries
+
+558
+00:23:49,890 --> 00:23:51,630
+blocks the acquisition
+
+559
+00:23:51,630 --> 00:23:53,570
+of conditions for your
+
+560
+00:23:53,570 --> 00:23:54,720
+the compound
+
+561
+00:23:54,720 --> 00:23:56,289
+and what that tells us
+
+562
+00:23:56,289 --> 00:23:57,070
+is that
+
+563
+00:23:57,070 --> 00:23:59,650
+there's something very important going
+on
+
+564
+00:23:59,650 --> 00:24:04,920
+it's not just association by contingency
+that's important here but that
+
+565
+00:24:04,920 --> 00:24:06,870
+conditioning apparently
+
+566
+00:24:06,870 --> 00:24:08,580
+only kerns
+
+567
+00:24:08,580 --> 00:24:11,730
+when the on conditions stimulus
+
+568
+00:24:11,730 --> 00:24:12,290
+surprises
+
+569
+00:24:12,290 --> 00:24:15,220
+the organism
+
+570
+00:24:15,220 --> 00:24:16,899
+conditioning only occurs
+
+571
+00:24:16,899 --> 00:24:20,690
+when the unconditional stimulus
+surprises the organism
+
+572
+00:24:20,690 --> 00:24:24,650
+when the organism a surprised by
+something new that's happening tomorrow
+
+573
+00:24:24,650 --> 00:24:28,050
+hey i'm getting shocked naal
+
+574
+00:24:28,050 --> 00:24:29,380
+what the adult dogs
+
+575
+00:24:29,380 --> 00:24:30,700
+is to search
+
+576
+00:24:30,700 --> 00:24:31,989
+the environment
+
+577
+00:24:31,989 --> 00:24:35,600
+for a projector of this event
+
+578
+00:24:35,600 --> 00:24:39,500
+so i play on getting shot down and try
+to farah when this can happen silicon
+
+579
+00:24:39,500 --> 00:24:44,780
+grit my little rat teeth or whatever it
+is that the animals going to do
+
+580
+00:24:44,780 --> 00:24:46,230
+and then what happens
+
+581
+00:24:46,230 --> 00:24:50,610
+is that when the animal fines
+
+582
+00:24:50,610 --> 00:24:53,169
+predictor all of the unconditional
+stimulus
+
+583
+00:24:53,169 --> 00:24:55,470
+it focuses its attention on that
+
+584
+00:24:55,470 --> 00:24:56,850
+and ignores
+
+585
+00:24:56,850 --> 00:24:59,600
+or other events that are irrelevant
+
+586
+00:24:59,600 --> 00:25:01,809
+and id nor is all other events
+
+587
+00:25:01,809 --> 00:25:05,870
+that or on that are redone did with what
+it already knows
+
+588
+00:25:05,870 --> 00:25:10,289
+so to go back here for a minute
+
+589
+00:25:10,289 --> 00:25:12,320
+noises parable shock
+
+590
+00:25:12,320 --> 00:25:17,419
+shock is the surprising event noise it
+is a really wild predictor of that event
+
+591
+00:25:17,419 --> 00:25:19,399
+the animal figures that out
+
+592
+00:25:19,399 --> 00:25:21,250
+during phase one
+
+593
+00:25:21,250 --> 00:25:23,809
+in phase two noise and light
+
+594
+00:25:23,809 --> 00:25:25,750
+are paired together with shock
+
+595
+00:25:25,750 --> 00:25:30,230
+but the others already got a perfectly
+good predictor of the shock
+
+596
+00:25:30,230 --> 00:25:33,350
+he knows when the noise comes on is
+going to get shot
+
+597
+00:25:33,350 --> 00:25:36,359
+so he ignores the animal ignores
+
+598
+00:25:36,359 --> 00:25:36,930
+polite
+
+599
+00:25:36,930 --> 00:25:40,499
+so that when you test the animals
+response to the white alone
+
+600
+00:25:40,499 --> 00:25:42,470
+it has an acquired andy
+
+601
+00:25:42,470 --> 00:25:43,990
+kind of fear
+
+602
+00:25:43,990 --> 00:25:45,309
+conditioning occurrence
+
+603
+00:25:45,309 --> 00:25:47,980
+when the on condition stimulus
+
+604
+00:25:47,980 --> 00:25:50,790
+surprises the organism
+
+605
+00:25:50,790 --> 00:25:52,210
+conditioning a curve
+
+606
+00:25:52,210 --> 00:25:55,860
+when there is an event in the
+
+607
+00:25:55,860 --> 00:25:56,360
+environment
+
+608
+00:25:56,360 --> 00:25:59,309
+that can serve as a reliable predictor
+
+609
+00:25:59,309 --> 00:26:03,250
+when an animal has a reliable predictor
+of this
+
+610
+00:26:03,250 --> 00:26:04,730
+previously surprising event
+
+611
+00:26:04,730 --> 00:26:08,620
+it focuses on it egmore is everything
+else
+
+612
+00:26:08,620 --> 00:26:12,130
+no matter how many times
+
+613
+00:26:12,130 --> 00:26:16,560
+polite is paired with the shock in this
+circumstance the animal will show any
+
+614
+00:26:16,560 --> 00:26:17,880
+fear
+
+615
+00:26:17,880 --> 00:26:21,059
+whose will never acquiring a cure for
+that shock
+
+616
+00:26:21,059 --> 00:26:23,740
+fifth i don't know about this
+
+617
+00:26:23,740 --> 00:26:25,059
+on or you know about this
+
+618
+00:26:25,059 --> 00:26:27,570
+by virtue
+
+619
+00:26:27,570 --> 00:26:29,569
+so that just goes to show
+
+620
+00:26:29,569 --> 00:26:32,200
+that what's happening here
+
+621
+00:26:32,200 --> 00:26:33,850
+coren classical conditioning
+
+622
+00:26:33,850 --> 00:26:39,710
+it's not just that environmental events
+like water the power to a bloke reflexes
+
+623
+00:26:39,710 --> 00:26:43,900
+which is what i said at the end of last
+wednesday's lecture okay
+
+624
+00:26:43,900 --> 00:26:45,870
+that's not just what's going on here
+
+625
+00:26:45,870 --> 00:26:50,280
+and classical conditioning what was
+happening is at the organism is
+
+626
+00:26:50,280 --> 00:26:52,700
+developing expectations
+
+627
+00:26:52,700 --> 00:26:55,260
+about what's going to happen in its
+environment
+
+628
+00:26:55,260 --> 00:26:59,320
+it's dot you'd it's developing the
+ability to predict
+
+629
+00:26:59,320 --> 00:27:00,350
+by virtue
+
+630
+00:27:00,350 --> 00:27:02,530
+on condition stimuli
+
+631
+00:27:02,530 --> 00:27:03,840
+what's going to happen
+
+632
+00:27:03,840 --> 00:27:04,760
+with respect
+
+633
+00:27:04,760 --> 00:27:09,190
+to on conditions stimulant it develops
+the expectations
+
+634
+00:27:09,190 --> 00:27:11,099
+the on condition stimulus
+
+635
+00:27:11,099 --> 00:27:13,289
+is going to predict the on
+
+636
+00:27:13,289 --> 00:27:16,450
+on the on conditions there
+
+637
+00:27:16,450 --> 00:27:19,230
+awkward questions on the blocking
+experiment
+
+638
+00:27:19,230 --> 00:27:20,330
+the point is
+
+639
+00:27:20,330 --> 00:27:22,280
+no condition occurs
+
+640
+00:27:22,280 --> 00:27:24,179
+when the c_s_ is redundant
+
+641
+00:27:24,179 --> 00:27:27,330
+with unknown c_s_ and that's exactly
+
+642
+00:27:27,330 --> 00:27:28,850
+what we have here
+
+643
+00:27:28,850 --> 00:27:30,300
+by virtue of phase one
+
+644
+00:27:30,300 --> 00:27:33,430
+we've already got unknown c_s_
+
+645
+00:27:33,430 --> 00:27:36,250
+the new c_s_ is just redundant with the
+first one
+
+646
+00:27:36,250 --> 00:27:41,510
+no conditioning
+
+647
+00:27:41,510 --> 00:27:43,890
+now that's for classical conditioning
+
+648
+00:27:43,890 --> 00:27:46,250
+let's look at the same kind of thing
+
+649
+00:27:46,250 --> 00:27:48,730
+in the instrumental case
+
+650
+00:27:48,730 --> 00:27:52,320
+here we have a phenomenon known as
+learned helplessness
+
+651
+00:27:52,320 --> 00:27:53,309
+study by
+
+652
+00:27:53,309 --> 00:27:57,279
+martin seligman steve mayor and richard
+solomon at the same solomon i told you
+
+653
+00:27:57,279 --> 00:27:58,440
+about
+
+654
+00:27:58,440 --> 00:27:59,430
+before
+
+655
+00:27:59,430 --> 00:28:04,120
+what they're doing web what what this
+experiment involves
+
+656
+00:28:04,120 --> 00:28:06,909
+variant on the avoidance learning
+paradigm
+
+657
+00:28:06,909 --> 00:28:08,990
+that i told you about before
+
+658
+00:28:08,990 --> 00:28:12,850
+where you have dogs and a shuttle box
+anatole incomes on
+
+659
+00:28:12,850 --> 00:28:14,799
+and later shock is going to come on
+
+660
+00:28:14,799 --> 00:28:16,940
+and the animal can escape
+
+661
+00:28:16,940 --> 00:28:22,520
+and avoid the shock by moving from one
+side of the shuttle box to another
+
+662
+00:28:22,520 --> 00:28:24,289
+and what i told you last time
+
+663
+00:28:24,289 --> 00:28:26,700
+was that animals dogs learn this
+
+664
+00:28:26,700 --> 00:28:30,200
+perfectly well they were in this very
+very very easily
+
+665
+00:28:30,200 --> 00:28:34,620
+although and alright not outlined for
+you
+
+666
+00:28:34,620 --> 00:28:35,669
+ma worries
+
+667
+00:28:35,669 --> 00:28:37,390
+to process
+
+668
+00:28:37,390 --> 00:28:39,100
+theory of avoidance learning
+
+669
+00:28:39,100 --> 00:28:41,929
+by which
+
+670
+00:28:41,929 --> 00:28:43,730
+for morrow argued that
+
+671
+00:28:43,730 --> 00:28:46,199
+first half of the thing that happens and
+avoid the story
+
+672
+00:28:46,199 --> 00:28:50,820
+is that the animal acquires of
+conditioned fear to the tone
+
+673
+00:28:50,820 --> 00:28:54,299
+and then the animal acquires an
+instrumental response
+
+674
+00:28:54,299 --> 00:28:58,100
+that gets rid of the shock and turns
+love the tone
+
+675
+00:28:58,100 --> 00:29:00,159
+if that's the case okay
+
+676
+00:29:00,159 --> 00:29:03,009
+but the first process of avoidance
+learning
+
+677
+00:29:03,009 --> 00:29:04,830
+is the acquisition
+
+678
+00:29:04,830 --> 00:29:07,640
+fear to atone
+
+679
+00:29:07,640 --> 00:29:09,490
+seligman and his colleagues
+
+680
+00:29:09,490 --> 00:29:10,950
+are predicted
+
+681
+00:29:10,950 --> 00:29:12,430
+well they knew better but
+
+682
+00:29:12,430 --> 00:29:14,890
+for the purposes of the experiment they
+predicted that
+
+683
+00:29:14,890 --> 00:29:17,899
+if the animals already afraid of the
+tone
+
+684
+00:29:17,899 --> 00:29:20,910
+then avoids warning ought to go even
+further
+
+685
+00:29:20,910 --> 00:29:25,970
+even faster because you've already got
+the first part of the two processes or
+
+686
+00:29:25,970 --> 00:29:28,470
+accomplished so what they did was they
+took
+
+687
+00:29:28,470 --> 00:29:29,399
+the dogs
+
+688
+00:29:29,399 --> 00:29:32,860
+and they put them in a pavlovian harness
+standard pavlovian
+
+689
+00:29:32,860 --> 00:29:34,970
+art of the conditioning a procedure
+
+690
+00:29:34,970 --> 00:29:39,049
+and then just presented the animals
+looked on par with which shock told for
+
+691
+00:29:39,049 --> 00:29:40,650
+chuck
+
+692
+00:29:40,650 --> 00:29:42,020
+tone for chart
+
+693
+00:29:42,020 --> 00:29:43,230
+on in the same way
+
+694
+00:29:43,230 --> 00:29:45,500
+that pablo pared the bell with food
+
+695
+00:29:45,500 --> 00:29:46,380
+dole with food
+
+696
+00:29:46,380 --> 00:29:47,900
+filled with food
+
+697
+00:29:47,900 --> 00:29:49,809
+on and they were able to show
+
+698
+00:29:49,809 --> 00:29:54,889
+that in this in this circumstance the
+animals acquired a very solid
+
+699
+00:29:54,889 --> 00:29:56,389
+conditioned for your response
+
+700
+00:29:56,389 --> 00:29:58,820
+to the tone
+
+701
+00:29:58,820 --> 00:30:02,980
+it's on the morning they already know to
+be afraid of the tunnel
+
+702
+00:30:02,980 --> 00:30:05,610
+then they put the animals in the shuttle
+box
+
+703
+00:30:05,610 --> 00:30:08,389
+where the tone came on followed by shock
+
+704
+00:30:08,389 --> 00:30:09,959
+the animal could escape
+
+705
+00:30:09,959 --> 00:30:14,609
+or avoid the shock by moving back and
+forth from one side of the shuttle box
+
+706
+00:30:14,609 --> 00:30:20,319
+to another and what they discovered was
+that in carving contrast to the
+
+707
+00:30:20,319 --> 00:30:20,790
+predictions
+
+708
+00:30:20,790 --> 00:30:25,179
+of the true process of of my hours to
+process pirie
+
+709
+00:30:25,179 --> 00:30:26,060
+avoidance learning
+
+710
+00:30:26,060 --> 00:30:29,410
+the adults who were treated in this
+particular way
+
+711
+00:30:29,410 --> 00:30:30,690
+did not acquire
+
+712
+00:30:30,690 --> 00:30:34,420
+the avoidance response okay they failed
+
+713
+00:30:34,420 --> 00:30:36,080
+avoidance learning
+
+714
+00:30:36,080 --> 00:30:37,399
+very retarded
+
+715
+00:30:37,399 --> 00:30:41,090
+on the part of these animals
+
+716
+00:30:41,090 --> 00:30:42,090
+here we have
+
+717
+00:30:42,090 --> 00:30:45,920
+a lot of what one of their experiments
+boys or in the shuttle box
+
+718
+00:30:45,920 --> 00:30:47,640
+these animals were treated
+
+719
+00:30:47,640 --> 00:30:49,539
+some battles were treated with
+
+720
+00:30:49,539 --> 00:30:50,240
+fall
+
+721
+00:30:50,240 --> 00:30:51,330
+one signal
+
+722
+00:30:51,330 --> 00:30:53,990
+inescapable shock with just a shock came
+on
+
+723
+00:30:53,990 --> 00:30:56,409
+they had no kind of predictions at all
+
+724
+00:30:56,409 --> 00:30:57,190
+okay
+
+725
+00:30:57,190 --> 00:30:59,130
+and then some animals
+
+726
+00:30:59,130 --> 00:31:01,150
+all broad got a signal
+
+727
+00:31:01,150 --> 00:31:02,120
+on shock
+
+728
+00:31:02,120 --> 00:31:03,259
+and here
+
+729
+00:31:03,259 --> 00:31:05,990
+art the results of the expert
+
+730
+00:31:05,990 --> 00:31:09,279
+control animals that didn't get any
+treatment at all locais
+
+731
+00:31:09,279 --> 00:31:12,370
+they make the avoidance response really
+fast
+
+732
+00:31:12,370 --> 00:31:14,480
+here are the animals that got the
+
+733
+00:31:14,480 --> 00:31:16,760
+all the inescapable shock
+
+734
+00:31:16,760 --> 00:31:18,580
+the prove the pre shock treatment
+
+735
+00:31:18,580 --> 00:31:20,100
+and you can see
+
+736
+00:31:20,100 --> 00:31:22,179
+there are lots of a skate failures
+
+737
+00:31:22,179 --> 00:31:26,309
+and when they did when the animal's did
+make a mistake they took a long time
+
+738
+00:31:26,309 --> 00:31:27,230
+doing it
+
+739
+00:31:27,230 --> 00:31:32,500
+this is the phenomenon of learned
+helplessness
+
+740
+00:31:32,500 --> 00:31:33,210
+preconditioning
+
+741
+00:31:33,210 --> 00:31:35,299
+to the condition stimulus
+
+742
+00:31:35,299 --> 00:31:37,420
+actually retards
+
+743
+00:31:37,420 --> 00:31:38,079
+acquisition
+
+744
+00:31:38,079 --> 00:31:40,520
+of aneil of avoidance response
+
+745
+00:31:40,520 --> 00:31:42,159
+here is another
+
+746
+00:31:42,159 --> 00:31:42,619
+example
+
+747
+00:31:42,619 --> 00:31:45,220
+on another version of this
+
+748
+00:31:45,220 --> 00:31:49,410
+on the animals or of these are control
+levels that they'll get any kind of
+
+749
+00:31:49,410 --> 00:31:50,380
+pre-treatment
+
+750
+00:31:50,380 --> 00:31:51,490
+okay
+
+751
+00:31:51,490 --> 00:31:52,510
+alone
+
+752
+00:31:52,510 --> 00:31:53,750
+we have
+
+753
+00:31:53,750 --> 00:31:56,500
+animals that are actually allowed to
+escape
+
+754
+00:31:56,500 --> 00:31:58,800
+when that shock comes on
+
+755
+00:31:58,800 --> 00:32:02,280
+and then these are animals that are
+yoked to these animals to get the same
+
+756
+00:32:02,280 --> 00:32:03,510
+amount of shock
+
+757
+00:32:03,510 --> 00:32:06,980
+but they're not allowed to escape the
+just get the shock delivered to them
+
+758
+00:32:06,980 --> 00:32:10,600
+then everybody's put an avoidance
+learning situation and what you can see
+
+759
+00:32:10,600 --> 00:32:13,340
+is that there are lots of escape
+failures
+
+760
+00:32:13,340 --> 00:32:18,160
+when there's a statement of everyone
+wades for moderate onward helpless
+
+761
+00:32:18,160 --> 00:32:21,669
+so what happens here is that
+
+762
+00:32:21,669 --> 00:32:23,320
+your regatta illustration
+
+763
+00:32:23,320 --> 00:32:25,690
+not of the role of predictability
+
+764
+00:32:25,690 --> 00:32:26,529
+so much
+
+765
+00:32:26,529 --> 00:32:29,240
+as the role of controllability
+
+766
+00:32:29,240 --> 00:32:32,400
+when the alamo is in the patent lawyer
+in harness
+
+767
+00:32:32,400 --> 00:32:34,820
+and he's been subjected to
+
+768
+00:32:34,820 --> 00:32:38,830
+standard pavlovian fear conditioning
+tone followed by shock
+
+769
+00:32:38,830 --> 00:32:40,440
+coleman followed by shock
+
+770
+00:32:40,440 --> 00:32:43,230
+colin powell by shark
+
+771
+00:32:43,230 --> 00:32:47,970
+once the animal learning
+
+772
+00:32:47,970 --> 00:32:52,299
+the first thing in the animals for his
+lease learning to predict a shock ok
+
+773
+00:32:52,299 --> 00:32:54,270
+tone has followed by shock
+
+774
+00:32:54,270 --> 00:32:59,270
+but what else is e-learning
+
+775
+00:32:59,270 --> 00:33:00,930
+tone as followed by shock
+
+776
+00:33:00,930 --> 00:33:04,700
+and there's nothing i could do about it
+
+777
+00:33:04,700 --> 00:33:05,770
+he's learned
+
+778
+00:33:05,770 --> 00:33:10,120
+that this is a situation in which it has
+no control over the shock
+
+779
+00:33:10,120 --> 00:33:11,590
+and what happens now
+
+780
+00:33:11,590 --> 00:33:14,240
+is that the animals
+
+781
+00:33:14,240 --> 00:33:14,740
+generalize
+
+782
+00:33:14,740 --> 00:33:16,899
+this negative expectation
+
+783
+00:33:16,899 --> 00:33:18,739
+when they're put into the shuttle box
+
+784
+00:33:18,739 --> 00:33:22,090
+where the same thing is happening a as
+before
+
+785
+00:33:22,090 --> 00:33:23,470
+columns followed by shock
+
+786
+00:33:23,470 --> 00:33:25,840
+helen's followed by shock tones followed
+by shock
+
+787
+00:33:25,840 --> 00:33:30,660
+whereas a standard dog a dog that hadn't
+been given this pre-treatment
+
+788
+00:33:30,660 --> 00:33:34,660
+run around and eventually stumble on the
+escape of avoidance response
+
+789
+00:33:34,660 --> 00:33:40,070
+these animals literally sakin the
+shuttle box and took the shock
+
+790
+00:33:40,070 --> 00:33:42,820
+they seem to be on
+
+791
+00:33:42,820 --> 00:33:47,770
+they seemed not to know that there was
+anything that they who do about this
+
+792
+00:33:47,770 --> 00:33:48,870
+so we can
+
+793
+00:33:48,870 --> 00:33:50,580
+in instrumental conditioning
+
+794
+00:33:50,580 --> 00:33:55,739
+it's not just that voluntary behaviors
+calm under the control the barman
+
+795
+00:33:55,739 --> 00:33:56,800
+forbids
+
+796
+00:33:56,800 --> 00:34:00,600
+in the same way that in classical
+conditioning
+
+797
+00:34:00,600 --> 00:34:02,360
+animals learn to predict
+
+798
+00:34:02,360 --> 00:34:04,720
+the events in their environment
+
+799
+00:34:04,720 --> 00:34:06,970
+in instrumental conditioning
+
+800
+00:34:06,970 --> 00:34:08,769
+animals learn
+
+801
+00:34:08,769 --> 00:34:09,559
+control
+
+802
+00:34:09,559 --> 00:34:10,370
+of beds
+
+803
+00:34:10,370 --> 00:34:12,309
+in their environment
+
+804
+00:34:12,309 --> 00:34:13,009
+prediction
+
+805
+00:34:13,009 --> 00:34:14,170
+and control
+
+806
+00:34:14,170 --> 00:34:15,760
+is what's been learned
+
+807
+00:34:15,760 --> 00:34:19,139
+in classical conditioning and in gone
+
+808
+00:34:19,139 --> 00:34:21,769
+had been instrumental conditioning
+
+809
+00:34:21,769 --> 00:34:26,209
+so that's basically what's happening
+whipple learned helplessness experiments
+
+810
+00:34:26,209 --> 00:34:27,419
+exposure
+
+811
+00:34:27,419 --> 00:34:29,519
+inescapable shock
+
+812
+00:34:29,519 --> 00:34:34,929
+during the pavlovian fear conditioning
+situation retards acquisition
+
+813
+00:34:34,929 --> 00:34:37,229
+overboard his response
+
+814
+00:34:37,229 --> 00:34:37,869
+apparently
+
+815
+00:34:37,869 --> 00:34:42,979
+because the animal learns through the
+classical conditioning procedure
+
+816
+00:34:42,979 --> 00:34:47,029
+okay the toll in the c_s_ is predicting
+the shock but the situation is
+
+817
+00:34:47,029 --> 00:34:48,119
+uncontrollable
+
+818
+00:34:48,119 --> 00:34:51,400
+those negative expectations of control
+
+819
+00:34:51,400 --> 00:34:53,029
+now would generalize
+
+820
+00:34:53,029 --> 00:34:53,830
+from the
+
+821
+00:34:53,830 --> 00:34:56,049
+pavlovian situation
+
+822
+00:34:56,049 --> 00:34:59,429
+you avoid learning situation
+
+823
+00:34:59,429 --> 00:35:02,939
+okay any questions either about the came
+in blore we're going to do what works
+
+824
+00:35:02,939 --> 00:35:04,190
+for me today
+
+825
+00:35:04,190 --> 00:35:08,160
+or came in blocking experiment or the
+word helplessness experiments anything
+
+826
+00:35:08,160 --> 00:35:15,160
+at all
+
+827
+00:35:16,859 --> 00:35:19,999
+in the lower and helplessness thought
+the situation
+
+828
+00:35:19,999 --> 00:35:23,640
+they were in that their environment is
+in control
+
+829
+00:35:23,640 --> 00:35:27,559
+remember when we talked about the
+differences between classical an
+
+830
+00:35:27,559 --> 00:35:29,769
+instrumental conditioning
+
+831
+00:35:29,769 --> 00:35:33,769
+one of the difference is is that in
+classical conditioning
+
+832
+00:35:33,769 --> 00:35:35,589
+reinforcement
+
+833
+00:35:35,589 --> 00:35:38,509
+independent of the animal's behavior
+
+834
+00:35:38,509 --> 00:35:43,640
+they'll follow by food tone followed by
+shock no matter what the animal dot
+
+835
+00:35:43,640 --> 00:35:46,390
+where residents to mental conditioning
+
+836
+00:35:46,390 --> 00:35:50,630
+reinforcement depends critically on the
+animal's behavior effective thorndike's
+
+837
+00:35:50,630 --> 00:35:52,660
+cat does impressed that pedal
+
+838
+00:35:52,660 --> 00:35:54,279
+it's never going to get out
+
+839
+00:35:54,279 --> 00:35:57,829
+of the are part of the other part of the
+box
+
+840
+00:35:57,829 --> 00:35:59,300
+the prior
+
+841
+00:35:59,300 --> 00:36:02,549
+pavlovian or classical fear conditioning
+
+842
+00:36:02,549 --> 00:36:03,389
+basically
+
+843
+00:36:03,389 --> 00:36:05,259
+taught the animal
+
+844
+00:36:05,259 --> 00:36:08,149
+the toll was going to follow be followed
+by shock it was nothing to do what it
+
+845
+00:36:08,149 --> 00:36:10,499
+was uncontrollable situation
+
+846
+00:36:10,499 --> 00:36:14,030
+whereas if you just put a navajo in an
+avoidance learning situation
+
+847
+00:36:14,030 --> 00:36:15,400
+in the shuttle box
+
+848
+00:36:15,400 --> 00:36:19,049
+what it will do is it will not only look
+for a way to predict
+
+849
+00:36:19,049 --> 00:36:20,080
+what's going on
+
+850
+00:36:20,080 --> 00:36:24,150
+it will look for a way to control what's
+going on
+
+851
+00:36:24,150 --> 00:36:27,479
+these animals had already worked to help
+us out of animals
+
+852
+00:36:27,479 --> 00:36:30,209
+had already learned
+
+853
+00:36:30,209 --> 00:36:31,160
+control
+
+854
+00:36:31,160 --> 00:36:32,599
+anything in their environment
+
+855
+00:36:32,599 --> 00:36:34,289
+tone was going to be followed by shock
+
+856
+00:36:34,289 --> 00:36:35,909
+no matter what they did
+
+857
+00:36:35,909 --> 00:36:38,159
+was out okay
+
+858
+00:36:38,159 --> 00:36:45,159
+anything else about helplessness or the
+block it's permit
+
+859
+00:36:50,559 --> 00:36:55,119
+though the animals fear or diminish once
+they realized the shocks unavoidable
+
+860
+00:36:55,119 --> 00:36:56,480
+well what happens
+
+861
+00:36:56,480 --> 00:36:58,309
+to be honest with you
+
+862
+00:36:58,309 --> 00:37:02,380
+what though that the fear that the
+animal show the condition fear is
+
+863
+00:37:02,380 --> 00:37:07,319
+eventually replaced by what you can only
+call depression
+
+864
+00:37:07,319 --> 00:37:10,890
+if you've ever looked the diversity of
+said dog
+
+865
+00:37:10,890 --> 00:37:13,459
+these are very sad dogs
+
+866
+00:37:13,459 --> 00:37:14,490
+on big big
+
+867
+00:37:14,490 --> 00:37:19,490
+dave whimper day looks said that kind of
+a book kind of downturn faces just
+
+868
+00:37:19,490 --> 00:37:20,080
+bother
+
+869
+00:37:20,080 --> 00:37:22,279
+there at their mammals after all they
+have
+
+870
+00:37:22,279 --> 00:37:25,269
+facial expressions of emotion just like
+we do
+
+871
+00:37:25,269 --> 00:37:29,019
+on seligman himself has suggested
+learned helplessness
+
+872
+00:37:29,019 --> 00:37:32,789
+can be a laboratory model for some kinds
+of depression
+
+873
+00:37:32,789 --> 00:37:37,670
+and indeed in some depressed individuals
+not all depressed individuals but some
+
+874
+00:37:37,670 --> 00:37:38,909
+depressed individuals
+
+875
+00:37:38,909 --> 00:37:41,340
+we find that they show and your
+
+876
+00:37:41,340 --> 00:37:43,939
+all life-history
+
+877
+00:37:43,939 --> 00:37:45,889
+uncontrollable
+
+878
+00:37:45,889 --> 00:37:47,049
+the things just
+
+879
+00:37:47,049 --> 00:37:50,619
+that things happen to them they seem not
+to be able to control them at all
+
+880
+00:37:50,619 --> 00:37:53,220
+on and that's why you think that the
+press
+
+881
+00:37:53,220 --> 00:37:55,210
+when bad things happen to you
+
+882
+00:37:55,210 --> 00:37:57,329
+and you can control those bad things
+
+883
+00:37:57,329 --> 00:37:59,789
+you either get determined
+
+884
+00:37:59,789 --> 00:38:02,309
+or you get angry
+
+885
+00:38:02,309 --> 00:38:04,290
+but when bad things happen to you
+
+886
+00:38:04,290 --> 00:38:06,029
+and you can control them
+
+887
+00:38:06,029 --> 00:38:09,309
+eventually what happens is you get
+resigning
+
+888
+00:38:09,309 --> 00:38:13,109
+and that's what these animals they just
+kind of get resigned to this whole thing
+
+889
+00:38:13,109 --> 00:38:14,349
+als they'll sit there
+
+890
+00:38:14,349 --> 00:38:18,679
+now i i want to point out
+
+891
+00:38:18,679 --> 00:38:23,099
+these experimenters were not
+intentionally cruel to these animals
+
+892
+00:38:23,099 --> 00:38:25,919
+these exp six burns didn't go on forever
+
+893
+00:38:25,919 --> 00:38:26,769
+okay
+
+894
+00:38:26,769 --> 00:38:30,989
+and in fact after these experiments the
+animals retired to a very nice farm in
+
+895
+00:38:30,989 --> 00:38:32,620
+eastern pennsylvania
+
+896
+00:38:32,620 --> 00:38:33,540
+where they lived
+
+897
+00:38:33,540 --> 00:38:36,239
+very nice dog alive
+
+898
+00:38:36,239 --> 00:38:37,379
+afterwards
+
+899
+00:38:37,379 --> 00:38:39,819
+palm barked at all
+
+900
+00:38:39,819 --> 00:38:42,779
+for the purposes of the experiment
+
+901
+00:38:42,779 --> 00:38:43,720
+this was
+
+902
+00:38:43,720 --> 00:38:46,089
+not a good thing to do
+
+903
+00:38:46,089 --> 00:38:48,249
+fortunately seligman and his colleagues
+
+904
+00:38:48,249 --> 00:38:51,009
+did the experiments right the first time
+
+905
+00:38:51,009 --> 00:38:53,390
+they had all the controls in place
+
+906
+00:38:53,390 --> 00:38:55,769
+right from the get go
+
+907
+00:38:55,769 --> 00:38:59,089
+nobody had to repeat their experiment
+with the new batch of dogs to clean it
+
+908
+00:38:59,089 --> 00:39:00,279
+up
+
+909
+00:39:00,279 --> 00:39:01,029
+wrong
+
+910
+00:39:01,029 --> 00:39:03,149
+again seligman is quite clear
+
+911
+00:39:03,149 --> 00:39:05,429
+that if you're going to do these kinds
+of experiments
+
+912
+00:39:05,429 --> 00:39:09,119
+you have an ethical obligation to do
+right the first time so that nobody has
+
+913
+00:39:09,119 --> 00:39:15,729
+to do it again
+
+914
+00:39:15,729 --> 00:39:17,859
+is depression irreversible
+
+915
+00:39:17,859 --> 00:39:20,290
+the depression is irreversible
+
+916
+00:39:20,290 --> 00:39:23,509
+unless you take some active steps
+
+917
+00:39:23,509 --> 00:39:26,250
+what's element and his colleagues ended
+up doing
+
+918
+00:39:26,250 --> 00:39:29,960
+was taking these helpless dogs in the
+shuttle box
+
+919
+00:39:29,960 --> 00:39:33,809
+grabbing them by the harness and
+actually dragging them from one end of
+
+920
+00:39:33,809 --> 00:39:36,180
+the shuttle box to the other
+
+921
+00:39:36,180 --> 00:39:39,389
+and eventually the dog's got the message
+
+922
+00:39:39,389 --> 00:39:40,349
+okay
+
+923
+00:39:40,349 --> 00:39:43,819
+that they just took a while because in
+the first place if your dog or somebody
+
+924
+00:39:43,819 --> 00:39:48,099
+dragging your from one and the only
+wonder what the hell that's all about
+
+925
+00:39:48,099 --> 00:39:49,199
+but eventually
+
+926
+00:39:49,199 --> 00:39:51,399
+the animals got the idea
+
+927
+00:39:51,399 --> 00:39:54,209
+okay just a couple really really really
+long time
+
+928
+00:39:54,209 --> 00:39:56,619
+but eventually they recovered
+
+929
+00:39:56,619 --> 00:39:58,859
+because
+
+930
+00:39:58,859 --> 00:40:01,270
+that they could control the environment
+
+931
+00:40:01,270 --> 00:40:02,109
+after all
+
+932
+00:40:02,109 --> 00:40:04,929
+but in a standard helplessness situation
+
+933
+00:40:04,929 --> 00:40:08,509
+on b denied the animals just don't take
+any opportunity to learn
+
+934
+00:40:08,509 --> 00:40:10,999
+uh... did they have to be shown
+
+935
+00:40:10,999 --> 00:40:13,569
+that the circumstances are quite
+different
+
+936
+00:40:13,569 --> 00:40:17,229
+and just to make the connection to to
+depression again
+
+937
+00:40:17,229 --> 00:40:19,949
+there is one important all
+
+938
+00:40:19,949 --> 00:40:23,669
+uh... the psychiatrist guarantee backed
+him back
+
+939
+00:40:23,669 --> 00:40:28,089
+all who won the last girl ward a couple
+years ago for or his invention of what's
+
+940
+00:40:28,089 --> 00:40:31,909
+known as cognitive therapy for
+depression
+
+941
+00:40:31,909 --> 00:40:33,009
+and all
+
+942
+00:40:33,009 --> 00:40:36,279
+back noted that a lot of the press
+people come in and say oh i can't do
+
+943
+00:40:36,279 --> 00:40:40,409
+this i can't do that i can to the other
+thing that's part of their depression
+
+944
+00:40:40,409 --> 00:40:43,250
+all and back strong invented a therapy
+in which
+
+945
+00:40:43,250 --> 00:40:45,129
+he systematically taught patients
+
+946
+00:40:45,129 --> 00:40:47,309
+they could do these things
+
+947
+00:40:47,309 --> 00:40:50,170
+and when they learned they could
+actually do the kinds of things that
+
+948
+00:40:50,170 --> 00:40:51,529
+they thought they couldn't do
+
+949
+00:40:51,529 --> 00:40:53,290
+their depression began to lift
+
+950
+00:40:53,290 --> 00:40:58,420
+in much the same way that helplessness
+began to lift in these dogs so this is
+
+951
+00:40:58,420 --> 00:41:00,949
+this is an experiment that actually had
+a
+
+952
+00:41:00,949 --> 00:41:02,999
+to wedged positive soared to it
+
+953
+00:41:02,999 --> 00:41:07,789
+the word helplessness experiment showed
+how certain forms of depression
+
+954
+00:41:07,789 --> 00:41:08,849
+occur
+
+955
+00:41:08,849 --> 00:41:09,960
+and also
+
+956
+00:41:09,960 --> 00:41:14,299
+helped show what we could do about
+
+957
+00:41:14,299 --> 00:41:17,459
+that particular form of depression
+
+958
+00:41:17,459 --> 00:41:22,179
+anything else about these
+
+959
+00:41:22,179 --> 00:41:24,690
+okay we've now undercut
+
+960
+00:41:24,690 --> 00:41:29,290
+also four obvious options all of the
+traditional stimulus response theory of
+
+961
+00:41:29,290 --> 00:41:30,420
+learning
+
+962
+00:41:30,420 --> 00:41:32,249
+we've undercut the assumption
+
+963
+00:41:32,249 --> 00:41:35,380
+of association by kandi geary
+
+964
+00:41:35,380 --> 00:41:39,369
+showing that content you want to use and
+the principle of association contingency
+
+965
+00:41:39,369 --> 00:41:40,869
+is
+
+966
+00:41:40,869 --> 00:41:44,279
+we are under caught the principle of
+arbitrariness
+
+967
+00:41:44,279 --> 00:41:48,309
+by showing that certain com stimulus
+response associations
+
+968
+00:41:48,309 --> 00:41:52,309
+are much easier to form and others who
+do you can't just select
+
+969
+00:41:52,309 --> 00:41:54,310
+c_s_ is in the u_s_ is arbitrarily
+
+970
+00:41:54,310 --> 00:41:56,579
+and expect animals to learn them
+
+971
+00:41:56,579 --> 00:42:01,049
+we ought to cut the principal all of the
+empty organism
+
+972
+00:42:01,049 --> 00:42:02,939
+by showing
+
+973
+00:42:02,939 --> 00:42:06,930
+you have to understand something about
+the animals biological structure
+
+974
+00:42:06,930 --> 00:42:08,989
+how it's nervous system evolved
+
+975
+00:42:08,989 --> 00:42:10,599
+to understand why
+
+976
+00:42:10,599 --> 00:42:14,169
+pigeons can learn some things but not
+others why rats can learn some things
+
+977
+00:42:14,169 --> 00:42:15,599
+but not others
+
+978
+00:42:15,599 --> 00:42:19,629
+but now we've shown you
+
+979
+00:42:19,629 --> 00:42:21,330
+experiments are also undercut
+
+980
+00:42:21,330 --> 00:42:23,229
+the assumption of the empty organism
+
+981
+00:42:23,229 --> 00:42:26,619
+by showing that you don't have to just
+know what how the animal's brain is
+
+982
+00:42:26,619 --> 00:42:27,240
+wired
+
+983
+00:42:27,240 --> 00:42:29,010
+you also have to understand
+
+984
+00:42:29,010 --> 00:42:32,059
+what's going on within the animals mine
+
+985
+00:42:32,059 --> 00:42:33,869
+what does that expect
+
+986
+00:42:33,869 --> 00:42:36,390
+what does that think is going to happen
+next
+
+987
+00:42:36,390 --> 00:42:39,839
+what expectations of control does it
+have
+
+988
+00:42:39,839 --> 00:42:42,010
+these expectations are prediction
+
+989
+00:42:42,010 --> 00:42:44,009
+and expectations of control
+
+990
+00:42:44,009 --> 00:42:45,840
+are critically important
+
+991
+00:42:45,840 --> 00:42:47,590
+all for understanding
+
+992
+00:42:47,590 --> 00:42:52,569
+the behavior of animals in learning
+situations and then finally
+
+993
+00:42:52,569 --> 00:42:56,160
+especially these last experiments the
+cayman blocking experiment
+
+994
+00:42:56,160 --> 00:43:00,860
+and the seligman learned helplessness
+experiments undercut assumption of the
+
+995
+00:43:00,860 --> 00:43:03,009
+past aboard
+
+996
+00:43:03,009 --> 00:43:06,759
+animals in these learning situations are
+not being conditioned
+
+997
+00:43:06,759 --> 00:43:09,069
+by the environment
+
+998
+00:43:09,069 --> 00:43:11,450
+caymans rats in the blocking experiment
+
+999
+00:43:11,450 --> 00:43:13,729
+are actively searching
+
+1000
+00:43:13,729 --> 00:43:16,049
+for a predictor of shock
+
+1001
+00:43:16,049 --> 00:43:18,089
+they are surprised by the shock
+
+1002
+00:43:18,089 --> 00:43:21,229
+there look at around to try to predict
+
+1003
+00:43:21,229 --> 00:43:22,130
+salomon's
+
+1004
+00:43:22,130 --> 00:43:24,170
+on the dogs arc
+
+1005
+00:43:24,170 --> 00:43:24,659
+trying
+
+1006
+00:43:24,659 --> 00:43:29,339
+to learn what control but what they what
+they can control of their environment
+
+1007
+00:43:29,339 --> 00:43:31,080
+animals learning situations
+
+1008
+00:43:31,080 --> 00:43:33,160
+are actively searching
+
+1009
+00:43:33,160 --> 00:43:34,550
+for prediction
+
+1010
+00:43:34,550 --> 00:43:35,700
+and control
+
+1011
+00:43:35,700 --> 00:43:37,600
+there's nothing passive
+
+1012
+00:43:37,600 --> 00:43:40,159
+about the learning process
+
+1013
+00:43:40,159 --> 00:43:42,859
+the final point about traditional
+
+1014
+00:43:42,859 --> 00:43:45,579
+all all of the theories of learning
+
+1015
+00:43:45,579 --> 00:43:48,240
+all which'll reinforced some of these
+other points
+
+1016
+00:43:48,240 --> 00:43:51,519
+content on concerns the role of
+reinforcement
+
+1017
+00:43:51,519 --> 00:43:56,960
+it's kind of a corollary to stimulus
+response learning theory
+
+1018
+00:43:56,960 --> 00:43:58,619
+learning only occurs
+
+1019
+00:43:58,619 --> 00:44:02,209
+when a conditioned response is
+reinforced
+
+1020
+00:44:02,209 --> 00:44:04,759
+in the presence of a condition stimulus
+
+1021
+00:44:04,759 --> 00:44:06,719
+in pavlovian conditioning
+
+1022
+00:44:06,719 --> 00:44:09,680
+the conditioned response to the talk to
+the bell
+
+1023
+00:44:09,680 --> 00:44:13,269
+is reinforced by the press into the
+presentation of food
+
+1024
+00:44:13,269 --> 00:44:16,510
+in all within our thorndike ian
+
+1025
+00:44:16,510 --> 00:44:18,080
+or instrumental conditioning
+
+1026
+00:44:18,080 --> 00:44:24,009
+the conditioned response oppressing the
+paddle is reinforced by escape
+
+1027
+00:44:24,009 --> 00:44:25,510
+traditional learning theorists
+
+1028
+00:44:25,510 --> 00:44:27,400
+held the view that reinforcement
+
+1029
+00:44:27,400 --> 00:44:33,039
+was a sensual to learning and that in
+the absence of reinforcement no learning
+
+1030
+00:44:33,039 --> 00:44:34,129
+would occur
+
+1031
+00:44:34,129 --> 00:44:35,690
+either in a classical
+
+1032
+00:44:35,690 --> 00:44:38,420
+or the instrumental case
+
+1033
+00:44:38,420 --> 00:44:39,429
+endure
+
+1034
+00:44:39,429 --> 00:44:44,059
+edward seat haldeman psychologist at the
+university of california berkeley after
+
+1035
+00:44:44,059 --> 00:44:49,979
+whom pullman a hall is named with a very
+simple experiment inmates running the
+
+1036
+00:44:49,979 --> 00:44:53,140
+rats i'm sorry for the quality of
+assault try to get out
+
+1037
+00:44:53,140 --> 00:44:55,670
+all of a better view of it i thought i
+had done this
+
+1038
+00:44:55,670 --> 00:44:57,789
+this is actually a picture of coleman's
+
+1039
+00:44:57,789 --> 00:44:58,599
+on maize
+
+1040
+00:44:58,599 --> 00:45:01,339
+he results kind of schematic diagram of
+it
+
+1041
+00:45:01,339 --> 00:45:02,869
+in this experiment
+
+1042
+00:45:02,869 --> 00:45:04,069
+all
+
+1043
+00:45:04,069 --> 00:45:06,539
+scattered standard may fourteen
+experiment
+
+1044
+00:45:06,539 --> 00:45:09,109
+involves putting a ratna start box
+
+1045
+00:45:09,109 --> 00:45:12,049
+putting a piece of food in opens cheese
+or something
+
+1046
+00:45:12,049 --> 00:45:13,849
+in a gold box
+
+1047
+00:45:13,849 --> 00:45:16,740
+and the animal will learn to navigate
+the maze
+
+1048
+00:45:16,740 --> 00:45:19,329
+to get from the start box for the gold
+box
+
+1049
+00:45:19,329 --> 00:45:21,570
+and the traditional view of this
+learning
+
+1050
+00:45:21,570 --> 00:45:26,370
+is that lauren the owls learning of its
+way through the maze
+
+1051
+00:45:26,370 --> 00:45:27,819
+is reinforced
+
+1052
+00:45:27,819 --> 00:45:31,670
+by the food that it finds in the
+goldilocks okay
+
+1053
+00:45:31,670 --> 00:45:34,489
+without that reinforcement the argument
+went
+
+1054
+00:45:34,489 --> 00:45:36,630
+no learning whitaker
+
+1055
+00:45:36,630 --> 00:45:40,339
+so what poland did was paid very simple
+experiment
+
+1056
+00:45:40,339 --> 00:45:42,600
+in which he had one group or rats
+
+1057
+00:45:42,600 --> 00:45:44,150
+that was
+
+1058
+00:45:44,150 --> 00:45:48,509
+but in the goal box and reinforced for
+finding their way to the there in the
+
+1059
+00:45:48,509 --> 00:45:51,970
+starbucks reinforce refining their way
+to the goal boxes the usual way with
+
+1060
+00:45:51,970 --> 00:45:53,019
+food
+
+1061
+00:45:53,019 --> 00:45:54,330
+another group of animals
+
+1062
+00:45:54,330 --> 00:45:57,949
+was just allowed to run around in the
+maze
+
+1063
+00:45:57,949 --> 00:46:02,299
+they never found any food in the gold
+box they just were just put in the maze
+
+1064
+00:46:02,299 --> 00:46:06,009
+and they were allowed to explore it
+
+1065
+00:46:06,009 --> 00:46:08,209
+and that and that there was a group
+
+1066
+00:46:08,209 --> 00:46:12,299
+all was putting up in the maze for
+awhile allowed to explore the maze for
+
+1067
+00:46:12,299 --> 00:46:13,579
+some trials
+
+1068
+00:46:13,579 --> 00:46:15,209
+and then
+
+1069
+00:46:15,209 --> 00:46:17,479
+overflowing
+
+1070
+00:46:17,479 --> 00:46:20,439
+reward was introduced in goldilocks
+
+1071
+00:46:20,439 --> 00:46:23,439
+here are all
+
+1072
+00:46:23,439 --> 00:46:24,309
+goldman's
+
+1073
+00:46:24,309 --> 00:46:24,890
+results
+
+1074
+00:46:24,890 --> 00:46:29,709
+we've got animals being tested over a
+period of sixteen days
+
+1075
+00:46:29,709 --> 00:46:32,950
+here is a group that never got any food
+reward
+
+1076
+00:46:32,950 --> 00:46:37,760
+and you notice that there are more in
+very much okay there is no real change
+
+1077
+00:46:37,760 --> 00:46:39,310
+in the amount of time
+
+1078
+00:46:39,310 --> 00:46:43,389
+it takes them to get from the start box
+to the goal box
+
+1079
+00:46:43,389 --> 00:46:45,410
+here is another group
+
+1080
+00:46:45,410 --> 00:46:50,190
+this group that is regularly rewarded
+for food right from the start and you'd
+
+1081
+00:46:50,190 --> 00:46:53,970
+see that they've gradually progressively
+
+1082
+00:46:53,970 --> 00:46:54,590
+learned
+
+1083
+00:46:54,590 --> 00:46:55,999
+their way
+
+1084
+00:46:55,999 --> 00:46:58,480
+the gold box this is a standard
+
+1085
+00:46:58,480 --> 00:46:59,680
+instrumental conditioning
+
+1086
+00:46:59,680 --> 00:47:00,999
+kind of outcome
+
+1087
+00:47:00,999 --> 00:47:03,599
+but look at what happens with this group
+
+1088
+00:47:03,599 --> 00:47:09,189
+that received no reward for the first
+ten days of the experiment
+
+1089
+00:47:09,189 --> 00:47:12,140
+and then dale by the solemnly
+
+1090
+00:47:12,140 --> 00:47:17,040
+when they got to the good did to log a
+particular place in the uh... in in the
+
+1091
+00:47:17,040 --> 00:47:17,880
+old days
+
+1092
+00:47:17,880 --> 00:47:19,279
+they found
+
+1093
+00:47:19,279 --> 00:47:20,769
+of food reward
+
+1094
+00:47:20,769 --> 00:47:22,059
+what happens here
+
+1095
+00:47:22,059 --> 00:47:24,799
+is that for the first ten days
+
+1096
+00:47:24,799 --> 00:47:29,969
+these animals behaved just like animals
+that are getting any form of reward
+
+1097
+00:47:29,969 --> 00:47:31,069
+that's not surprising
+
+1098
+00:47:31,069 --> 00:47:33,929
+they are not getting any food reward
+okay
+
+1099
+00:47:33,929 --> 00:47:35,299
+but no
+
+1100
+00:47:35,299 --> 00:47:36,510
+on bail darden
+
+1101
+00:47:36,510 --> 00:47:39,290
+their behavior changes precipitously
+
+1102
+00:47:39,290 --> 00:47:40,459
+once they discover
+
+1103
+00:47:40,459 --> 00:47:44,160
+that there is food in the box they now
+begin to behave
+
+1104
+00:47:44,160 --> 00:47:45,099
+like animals
+
+1105
+00:47:45,099 --> 00:47:46,609
+that were regularly
+
+1106
+00:47:46,609 --> 00:47:47,509
+rewarded
+
+1107
+00:47:47,509 --> 00:47:48,990
+these are most
+
+1108
+00:47:48,990 --> 00:47:50,010
+apparently
+
+1109
+00:47:50,010 --> 00:47:52,139
+learned over the first ten days
+
+1110
+00:47:52,139 --> 00:47:56,899
+how to navigate around remains
+
+1111
+00:47:56,899 --> 00:47:58,870
+they had no particular reason
+
+1112
+00:47:58,870 --> 00:47:59,850
+if you will
+
+1113
+00:47:59,850 --> 00:48:03,739
+to yet quickly from the start box to the
+gold box
+
+1114
+00:48:03,739 --> 00:48:04,799
+on day eleven
+
+1115
+00:48:04,799 --> 00:48:08,299
+they suddenly found out hate there's a
+reason for me to get from point a to
+
+1116
+00:48:08,299 --> 00:48:09,500
+point b
+
+1117
+00:48:09,500 --> 00:48:12,329
+okay i get visa cheese
+
+1118
+00:48:12,329 --> 00:48:14,959
+and now they start running really fast
+
+1119
+00:48:14,959 --> 00:48:20,149
+it becomes clear from this experiment
+that over the first ten days the animals
+
+1120
+00:48:20,149 --> 00:48:22,560
+have learned a lot about the mains
+
+1121
+00:48:22,560 --> 00:48:24,969
+even in the absence of reward
+
+1122
+00:48:24,969 --> 00:48:28,459
+but they all leave put this learning to
+use
+
+1123
+00:48:28,459 --> 00:48:30,419
+when there was our reason
+
+1124
+00:48:30,419 --> 00:48:34,579
+it was they don't want to put this
+learning to use weapon they could
+
+1125
+00:48:34,579 --> 00:48:39,559
+usable learning to find their way
+quickly onto this is a phenomenon known
+
+1126
+00:48:39,559 --> 00:48:41,569
+as the latent learning
+
+1127
+00:48:41,569 --> 00:48:46,509
+and poland argued that learning occurs
+in the absence of reward
+
+1128
+00:48:46,509 --> 00:48:52,509
+what re will reward does is get the
+animal to act on what it's learned
+
+1129
+00:48:52,509 --> 00:48:56,469
+get the animal to behave unicorns
+
+1130
+00:48:56,469 --> 00:48:57,969
+its word
+
+1131
+00:48:57,969 --> 00:49:00,749
+so finally we can say
+
+1132
+00:49:00,749 --> 00:49:05,199
+with the late morning experiments it
+makes it very clear what it is a steel
+
+1133
+00:49:05,199 --> 00:49:07,499
+or in the morning
+
+1134
+00:49:07,499 --> 00:49:11,739
+in classical and instrumental
+conditioning all these various variance
+
+1135
+00:49:11,739 --> 00:49:17,899
+on these experiments the animals are not
+simply acquiring associations between
+
+1136
+00:49:17,899 --> 00:49:20,069
+stimuli and responses
+
+1137
+00:49:20,069 --> 00:49:25,259
+rather what these animals are doing
+requiring expectations
+
+1138
+00:49:25,259 --> 00:49:30,239
+in the classical case expectations about
+the outcomes of events
+
+1139
+00:49:30,239 --> 00:49:32,630
+tones going to be followed by food
+
+1140
+00:49:32,630 --> 00:49:37,690
+in the instrumental case expectations
+about the outcomes of their own behavior
+
+1141
+00:49:37,690 --> 00:49:43,329
+pressing a pedal is going to cut is
+going to be followed by of landscape
+
+1142
+00:49:43,329 --> 00:49:48,469
+predictability and controllability
+what's happening here is that animals
+
+1143
+00:49:48,469 --> 00:49:54,449
+are not just changing their behavior
+
+1144
+00:49:54,449 --> 00:49:57,950
+result of experience which is our
+traditional definition of learning
+
+1145
+00:49:57,950 --> 00:50:02,659
+these animals are acquiring knowledge
+about their world
+
+1146
+00:50:02,659 --> 00:50:07,049
+knowledge about what's going to happen
+knowledge about what's going to control
+
+1147
+00:50:07,049 --> 00:50:08,229
+what
+
+1148
+00:50:08,229 --> 00:50:13,319
+dollars and labels them to predict and
+control the world about them
+
+1149
+00:50:13,319 --> 00:50:18,130
+will say more about how organisms
+acquire knowledge next week when we talk
+
+1150
+00:50:18,130 --> 00:50:20,680
+about sensation and perception
+
+1151
+00:50:20,680 --> 00:50:22,259
+thank you very much had a good weekend
+

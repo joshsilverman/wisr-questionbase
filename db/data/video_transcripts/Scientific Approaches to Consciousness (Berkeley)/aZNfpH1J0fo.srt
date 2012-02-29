@@ -1,0 +1,5009 @@
+﻿1
+00:00:04,480 --> 00:00:05,349
+okay
+
+2
+00:00:05,349 --> 00:00:10,679
+welcome back to berkeley for the spring
+semester and welcome to
+
+3
+00:00:10,679 --> 00:00:13,259
+psychology one twenty nine also known as
+
+4
+00:00:13,259 --> 00:00:16,930
+cognitive science one oh two
+consciousness course
+
+5
+00:00:16,930 --> 00:00:18,369
+alms i'm john cale strobe
+
+6
+00:00:18,369 --> 00:00:20,420
+all beer content provider
+
+7
+00:00:20,420 --> 00:00:23,469
+for the uh... for the semester
+
+8
+00:00:23,469 --> 00:00:29,029
+all some of you know republicanism
+familiar faces
+
+9
+00:00:29,029 --> 00:00:30,569
+but in case it out
+
+10
+00:00:30,569 --> 00:00:33,050
+that's what i do have a lot of cognitive
+
+11
+00:00:33,050 --> 00:00:35,100
+social psychologist
+
+12
+00:00:35,100 --> 00:00:35,720
+calm
+
+13
+00:00:35,720 --> 00:00:36,940
+with clinical training
+
+14
+00:00:36,940 --> 00:00:40,360
+who's interested mostly in problems of
+consciousness
+
+15
+00:00:40,360 --> 00:00:43,080
+especially the problem of unconscious
+mental life
+
+16
+00:00:43,080 --> 00:00:46,520
+over the course of my career done quite
+a bit of hypnosis research
+
+17
+00:00:46,520 --> 00:00:50,060
+also done a fair amount of research
+having to do with things likes
+
+18
+00:00:50,060 --> 00:00:51,050
+and arm
+
+19
+00:00:51,050 --> 00:00:52,550
+and anesthesia
+
+20
+00:00:52,550 --> 00:00:56,769
+as a cognitive psychologist punchy
+fleeing interest in the study of memory
+
+21
+00:00:56,769 --> 00:00:58,970
+especially autobiographical memory
+
+22
+00:00:58,970 --> 00:01:00,930
+and as a social psychologist
+
+23
+00:01:00,930 --> 00:01:04,000
+and chiefly interested in the study of
+this
+
+24
+00:01:04,000 --> 00:01:05,170
+and you'll see
+
+25
+00:01:05,170 --> 00:01:06,540
+but i'm lucky
+
+26
+00:01:06,540 --> 00:01:09,900
+towards the end of the end of the
+semester hollow those two interests
+
+27
+00:01:09,900 --> 00:01:11,010
+converge
+
+28
+00:01:11,010 --> 00:01:13,399
+if you're just coming to make sure you
+got a sellable
+
+29
+00:01:13,399 --> 00:01:19,270
+sand you should take a seat 'cause we're
+going to go the full fifty minutes
+
+30
+00:01:19,270 --> 00:01:22,620
+okay heart here's a basic information
+for the class you're here so you know
+
+31
+00:01:22,620 --> 00:01:24,170
+all about that
+
+32
+00:01:24,170 --> 00:01:28,720
+albeit here from lecture monday and
+wednesday at ten o'clock
+
+33
+00:01:28,720 --> 00:01:32,010
+classes will start promptly at ten ten
+
+34
+00:01:32,010 --> 00:01:33,870
+usual in berkeley time
+
+35
+00:01:33,870 --> 00:01:36,540
+and called will go
+
+36
+00:01:36,540 --> 00:01:38,230
+always straight through until
+
+37
+00:01:38,230 --> 00:01:40,030
+all until eleven o'clock
+
+38
+00:01:40,030 --> 00:01:42,100
+and that'll include today
+
+39
+00:01:42,100 --> 00:01:47,300
+my office hours are in my office mondays
+and wednesdays after class
+
+40
+00:01:47,300 --> 00:01:50,270
+eleven o'clock a similar you're over
+there
+
+41
+00:01:50,270 --> 00:01:52,530
+on lawrenceville new
+
+42
+00:01:52,530 --> 00:01:54,640
+also tried to arrive
+
+43
+00:01:54,640 --> 00:01:56,950
+here in the classroom
+
+44
+00:01:56,950 --> 00:02:00,290
+sometime before class ten-fifteen
+minutes maybe i'll be standing outside
+
+45
+00:02:00,290 --> 00:02:01,670
+if you've got a quiet
+
+46
+00:02:01,670 --> 00:02:03,490
+great questions
+
+47
+00:02:03,490 --> 00:02:06,999
+and i will also alva stay after class
+
+48
+00:02:06,999 --> 00:02:08,310
+sahara assault
+
+49
+00:02:08,310 --> 00:02:09,670
+much like an
+
+50
+00:02:09,670 --> 00:02:12,479
+with the understanding of how to get
+office hours
+
+51
+00:02:12,479 --> 00:02:16,670
+alm office hours are never convenient
+for anybody
+
+52
+00:02:16,670 --> 00:02:17,999
+faculty were students
+
+53
+00:02:17,999 --> 00:02:20,939
+so if you can't get to office hours you
+can always make an appointment to meet
+
+54
+00:02:20,939 --> 00:02:26,749
+in person or we can probably transact
+most of our business home uh... body
+
+55
+00:02:26,749 --> 00:02:28,919
+email
+
+56
+00:02:28,919 --> 00:02:33,040
+an important all element of this course
+of the discussion sections which will be
+
+57
+00:02:33,040 --> 00:02:37,099
+led by to graduate or graduate student
+struc tures
+
+58
+00:02:37,099 --> 00:02:39,359
+let me introduce you are up to them laws
+
+59
+00:02:39,359 --> 00:02:42,869
+now it there in the back mona kim
+
+60
+00:02:42,869 --> 00:02:45,810
+all motors are u_c_-berkeley although
+that's
+
+61
+00:02:45,810 --> 00:02:50,370
+was at u_c_-berkeley undergraduate shoes
+off on hudson graduate work in education
+
+62
+00:02:50,370 --> 00:02:53,829
+and public policy and she's now a
+graduate student here
+
+63
+00:02:53,829 --> 00:02:55,650
+indeed our school education
+
+64
+00:02:55,650 --> 00:02:58,639
+has an interest in emotion research
+
+65
+00:02:58,639 --> 00:03:00,310
+are christine foursome
+
+66
+00:03:00,310 --> 00:03:03,339
+although u_c_ santa barbara graduate
+
+67
+00:03:03,339 --> 00:03:06,939
+are now here at the art of the school of
+optometry
+
+68
+00:03:06,939 --> 00:03:09,159
+greta student studying vision science
+
+69
+00:03:09,159 --> 00:03:12,789
+on has a special interest in the home
+individual attention
+
+70
+00:03:12,789 --> 00:03:16,659
+bono will be doing the first place i a
+lot of the discussion sections which are
+
+71
+00:03:16,659 --> 00:03:19,799
+out you know a pullman all thirty one
+thirty eight
+
+72
+00:03:19,799 --> 00:03:22,589
+almost you know where that discussion
+section
+
+73
+00:03:22,589 --> 00:03:22,969
+cubicle
+
+74
+00:03:22,969 --> 00:03:24,259
+all is
+
+75
+00:03:24,259 --> 00:03:28,259
+and christine will be doing a friday
+sections in poland thirty one forty
+
+76
+00:03:28,259 --> 00:03:30,489
+oh roughly the same area
+
+77
+00:03:30,489 --> 00:03:36,299
+if you've never been in pullman all you
+know it's kind of all
+
+78
+00:03:36,299 --> 00:03:41,189
+alm just go to the main psychology
+department or office
+
+79
+00:03:41,189 --> 00:03:41,829
+turnaround
+
+80
+00:03:41,829 --> 00:03:44,920
+and keep going around that circle until
+you find your room
+
+81
+00:03:44,920 --> 00:03:46,609
+that's how you get there
+
+82
+00:03:46,609 --> 00:03:48,769
+discussion sections will meet this week
+
+83
+00:03:48,769 --> 00:03:53,279
+policy toward can all get introduced
+which others are tomorrow and friday
+
+84
+00:03:53,279 --> 00:03:54,879
+we discovered
+
+85
+00:03:54,879 --> 00:03:55,789
+malt
+
+86
+00:03:55,789 --> 00:03:58,479
+yesterday roughly six o'clock in the
+morning
+
+87
+00:03:58,479 --> 00:04:01,349
+that due to some of the mysteries of
+calaveras
+
+88
+00:04:01,349 --> 00:04:04,709
+three additional sections of this class
+were scheduled for tuesday is where i
+
+89
+00:04:04,709 --> 00:04:09,249
+know where that came from there's never
+been nine sections of this class
+
+90
+00:04:09,249 --> 00:04:12,159
+all of the somebody hit the wrong he
+apparently
+
+91
+00:04:12,159 --> 00:04:16,590
+all of those of you who are still
+registered for those so tuesday sections
+
+92
+00:04:16,590 --> 00:04:19,720
+we will do everything we can to
+accommodate you in one of the thursday
+
+93
+00:04:19,720 --> 00:04:21,169
+or friday sections
+
+94
+00:04:21,169 --> 00:04:24,369
+on you've already gotten an announcement
+for me about that
+
+95
+00:04:24,369 --> 00:04:28,580
+c_e_o_ raha advisor here in cognitive
+science see carol snow
+
+96
+00:04:28,580 --> 00:04:30,599
+register for cod five one oh two
+
+97
+00:04:30,599 --> 00:04:33,829
+if you are registered recycling
+twenty-nine which i think one of you are
+
+98
+00:04:33,829 --> 00:04:36,470
+at this point
+
+99
+00:04:36,470 --> 00:04:40,509
+tuesday section onto the folks in the
+psychology department student services
+
+100
+00:04:40,509 --> 00:04:42,560
+office
+
+101
+00:04:42,560 --> 00:04:44,709
+also sorry about that confusion but
+
+102
+00:04:44,709 --> 00:04:48,089
+i don't think would be a semester
+berkeley at telomeres didn't screw
+
+103
+00:04:48,089 --> 00:04:51,039
+something up loyally
+
+104
+00:04:51,039 --> 00:04:53,749
+that was our turn
+
+105
+00:04:53,749 --> 00:04:58,139
+okay primary text for this course is
+auntie robin swallows sala consciousness
+
+106
+00:04:58,139 --> 00:04:59,259
+the science of this
+
+107
+00:04:59,259 --> 00:05:01,129
+all of them subjectivity
+
+108
+00:05:01,129 --> 00:05:03,230
+it's a pretty good dog pretty good book
+
+109
+00:05:03,230 --> 00:05:06,779
+you look on the back of the book you'll
+see that i say it's a pretty good book
+
+110
+00:05:06,779 --> 00:05:07,880
+all
+
+111
+00:05:07,880 --> 00:05:10,430
+onslaught with one of the reviewers on
+it
+
+112
+00:05:10,430 --> 00:05:12,689
+all imports
+
+113
+00:05:12,689 --> 00:05:17,050
+it's ok it's the best book available all
+that saw that that's relatively up to
+
+114
+00:05:17,050 --> 00:05:19,530
+date and will go through the whole thing
+
+115
+00:05:19,530 --> 00:05:21,810
+there is a really good
+
+116
+00:05:21,810 --> 00:05:24,790
+text on north of the flames of
+consciousness
+
+117
+00:05:24,790 --> 00:05:27,690
+slide bill far beyond the psychology of
+conscious
+
+118
+00:05:27,690 --> 00:05:29,279
+which is very old
+
+119
+00:05:29,279 --> 00:05:31,439
+all published in nineteen ninety two
+
+120
+00:05:31,439 --> 00:05:34,919
+all for this course who used to have it
+privately reprinted i can't do that
+
+121
+00:05:34,919 --> 00:05:38,479
+anymore for various technical reasons
+
+122
+00:05:38,479 --> 00:05:42,199
+last time i looked on amazon there was
+one use copy available for a hundred and
+
+123
+00:05:42,199 --> 00:05:44,139
+twenty eight dollars
+
+124
+00:05:44,139 --> 00:05:47,180
+poem so all of this kind of a
+collector's item
+
+125
+00:05:47,180 --> 00:05:51,190
+all but part of what i didn't know what
+mister was to scan it
+
+126
+00:05:51,190 --> 00:05:53,639
+and put it up on the course website
+
+127
+00:05:53,639 --> 00:05:56,699
+or if you want to extra resources on of
+
+128
+00:05:56,699 --> 00:05:59,569
+scientific literature on consciousness
+going up to about nineteen ninety two
+
+129
+00:05:59,569 --> 00:06:00,690
+we'll get it there
+
+130
+00:06:00,690 --> 00:06:02,939
+this is a terrific book
+
+131
+00:06:02,939 --> 00:06:04,580
+dalton
+
+132
+00:06:04,580 --> 00:06:09,669
+just a really really really good book
+
+133
+00:06:09,669 --> 00:06:14,159
+will also all during the first part of
+course be reading some essays by
+
+134
+00:06:14,159 --> 00:06:17,430
+professor jobs for all of our philosophy
+department here
+
+135
+00:06:17,430 --> 00:06:21,049
+all review we know a number all part of
+that
+
+136
+00:06:21,049 --> 00:06:25,639
+philosophical were less philosophical
+treatises on consciousness
+
+137
+00:06:25,639 --> 00:06:30,029
+people like roger penrose that bennett
+david chalmers or and others
+
+138
+00:06:30,029 --> 00:06:31,550
+all of the they'll be reading that
+
+139
+00:06:31,550 --> 00:06:36,020
+what they basically as the background to
+the lectures condo o on the mind-body
+
+140
+00:06:36,020 --> 00:06:39,659
+problem
+
+141
+00:06:39,659 --> 00:06:42,369
+and then just to kind of take us a
+little bit off the beaten track we're
+
+142
+00:06:42,369 --> 00:06:43,759
+going to read a novel
+
+143
+00:06:43,759 --> 00:06:48,050
+all by david lodge one of england's
+foremost all modern or writers he's a
+
+144
+00:06:48,050 --> 00:06:48,800
+really terrific
+
+145
+00:06:48,800 --> 00:06:50,710
+uh... writer
+
+146
+00:06:50,710 --> 00:06:53,710
+specialist in the academic satire
+
+147
+00:06:53,710 --> 00:06:56,870
+which are proof you want to know what
+academic life is like a special evening
+
+148
+00:06:56,870 --> 00:06:59,729
+lynch read one of his books and you'll
+find out
+
+149
+00:06:59,729 --> 00:07:00,190
+hall
+
+150
+00:07:00,190 --> 00:07:02,129
+that has its ups and downs
+
+151
+00:07:02,129 --> 00:07:07,020
+all but what lodged at a couple of years
+ago was to write a novel based on all
+
+152
+00:07:07,020 --> 00:07:10,499
+basically doll doll debates about the
+nature of consciousness
+
+153
+00:07:10,499 --> 00:07:14,110
+on and uh... as you'll see as the plot
+progresses
+
+154
+00:07:14,110 --> 00:07:18,619
+that he manages to talk shows are very
+informed interesting way
+
+155
+00:07:18,619 --> 00:07:22,229
+on about dog dot above the various
+aspects of the debate there a lot of the
+
+156
+00:07:22,229 --> 00:07:23,549
+in jokes
+
+157
+00:07:23,549 --> 00:07:26,989
+all of that you won't get all understand
+now you will understand by the tiger
+
+158
+00:07:26,989 --> 00:07:28,419
+finished with the course
+
+159
+00:07:28,419 --> 00:07:30,650
+on and it's just a terrific read
+
+160
+00:07:30,650 --> 00:07:34,340
+paul for those of you who care about
+such things it does have a few erotic
+
+161
+00:07:34,340 --> 00:07:37,050
+passages
+
+162
+00:07:37,050 --> 00:07:39,710
+polit is an academic satire after all
+
+163
+00:07:39,710 --> 00:07:41,679
+palnet
+
+164
+00:07:41,679 --> 00:07:43,559
+and uh...
+
+165
+00:07:43,559 --> 00:07:46,870
+did that you can skip those of you want
+you won't be held responsible for the
+
+166
+00:07:46,870 --> 00:07:49,189
+montana exam
+
+167
+00:07:49,189 --> 00:07:51,319
+but dot if you stick with it
+
+168
+00:07:51,319 --> 00:07:55,199
+argue all find at least one of them is a
+wonderful take gone numb only blooms
+
+169
+00:07:55,199 --> 00:07:57,899
+soliloquy from joyce and ulysses
+
+170
+00:07:57,899 --> 00:08:02,489
+all you if you're really interested in
+all voted in literary aspects of
+
+171
+00:08:02,489 --> 00:08:03,380
+consciousness
+
+172
+00:08:03,380 --> 00:08:04,539
+lodges in academic
+
+173
+00:08:04,539 --> 00:08:06,169
+all of the literature scholar
+
+174
+00:08:06,169 --> 00:08:09,810
+what what for many years and uh... one
+of the red brick universities uh... and
+
+175
+00:08:09,810 --> 00:08:11,219
+now in england
+
+176
+00:08:11,219 --> 00:08:13,389
+and he's collected a bunch of essays
+
+177
+00:08:13,389 --> 00:08:17,299
+don the role that consciousness plays
+and mostly a late nineteen th early
+
+178
+00:08:17,299 --> 00:08:18,759
+twentieth century literature
+
+179
+00:08:18,759 --> 00:08:22,179
+well you're not required to get that but
+i always plug it because it's a terrific
+
+180
+00:08:22,179 --> 00:08:22,720
+book
+
+181
+00:08:22,720 --> 00:08:24,129
+if you're interested
+
+182
+00:08:24,129 --> 00:08:27,710
+nam literature
+
+183
+00:08:27,710 --> 00:08:33,590
+okay all those three books raven's full
+and sural and the lodge novel
+
+184
+00:08:33,590 --> 00:08:36,550
+alright billable for purchase of the
+issues you bookstore you might be able
+
+185
+00:08:36,550 --> 00:08:40,160
+to get a better deal elsewhere i don't
+know
+
+186
+00:08:40,160 --> 00:08:44,380
+as all today there will be two copies of
+each of these on reserve
+
+187
+00:08:44,380 --> 00:08:47,790
+on at the education psychology one of
+the
+
+188
+00:08:47,790 --> 00:08:49,160
+old they are available
+
+189
+00:08:49,160 --> 00:08:52,360
+for those of you who can't get enough of
+consciousness
+
+190
+00:08:52,360 --> 00:08:56,350
+all recommend dog dog couple of other
+all of that fact sort of use these as
+
+191
+00:08:56,350 --> 00:08:56,910
+text in the
+
+192
+00:08:56,910 --> 00:08:57,670
+in the young
+
+193
+00:08:57,670 --> 00:08:59,970
+uh... in this class before
+
+194
+00:08:59,970 --> 00:09:02,690
+revan slow is better than these but
+they're not bad
+
+195
+00:09:02,690 --> 00:09:05,369
+susan blackmore is consciousness and
+introduction
+
+196
+00:09:05,369 --> 00:09:08,350
+and read a carvers or exploring
+consciousness
+
+197
+00:09:08,350 --> 00:09:11,420
+if you've got a lot of money burning a
+hole in your pocket
+
+198
+00:09:11,420 --> 00:09:11,949
+palm
+
+199
+00:09:11,949 --> 00:09:14,600
+and you really really really interested
+in consciousness
+
+200
+00:09:14,600 --> 00:09:16,230
+you will want to have these books
+
+201
+00:09:16,230 --> 00:09:18,630
+hold on your wrong on your shelf
+
+202
+00:09:18,630 --> 00:09:21,990
+if you really have a lot of money bernie
+your hole in the park
+
+203
+00:09:21,990 --> 00:09:25,550
+and you're really really really
+interested in consciousness
+
+204
+00:09:25,550 --> 00:09:26,370
+home
+
+205
+00:09:26,370 --> 00:09:29,880
+annette blocking his colleagues have
+collected a whole bunch of basic papers
+
+206
+00:09:29,880 --> 00:09:33,809
+on the nature of consciousness all in
+the heart of this anthology
+
+207
+00:09:33,809 --> 00:09:34,640
+and bernie bars
+
+208
+00:09:34,640 --> 00:09:38,090
+bill banks all have done the same thing
+all of these are very thick books you
+
+209
+00:09:38,090 --> 00:09:39,920
+can use them as door stops
+
+210
+00:09:39,920 --> 00:09:41,500
+they're useful for killing
+
+211
+00:09:41,500 --> 00:09:43,750
+all insects all work
+
+212
+00:09:43,750 --> 00:09:45,160
+walked on
+
+213
+00:09:45,160 --> 00:09:45,990
+basically
+
+214
+00:09:45,990 --> 00:09:49,970
+mall most i mean it's important to the
+site in new york loftier psychology of
+
+215
+00:09:49,970 --> 00:09:50,780
+consciousness
+
+216
+00:09:50,780 --> 00:09:54,380
+open to all the publication of these
+folks on this kind of collected here
+
+217
+00:09:54,380 --> 00:09:59,340
+with their really really really good
+books
+
+218
+00:09:59,340 --> 00:10:03,620
+all we're going to have to examinations
+in this course solved midterm lol
+
+219
+00:10:03,620 --> 00:10:08,880
+roughly uh... middlemarch right before
+we break for hopeful for spring recess
+
+220
+00:10:08,880 --> 00:10:11,250
+called and a final examination
+
+221
+00:10:11,250 --> 00:10:16,060
+all due to the enrollment and of course
+all all of these old examinations we
+
+222
+00:10:16,060 --> 00:10:19,040
+mostly short answer or they won't be
+multiple choice
+
+223
+00:10:19,040 --> 00:10:21,350
+all but they will be short answer
+
+224
+00:10:21,350 --> 00:10:24,180
+i said what what choice in question mark
+there because
+
+225
+00:10:24,180 --> 00:10:27,140
+i keep thinking i'm going to do a
+multiple choice examiners class and i
+
+226
+00:10:27,140 --> 00:10:29,560
+never do it
+
+227
+00:10:29,560 --> 00:10:31,810
+i reserve the right to do it
+
+228
+00:10:31,810 --> 00:10:32,390
+palm
+
+229
+00:10:32,390 --> 00:10:36,050
+the final examination will have a
+curator portion also should be a second
+
+230
+00:10:36,050 --> 00:10:37,330
+midterm
+
+231
+00:10:37,330 --> 00:10:40,729
+and then of the non-committal portion
+and then if you would have portion
+
+232
+00:10:40,729 --> 00:10:42,260
+on that'll give you a chance
+
+233
+00:10:42,260 --> 00:10:44,850
+to put the whole thing together
+
+234
+00:10:44,850 --> 00:10:48,750
+called one thing i don't do is make-up
+exams all be there for the exams expect
+
+235
+00:10:48,750 --> 00:10:50,850
+you to be there for the exams
+
+236
+00:10:50,850 --> 00:10:52,700
+all of the applause something
+
+237
+00:10:52,700 --> 00:10:56,350
+terrible happens three minutes before
+the exam
+
+238
+00:10:56,350 --> 00:10:59,310
+called you have a flat tire on the
+freeway and you can't get in a
+
+239
+00:10:59,310 --> 00:11:01,500
+reasonable deal with that you're sick
+
+240
+00:11:01,500 --> 00:11:03,040
+uh... will deal with that
+
+241
+00:11:03,040 --> 00:11:07,540
+but otherwise so i'll be expected to
+take the exam swollen at the time but
+
+242
+00:11:07,540 --> 00:11:10,680
+their schedule
+
+243
+00:11:10,680 --> 00:11:13,720
+discussion sections are an important
+component of this course
+
+244
+00:11:13,720 --> 00:11:17,480
+discussion sections or a scarce resource
+there even scarcer now than they used to
+
+245
+00:11:17,480 --> 00:11:19,550
+be with the budget cuts
+
+246
+00:11:19,550 --> 00:11:24,220
+also law they're available to you in
+this course and we expected to be there
+
+247
+00:11:24,220 --> 00:11:27,800
+both attendance and participation and
+discussion section count
+
+248
+00:11:27,800 --> 00:11:31,329
+cause it's a discussion section of your
+not gonna discuss
+
+249
+00:11:31,329 --> 00:11:34,410
+now mike tyson will not be there
+
+250
+00:11:34,410 --> 00:11:35,020
+alm
+
+251
+00:11:35,020 --> 00:11:39,330
+each alert discussion sections is
+formatted in such a way that
+
+252
+00:11:39,330 --> 00:11:43,860
+the uh... do yes i did want our
+christine will all present a little but
+
+253
+00:11:43,860 --> 00:11:45,789
+maybe what richard for the first of
+
+254
+00:11:45,789 --> 00:11:48,080
+say twenty twenty five minutes or so
+
+255
+00:11:48,080 --> 00:11:51,150
+on touching on some aspect of
+consciousness that we've been talking
+
+256
+00:11:51,150 --> 00:11:53,160
+about you know in lectures
+
+257
+00:11:53,160 --> 00:11:58,660
+and then the remainder of the time will
+be spent here in the home
+
+258
+00:11:58,660 --> 00:12:00,760
+day in discussion
+
+259
+00:12:00,760 --> 00:12:05,180
+in addition important part of the
+discussion section are set of real small
+
+260
+00:12:05,180 --> 00:12:06,740
+writing assignments
+
+261
+00:12:06,740 --> 00:12:12,730
+or there are nine of these not ten as
+advertised in the syllabus you've got
+
+262
+00:12:12,730 --> 00:12:14,470
+calaveras isn't the only place
+
+263
+00:12:14,470 --> 00:12:18,220
+person around who makes mistakes that
+the typo on my part
+
+264
+00:12:18,220 --> 00:12:18,690
+on
+
+265
+00:12:18,690 --> 00:12:21,449
+in which we just ask you to contemplate
+
+266
+00:12:21,449 --> 00:12:23,380
+a particular question
+
+267
+00:12:23,380 --> 00:12:25,430
+about some aspect of consciousness
+
+268
+00:12:25,430 --> 00:12:27,900
+and then post to called
+
+269
+00:12:27,900 --> 00:12:30,650
+d_r_ courses for web site on the space
+
+270
+00:12:30,650 --> 00:12:36,330
+some kind of responsible estate all
+probly should be less than fifty words
+
+271
+00:12:36,330 --> 00:12:38,860
+shouldn't be more than two hundred fifty
+words
+
+272
+00:12:38,860 --> 00:12:40,080
+hong
+
+273
+00:12:40,080 --> 00:12:41,630
+on the various topics
+
+274
+00:12:41,630 --> 00:12:45,060
+the deadlines for the essays are for
+
+275
+00:12:45,060 --> 00:12:47,430
+okay it's just like cinderella
+
+276
+00:12:47,430 --> 00:12:49,950
+right before midnight on a particular
+day
+
+277
+00:12:49,950 --> 00:12:51,600
+all we want those things though
+
+278
+00:12:51,600 --> 00:12:53,150
+we want those things off
+
+279
+00:12:53,150 --> 00:12:55,180
+and their graded on a roller none
+
+280
+00:12:55,180 --> 00:12:56,680
+solved all the bases
+
+281
+00:12:56,680 --> 00:12:58,220
+so that if you
+
+282
+00:12:58,220 --> 00:12:59,500
+your response of
+
+283
+00:12:59,500 --> 00:13:02,220
+for the question posed
+
+284
+00:13:02,220 --> 00:13:03,640
+who say something
+
+285
+00:13:03,640 --> 00:13:04,500
+reasonable
+
+286
+00:13:04,500 --> 00:13:08,750
+and it's reasonably well written no
+serious grammatical or spelling errors
+
+287
+00:13:08,750 --> 00:13:09,709
+or whatever
+
+288
+00:13:09,709 --> 00:13:11,090
+you get five points
+
+289
+00:13:11,090 --> 00:13:12,510
+if it's not reasonable
+
+290
+00:13:12,510 --> 00:13:16,290
+or it's all a grammatical and spelling
+bass
+
+291
+00:13:16,290 --> 00:13:16,719
+alva
+
+292
+00:13:16,719 --> 00:13:18,440
+but uh... that's basically how that
+
+293
+00:13:18,440 --> 00:13:23,090
+uh... how that works for sid more about
+that in a minute
+
+294
+00:13:23,090 --> 00:13:26,220
+grading policy there are twenty
+twenty-five points available for the
+
+295
+00:13:26,220 --> 00:13:30,060
+class fifteen points for the midterm
+hundred points from the alone
+
+296
+00:13:30,060 --> 00:13:32,079
+from the although the final
+
+297
+00:13:32,079 --> 00:13:35,580
+and then another seventy five points
+from discussion section
+
+298
+00:13:35,580 --> 00:13:38,380
+all policy here is that all my classes
+
+299
+00:13:38,380 --> 00:13:42,670
+if you work in the late at least ninety
+percent called for the available points
+
+300
+00:13:42,670 --> 00:13:45,050
+you're guaranteed some kind of a
+
+301
+00:13:45,050 --> 00:13:49,200
+if you accumulate eighty percent of the
+available points are guaranteed some
+
+302
+00:13:49,200 --> 00:13:50,580
+kind of b
+
+303
+00:13:50,580 --> 00:13:51,660
+and if you get
+
+304
+00:13:51,660 --> 00:13:55,240
+one more than half the available points
+you're guaranteed
+
+305
+00:13:55,240 --> 00:13:57,190
+some kind of see i do that
+
+306
+00:13:57,190 --> 00:13:58,630
+take the pressure off
+
+307
+00:13:58,630 --> 00:14:01,590
+some people are kind of experimenting
+with of course that may not have all the
+
+308
+00:14:01,590 --> 00:14:04,280
+background of whatever
+
+309
+00:14:04,280 --> 00:14:07,419
+if you're living and breathing in and
+relatively conscious yourself
+
+310
+00:14:07,419 --> 00:14:08,880
+you can accumulate
+
+311
+00:14:08,880 --> 00:14:10,310
+fifty one percent
+
+312
+00:14:10,310 --> 00:14:12,490
+all deal of the available points
+
+313
+00:14:12,490 --> 00:14:15,730
+oh so
+
+314
+00:14:15,730 --> 00:14:16,770
+everybody can get a day
+
+315
+00:14:16,770 --> 00:14:17,910
+if everybody
+
+316
+00:14:17,910 --> 00:14:19,060
+does that
+
+317
+00:14:19,060 --> 00:14:21,150
+all but in any event
+
+318
+00:14:21,150 --> 00:14:24,930
+that's uh... that's where that goes
+
+319
+00:14:24,930 --> 00:14:27,640
+okay there's of course website that i
+think you know
+
+320
+00:14:27,640 --> 00:14:31,870
+find a very useful resource all for the
+class you get that on b space
+
+321
+00:14:31,870 --> 00:14:36,310
+those of you who are enrolled or
+waitlisted in the class already have
+
+322
+00:14:36,310 --> 00:14:36,899
+access
+
+323
+00:14:36,899 --> 00:14:37,779
+log too
+
+324
+00:14:37,779 --> 00:14:39,300
+uh... that for those
+
+325
+00:14:39,300 --> 00:14:44,030
+all others may be able to get access to
+it dot as well say just login on as
+
+326
+00:14:44,030 --> 00:14:45,850
+usual
+
+327
+00:14:45,850 --> 00:14:49,850
+and that'll take you to a listing of
+your course lights one of which will say
+
+328
+00:14:49,850 --> 00:14:51,480
+psych one twenty nine
+
+329
+00:14:51,480 --> 00:14:54,620
+even if you're registered for cogs
+flight one oh two it'll still so he's
+
+330
+00:14:54,620 --> 00:14:56,740
+like one twenty nine
+
+331
+00:14:56,740 --> 00:14:58,390
+that's the way that goes
+
+332
+00:14:58,390 --> 00:15:00,029
+or click on that uh...
+
+333
+00:15:00,029 --> 00:15:02,690
+and you'll get to called or home page
+the move
+
+334
+00:15:02,690 --> 00:15:04,490
+small looks like this
+
+335
+00:15:04,490 --> 00:15:07,500
+or without navigation bar
+
+336
+00:15:07,500 --> 00:15:09,420
+navigation bar down the left
+
+337
+00:15:09,420 --> 00:15:13,780
+and as you click through the navigation
+bar you'll find a whole bunch of whole
+
+338
+00:15:13,780 --> 00:15:15,570
+bunch of different things
+
+339
+00:15:15,570 --> 00:15:17,200
+offer example you'll find a win for this
+
+340
+00:15:17,200 --> 00:15:19,130
+for the course syllabus
+
+341
+00:15:19,130 --> 00:15:23,110
+this looks pretty much like the one
+you've just seen
+
+342
+00:15:23,110 --> 00:15:25,230
+forum posting number ten has been
+deleted
+
+343
+00:15:25,230 --> 00:15:27,630
+or from this that has another feature
+
+344
+00:15:27,630 --> 00:15:30,339
+maldives song very useful
+
+345
+00:15:30,339 --> 00:15:31,570
+as well
+
+346
+00:15:31,570 --> 00:15:37,110
+which is that it contains links to a
+couple of all items on the reading list
+
+347
+00:15:37,110 --> 00:15:41,400
+the revenues to overthrow land the large
+books or the basic required reading for
+
+348
+00:15:41,400 --> 00:15:42,310
+the course
+
+349
+00:15:42,310 --> 00:15:44,959
+but there is some topics that they don't
+cover
+
+350
+00:15:44,959 --> 00:15:46,810
+uh... adequately
+
+351
+00:15:46,810 --> 00:15:48,300
+paula and for that
+
+352
+00:15:48,300 --> 00:15:49,310
+purpose to hide
+
+353
+00:15:49,310 --> 00:15:51,950
+waldo put up so mall supplemental
+
+354
+00:15:51,950 --> 00:15:53,640
+all of the readings that are
+
+355
+00:15:53,640 --> 00:15:55,300
+that are required
+
+356
+00:15:55,300 --> 00:15:57,290
+and number syllabus all of us
+
+357
+00:15:57,290 --> 00:15:59,910
+that is all posted to the court's
+website
+
+358
+00:15:59,910 --> 00:16:01,009
+actually has links
+
+359
+00:16:01,009 --> 00:16:04,710
+onto those readings otherwise you'll
+find them in the resources
+
+360
+00:16:04,710 --> 00:16:05,560
+section
+
+361
+00:16:05,560 --> 00:16:07,650
+malval abused days
+
+362
+00:16:07,650 --> 00:16:10,920
+all those extra review board
+
+363
+00:16:10,920 --> 00:16:15,260
+required until after spring break so we
+don't have to do with it
+
+364
+00:16:15,260 --> 00:16:18,360
+okay then all of their electoral
+aspirations
+
+365
+00:16:18,360 --> 00:16:20,020
+all yugo resolve them
+
+366
+00:16:20,020 --> 00:16:21,770
+been introduced to this
+
+367
+00:16:21,770 --> 00:16:24,170
+before each set of lectures
+
+368
+00:16:24,170 --> 00:16:25,910
+so i send out obp
+
+369
+00:16:25,910 --> 00:16:27,600
+post of the course website
+
+370
+00:16:27,600 --> 00:16:30,770
+area preliminary also set of what your
+worst rations
+
+371
+00:16:30,770 --> 00:16:34,610
+those got modified insults as a series
+of lectures goal on
+
+372
+00:16:34,610 --> 00:16:37,510
+that after the lecture series is
+completely concluded
+
+373
+00:16:37,510 --> 00:16:41,809
+i post the final version of electoral
+istration therapy
+
+374
+00:16:41,809 --> 00:16:43,850
+as they uh...
+
+375
+00:16:43,850 --> 00:16:44,530
+resource
+
+376
+00:16:44,530 --> 00:16:47,780
+they're available free part three slides
+per page
+
+377
+00:16:47,780 --> 00:16:50,580
+for those who want to uh... take notes
+
+378
+00:16:50,580 --> 00:16:51,439
+and there were
+
+379
+00:16:51,439 --> 00:16:53,740
+they're available six slides
+
+380
+00:16:53,740 --> 00:16:57,670
+for those of you who care about the
+earth
+
+381
+00:16:57,670 --> 00:16:59,370
+all the
+
+382
+00:16:59,370 --> 00:17:03,260
+in addition there are those that called
+might receive women for their war for
+
+383
+00:17:03,260 --> 00:17:04,250
+the course
+
+384
+00:17:04,250 --> 00:17:08,060
+i've only got thirty thirty one lectures
+with you i can't possibly cover
+
+385
+00:17:08,060 --> 00:17:09,839
+the science of consciousness
+
+386
+00:17:09,839 --> 00:17:10,819
+argued that uh...
+
+387
+00:17:10,819 --> 00:17:12,130
+in that time
+
+388
+00:17:12,130 --> 00:17:16,470
+so the lecture supplements contained all
+br presentations of these lectures
+
+389
+00:17:16,470 --> 00:17:19,089
+but they also go far beyond the lectures
+
+390
+00:17:19,089 --> 00:17:24,260
+on to talk about other along with other
+details expanded various ways
+
+391
+00:17:24,260 --> 00:17:26,370
+you know again few
+
+392
+00:17:26,370 --> 00:17:28,190
+particularly interested in consciousness
+
+393
+00:17:28,190 --> 00:17:31,290
+or there's something i say a lecture
+that you just didn't get the first time
+
+394
+00:17:31,290 --> 00:17:32,340
+around
+
+395
+00:17:32,340 --> 00:17:37,270
+or you may be able to uh... clarify
+things looking i saw electrical
+
+396
+00:17:37,270 --> 00:17:37,990
+in any event
+
+397
+00:17:37,990 --> 00:17:42,320
+uh... they're there for you to use
+
+398
+00:17:42,320 --> 00:17:45,500
+and there's also a link to the for the
+text
+
+399
+00:17:45,500 --> 00:17:48,700
+that that nineteen ninety two text that
+talked about a little bit
+
+400
+00:17:48,700 --> 00:17:50,279
+taught before
+
+401
+00:17:50,279 --> 00:17:51,820
+all my scan these
+
+402
+00:17:51,820 --> 00:17:55,179
+every once in awhile webpage turns out
+to be
+
+403
+00:17:55,179 --> 00:17:56,130
+followed
+
+404
+00:17:56,130 --> 00:17:58,700
+fuzzy or tilted or whatever
+
+405
+00:17:58,700 --> 00:18:00,600
+that you discover something like that
+
+406
+00:18:00,600 --> 00:18:04,059
+i'll just write me and tell me or that
+that's the case at all
+
+407
+00:18:04,059 --> 00:18:04,830
+all fix it
+
+408
+00:18:04,830 --> 00:18:07,780
+as soon as i can
+
+409
+00:18:07,780 --> 00:18:09,850
+all gears exam information
+
+410
+00:18:09,850 --> 00:18:15,470
+for one of the page the takes links to
+all the previous exams in this class
+
+411
+00:18:15,470 --> 00:18:16,070
+home
+
+412
+00:18:16,070 --> 00:18:17,800
+pre exam reviews
+
+413
+00:18:17,800 --> 00:18:21,990
+arby e before each example doo-wop
+face-to-face review here in classrooms
+
+414
+00:18:21,990 --> 00:18:23,460
+some room like this
+
+415
+00:18:23,460 --> 00:18:25,450
+but also prepare a written
+
+416
+00:18:25,450 --> 00:18:30,240
+narrative review of the material for you
+to use and preparing for your two exams
+
+417
+00:18:30,240 --> 00:18:32,820
+and then all i have to reach its amol
+pose
+
+418
+00:18:32,820 --> 00:18:34,690
+the uh... scoring guide
+
+419
+00:18:34,690 --> 00:18:37,060
+that we use in grading the exams
+
+420
+00:18:37,060 --> 00:18:40,070
+halt along so you could get get that
+kind of feedback
+
+421
+00:18:40,070 --> 00:18:40,940
+called the will
+
+422
+00:18:40,940 --> 00:18:44,210
+so you don't actually have to join a
+fraternity restore you get all the best
+
+423
+00:18:44,210 --> 00:18:46,150
+the package and
+
+424
+00:18:46,150 --> 00:18:47,290
+they're right here
+
+425
+00:18:47,290 --> 00:18:52,580
+we can save you that initiation fee
+
+426
+00:18:52,580 --> 00:18:56,370
+there the internet bugaboo vspace forums
+
+427
+00:18:56,370 --> 00:18:56,900
+alm
+
+428
+00:18:56,900 --> 00:19:01,330
+i tend to fill about fifteen minutes
+with lecturer i like to stop and take
+
+429
+00:19:01,330 --> 00:19:04,929
+questions and comments i don't always
+want to do that i don't always doug
+
+430
+00:19:04,929 --> 00:19:07,830
+can't always answer reporters' question
+in class
+
+431
+00:19:07,830 --> 00:19:12,540
+if you have a comment or question about
+anything that comes up in the readings
+
+432
+00:19:12,540 --> 00:19:13,700
+are lectures
+
+433
+00:19:13,700 --> 00:19:16,580
+and i don't get a chance to address it
+cleft
+
+434
+00:19:16,580 --> 00:19:21,530
+just posted to the comments inquiries
+forum on uh... dotted all of these days
+
+435
+00:19:21,530 --> 00:19:23,450
+i'd check that every day
+
+436
+00:19:23,450 --> 00:19:27,049
+paula and if i see a comment or question
+that i was forced to respond to
+
+437
+00:19:27,049 --> 00:19:32,380
+all respond to it within a day or so
+that way the exchanges available too
+
+438
+00:19:32,380 --> 00:19:34,480
+for the entire class
+
+439
+00:19:34,480 --> 00:19:35,640
+in addition
+
+440
+00:19:35,640 --> 00:19:40,060
+all for each of those six sections of
+the chorus one oh one three one oh six
+
+441
+00:19:40,060 --> 00:19:42,240
+fault there is a separate all form
+
+442
+00:19:42,240 --> 00:19:46,220
+that contains a space for you to all put
+in your own
+
+443
+00:19:46,220 --> 00:19:49,490
+your forum posting so that we can see
+that you've done that
+
+444
+00:19:49,490 --> 00:19:51,180
+or people can read them
+
+445
+00:19:51,180 --> 00:19:54,880
+or maybe breedlove maybe somebody in
+your discussion section below also
+
+446
+00:19:54,880 --> 00:19:57,560
+responded to all of them to what you
+fault
+
+447
+00:19:57,560 --> 00:19:58,720
+what you've written
+
+448
+00:19:58,720 --> 00:20:01,070
+call it that way because graded
+
+449
+00:20:01,070 --> 00:20:03,930
+although if you're saying section one oh
+three
+
+450
+00:20:03,930 --> 00:20:05,029
+not shown here
+
+451
+00:20:05,029 --> 00:20:07,700
+just scroll down till you get your
+section
+
+452
+00:20:07,700 --> 00:20:10,010
+and uh... hero
+
+453
+00:20:10,010 --> 00:20:12,190
+and your four post
+
+454
+00:20:12,190 --> 00:20:13,760
+so that's that
+
+455
+00:20:13,760 --> 00:20:16,700
+forget that there is anybody here in
+psych two twenty two the graduate
+
+456
+00:20:16,700 --> 00:20:20,080
+version of the course there is one of
+these for you on as well will talk about
+
+457
+00:20:20,080 --> 00:20:22,960
+that next week
+
+458
+00:20:22,960 --> 00:20:25,820
+okay so this is what the forum posting
+thing looks like
+
+459
+00:20:25,820 --> 00:20:27,620
+denham just showing five here
+
+460
+00:20:27,620 --> 00:20:30,210
+which can scroll down to your own
+discussion section
+
+461
+00:20:30,210 --> 00:20:33,490
+you've got to know what discussion
+section urine
+
+462
+00:20:33,490 --> 00:20:35,420
+all and then do you're wrong
+
+463
+00:20:35,420 --> 00:20:39,130
+the your postings the instructions or in
+the soloists
+
+464
+00:20:39,130 --> 00:20:40,820
+and there also
+
+465
+00:20:40,820 --> 00:20:41,950
+there also
+
+466
+00:20:41,950 --> 00:20:45,580
+on the space as well
+
+467
+00:20:45,580 --> 00:20:49,200
+for those of you are coming in without
+too much background in psychology we've
+
+468
+00:20:49,200 --> 00:20:51,000
+got some other resources
+
+469
+00:20:51,000 --> 00:20:53,160
+you'll see a link
+
+470
+00:20:53,160 --> 00:20:55,270
+ought to general psychology
+
+471
+00:20:55,270 --> 00:20:58,360
+that'll take you to the lecture
+supplements are prepared for my
+
+472
+00:20:58,360 --> 00:21:01,110
+introductory psychology course
+psychology one
+
+473
+00:21:01,110 --> 00:21:04,810
+give you a nice factory if you haven't
+taken psychology course before
+
+474
+00:21:04,810 --> 00:21:05,060
+poem
+
+475
+00:21:05,059 --> 00:21:07,510
+uh... that will give you some
+
+476
+00:21:07,510 --> 00:21:11,780
+fillmore moralist useful along the
+background about things like memory and
+
+477
+00:21:11,780 --> 00:21:14,010
+perception
+
+478
+00:21:14,010 --> 00:21:15,420
+all powell
+
+479
+00:21:15,420 --> 00:21:16,160
+palm
+
+480
+00:21:16,160 --> 00:21:20,140
+i've also dog of links to the booth
+supplements are prepared for a core
+
+481
+00:21:20,140 --> 00:21:21,860
+support on memory for a while
+
+482
+00:21:21,860 --> 00:21:24,929
+and also to the other course for the
+future of social cognition so if you're
+
+483
+00:21:24,929 --> 00:21:25,830
+interested in
+
+484
+00:21:25,830 --> 00:21:27,030
+those topics
+
+485
+00:21:27,030 --> 00:21:29,450
+and you're interested in what i think
+about those topics
+
+486
+00:21:29,450 --> 00:21:31,190
+you'll find that information
+
+487
+00:21:31,190 --> 00:21:33,680
+wrong here
+
+488
+00:21:33,680 --> 00:21:37,929
+on his course has been podcast sould be
+recorded right now
+
+489
+00:21:37,929 --> 00:21:41,780
+all of this is a the case you have to
+miss a lecturer you want to go back over
+
+490
+00:21:41,780 --> 00:21:44,130
+something you'll be able to click on it
+
+491
+00:21:44,130 --> 00:21:46,299
+on the elbow webcasting
+
+492
+00:21:46,299 --> 00:21:46,790
+website
+
+493
+00:21:46,790 --> 00:21:48,210
+called berkeley
+
+494
+00:21:48,210 --> 00:21:49,720
+sold first thing you want to do with
+
+495
+00:21:49,720 --> 00:21:51,000
+get there
+
+496
+00:21:51,000 --> 00:21:52,710
+webcast dot berkeley dot e_d_u_
+
+497
+00:21:52,710 --> 00:21:55,770
+click on courses
+
+498
+00:21:55,770 --> 00:22:01,770
+that'll take you to a listing volvo aldo
+courses are available for this semester
+
+499
+00:22:01,770 --> 00:22:05,279
+were listed as cognitive science one oh
+two
+
+500
+00:22:05,279 --> 00:22:09,360
+dot in psychology one twenty nine
+
+501
+00:22:09,360 --> 00:22:12,419
+also just go to the cognitive science
+one oh two
+
+502
+00:22:12,419 --> 00:22:13,760
+caldwell link
+
+503
+00:22:13,760 --> 00:22:14,870
+click on that
+
+504
+00:22:14,870 --> 00:22:15,950
+and you'll be taken
+
+505
+00:22:15,950 --> 00:22:19,200
+to calls on the list of all the lectures
+beginning with
+
+506
+00:22:19,200 --> 00:22:22,380
+alone beginning with
+
+507
+00:22:22,380 --> 00:22:24,160
+saw that's where that goes
+
+508
+00:22:24,160 --> 00:22:28,060
+now palm the one thing i don't have on
+here little don't tell you now
+
+509
+00:22:28,060 --> 00:22:31,740
+we are also called pleased to have a
+problem
+
+510
+00:22:31,740 --> 00:22:34,090
+told yes you see lecture notes
+
+511
+00:22:34,090 --> 00:22:35,650
+available for this class
+
+512
+00:22:35,650 --> 00:22:39,830
+there is no substitute for your own
+lecture notes
+
+513
+00:22:39,830 --> 00:22:42,680
+documents a class you didn't get
+something you're you just want somebody
+
+514
+00:22:42,680 --> 00:22:43,980
+else's perspective
+
+515
+00:22:43,980 --> 00:22:49,180
+yeah yes you see election notes are
+uh... org are generally pretty good
+
+516
+00:22:49,180 --> 00:22:50,260
+also like
+
+517
+00:22:50,260 --> 00:22:51,620
+undoubtedly do
+
+518
+00:22:51,620 --> 00:22:53,490
+i do recommend them
+
+519
+00:22:53,490 --> 00:22:57,240
+called paul send out some information
+about how to subscribe to those
+
+520
+00:22:57,240 --> 00:23:01,390
+but they are available also listed under
+cog side one oh two that's like one
+
+521
+00:23:01,390 --> 00:23:03,100
+twenty
+
+522
+00:23:03,100 --> 00:23:06,710
+will be confused about that
+
+523
+00:23:06,710 --> 00:23:10,299
+one of the reasons the scores have been
+screened all the podcast it couldn't be
+
+524
+00:23:10,299 --> 00:23:13,870
+put up on the website for people outside
+of berkeley
+
+525
+00:23:13,870 --> 00:23:16,730
+also with the uh... podcast will include
+
+526
+00:23:16,730 --> 00:23:18,150
+the slides
+
+527
+00:23:18,150 --> 00:23:22,870
+and whatever rhymes whatever i say in on
+class about them so you can kind of fall
+
+528
+00:23:22,870 --> 00:23:23,770
+on
+
+529
+00:23:23,770 --> 00:23:24,740
+with the uh...
+
+530
+00:23:24,740 --> 00:23:26,130
+with the lectures
+
+531
+00:23:26,130 --> 00:23:28,840
+if you're seeing this class bid if your
+ticket
+
+532
+00:23:28,840 --> 00:23:33,030
+byu in this course all as they are as a
+web testing you're not enrolled
+
+533
+00:23:33,030 --> 00:23:35,740
+and you want to access to be space
+website
+
+534
+00:23:35,740 --> 00:23:37,060
+you should
+
+535
+00:23:37,060 --> 00:23:37,869
+email me
+
+536
+00:23:37,869 --> 00:23:40,140
+all and all all of them
+
+537
+00:23:40,140 --> 00:23:41,429
+make those arrangements
+
+538
+00:23:41,429 --> 00:23:43,200
+send you back home
+
+539
+00:23:43,200 --> 00:23:45,200
+access information for the space
+
+540
+00:23:45,200 --> 00:23:48,950
+that typically goes into people's spam
+folders
+
+541
+00:23:48,950 --> 00:23:51,580
+if you don't hear from me check your
+spam folder
+
+542
+00:23:51,580 --> 00:23:53,630
+and they're a part of the out there
+
+543
+00:23:53,630 --> 00:23:55,880
+for that reason
+
+544
+00:23:55,880 --> 00:23:59,140
+people here in class if you've got
+questions that he ask a question i call
+
+545
+00:23:59,140 --> 00:24:00,650
+on you
+
+546
+00:24:00,650 --> 00:24:01,420
+please
+
+547
+00:24:01,420 --> 00:24:06,750
+encourage me to repeat the question for
+the benefit of at people and
+
+548
+00:24:06,750 --> 00:24:11,090
+who are on with the who were listening
+to the scores
+
+549
+00:24:11,090 --> 00:24:11,650
+alm
+
+550
+00:24:11,650 --> 00:24:12,660
+that's something that
+
+551
+00:24:12,660 --> 00:24:13,990
+odd that that's a bit
+
+552
+00:24:13,990 --> 00:24:17,360
+very bad habit that i have a not
+repeating questions when i'm asked
+
+553
+00:24:17,360 --> 00:24:19,330
+because i'd come at one of just
+
+554
+00:24:19,330 --> 00:24:21,040
+engage with the person who's uh...
+
+555
+00:24:21,040 --> 00:24:22,000
+and so on
+
+556
+00:24:22,000 --> 00:24:23,520
+although the talking to me
+
+557
+00:24:23,520 --> 00:24:27,400
+but for the benefit of the folks at home
+
+558
+00:24:27,400 --> 00:24:33,100
+useful for me to repeat the question
+
+559
+00:24:33,100 --> 00:24:35,179
+all motor christina bite
+
+560
+00:24:35,179 --> 00:24:40,190
+zara dinner she discovered that i have
+uncovered
+
+561
+00:24:40,190 --> 00:24:42,600
+okay syllabus is pretty uh...
+
+562
+00:24:42,600 --> 00:24:45,730
+pretty straightforward and pretty oh
+well organized any questions at all
+
+563
+00:24:45,730 --> 00:24:52,730
+about the organization format of the
+course
+
+564
+00:24:56,120 --> 00:24:59,560
+will you be required to do work p_p_ not
+for this class
+
+565
+00:24:59,560 --> 00:25:04,260
+all of the psychology department has a
+research purchase a patient program
+
+566
+00:25:04,260 --> 00:25:06,110
+all up and the result
+
+567
+00:25:06,110 --> 00:25:07,920
+research for just a patient requirement
+
+568
+00:25:07,920 --> 00:25:10,130
+for some psychology classes
+
+569
+00:25:10,130 --> 00:25:12,220
+usually the higher almond classes
+
+570
+00:25:12,220 --> 00:25:13,850
+all but troubled
+
+571
+00:25:13,850 --> 00:25:14,830
+so far
+
+572
+00:25:14,830 --> 00:25:15,859
+not for this class
+
+573
+00:25:15,859 --> 00:25:16,960
+even though
+
+574
+00:25:16,960 --> 00:25:21,080
+there looks like a high drama class to
+me
+
+575
+00:25:21,080 --> 00:25:22,960
+we just we don't quite
+
+576
+00:25:22,960 --> 00:25:24,640
+couple threshold
+
+577
+00:25:24,640 --> 00:25:24,940
+wrong
+
+578
+00:25:24,940 --> 00:25:26,140
+so anyway that's
+
+579
+00:25:26,140 --> 00:25:27,540
+stuff when it is
+
+580
+00:25:27,540 --> 00:25:28,250
+there are
+
+581
+00:25:28,250 --> 00:25:32,010
+one children bunches of experiments
+however available on campus for people
+
+582
+00:25:32,010 --> 00:25:34,580
+to serve as say paid subjects
+
+583
+00:25:34,580 --> 00:25:36,490
+and i'd always encourage people to do
+that
+
+584
+00:25:36,490 --> 00:25:38,440
+it's one it gets you
+
+585
+00:25:38,440 --> 00:25:41,680
+sign up money for a pizza sometimes
+
+586
+00:25:41,680 --> 00:25:43,680
+or happpy so
+
+587
+00:25:43,680 --> 00:25:46,180
+or a slice
+
+588
+00:25:46,180 --> 00:25:47,930
+but it's mostly forties
+
+589
+00:25:47,930 --> 00:25:50,090
+and uh... and interesting
+
+590
+00:25:50,090 --> 00:25:51,860
+anything else about
+
+591
+00:25:51,860 --> 00:25:57,220
+phil course itself
+
+592
+00:25:57,220 --> 00:26:00,899
+i've the policy on the waitlist assumes
+that we will do our best to
+
+593
+00:26:00,899 --> 00:26:03,690
+got move people off the waitlist into
+our
+
+594
+00:26:03,690 --> 00:26:05,670
+into the yard into the class
+
+595
+00:26:05,670 --> 00:26:07,680
+we have a couple of constraints
+
+596
+00:26:07,680 --> 00:26:12,980
+the first is that we need to give
+priority to psychology and cognitive
+
+597
+00:26:12,980 --> 00:26:16,220
+science majors who are seniors and
+juniors
+
+598
+00:26:16,220 --> 00:26:19,800
+and the reason we do that is that this
+of course that fulfills
+
+599
+00:26:19,800 --> 00:26:21,950
+graduation requirements for those majors
+
+600
+00:26:21,950 --> 00:26:25,390
+every one of these people's way out of
+what we want to have you here we'd keep
+
+601
+00:26:25,390 --> 00:26:27,400
+you here forever if we could
+
+602
+00:26:27,400 --> 00:26:31,690
+all but we know you want to get out of
+here
+
+603
+00:26:31,690 --> 00:26:35,670
+we want to facilitate that process
+
+604
+00:26:35,670 --> 00:26:39,010
+folks yet
+
+605
+00:26:39,010 --> 00:26:41,460
+wiped off outside of that
+
+606
+00:26:41,460 --> 00:26:45,540
+will move people in again giving
+preference to senior and junior non
+
+607
+00:26:45,540 --> 00:26:48,880
+majors this courses offered every other
+year saw from the spring of odd numbered
+
+608
+00:26:48,880 --> 00:26:50,190
+years
+
+609
+00:26:50,190 --> 00:26:52,960
+also if you're a junior now you're not
+going to get a chance to take it next
+
+610
+00:26:52,960 --> 00:26:53,450
+year
+
+611
+00:26:53,450 --> 00:26:56,460
+you really want to take at this
+
+612
+00:26:56,460 --> 00:27:00,510
+do juniors if we can move some
+sophomores and freshman into uh... the
+
+613
+00:27:00,510 --> 00:27:02,030
+prerequisites that's fine
+
+614
+00:27:02,030 --> 00:27:05,350
+all will do everything we can to do that
+
+615
+00:27:05,350 --> 00:27:08,330
+into the courses through a discussion
+section
+
+616
+00:27:08,330 --> 00:27:12,990
+so your weight lifter waitlisted for the
+chorus waitlisted for a discussion
+
+617
+00:27:12,990 --> 00:27:14,010
+section
+
+618
+00:27:14,010 --> 00:27:15,800
+so for next week or so
+
+619
+00:27:15,800 --> 00:27:19,850
+you should go to the discussion section
+for which you waitlisted
+
+620
+00:27:19,850 --> 00:27:21,270
+and see if there's room
+
+621
+00:27:21,270 --> 00:27:24,410
+now we've got to accommodate these
+people who were
+
+622
+00:27:24,410 --> 00:27:27,280
+accidentally registered for the tuesday
+discussion section we're gonna do that
+
+623
+00:27:27,280 --> 00:27:29,179
+first
+
+624
+00:27:29,179 --> 00:27:30,830
+all but there still should be some room
+
+625
+00:27:30,830 --> 00:27:32,510
+uh... in the course
+
+626
+00:27:32,510 --> 00:27:33,510
+especially after
+
+627
+00:27:33,510 --> 00:27:37,470
+i finished today's lecture or certainly
+after monday's lecture half the people
+
+628
+00:27:37,470 --> 00:27:39,930
+will leave the room
+
+629
+00:27:39,930 --> 00:27:42,809
+so long to be plenty of room
+
+630
+00:27:42,809 --> 00:27:44,830
+i'm sure
+
+631
+00:27:44,830 --> 00:27:49,510
+palm we have a number of foreign
+exchange students here called us those
+
+632
+00:27:49,510 --> 00:27:51,390
+specially in norwegian contingent
+
+633
+00:27:51,390 --> 00:27:52,110
+are welcome
+
+634
+00:27:52,110 --> 00:27:53,600
+to berkeley
+
+635
+00:27:53,600 --> 00:27:54,370
+arm
+
+636
+00:27:54,370 --> 00:27:58,549
+and uh... you guys should contact me
+bartholet thought just kinda make
+
+637
+00:27:58,549 --> 00:28:02,160
+yourselves no not just the norwegians
+but everybody
+
+638
+00:28:02,160 --> 00:28:04,799
+whose they are part of the foreign
+exchange student
+
+639
+00:28:04,799 --> 00:28:08,690
+also world so we know who you are
+
+640
+00:28:08,690 --> 00:28:13,570
+anything else about of course
+
+641
+00:28:13,570 --> 00:28:17,750
+all right so nuggets working actually
+
+642
+00:28:17,750 --> 00:28:19,830
+you can actually hear
+
+643
+00:28:19,830 --> 00:28:21,009
+that's good because
+
+644
+00:28:21,009 --> 00:28:24,710
+if you couldn't hear this is where the
+screencast of coming from
+
+645
+00:28:24,710 --> 00:28:27,409
+or you get is this and not by
+
+646
+00:28:27,409 --> 00:28:28,840
+not my voice
+
+647
+00:28:28,840 --> 00:28:31,480
+sol they'd spend some time talking about
+
+648
+00:28:31,480 --> 00:28:34,790
+what we're gonna talk about
+
+649
+00:28:34,790 --> 00:28:37,570
+consciousness basically has to do with
+two things
+
+650
+00:28:37,570 --> 00:28:40,290
+it has to do first with
+
+651
+00:28:40,290 --> 00:28:41,010
+awareness
+
+652
+00:28:41,010 --> 00:28:44,940
+it has to do with monitoring ourselves
+and our environment
+
+653
+00:28:44,940 --> 00:28:47,080
+by virtue of being conscious
+
+654
+00:28:47,080 --> 00:28:48,060
+world where
+
+655
+00:28:48,060 --> 00:28:51,520
+we're consciously aware of what's going
+on all around us
+
+656
+00:28:51,520 --> 00:28:54,530
+what we're doing what events are
+occurring in the world
+
+657
+00:28:54,530 --> 00:28:56,549
+by virtue of being conscious
+
+658
+00:28:56,549 --> 00:29:00,640
+word aware of the contents of our own
+mines
+
+659
+00:29:00,640 --> 00:29:03,350
+but that's not all the wrist a
+consciousness
+
+660
+00:29:03,350 --> 00:29:07,220
+consciousness has not to do with joss
+monitoring but it also has to do with
+
+661
+00:29:07,220 --> 00:29:10,270
+controlling ourselves and our
+environment
+
+662
+00:29:10,270 --> 00:29:16,360
+by virtue of consciousness we engage in
+voluntary activities we deliberately we
+
+663
+00:29:16,360 --> 00:29:17,770
+consciously engage
+
+664
+00:29:17,770 --> 00:29:23,079
+in various kinds of behaviors better
+intended to meet environmental demands
+
+665
+00:29:23,079 --> 00:29:26,990
+on and achieve our own or personal goals
+
+666
+00:29:26,990 --> 00:29:30,480
+monitoring and controlling or two
+aspects of truth quite different aspects
+
+667
+00:29:30,480 --> 00:29:31,810
+of consciousness
+
+668
+00:29:31,810 --> 00:29:35,970
+but i think it can see how at least in
+logical terms they're related to each
+
+669
+00:29:35,970 --> 00:29:39,630
+other if you're going to exercise
+conscious control it's something they're
+
+670
+00:29:39,630 --> 00:29:42,730
+going to have to be consciously aware of
+it first
+
+671
+00:29:42,730 --> 00:29:46,740
+you can't consciously control something
+you're not consciously aware of
+
+672
+00:29:46,740 --> 00:29:49,500
+or insolvency in any event
+
+673
+00:29:49,500 --> 00:29:53,270
+alva but uh... still these are two
+different aspects of consciousness we're
+
+674
+00:29:53,270 --> 00:29:55,280
+going to
+
+675
+00:29:55,280 --> 00:29:56,990
+going to pay attention to
+
+676
+00:29:56,990 --> 00:29:58,450
+in this course
+
+677
+00:29:58,450 --> 00:30:03,610
+the problem of consciousness was set for
+us in the are guarded
+
+678
+00:30:03,610 --> 00:30:07,230
+seventeenth-century basically by floss
+for renee descartes
+
+679
+00:30:07,230 --> 00:30:11,309
+all who took it upon himself to try to
+figure out what could be known
+
+680
+00:30:11,309 --> 00:30:16,850
+simply by the application of logic the
+adopted a stance to be called all of the
+
+681
+00:30:16,850 --> 00:30:18,620
+the political doubt
+
+682
+00:30:18,620 --> 00:30:21,090
+so i'm not going to believe anything
+anybody tells me
+
+683
+00:30:21,090 --> 00:30:23,130
+on their start from first principles
+
+684
+00:30:23,130 --> 00:30:26,529
+and he discovered that there was one
+thing he couldn't doubt
+
+685
+00:30:26,529 --> 00:30:27,210
+which was that
+
+686
+00:30:27,210 --> 00:30:28,750
+he was conscious
+
+687
+00:30:28,750 --> 00:30:29,200
+okay
+
+688
+00:30:29,200 --> 00:30:30,259
+but he was doubting
+
+689
+00:30:30,259 --> 00:30:34,260
+right so i'm doubting right so that's
+one thing i can tell
+
+690
+00:30:34,260 --> 00:30:34,809
+called
+
+691
+00:30:34,809 --> 00:30:37,120
+and he came up with his famous old
+
+692
+00:30:37,120 --> 00:30:41,390
+all of the book but by virtue of the
+fact that party the experience himself
+
+693
+00:30:41,390 --> 00:30:42,690
+as thinking
+
+694
+00:30:42,690 --> 00:30:44,970
+he understood you do you resent that
+
+695
+00:30:44,970 --> 00:30:45,760
+he at least
+
+696
+00:30:45,760 --> 00:30:48,940
+or exist that that's what could you tell
+ever goes to means
+
+697
+00:30:48,940 --> 00:30:49,980
+i think
+
+698
+00:30:49,980 --> 00:30:51,340
+therefore i a m
+
+699
+00:30:51,340 --> 00:30:52,570
+a little bit later
+
+700
+00:30:52,570 --> 00:30:57,400
+he all of them change the formulation a
+little bit to safely race project i was
+
+701
+00:30:57,400 --> 00:31:00,460
+alright i_t_n_ ma i think that thinks
+
+702
+00:31:00,460 --> 00:31:01,729
+and this idea
+
+703
+00:31:01,729 --> 00:31:06,960
+that human beings are characterized in
+our humanity by conscious awareness
+
+704
+00:31:06,960 --> 00:31:10,870
+not just that we think perceive or
+remember but that we're aware
+
+705
+00:31:10,870 --> 00:31:14,370
+of what we think and perceived remember
+that were aware of what's going through
+
+706
+00:31:14,370 --> 00:31:15,760
+our minds
+
+707
+00:31:15,760 --> 00:31:16,360
+really
+
+708
+00:31:16,360 --> 00:31:17,459
+on shifted
+
+709
+00:31:17,459 --> 00:31:18,750
+the whole
+
+710
+00:31:18,750 --> 00:31:19,350
+alm
+
+711
+00:31:19,350 --> 00:31:22,669
+uh... list of rust before us a p
+
+712
+00:31:22,669 --> 00:31:26,589
+from problems of metaphysics and
+problems of ethics to problems of a
+
+713
+00:31:26,589 --> 00:31:29,270
+pistol biology problems of knowledge
+
+714
+00:31:29,270 --> 00:31:33,870
+and to set the stage of for later a
+scientific analyses of consciousness
+
+715
+00:31:33,870 --> 00:31:36,740
+trying to figure out what consciousness
+is
+
+716
+00:31:36,740 --> 00:31:40,350
+where it comes from and what it's good
+before
+
+717
+00:31:40,350 --> 00:31:43,780
+topics aboard try to assess uh... say
+something about
+
+718
+00:31:43,780 --> 00:31:45,520
+in this class
+
+719
+00:31:45,520 --> 00:31:49,500
+in the beginning this historical
+beginnings of psychology william james
+
+720
+00:31:49,500 --> 00:31:50,390
+great american
+
+721
+00:31:50,390 --> 00:31:52,000
+our psychologist
+
+722
+00:31:52,000 --> 00:31:53,910
+late nineteenth century
+
+723
+00:31:53,910 --> 00:31:57,480
+arthur tried to define the other
+psychology in his textbook the
+
+724
+00:31:57,480 --> 00:31:59,910
+principles of psychology
+
+725
+00:31:59,910 --> 00:32:04,450
+psychology instance define psychology
+has the science of mental like
+
+726
+00:32:04,450 --> 00:32:07,429
+first fact ross that for a psychologist
+
+727
+00:32:07,429 --> 00:32:11,210
+as for that matter it was for descartes
+
+728
+00:32:11,210 --> 00:32:12,770
+thinkin goes on
+
+729
+00:32:12,770 --> 00:32:14,250
+is trying to understand
+
+730
+00:32:14,250 --> 00:32:18,070
+how it is that were able to think and
+proceed even remember and do all those
+
+731
+00:32:18,070 --> 00:32:19,900
+other things with our minds
+
+732
+00:32:19,900 --> 00:32:21,400
+wendy shortened the principles
+
+733
+00:32:21,400 --> 00:32:25,150
+to the briefer course he'd change his
+definition a little bit all the way
+
+734
+00:32:25,150 --> 00:32:27,920
+that's very friendly to the goals of
+this course
+
+735
+00:32:27,920 --> 00:32:29,779
+by saying that psychology
+
+736
+00:32:29,779 --> 00:32:35,299
+is the description and explanation of
+states of consciousness as such
+
+737
+00:32:35,299 --> 00:32:35,910
+psychology
+
+738
+00:32:35,910 --> 00:32:40,610
+for james anyway tried to figure out
+what consciousness is
+
+739
+00:32:40,610 --> 00:32:41,700
+where home
+
+740
+00:32:41,700 --> 00:32:43,830
+and where it comes from
+
+741
+00:32:43,830 --> 00:32:48,610
+now in fact there was consciousness in
+psychology before james
+
+742
+00:32:48,610 --> 00:32:53,000
+psychology i'd thought that uh...
+extracts itself from from philosophy
+
+743
+00:32:53,000 --> 00:32:56,220
+and becomes law and uh... an independent
+science
+
+744
+00:32:56,220 --> 00:32:59,720
+on basically around problem solve all of
+them
+
+745
+00:32:59,720 --> 00:33:00,940
+problems of consciousness
+
+746
+00:33:00,940 --> 00:33:05,779
+the very first psychologist for people
+like that defied themselves as cycle
+
+747
+00:33:05,779 --> 00:33:07,090
+physicists
+
+748
+00:33:07,090 --> 00:33:09,460
+and they set for themselves a problem
+
+749
+00:33:09,460 --> 00:33:11,780
+art racine full links
+
+750
+00:33:11,780 --> 00:33:13,520
+tracing the correlations
+
+751
+00:33:13,520 --> 00:33:18,850
+between the physical properties are
+various tamil aryan be environment and
+
+752
+00:33:18,850 --> 00:33:23,710
+the psychological properties of the
+experiences to which those stimuli
+
+753
+00:33:23,710 --> 00:33:26,629
+gave rise so in a very real sense
+
+754
+00:33:26,629 --> 00:33:29,710
+the very first scientific psychology
+
+755
+00:33:29,710 --> 00:33:30,780
+or was
+
+756
+00:33:30,780 --> 00:33:31,629
+or an attempt
+
+757
+00:33:31,629 --> 00:33:35,640
+to figure out the nature of of conscious
+experience
+
+758
+00:33:35,640 --> 00:33:37,950
+a little bit later in the nineteenth
+century
+
+759
+00:33:37,950 --> 00:33:41,600
+although a pioneering psychologists like
+of the building won't
+
+760
+00:33:41,600 --> 00:33:43,289
+in germany and off
+
+761
+00:33:43,289 --> 00:33:46,800
+uh... you'd be pitcher or here in united
+states
+
+762
+00:33:46,800 --> 00:33:50,390
+developed a retarded technique which
+they called introspection
+
+763
+00:33:50,390 --> 00:33:54,650
+in which their subjects the subjects in
+their experiments would try to describe
+
+764
+00:33:54,650 --> 00:33:55,770
+their
+
+765
+00:33:55,770 --> 00:33:57,090
+conscious states
+
+766
+00:33:57,090 --> 00:34:01,350
+as they were experiencing various kinds
+of of stimuli
+
+767
+00:34:01,350 --> 00:34:03,259
+so what wouldn't into cheer would do
+
+768
+00:34:03,259 --> 00:34:04,710
+would be too will
+
+769
+00:34:04,710 --> 00:34:07,880
+manipulate some aspect on some stimulus
+situation
+
+770
+00:34:07,880 --> 00:34:10,069
+and then all i ask people to describe
+
+771
+00:34:10,069 --> 00:34:14,429
+how they're conscious experiences of
+they've changed
+
+772
+00:34:14,429 --> 00:34:16,879
+home philosophers
+
+773
+00:34:16,879 --> 00:34:21,249
+ogle used introspection who want to
+explore consciousness long between
+
+774
+00:34:21,249 --> 00:34:22,799
+before when temperature
+
+775
+00:34:22,799 --> 00:34:25,069
+although that came on the scene
+
+776
+00:34:25,069 --> 00:34:28,219
+but offer void intention or the
+difference
+
+777
+00:34:28,219 --> 00:34:31,609
+their introspection as were experimental
+in nature
+
+778
+00:34:31,609 --> 00:34:33,179
+or the expert matter
+
+779
+00:34:33,179 --> 00:34:35,539
+was all of the manipulating the stimuli
+
+780
+00:34:35,539 --> 00:34:37,710
+by various ways
+
+781
+00:34:37,710 --> 00:34:41,339
+and there was some kind of quantitative
+analysis of the data
+
+782
+00:34:41,339 --> 00:34:42,220
+if you want
+
+783
+00:34:42,220 --> 00:34:45,619
+had begun as a philosophical on method
+
+784
+00:34:45,619 --> 00:34:50,119
+and tried to turn it into into a
+scientific one
+
+785
+00:34:50,119 --> 00:34:51,979
+later on
+
+786
+00:34:51,979 --> 00:34:53,659
+paul good to consult
+
+787
+00:34:53,659 --> 00:34:58,089
+all the baby all the made conscious
+experience the center called for a his
+
+788
+00:34:58,089 --> 00:34:59,109
+psychology
+
+789
+00:34:59,109 --> 00:35:02,380
+it began with this really interesting
+distinction which will come up
+
+790
+00:35:02,380 --> 00:35:04,779
+all again and again in this class
+
+791
+00:35:04,779 --> 00:35:06,510
+trying to distinguish between so i could
+
+792
+00:35:06,510 --> 00:35:08,210
+members was a cycle physicist
+
+793
+00:35:08,210 --> 00:35:09,160
+between physics
+
+794
+00:35:09,160 --> 00:35:12,009
+and psychology
+
+795
+00:35:12,009 --> 00:35:16,040
+is the science of the world as it exists
+
+796
+00:35:16,040 --> 00:35:19,570
+independent of an experienced in
+individual there's a world out there
+
+797
+00:35:19,570 --> 00:35:22,249
+that exists whether word here or not
+
+798
+00:35:22,249 --> 00:35:26,619
+pauline exists whether were aware of it
+or not and that's what physics tries to
+
+799
+00:35:26,619 --> 00:35:27,709
+describe
+
+800
+00:35:27,709 --> 00:35:28,999
+but psychology
+
+801
+00:35:28,999 --> 00:35:30,859
+is the science of experience
+
+802
+00:35:30,859 --> 00:35:36,119
+as it's dependent upon me and that they
+had to be experiencing individual
+
+803
+00:35:36,119 --> 00:35:37,960
+there's not there's ascension being
+
+804
+00:35:37,960 --> 00:35:40,339
+who was aware of what's going on in the
+world
+
+805
+00:35:40,339 --> 00:35:41,950
+units those experiences
+
+806
+00:35:41,950 --> 00:35:44,509
+that vote tried to all understand
+
+807
+00:35:44,509 --> 00:35:47,299
+over in his psychology and in fact
+
+808
+00:35:47,299 --> 00:35:48,619
+large part
+
+809
+00:35:48,619 --> 00:35:50,559
+opens program of research
+
+810
+00:35:50,559 --> 00:35:54,779
+was to engage in what he called the kind
+of mental chemistry
+
+811
+00:35:54,779 --> 00:35:56,769
+complex mental states
+
+812
+00:35:56,769 --> 00:35:58,539
+feeling you have when you
+
+813
+00:35:58,539 --> 00:36:00,210
+fallen loan for
+
+814
+00:36:00,210 --> 00:36:04,529
+univ dinner or a c_e_o_ a traffic
+accident out on oxford avenue or
+
+815
+00:36:04,529 --> 00:36:05,140
+whatever
+
+816
+00:36:05,140 --> 00:36:08,849
+and analyze that complex conscious state
+
+817
+00:36:08,849 --> 00:36:12,869
+intuit's elementary sensations images
+and feelings
+
+818
+00:36:12,869 --> 00:36:15,319
+on psychology
+
+819
+00:36:15,319 --> 00:36:19,019
+called the psychologist in the late
+nineteenth century
+
+820
+00:36:19,019 --> 00:36:20,800
+completely focused on consciousness
+
+821
+00:36:20,800 --> 00:36:23,309
+it was very much overhaul of the new
+york
+
+822
+00:36:23,309 --> 00:36:25,429
+a scientific
+
+823
+00:36:25,429 --> 00:36:27,019
+unconsciousness
+
+824
+00:36:27,019 --> 00:36:27,859
+all of that
+
+825
+00:36:27,859 --> 00:36:31,749
+went away of course for those viewers
+psychology majors and know something
+
+826
+00:36:31,749 --> 00:36:33,589
+about the history of psychology
+
+827
+00:36:33,589 --> 00:36:36,900
+with what is known as the behaviorist
+revolution
+
+828
+00:36:36,900 --> 00:36:38,489
+in psychology
+
+829
+00:36:38,489 --> 00:36:42,279
+people like john b walks in and later
+olympiad scanner
+
+830
+00:36:42,279 --> 00:36:48,089
+argued that james was wrong to define
+psychology as a science of mental life
+
+831
+00:36:48,089 --> 00:36:49,640
+because from their point of view
+
+832
+00:36:49,640 --> 00:36:50,520
+they're going to happen
+
+833
+00:36:50,520 --> 00:36:54,150
+a science fundamental life you can't
+have it the bad thing
+
+834
+00:36:54,150 --> 00:36:56,059
+on to read a text book about
+
+835
+00:36:56,059 --> 00:36:57,640
+and they are going to be remembered
+
+836
+00:36:57,640 --> 00:36:59,159
+bug this way
+
+837
+00:36:59,159 --> 00:37:01,459
+science is objective
+
+838
+00:37:01,459 --> 00:37:06,599
+sciences salt that doesn't run tries to
+describe the world independent of
+
+839
+00:37:06,599 --> 00:37:08,199
+people's kinds of experiences
+
+840
+00:37:08,199 --> 00:37:10,230
+but the method of introspection
+
+841
+00:37:10,230 --> 00:37:13,809
+that was used by the cycle fiza system
+was used by
+
+842
+00:37:13,809 --> 00:37:17,449
+the awb dubbed by by by people like
+blood
+
+843
+00:37:17,449 --> 00:37:19,169
+necessarily subject it
+
+844
+00:37:19,169 --> 00:37:23,349
+all or would the cold wind gust people
+to do was to describe their experiences
+
+845
+00:37:23,349 --> 00:37:27,079
+and and and dot blots and you can't have
+an objective science
+
+846
+00:37:27,079 --> 00:37:29,579
+if all you're doing is asking people to
+describe
+
+847
+00:37:29,579 --> 00:37:31,799
+their experiences
+
+848
+00:37:31,799 --> 00:37:32,910
+science also
+
+849
+00:37:32,910 --> 00:37:35,230
+depends on public observation the whole
+
+850
+00:37:35,230 --> 00:37:36,409
+point of science
+
+851
+00:37:36,409 --> 00:37:41,039
+is reputed to be able to confirm each
+other's observation i do experiment you
+
+852
+00:37:41,039 --> 00:37:44,779
+know i drop some all softly go leaning
+tower of peas on may fall on a
+
+853
+00:37:44,779 --> 00:37:45,830
+particular way
+
+854
+00:37:45,830 --> 00:37:50,109
+and then if you will repeat that
+experiment you can do the same thing
+
+855
+00:37:50,109 --> 00:37:50,759
+consciousness
+
+856
+00:37:50,759 --> 00:37:55,719
+on watson pointed out is unnecessarily
+private i have no why do you know
+
+857
+00:37:55,719 --> 00:37:58,680
+what's going on through your mind right
+now
+
+858
+00:37:58,680 --> 00:38:01,089
+on uh... died and uh...
+
+859
+00:38:01,089 --> 00:38:02,569
+man i've had no way
+
+860
+00:38:02,569 --> 00:38:06,989
+volvo above the of making that kind of
+or that they do that kind of pop in
+
+861
+00:38:06,989 --> 00:38:08,179
+public
+
+862
+00:38:08,179 --> 00:38:09,570
+because
+
+863
+00:38:09,570 --> 00:38:12,789
+consciousness is necessarily subjective
+in private
+
+864
+00:38:12,789 --> 00:38:16,630
+and science is necessarily objective and
+public
+
+865
+00:38:16,630 --> 00:38:17,510
+yet have
+
+866
+00:38:17,510 --> 00:38:19,659
+a science of consciousness
+
+867
+00:38:19,659 --> 00:38:21,960
+on soul what watson and scatter
+
+868
+00:38:21,960 --> 00:38:27,519
+did was to abandon on any talk of
+mentality the any talk of mental life
+
+869
+00:38:27,519 --> 00:38:29,210
+and to refer exclusively
+
+870
+00:38:29,210 --> 00:38:33,350
+to wipe you could have an objective
+public science of
+
+871
+00:38:33,350 --> 00:38:34,420
+which was
+
+872
+00:38:34,420 --> 00:38:36,589
+behavior
+
+873
+00:38:36,589 --> 00:38:39,550
+walks in and skinner and others all of
+this i was what
+
+874
+00:38:39,550 --> 00:38:42,130
+let's just set aside this mental stuff
+
+875
+00:38:42,130 --> 00:38:43,450
+deal with that
+
+876
+00:38:43,450 --> 00:38:44,079
+hong
+
+877
+00:38:44,079 --> 00:38:48,089
+and let's draw a build a new science all
+inside the fine psychology of the
+
+878
+00:38:48,089 --> 00:38:49,549
+science of behavior
+
+879
+00:38:49,549 --> 00:38:51,870
+on a and set of the said about the
+problem
+
+880
+00:38:51,870 --> 00:38:52,749
+of tracking
+
+881
+00:38:52,749 --> 00:38:56,410
+the functional relations between stimuli
+in the environment
+
+882
+00:38:56,410 --> 00:38:58,630
+things that we can publicly observer
+
+883
+00:38:58,630 --> 00:39:02,599
+that are above that that can be
+objectively described
+
+884
+00:39:02,599 --> 00:39:03,460
+behaviors
+
+885
+00:39:03,460 --> 00:39:07,530
+behavioral responses to them other
+things that can be publicly observed
+
+886
+00:39:07,530 --> 00:39:10,489
+and objectively uh... described
+
+887
+00:39:10,489 --> 00:39:14,929
+so the behaviorist revolution which we
+began about nineteen seventeen
+
+888
+00:39:14,929 --> 00:39:19,369
+all and dot continued well into the
+nineteen fifties and sixties and
+
+889
+00:39:19,369 --> 00:39:20,010
+psychology
+
+890
+00:39:20,010 --> 00:39:24,420
+really dispensed with consciousness in
+all discussion of mental white
+
+891
+00:39:24,420 --> 00:39:27,789
+on you can go back into the
+psychological literature
+
+892
+00:39:27,789 --> 00:39:30,799
+called of the nineteen thirties and
+forties and fifties
+
+893
+00:39:30,799 --> 00:39:34,599
+and find a very few references to things
+like perception
+
+894
+00:39:34,599 --> 00:39:36,779
+or memory
+
+895
+00:39:36,779 --> 00:39:41,189
+or problem solving and the reason for
+that was those are all aspects like bob
+
+896
+00:39:41,189 --> 00:39:43,630
+mental lights are all aspects of
+consciousness
+
+897
+00:39:43,630 --> 00:39:45,020
+and they were ruled out
+
+898
+00:39:45,020 --> 00:39:47,150
+of scientific psychology
+
+899
+00:39:47,150 --> 00:39:49,839
+basically body alone
+
+900
+00:39:49,839 --> 00:39:51,719
+behaviorist revolution
+
+901
+00:39:51,719 --> 00:39:55,519
+nevertheless there was a persistent
+interest in consciousness there is some
+
+902
+00:39:55,519 --> 00:39:57,189
+people were not
+
+903
+00:39:57,189 --> 00:40:00,239
+of those swept up in the behavior of
+revolution
+
+904
+00:40:00,239 --> 00:40:03,779
+all and there were people who are built
+into the certain for colleges who said
+
+905
+00:40:03,779 --> 00:40:07,159
+look you know there's some really
+interesting problems here
+
+906
+00:40:07,159 --> 00:40:11,569
+are dished all psychology for those of
+you had a course in perception
+
+907
+00:40:11,569 --> 00:40:15,599
+paula uh... thaw the did the idea that
+
+908
+00:40:15,599 --> 00:40:20,619
+you can't add a lawyer for perceptual
+experience into did so the stimulus
+
+909
+00:40:20,619 --> 00:40:21,220
+elements
+
+910
+00:40:21,220 --> 00:40:24,759
+because for whole experience is greater
+than the folders parts
+
+911
+00:40:24,759 --> 00:40:26,490
+gestalt psychology
+
+912
+00:40:26,490 --> 00:40:27,009
+essentially
+
+913
+00:40:27,009 --> 00:40:29,829
+kept in interest installed consciousness
+alive
+
+914
+00:40:29,829 --> 00:40:31,320
+on one perception
+
+915
+00:40:31,320 --> 00:40:31,700
+people
+
+916
+00:40:31,700 --> 00:40:33,419
+i was mostly in europe
+
+917
+00:40:33,419 --> 00:40:37,299
+or didn't have much impact on american
+psychology and phil
+
+918
+00:40:37,299 --> 00:40:40,619
+on over nineteen thirty's nineteen
+forties
+
+919
+00:40:40,619 --> 00:40:43,699
+there were people like all of rest would
+work
+
+920
+00:40:43,699 --> 00:40:46,959
+who are interested in problems like the
+span of apprehension
+
+921
+00:40:46,959 --> 00:40:49,459
+span out the problem of the span of
+apprehension is
+
+922
+00:40:49,459 --> 00:40:53,759
+how many things can you keep in mind at
+one time
+
+923
+00:40:53,759 --> 00:40:57,229
+answerers roughly seven plus or minus
+two
+
+924
+00:40:57,229 --> 00:40:58,710
+if you think about it for a second
+
+925
+00:40:58,710 --> 00:41:02,370
+how many things can you keep in your
+mind at one time is a question about
+
+926
+00:41:02,370 --> 00:41:04,419
+consciousness that would never have
+occurred
+
+927
+00:41:04,419 --> 00:41:07,789
+to what's the risk of her to ask a
+question alike that but i think that
+
+928
+00:41:07,789 --> 00:41:10,159
+they did occur to work for it
+
+929
+00:41:10,159 --> 00:41:12,019
+on uh...
+
+930
+00:41:12,019 --> 00:41:14,679
+harvard psychologist for a vague tool
+
+931
+00:41:14,679 --> 00:41:18,999
+part of or that fought against the
+behaviorist revolution of the what he
+
+932
+00:41:18,999 --> 00:41:20,880
+called the score mix psychology
+
+933
+00:41:20,880 --> 00:41:24,769
+and again which can be summarized by
+this very nice phrase
+
+934
+00:41:24,769 --> 00:41:28,000
+which will see echoes of or in this
+course
+
+935
+00:41:28,000 --> 00:41:31,249
+mental life begins with a cognition
+
+936
+00:41:31,249 --> 00:41:35,320
+continues with a culmination a motive
+and ends with an abstraction
+
+937
+00:41:35,320 --> 00:41:36,910
+an abortion
+
+938
+00:41:36,910 --> 00:41:38,279
+cognition
+
+939
+00:41:38,279 --> 00:41:40,459
+motivation an emotion
+
+940
+00:41:40,459 --> 00:41:41,599
+thinking
+
+941
+00:41:41,599 --> 00:41:46,539
+feeling and desire those are the
+essential features of conscious mental
+
+942
+00:41:46,539 --> 00:41:47,259
+life
+
+943
+00:41:47,259 --> 00:41:49,030
+and whereas the behaviors
+
+944
+00:41:49,030 --> 00:41:50,889
+wanted to rule in out
+
+945
+00:41:50,889 --> 00:41:54,049
+of barbara donna bounds of a scientific
+psychology
+
+946
+00:41:54,049 --> 00:41:55,750
+these guys like mcdougal
+
+947
+00:41:55,750 --> 00:42:01,989
+on tried to put it that kim i'll skip
+that
+
+948
+00:42:01,989 --> 00:42:04,959
+it took until the nineteen fifties
+
+949
+00:42:04,959 --> 00:42:07,009
+really into the nineteen sixties
+
+950
+00:42:07,009 --> 00:42:11,630
+four psychology to get over its
+infatuation with behavior is that
+
+951
+00:42:11,630 --> 00:42:16,159
+and it didn't basically all it as a
+result of what's come to be called the
+
+952
+00:42:16,159 --> 00:42:17,710
+cognitive revolution
+
+953
+00:42:17,710 --> 00:42:21,379
+in vivid in psychology
+
+954
+00:42:21,379 --> 00:42:24,139
+wholesale change in the way psychologist
+thought
+
+955
+00:42:24,139 --> 00:42:25,510
+or about though
+
+956
+00:42:25,510 --> 00:42:29,649
+about their uh... about their business
+which basically argued
+
+957
+00:42:29,649 --> 00:42:34,599
+yet can't understand behavior solely in
+terms of stimulus and response
+
+958
+00:42:34,599 --> 00:42:37,679
+and the reason for that is
+
+959
+00:42:37,679 --> 00:42:39,209
+mental life
+
+960
+00:42:39,209 --> 00:42:39,839
+intervenes
+
+961
+00:42:39,839 --> 00:42:44,900
+between stimulus response it's not that
+stimulus that controls behavior it's a
+
+962
+00:42:44,900 --> 00:42:49,449
+perception of the stimulus the controls
+behavior it's not events in the world
+
+963
+00:42:49,449 --> 00:42:54,309
+that control behavior it's expectations
+about events in the world for control
+
+964
+00:42:54,309 --> 00:42:55,369
+behavior
+
+965
+00:42:55,369 --> 00:42:58,350
+and what the congress what the cognitive
+revolution dead
+
+966
+00:42:58,350 --> 00:43:00,150
+was to put
+
+967
+00:43:00,150 --> 00:43:00,809
+cognition
+
+968
+00:43:00,809 --> 00:43:06,019
+and then eventually the rest of mental
+life back into psychology arguing that
+
+969
+00:43:06,019 --> 00:43:09,979
+you really couldn't understand
+
+970
+00:43:09,979 --> 00:43:10,989
+organisms did
+
+971
+00:43:10,989 --> 00:43:14,809
+whether they're human beings were rats
+are dogs or cats or whatever
+
+972
+00:43:14,809 --> 00:43:20,729
+without having something to say about
+the cognitive structures and processes
+
+973
+00:43:20,729 --> 00:43:22,329
+intervened
+
+974
+00:43:22,329 --> 00:43:23,220
+between stimulus
+
+975
+00:43:23,220 --> 00:43:25,109
+uh... response
+
+976
+00:43:25,109 --> 00:43:28,539
+and if you look back in the history of
+psychology of notes thus the salient
+
+977
+00:43:28,539 --> 00:43:32,439
+events in the cognitive revolution
+
+978
+00:43:32,439 --> 00:43:37,539
+those landmarks of the condom revolution
+or all all had to do with consciousness
+
+979
+00:43:37,539 --> 00:43:41,829
+the first cognitive psychologists were
+interested in attention
+
+980
+00:43:41,829 --> 00:43:45,679
+and how it was the were able to pay
+attention to some things and ignore
+
+981
+00:43:45,679 --> 00:43:48,259
+other things while we're paying
+attention to them
+
+982
+00:43:48,259 --> 00:43:49,630
+think about that per second
+
+983
+00:43:49,630 --> 00:43:51,659
+that's a question about consciousness
+
+984
+00:43:51,659 --> 00:43:54,119
+by virtue of pain attention to something
+
+985
+00:43:54,119 --> 00:43:57,459
+you are bringing it into a conscious
+awareness
+
+986
+00:43:57,459 --> 00:44:00,630
+and by deployment your your attention in
+one direction
+
+987
+00:44:00,630 --> 00:44:03,519
+but not another you wore
+
+988
+00:44:03,519 --> 00:44:05,140
+bringing something into awareness
+
+989
+00:44:05,140 --> 00:44:06,689
+and excluding other things
+
+990
+00:44:06,689 --> 00:44:08,520
+uh... from where so
+
+991
+00:44:08,520 --> 00:44:10,910
+ons whole research literature on
+attention
+
+992
+00:44:10,910 --> 00:44:13,799
+or brought consciousness back into the
+picture
+
+993
+00:44:13,799 --> 00:44:17,529
+similarly it all the work on uh...
+so-called short term memory the magical
+
+994
+00:44:17,529 --> 00:44:19,930
+number seven plus or minus two rate
+
+995
+00:44:19,930 --> 00:44:24,179
+the capacity of short term memory short
+term memory isis photos
+
+996
+00:44:24,179 --> 00:44:28,249
+a sense with a staging area for
+consciousness if what you're aware of
+
+997
+00:44:28,249 --> 00:44:31,650
+that that what your award ticket will go
+in for your head
+
+998
+00:44:31,650 --> 00:44:34,559
+this second that's what consciousness is
+all about
+
+999
+00:44:34,559 --> 00:44:37,879
+and then there was although the
+wonderful light of research early in
+
+1000
+00:44:37,879 --> 00:44:40,349
+kind of psychology about mental imagery
+
+1001
+00:44:40,349 --> 00:44:43,009
+where people were actually trying to
+study
+
+1002
+00:44:43,009 --> 00:44:47,279
+the pictures and other images there
+we're going through people's minds
+
+1003
+00:44:47,279 --> 00:44:49,029
+if you think about that again
+
+1004
+00:44:49,029 --> 00:44:50,369
+what you're trying to do there
+
+1005
+00:44:50,369 --> 00:44:54,749
+is to study objectively something that's
+necessarily private
+
+1006
+00:44:54,749 --> 00:44:58,630
+close my eyes i come up with an image of
+my cat with a beer
+
+1007
+00:44:58,630 --> 00:45:02,539
+what you're going to do all the david
+one mika signs of that is what well what
+
+1008
+00:45:02,539 --> 00:45:03,409
+does it mean
+
+1009
+00:45:03,409 --> 00:45:06,759
+to have an image of your chat with him
+here is a real images of a picture do
+
+1010
+00:45:06,759 --> 00:45:08,479
+you think it's an image
+
+1011
+00:45:08,479 --> 00:45:11,639
+all you do you just talking
+metaphorically or whatever
+
+1012
+00:45:11,639 --> 00:45:15,869
+by answering those questions or were
+actually ask asking questions about
+
+1013
+00:45:15,869 --> 00:45:17,649
+consciousness
+
+1014
+00:45:17,649 --> 00:45:19,840
+the cognitive revolution
+
+1015
+00:45:19,840 --> 00:45:25,390
+lame duck foundation for the revival
+within psychology and other sciences
+
+1016
+00:45:25,390 --> 00:45:27,149
+psychology and cognitive science
+
+1017
+00:45:27,149 --> 00:45:29,329
+four in interest in consciousness
+
+1018
+00:45:29,329 --> 00:45:31,210
+but at the same time
+
+1019
+00:45:31,210 --> 00:45:33,490
+on but beyond the content of revolution
+
+1020
+00:45:33,490 --> 00:45:36,169
+had all the other certain
+
+1021
+00:45:36,169 --> 00:45:36,710
+affects
+
+1022
+00:45:36,710 --> 00:45:38,419
+on the study of consciousness
+
+1023
+00:45:38,419 --> 00:45:41,759
+in part because first the alm
+
+1024
+00:45:41,759 --> 00:45:43,650
+told the public or the revolution was
+
+1025
+00:45:43,650 --> 00:45:46,109
+was predicated on on the notion that
+
+1026
+00:45:46,109 --> 00:45:49,859
+the computer is a metaphor for the mind
+
+1027
+00:45:49,859 --> 00:45:50,829
+that's fine
+
+1028
+00:45:50,829 --> 00:45:56,949
+but if computers a metaphor for the mind
+nobody thinks their computers conscious
+
+1029
+00:45:56,949 --> 00:46:01,519
+i don't care how big your mac book is
+park it's just not conscious that you
+
+1030
+00:46:01,519 --> 00:46:03,749
+don't think it's conscious right
+
+1031
+00:46:03,749 --> 00:46:06,369
+all relief we don't think it's we think
+it's conscious
+
+1032
+00:46:06,369 --> 00:46:08,889
+right because i had that debate sometime
+
+1033
+00:46:08,889 --> 00:46:12,589
+god relieved we won't
+
+1034
+00:46:12,589 --> 00:46:15,859
+but that computers can process
+information
+
+1035
+00:46:15,859 --> 00:46:19,899
+they are not conscious and we think the
+mind of like a computer
+
+1036
+00:46:19,899 --> 00:46:22,549
+well what does that say about
+consciousness right maybe i don't really
+
+1037
+00:46:22,549 --> 00:46:26,999
+need consciousness to have a mind okay
+so on the computer metaphor tended to
+
+1038
+00:46:26,999 --> 00:46:28,140
+undercut
+
+1039
+00:46:28,140 --> 00:46:31,689
+home the are glad that this is this
+interest in consciousness on some other
+
+1040
+00:46:31,689 --> 00:46:32,989
+things did too
+
+1041
+00:46:32,989 --> 00:46:35,549
+on chomsky in cycle linguistics
+
+1042
+00:46:35,549 --> 00:46:40,439
+norm chomsky argued that will bar
+language capacity was based on knowledge
+
+1043
+00:46:40,439 --> 00:46:44,299
+that we had about language that was with
+essentially inaccessible to
+
+1044
+00:46:44,299 --> 00:46:45,129
+consciousness
+
+1045
+00:46:45,129 --> 00:46:47,219
+so uh... raised by issues about
+
+1046
+00:46:47,219 --> 00:46:51,459
+whether consciousness was necessary for
+various aspects of human performance
+
+1047
+00:46:51,459 --> 00:46:55,529
+and then there were some philosophers
+and some girls like all of those some
+
+1048
+00:46:55,529 --> 00:46:56,980
+neuroscientists who mortgaged
+
+1049
+00:46:56,980 --> 00:47:00,039
+consciousness was basically just a
+matter of folks like ology
+
+1050
+00:47:00,039 --> 00:47:04,399
+that that's your grandmother who talks
+about consciousness you know
+
+1051
+00:47:04,399 --> 00:47:07,290
+all and i and other run sophisticated
+people
+
+1052
+00:47:07,290 --> 00:47:09,350
+but if you're really going to be a
+scientist
+
+1053
+00:47:09,350 --> 00:47:11,339
+youths consciousness and
+
+1054
+00:47:11,339 --> 00:47:12,090
+and all that
+
+1055
+00:47:12,090 --> 00:47:16,569
+has to go the way of largest on uh...
+and easter
+
+1056
+00:47:16,569 --> 00:47:17,509
+get
+
+1057
+00:47:17,509 --> 00:47:19,469
+get away from it
+
+1058
+00:47:19,469 --> 00:47:23,789
+kind of though that the condom
+revolution kind of cuts both ways
+
+1059
+00:47:23,789 --> 00:47:28,219
+all talk about this a little bit more
+although later on trying to progressive
+
+1060
+00:47:28,219 --> 00:47:29,220
+next time
+
+1061
+00:47:29,220 --> 00:47:30,599
+because the u
+
+1062
+00:47:30,599 --> 00:47:35,039
+what's happened as a result of the condo
+cognitive revolution
+
+1063
+00:47:35,039 --> 00:47:39,729
+lots of psychologists and cognitive
+scientists or interested in
+
+1064
+00:47:39,729 --> 00:47:40,659
+consciousness
+
+1065
+00:47:40,659 --> 00:47:42,889
+but this interest unconsciousness
+
+1066
+00:47:42,889 --> 00:47:46,879
+leaves them to be uneasy about what
+they're doing
+
+1067
+00:47:46,879 --> 00:47:50,499
+on there is first and foremost is
+positive istic reserve that's basically
+
+1068
+00:47:50,499 --> 00:47:53,139
+all holdover from behavior as well
+
+1069
+00:47:53,139 --> 00:47:54,839
+consciousness is private
+
+1070
+00:47:54,839 --> 00:47:58,199
+consciousness is subjective how could we
+have a science about something that's
+
+1071
+00:47:58,199 --> 00:48:00,739
+that's private and subjected
+
+1072
+00:48:00,739 --> 00:48:01,300
+home
+
+1073
+00:48:01,300 --> 00:48:04,820
+there are lots of psychologists and
+cognitive scientists who think we should
+
+1074
+00:48:04,820 --> 00:48:08,140
+kind of work for the bottom-up let's not
+attack consciousness now
+
+1075
+00:48:08,140 --> 00:48:11,660
+let's figure out how perception works of
+memory works something cute work and
+
+1076
+00:48:11,660 --> 00:48:13,070
+that will put it all together
+
+1077
+00:48:13,070 --> 00:48:15,179
+and will get consciousness
+
+1078
+00:48:15,179 --> 00:48:17,759
+are there are people who think that may
+be consciousness
+
+1079
+00:48:17,759 --> 00:48:18,999
+we have it
+
+1080
+00:48:18,999 --> 00:48:23,339
+obviously we have a anybody here dot
+your conscious
+
+1081
+00:48:23,339 --> 00:48:24,679
+everybody knows your conscious
+
+1082
+00:48:24,679 --> 00:48:27,209
+but maybe consciousness isn't essential
+
+1083
+00:48:27,209 --> 00:48:29,139
+for mental function maybe
+
+1084
+00:48:29,139 --> 00:48:32,180
+good old just go on the following in the
+dark
+
+1085
+00:48:32,180 --> 00:48:33,710
+and then there's finally
+
+1086
+00:48:33,710 --> 00:48:38,130
+all what dog who all went flat again for
+thr is called the apple for novelist
+
+1087
+00:48:38,130 --> 00:48:38,769
+suspicion
+
+1088
+00:48:38,769 --> 00:48:40,500
+is nagging feeling
+
+1089
+00:48:40,500 --> 00:48:43,389
+that although were conscious of things
+
+1090
+00:48:43,389 --> 00:48:46,999
+contest those plays no pausable role in
+the world
+
+1091
+00:48:46,999 --> 00:48:48,589
+that it doesn't matter
+
+1092
+00:48:48,589 --> 00:48:51,000
+without but whether we're conscious or
+not
+
+1093
+00:48:51,000 --> 00:48:54,759
+because consciousness has no functional
+significance is the kind of the
+
+1094
+00:48:54,759 --> 00:48:55,279
+background
+
+1095
+00:48:55,279 --> 00:48:56,489
+after the scores
+
+1096
+00:48:56,489 --> 00:49:00,569
+so what we're going to do got forty
+seconds to tell you
+
+1097
+00:49:00,569 --> 00:49:03,289
+first thing we're going to is we're
+going to talk about various aspects of
+
+1098
+00:49:03,289 --> 00:49:04,779
+the mind-body problem
+
+1099
+00:49:04,779 --> 00:49:09,389
+those of you have a philosophy course no
+part of the mind-body problem
+
+1100
+00:49:09,389 --> 00:49:13,479
+what's the relationship between body and
+mind it turns out that there are four
+
+1101
+00:49:13,479 --> 00:49:17,089
+different mind-body problems paula and
+we'll talk about those in the beginning
+
+1102
+00:49:17,089 --> 00:49:18,739
+of the courts
+
+1103
+00:49:18,739 --> 00:49:22,179
+next problem of consciousness is the
+problem of the knowledge of our own
+
+1104
+00:49:22,179 --> 00:49:23,099
+mines
+
+1105
+00:49:23,099 --> 00:49:24,159
+we are
+
+1106
+00:49:24,159 --> 00:49:28,709
+to what extent can deal with a or b
+aware of what were perceive even
+
+1107
+00:49:28,709 --> 00:49:31,029
+remembering and thinking and feeling
+
+1108
+00:49:31,029 --> 00:49:32,950
+maybe introspection isn't
+
+1109
+00:49:32,950 --> 00:49:35,109
+valid after all
+
+1110
+00:49:35,109 --> 00:49:37,160
+and then there's a problem of
+
+1111
+00:49:37,160 --> 00:49:39,809
+knowledge about their minds how do we
+know
+
+1112
+00:49:39,809 --> 00:49:42,319
+when somebody else's conscious
+
+1113
+00:49:42,319 --> 00:49:46,109
+on of the problem the comes up when we
+try to describe arief altered states of
+
+1114
+00:49:46,109 --> 00:49:47,949
+consciousness like
+
+1115
+00:49:47,949 --> 00:49:51,049
+anesthesia or drug affects or whatever
+
+1116
+00:49:51,049 --> 00:49:55,859
+but also when we get back to a good for
+the the the problem trying to clear out
+
+1117
+00:49:55,859 --> 00:49:57,039
+nonhuman animals
+
+1118
+00:49:57,039 --> 00:50:00,719
+or conscious or whether our mac book
+really is
+
+1119
+00:50:00,719 --> 00:50:02,249
+squaw after all
+
+1120
+00:50:02,249 --> 00:50:03,499
+and then finally
+
+1121
+00:50:03,499 --> 00:50:06,890
+questions about the origins of
+consciousness where it is consciousness
+
+1122
+00:50:06,890 --> 00:50:07,960
+come from
+
+1123
+00:50:07,960 --> 00:50:09,250
+where does that fit in
+
+1124
+00:50:09,250 --> 00:50:13,160
+in both the evolutionary scheme of
+things and in the development
+
+1125
+00:50:13,160 --> 00:50:15,079
+all the palm
+
+1126
+00:50:15,079 --> 00:50:17,430
+of the individual organist
+
+1127
+00:50:17,430 --> 00:50:18,599
+that's what we're going to do
+
+1128
+00:50:18,599 --> 00:50:20,979
+for the next fourteen weeks
+
+1129
+00:50:20,979 --> 00:50:24,779
+try to address is much of it is possible
+
+1130
+00:50:24,779 --> 00:50:28,559
+thank you very much remember discussion
+sections me tomorrow and friday
+
+1131
+00:50:28,559 --> 00:50:29,729
+we'll see you on monday
+
+1132
+00:50:29,729 --> 00:50:30,380
+have a good weekend
+
