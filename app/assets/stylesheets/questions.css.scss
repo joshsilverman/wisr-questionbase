@@ -58,7 +58,22 @@
     width: 90%;
     float: right;
     display: block;
-    height: 65px;   
+    height: 65px; 
+    position: relative;  
+}
+
+.answer a {
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    display: none;
+    font-size: 16px;
+    color: blue;
+}
+
+.answer:hover a {
+    display: block;
+    background-color: #F5F5F5;
 }
 
 .indicator {
@@ -166,7 +181,7 @@ li.token-input-input-token-facebook {
 }
 
 .delete_question {
-    float:right;
+    float: right;
     margin: 2px 5px 0px 0px;
 }
 
@@ -224,6 +239,8 @@ li.token-input-input-token-facebook {
     background-color: #F5F5F5;
 }
 
+
+
 .answer_media_box {
     width: 150px;
     height: 150px;
@@ -245,7 +262,6 @@ li.token-input-input-token-facebook {
     display: block;
     background-color: #F5F5F5;
     color: blue;
-
 }
 
 .media_input {

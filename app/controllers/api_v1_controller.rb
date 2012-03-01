@@ -65,12 +65,16 @@ class ApiV1Controller < ApplicationController
     Question.find(question_ids, :include => :keywords).each do |question|
       question.keywords.each {|keyword| keywords << keyword}
     end
-    keywords.uniq!.each do |keyword|
-      keywords_questions = []
-      keyword.questions.each {|question| keywords_questions << question.id if question_ids.include? question.id.to_s }
-      topics_questions << {:keyword => keyword.keyword, :questions => keywords_questions}
+    if keywords.blank?
+      render :nothing => true
+    else
+      keywords.uniq!.each do |keyword|
+        keywords_questions = []
+        keyword.questions.each {|question| keywords_questions << question.id if question_ids.include? question.id.to_s }
+        topics_questions << {:keyword => keyword.keyword, :questions => keywords_questions}
+      end
+      render :json => topics_questions
     end
-    render :json => topics_questions
     # questions = Question.select('questions.*', 'keywords.keyword').include(:keywords).where(:id => question_ids)
     # puts questions.to_json
     # questions.each do |question|
