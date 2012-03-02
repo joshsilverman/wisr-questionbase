@@ -13,73 +13,36 @@
 
 ActiveRecord::Schema.define(:version => 20120221013751) do
 
-  create_table "answers", :force => true do |t|
-    t.integer   "question_id"
-    t.text      "answer"
-    t.boolean   "correct"
-    t.timestamp "created_at"
-    t.timestamp "updated_at"
-    t.text      "feedback"
-  end
-
   create_table "books", :force => true do |t|
-    t.string    "name"
-    t.string    "author"
-    t.integer   "edition"
-    t.timestamp "created_at"
-    t.timestamp "updated_at"
-    t.boolean   "public",     :default => false
-    t.integer   "user_id"
+    t.string   "name"
+    t.string   "author"
+    t.integer  "edition"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.boolean  "public",     :default => false
+    t.integer  "user_id"
   end
 
   create_table "chapters", :force => true do |t|
-    t.string    "name"
-    t.integer   "number"
-    t.integer   "book_id"
-    t.timestamp "created_at"
-    t.timestamp "updated_at"
-  end
-
-  create_table "keywords", :force => true do |t|
-    t.string    "keyword"
-    t.timestamp "created_at"
-    t.timestamp "updated_at"
-  end
-
-  create_table "keywords_questions", :id => false, :force => true do |t|
-    t.integer "keyword_id"
-    t.integer "question_id"
+    t.string   "name"
+    t.integer  "number"
+    t.integer  "book_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "questions", :force => true do |t|
-    t.text      "question"
-    t.string    "topic"
-    t.integer   "user_id"
-    t.integer   "chapter_id"
-    t.integer   "score"
-    t.timestamp "created_at"
-    t.timestamp "updated_at"
-    t.text      "rationale"
-    t.string    "difficulty"
-    t.string    "reference"
-    t.text      "objective"
-    t.string    "state_objective"
-    t.string    "state"
-    t.string    "question_type"
-  end
-
-  create_table "resources", :force => true do |t|
-    t.text      "url"
-    t.string    "media_type"
-    t.boolean   "contains_answer"
-    t.integer   "begin"
-    t.integer   "end"
-    t.integer   "question_id"
-    t.timestamp "created_at"
-    t.timestamp "updated_at"
-    t.text      "article_text"
-    t.text      "table"
-    t.boolean   "required"
+    t.text     "question",          :limit => 255
+    t.string   "topic"
+    t.string   "correct_answer"
+    t.string   "incorrect_answer1"
+    t.string   "incorrect_answer2"
+    t.string   "incorrect_answer3"
+    t.integer  "user_id"
+    t.integer  "chapter_id"
+    t.integer  "score"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "users", :force => true do |t|
