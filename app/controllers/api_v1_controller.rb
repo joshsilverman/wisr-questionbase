@@ -1,4 +1,5 @@
 class ApiV1Controller < ApplicationController
+
   def get_books
     egg_ids = params[:ids].split('+')
     @books = Book.where(:public => true, :id => egg_ids)
