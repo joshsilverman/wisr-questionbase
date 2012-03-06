@@ -20,7 +20,6 @@ class ApiV1Controller < ApplicationController
   end
   
   def get_lessons
-    # Prevent unpublished chapters from being added here
     @lesson_ids = params[:ids].split('+')
     book_ids = Chapter.select(:book_id).where(:id => @lesson_ids, :published => true).group("chapters.book_id, chapters.id").collect(&:book_id)
     @books = Book.where(:id => book_ids)
