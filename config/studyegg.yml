@@ -18,9 +18,3 @@ production:
  qb: http://questionbase.zendolabs.com
  store: http://store.zendolabs.com
  studyegg: zendolabs.com
-
-  # domain: .studyegg.com
-  # auth: http://auth.studyegg.com
-  # qb: http://questionbase.studyegg.com
-  # store: http://store.studyegg.com
-  # studyegg: studyegg.com
