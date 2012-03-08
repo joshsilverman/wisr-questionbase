@@ -75,5 +75,20 @@ class AuthProvider
       students = []
     end
     return students
-  end   
+  end  
+  
+  def self.get_class_student_count(group_id)
+    url = URI.parse(STUDYEGG_USER_MANAGER_PATH + "/api/get_class_student_count/#{group_id}")
+    req = Net::HTTP::Get.new(url.path)
+    res = Net::HTTP.start(url.host, url.port) {|http|
+      http.request(req)
+    }    
+    begin
+      question_count = res.body
+    rescue
+      question_count = nil
+    end
+    return question_count 
+  end
+   
 end

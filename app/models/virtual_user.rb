@@ -1,4 +1,4 @@
-class User
+class VirtualUser
 
   ATTRIBUTES = [:uid, :name, :nickname, :email, :first_name, :last_name]
   attr_accessor *ATTRIBUTES

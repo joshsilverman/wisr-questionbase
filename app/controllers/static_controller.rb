@@ -1,5 +1,5 @@
 class StaticController < ApplicationController
-  before_filter :login_required
+  before_filter :authenticate_user!
   
   def home
     puts current_user.to_json
