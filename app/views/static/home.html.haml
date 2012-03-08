@@ -1,5 +1,6 @@
 -if current_user
-    = "Welcome " + current_user.first_name + "!"
+    - name = (current_user.first_name.nil?) ? "" : current_user.first_name
+    = "Welcome " + name + "!"
     =link_to "Sign out", signout_path 
 -else
     =image_tag('books.jpg', :class => 'home_image')
