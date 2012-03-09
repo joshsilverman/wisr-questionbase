@@ -19,10 +19,4 @@ class UserSessionsController < ApplicationController
 
   # logout - Clear our rack session BUT essentially redirect to the provider
   # to clean up the Devise session from there too !
-  def destroy
-    session[:user] = nil
-
-#    flash[:notice] = 'You have successfully signed out!'
-    redirect_to "/users/sign_out"
-  end
 end

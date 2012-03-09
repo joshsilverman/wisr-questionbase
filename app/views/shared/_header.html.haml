@@ -8,6 +8,6 @@
             - name = (current_user.first_name.nil?) ? "" : current_user.first_name
             %p{:class => "welcome"}= "Welcome " + name + "!"
             (
-            =link_to "Sign out", logout_path, :class => "edit_link"
+            =link_to "Sign out", destroy_user_session_path, :class => "edit_link"
             )
 %br
