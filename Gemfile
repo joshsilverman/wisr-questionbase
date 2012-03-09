@@ -17,6 +17,7 @@ group :assets do
 end
 
 gem 'haml'
+gem 'devise'
 gem 'rails', '3.1.3'
 gem 'jquery-rails'
 gem 'omniauth'

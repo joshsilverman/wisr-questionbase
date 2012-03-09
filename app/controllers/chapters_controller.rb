@@ -117,7 +117,9 @@ class ChaptersController < ApplicationController
               :disposition => "attachment; filename=#{filename}.csv"
   end
 
+
   private
+
 
   def clean_markup_from_desc(str)
     return str if str.nil?
