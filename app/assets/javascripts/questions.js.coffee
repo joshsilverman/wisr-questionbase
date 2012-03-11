@@ -52,8 +52,6 @@ class Question
 			@dom_group = $($('#activity_group')[0]).clone().removeAttr("id").attr("class", "activity_group")
 			@dom_group.appendTo $('#activities')[0]
 			keyword_field = $(@dom_group).find(".keyword_field").hide()
-
-			##QUESTION RES
 			question_resource = $(@dom_group).find(".question_media_box").hide()
 			question_resource.on "click", (e) => 
 				if $(e.srcElement).attr "resource_id"
@@ -83,6 +81,7 @@ class Question
 					data: data	
 					success: (e) => if e then window.media.confirm("question", @delete) else alert "Cannot delete that question!"
 			else @dom_group.hide()				
+		@dom_group.find(".question_group").on "change", @save
 		$(@dom_group.find(".question_group")).on "keydown", (e) => 
 			if e.keyCode == 9 and @answers.length < 1
 				e.preventDefault() 
@@ -90,8 +89,10 @@ class Question
 				@save
 			$(@dom_group).find(".question_media_box").fadeIn 600
 			$(@dom_group).find(".token-input-list-facebook").fadeIn 600				
-		@dom_group.find(".question_group").on "change", @save
-		@dom_group.find($('.add_answer')).on "click", () => @answers.push new Answer this if @answers.length < 4
+		@dom_group.find($('.add_answer')).on "click", () => 
+			if @answers.length < 4
+				@answers.push new Answer this 
+				@save
 		@getKeywords()
 		$(@dom_group).find(".token-input-list-facebook").hide()
 		# @dom_group.find(".keyword_field").on "keydown", (e) => console.log e
@@ -172,12 +173,16 @@ class Answer
 			$(@dom_element).find("input").focus()
 		$(@dom_element).on "change", @save
 		$(@dom_element).on "keydown", (e) =>
-			if e.keyCode == 9 and @question.answers.length < 4 and $(@dom_element).next(".answer").length < 1
+			next_answer = $(@dom_element).next(".answer")
+			if e.keyCode == 9 and @question.answers.length < 4 and (next_answer.length < 1 or next_answer.css("display") == "none")
 				e.preventDefault()
 				@question.answers.push new Answer @question
 				@save
 				@question.save
 			$(@question.dom_group).find(".answer_media_box").fadeIn 600	
+		$(@dom_element).find("#delete_answer_" + @answer_id).on "click", (event) =>
+			event.preventDefault()
+			window.media.confirm("answer", @delete)
 	save: (event) =>
 		[submit_url, method] = if @answer_id then ["/answers/" + @answer_id, "PUT"] else ["/answers", "POST"]
 		answer_data = 
@@ -190,6 +195,13 @@ class Answer
 			type: method
 			data: answer_data
 			success: (e) => @answer_id = e
+	delete: () => 
+		$.ajax
+			url: "/answers/" + @answer_id
+			type: "DELETE"
+			success: =>
+				@question.answers.splice(@question.answers.indexOf(@), 1)
+				$(@dom_element).hide()
 
 
 class Resource
@@ -341,7 +353,7 @@ class MediaController
 		$("#dialog-confirm").dialog({
 			resizable: false
 			modal: true
-			title: "Delete this question?"
+			title: "Delete this #{context}?"
 			context: context
 			buttons: { 
 				"Cancel": -> $(this).dialog("close")

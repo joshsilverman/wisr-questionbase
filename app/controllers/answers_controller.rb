@@ -76,10 +76,11 @@ class AnswersController < ApplicationController
   def destroy
     @answer = Answer.find(params[:id])
     @answer.destroy
+    render :nothing => true
 
-    respond_to do |format|
-      format.html { redirect_to answers_url }
-      format.json { head :ok }
-    end
+    # respond_to do |format|
+    #   format.html { redirect_to answers_url }
+    #   format.json { head :ok }
+    # end
   end
 end

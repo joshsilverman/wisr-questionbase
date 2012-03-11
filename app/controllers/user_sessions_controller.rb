@@ -1,5 +1,5 @@
 class UserSessionsController < ApplicationController
-  before_filter :login_required, :only => :destroy
+  before_filter :authenticate_user!, :only => :destroy
 
   respond_to :html
 
@@ -19,10 +19,4 @@ class UserSessionsController < ApplicationController
 
   # logout - Clear our rack session BUT essentially redirect to the provider
   # to clean up the Devise session from there too !
-  def destroy
-    session[:user] = nil
-
-#    flash[:notice] = 'You have successfully signed out!'
-    redirect_to "#{STUDYEGG_USER_MANAGER_PATH}/users/sign_out"
-  end
 end
