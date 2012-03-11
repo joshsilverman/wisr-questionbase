@@ -1,5 +1,4 @@
 OauthClientDemo::Application.routes.draw do
-
   devise_for :users
 
   # omniauth
@@ -32,17 +31,17 @@ OauthClientDemo::Application.routes.draw do
   match "examview_parser" => "questions#examview_parser"
     
   #API CALLS
-  match "api-V1/get_books/:ids" => "api_v1#get_books"
-  match "api-V1/get_book_details/:id" => "api_v1#get_book_details"
-  match "api-V1/get_book_by_chapter_id/:id" => "api_v1#get_book_by_chapter_id"
-  match "api-V1/get_lessons/:ids" => "api_v1#get_lessons"
-  match "api-V1/get_all_lesson_questions/:id" => "api_v1#get_all_questions"
-  match "api-V1/get_lesson_questions/:ids" => "api_v1#get_questions"
-  match "api-V1/get_public" => "api_v1#get_public"
-  match "api-V1/get_lesson_details/:ids" => "api_v1#get_lesson_details"
-  match "api-V1/get_questions_topics/:question_ids" => "api_v1#get_questions_topics"
-  match "api-V1/get_question_count/:chapter_id" => "api_v1#get_question_count"
-  match "api-V1/get_all_question_ids_from_lesson/:id" => "api_v1#get_all_question_ids_from_lesson"
+  match "api-V1/:api_key/get_books/:ids" => "api_v1#get_books"
+  match "api-V1/:api_key/get_book_details/:id" => "api_v1#get_book_details"
+  match "api-V1/:api_key/get_book_by_chapter_id/:id" => "api_v1#get_book_by_chapter_id"
+  match "api-V1/:api_key/get_lessons/:ids" => "api_v1#get_lessons"
+  match "api-V1/:api_key/get_all_lesson_questions/:id" => "api_v1#get_all_questions"
+  match "api-V1/:api_key/get_lesson_questions/:ids" => "api_v1#get_questions"
+  match "api-V1/:api_key/get_public" => "api_v1#get_public"
+  match "api-V1/:api_key/get_lesson_details/:ids" => "api_v1#get_lesson_details"
+  match "api-V1/:api_key/get_questions_topics/:question_ids" => "api_v1#get_questions_topics"
+  match "api-V1/:api_key/get_question_count/:chapter_id" => "api_v1#get_question_count"
+  match "api-V1/:api_key/get_all_question_ids_from_lesson/:id" => "api_v1#get_all_question_ids_from_lesson"
 
   resources :keywords
   resources :resources

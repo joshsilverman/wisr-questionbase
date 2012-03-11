@@ -1,6 +1,6 @@
 class ApiV1Controller < ApplicationController
   skip_before_filter :authenticate_user!
-  before_filter :valid_token?
+  before_filter :valid_key?
 
   def get_books
     egg_ids = params[:ids].split('+')
@@ -17,7 +17,6 @@ class ApiV1Controller < ApplicationController
   def get_book_by_chapter_id
     @chapter = Chapter.find(params[:id])
     @book = Book.find(@chapter.book_id)
-    
     respond_to :json
   end
   
@@ -111,11 +110,9 @@ class ApiV1Controller < ApplicationController
 
   protected
 
-  def valid_token?
-    if true 
-      return
-    else
-      render :json => {:error => "Invalid API key value!"}
-    end
+  def valid_key?
+    puts params.to_json
+    return if params[:api_key] == STUDYEGG_API_KEY 
+    render :json => {:error => "Invalid API key value!"}
   end
 end
