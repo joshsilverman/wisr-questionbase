@@ -1,4 +1,6 @@
 class ApiV1Controller < ApplicationController
+  skip_before_filter :authenticate_user!
+  before_filter :valid_token?
 
   def get_books
     egg_ids = params[:ids].split('+')
@@ -23,8 +25,6 @@ class ApiV1Controller < ApplicationController
     @lesson_ids = params[:ids].split('+')
     book_ids = Chapter.select(:book_id).where(:id => @lesson_ids, :published => true).group("chapters.book_id, chapters.id").collect(&:book_id)
     @books = Book.where(:id => book_ids)
-    #@chapter = Chapter.includes(:book).where(:id => @lesson_ids)
-    #@chapter = @chapter.sort!{|a, b| a.number <=> b.number}
     respond_to :json
   end
   
@@ -107,5 +107,15 @@ class ApiV1Controller < ApplicationController
   def get_public
     @book = @books = Book.where(:public => true)
     respond_to :json
+  end
+
+  protected
+
+  def valid_token?
+    if true 
+      return
+    else
+      render :json => {:error => "Invalid API key value!"}
+    end
   end
 end
