@@ -1,4 +1,6 @@
 OauthClientDemo::Application.routes.draw do
+  match "users/sign_up" => redirect("/")
+
   devise_for :users
 
   # omniauth
