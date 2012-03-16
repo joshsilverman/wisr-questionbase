@@ -52,5 +52,5 @@ OauthClientDemo::Application.routes.draw do
   resources :chapters
   resources :questions
    
-  root :to => "static#home"
+  root :to => "books#index"
 end
