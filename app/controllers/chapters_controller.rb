@@ -86,6 +86,15 @@ class ChaptersController < ApplicationController
     end
   end
 
+  def update_status
+    chapter = Chapter.find(params[:id])
+    unless chapter.status == 3
+      chapter.status = 2 
+      chapter.save
+    end
+    render :json => chapter
+  end
+
   def export_to_csv
     require 'csv'
 

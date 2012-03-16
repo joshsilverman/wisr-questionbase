@@ -7,6 +7,14 @@ class Builder
 		for activity in $("#activities").find(".activity_group")
 			new Question activity
 	newQuestion: -> new Question
+	completeChapter: -> 
+		console.log $(chapter_id)[0].value
+		data = "id" : $(chapter_id)[0].value
+		$.ajax
+			url: "/chapters/update_status"
+			type: "POST"
+			data: data	
+			success: (e) => console.log e
 
 
 class Question
