@@ -56,7 +56,7 @@ class KeywordsController < ApplicationController
   # PUT /keywords/1
   # PUT /keywords/1.json
   def update
-    puts params.to_json
+    # puts params.to_json
     @keyword = keyword.find(params[:id])
     @keyword.update_attributes(params[:keyword])
     render :json => @keyword.id

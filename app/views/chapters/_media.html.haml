@@ -3,8 +3,6 @@
 - video_placeholder = "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png"
 
 .question_media_box
-     - puts question.to_json
-     - puts question.resources.to_json
      - if question_resource = question.resources.all(:conditions => {:contains_answer => false}).first
           - url = question_resource.url
           - if question_resource.media_type == "image" then preview = question_resource.url

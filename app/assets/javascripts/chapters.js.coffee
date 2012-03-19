@@ -1,7 +1,6 @@
 class Builder
 	book_id: null
-	constructor: ->
-		@initializeListeners()
+	constructor: -> @initializeListeners()
 	initializeListeners: =>
 		$(".status.inactive").on "click", (e) => @updateStatus(e.srcElement, 1, @redirectToChapter)
 		$(".status.publish").on "click", (e) => @updateStatus(e.srcElement, 3, @updatePublishButton)

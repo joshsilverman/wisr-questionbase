@@ -192,28 +192,34 @@ li.token-input-input-token-facebook {
 
 
 .menu {
-    background-color: #F5F5F5;
-    position: fixed;
-    left: 15px;
-    top: 127px;
-    width: 75px;
-    height: 120px;    
-    margin-top: -2.5em;
-    text-align: center;
-    -moz-border-radius: 15px;
-    -webkit-border-radius: 15px;
-    -khtml-border-radius: 15px;
-    border-radius: 15px;  
-    -moz-box-shadow: 20px 20px 20px 20px #ccc;
-    -webkit-box-shadow: 6px 6px 6px 6px #ccc;
-    box-shadow: 4px 4px 10px 1px #ccc;      
+  background-color: #F5F5F5;
+  position: fixed;
+  left: 15px;
+  top: 127px;
+  width: 75px;
+  height: 120px;    
+  padding-top: 10px;
+  margin-top: -2.5em;
+  text-align: center;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -khtml-border-radius: 15px;
+  border-radius: 15px;  
+  -moz-box-shadow: 20px 20px 20px 20px #ccc;
+  -webkit-box-shadow: 6px 6px 6px 6px #ccc;
+  box-shadow: 4px 4px 10px 1px #ccc;   
+  
+  .menu_bottom_link {
+    position: relative;
+    bottom: -31px;
+  }
 }
+
+
 
 .media_preview {
     width: 100%;
     height: 100%;
-    /*max-width: 150px;
-    max-height: 150px;  */
 }
 
 .question_media_box {
@@ -448,7 +454,7 @@ li.token-input-input-token-facebook {
 .inactive {
   background-color: #07B31B;
   color: black;
-  /*font-weight: bold;*/
+  font-weight: bold;
   -moz-box-shadow: 4px 4px 10px 1px #aaa;
   -webkit-box-shadow: 4px 4px 10px 1px #aaa;
   box-shadow: 4px 4px 10px 1px #aaa; 
@@ -456,27 +462,17 @@ li.token-input-input-token-facebook {
 }
 
 .active {
-  background-color: #6B63FF;
+  background-color: #FCD349;
 }
 
 .complete {
-  background-color: #FCD349;
+  background-color: #6B63FF;
 }
 
 .published {
   background-color: #ccc;
 } 
 
-#media_preview {
-  text-align: center;
-  height: 330px;
-}
-
-#media_url_player {
-  width: 400px;
-  height: 300px;
-  margin-top: 0px;
-}
 
 #media_container {
   text-align: center;
@@ -497,4 +493,9 @@ li.token-input-input-token-facebook {
 #book_name {
   display: block;
   margin-bottom: 30px;
+}
+
+.inactive_line_title {
+  display: inline;
+  font-weight: bold;
 }

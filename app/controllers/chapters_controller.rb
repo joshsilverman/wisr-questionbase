@@ -43,11 +43,9 @@ class ChaptersController < ApplicationController
   # POST /chapters
   # POST /chapters.xml
   def create
-    puts params.to_json
     @chapter = Chapter.new(params[:chapter])
     @chapter.book_id = params[:book_id]
-    @current_book = Book.find_by_id(@chapter.book_id)
-
+    @current_book = Book.find_by_id(params[:book_id])
     respond_to do |format|
       if @chapter.save
         format.html { redirect_to(@chapter, :notice => 'Chapter was successfully created.') }

@@ -111,7 +111,6 @@ class ApiV1Controller < ApplicationController
   protected
 
   def valid_key?
-    puts params.to_json
     return if params[:api_key] == STUDYEGG_API_KEY 
     render :json => {:error => "Invalid API key value!"}
   end

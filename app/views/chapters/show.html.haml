@@ -1,3 +1,4 @@
+- puts request.env
 - @back = link_to('Back to Chapters', '/books/' + @book.id.to_s)
 = render :partial => "shared/header", :locals => { :back => @back }  
 
@@ -7,8 +8,6 @@
 - if @chapter.media_url
 	#media_container
 		= link_to "Chapter Media", @chapter.media_url, :target => "_blank", :id => "media_link"
-/ #media_preview
-/ 	%iframe#media_url_player
 
 %div{:id => "activities"}
 	- @chapter.questions.each_with_index do |question, i|

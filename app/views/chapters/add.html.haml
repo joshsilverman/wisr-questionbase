@@ -10,4 +10,5 @@
     = select("book", "name", @books.collect{ |book| [book["name"], book["id"]]})
     %textarea#add_chapters_area{:placeholder => "One per line, format: <CHAPTER NAME> | <MEDIA URL>"}
     %br
-    = link_to "Add chapters", "", :id => "add_chapters_action"
+    %br
+    = button_to "Add chapters", "", :id => "add_chapters_action"
