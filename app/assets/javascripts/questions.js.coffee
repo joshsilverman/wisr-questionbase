@@ -11,6 +11,7 @@ class Builder
 		data = 
 			"id" : $(chapter_id)[0].value
 			"status": 2
+			"type": "COMPLETE"
 		$.ajax
 			url: "/chapters/update_status"
 			type: "POST"

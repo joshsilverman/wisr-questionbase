@@ -91,13 +91,15 @@ class ChaptersController < ApplicationController
   end
 
   def add
-    @books = Book.all
     redirect_to "/" if current_user.user_type != "ADMIN"
+    @books = Book.all
   end
 
   def update_status
+    puts params.to_json
     chapter = Chapter.find(params[:id])
     chapter.status = params[:status] 
+    chapter.author_id = current_user.id if params[:type] == "START"
     chapter.save
     render :json => chapter
   end

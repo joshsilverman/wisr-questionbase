@@ -32,6 +32,7 @@ class Builder
 		data = 
 			"id": $(element).attr("chapter_id")
 			"status": status
+			"type": "START"
 		$.ajax
 			url: "/chapters/update_status"
 			type: "POST"
