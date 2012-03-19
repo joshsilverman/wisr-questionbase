@@ -444,10 +444,7 @@ li.token-input-input-token-facebook {
 .publish {
   background-color: #07B31B;
   color: black;
-  /*font-weight: bold;*/
-  -moz-box-shadow: 4px 4px 10px 1px #aaa;
-  -webkit-box-shadow: 4px 4px 10px 1px #aaa;
-  box-shadow: 4px 4px 10px 1px #aaa; 
+  font-weight: bold;
   cursor: pointer;   
 }
 
@@ -455,9 +452,6 @@ li.token-input-input-token-facebook {
   background-color: #07B31B;
   color: black;
   font-weight: bold;
-  -moz-box-shadow: 4px 4px 10px 1px #aaa;
-  -webkit-box-shadow: 4px 4px 10px 1px #aaa;
-  box-shadow: 4px 4px 10px 1px #aaa; 
   cursor: pointer; 
 }
 
@@ -467,7 +461,6 @@ li.token-input-input-token-facebook {
 
 .complete {
   background-color: #6B63FF;
-  font-size: 10px;
 }
 
 .published {
