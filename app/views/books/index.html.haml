@@ -1,34 +1,36 @@
 = render :partial => "shared/header"
 .content_container
-    .left_column
-        .column_content
-            %h1{:class => "column_header"}= "My books"
-            (
-            = link_to('new book', new_book_path, :class => "edit_link")
-            )
-            %br
-            %hr{:class => "dotted_line"}
-            %br
-            - if @my_books.empty?
-                %p{:class => "line_placeholder"}= "No books yet!"
-            - else            
-                %ul
-                    - @my_books.each do |my_book|
-                        %li{:class => "line_item"}= link_to(my_book.name + " by " + my_book.author + " (" + my_book.edition.to_s + "e)", my_book, :class => "line_title") + " (" + link_to('edit', edit_book_path(my_book), :class => "edit_link") + ")"
-                        = link_to('Delete', my_book, :confirm => 'Are you sure want to delete this book? This cannot be undone.', :method => :delete)                        
-
-    .right_column
-        .column_content
-            %h1{:class => "column_header"}= "Public books"
-            %br
-            %hr{:class => "dotted_line"}
-            %br
-            - if @public_books.empty?
-                %p{:class => "line_placeholder"}= "No books yet!"
-            -else        
-                %ul
-                    - @public_books.each do |public_book|
-                        - if public_book.user_id.to_i == current_user.id.to_i
-                            %li{:class => "line_item"}= link_to(public_book.name + " by " + public_book.author + " (" + public_book.edition.to_s + "e)", public_book, :class => "line_title") + " (" + link_to('edit', edit_book_path(public_book), :class => "edit_link") + ") "
-                        - else
-                            %li{:class => "line_item"}= link_to(public_book.name + " by " + public_book.author, public_book, :class => "line_title")                       
+  .left_column
+    .column_content
+      %h1.column_header= "My books"
+      (
+      = link_to('new book', new_book_path, :class => "edit_link")
+      )
+      %br
+      %hr.dotted_line
+      %br
+      - if @my_books.empty?
+        %p.line_placeholder= "No books yet!"
+      - else            
+        %ul
+          - @my_books.each do |my_book|
+            %li{:class => "line_item"}
+              =link_to(my_book.name + " by " + my_book.author, my_book, :class => "line_title") + " ( " + link_to('edit', edit_book_path(my_book), :class => "edit_link")
+              |
+              = link_to('delete', my_book, :confirm => 'Are you sure want to delete this book? This cannot be undone.', :method => :delete, :class => "edit_link")  
+              )                      
+  .right_column
+    .column_content
+      %h1.column_header= "Public books"
+      %br
+      %hr.dotted_line
+      %br
+      - if @public_books.empty?
+        %p.line_placeholder= "No books yet!"
+      -else        
+        %ul
+          - @public_books.each do |public_book|
+            - if public_book.user_id.to_i == current_user.id.to_i
+              %li.line_item= link_to(public_book.name + " by " + public_book.author, public_book, :class => "line_title") + " ( " + link_to('edit', edit_book_path(public_book), :class => "edit_link") + " ) "
+            - else
+              %li.line_item= link_to(public_book.name + " by " + public_book.author, public_book, :class => "line_title")                       

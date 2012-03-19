@@ -43,6 +43,7 @@ class ChaptersController < ApplicationController
   # POST /chapters
   # POST /chapters.xml
   def create
+    puts params.to_json
     @chapter = Chapter.new(params[:chapter])
     @chapter.book_id = params[:book_id]
     @current_book = Book.find_by_id(@chapter.book_id)
@@ -86,12 +87,20 @@ class ChaptersController < ApplicationController
     end
   end
 
+  def publish
+    redirect_to "/" if current_user.user_type != "ADMIN" && current_user.user_type != "QC"
+    @chapters = Chapter.where(:status => 2)
+  end
+
+  def add
+    @books = Book.all
+    redirect_to "/" if current_user.user_type != "ADMIN"
+  end
+
   def update_status
     chapter = Chapter.find(params[:id])
-    unless chapter.status == 3
-      chapter.status = 2 
-      chapter.save
-    end
+    chapter.status = params[:status] 
+    chapter.save
     render :json => chapter
   end
 

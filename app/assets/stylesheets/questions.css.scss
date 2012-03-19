@@ -416,3 +416,85 @@ li.token-input-input-token-facebook {
     font-size: 18px;
 }
 
+.chapter_container {
+  display: block;
+  margin: 10px;
+  height: 30px;
+  /*background: blue;*/
+}
+
+.status {
+  display: inline-block;
+  width: 80px;
+  text-align: center;
+  padding: 2px 2px 4px 2px;
+  color: white; 
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -khtml-border-radius: 5px;
+  border-radius: 5px;             
+}
+
+.publish {
+  background-color: #07B31B;
+  color: black;
+  /*font-weight: bold;*/
+  -moz-box-shadow: 4px 4px 10px 1px #aaa;
+  -webkit-box-shadow: 4px 4px 10px 1px #aaa;
+  box-shadow: 4px 4px 10px 1px #aaa; 
+  cursor: pointer;   
+}
+
+.inactive {
+  background-color: #07B31B;
+  color: black;
+  /*font-weight: bold;*/
+  -moz-box-shadow: 4px 4px 10px 1px #aaa;
+  -webkit-box-shadow: 4px 4px 10px 1px #aaa;
+  box-shadow: 4px 4px 10px 1px #aaa; 
+  cursor: pointer; 
+}
+
+.active {
+  background-color: #6B63FF;
+}
+
+.complete {
+  background-color: #FCD349;
+}
+
+.published {
+  background-color: #ccc;
+} 
+
+#media_preview {
+  text-align: center;
+  height: 330px;
+}
+
+#media_url_player {
+  width: 400px;
+  height: 300px;
+  margin-top: 0px;
+}
+
+#media_container {
+  text-align: center;
+  height: 50px;
+  
+  #media_link {  
+    color: blue;
+    font-size: 16px;
+  }  
+}
+
+#add_chapters_area {
+  width: 600px;
+  height: 300px;
+  font-size: 18px;
+}
+
+#book_name {
+  display: block;
+  margin-bottom: 30px;
+}

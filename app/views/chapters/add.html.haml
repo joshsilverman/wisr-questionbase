@@ -1,0 +1,13 @@
+= render :partial => "shared/header"
+
+.content_container
+  .column_content
+    %h1.column_header= "Add Chapters"
+    %br
+    %hr.dotted_line
+    %br
+    %br
+    = select("book", "name", @books.collect{ |book| [book["name"], book["id"]]})
+    %textarea#add_chapters_area{:placeholder => "One per line, format: <CHAPTER NAME> | <MEDIA URL>"}
+    %br
+    = link_to "Add chapters", "", :id => "add_chapters_action"

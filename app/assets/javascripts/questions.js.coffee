@@ -8,13 +8,14 @@ class Builder
 			new Question activity
 	newQuestion: -> new Question
 	completeChapter: -> 
-		console.log $(chapter_id)[0].value
-		data = "id" : $(chapter_id)[0].value
+		data = 
+			"id" : $(chapter_id)[0].value
+			"status": 2
 		$.ajax
 			url: "/chapters/update_status"
 			type: "POST"
 			data: data	
-			success: (e) => console.log e
+			success: (e) => window.location = "/books/#{e.book_id}"
 
 
 class Question

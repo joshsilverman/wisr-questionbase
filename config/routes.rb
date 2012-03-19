@@ -7,8 +7,13 @@ OauthClientDemo::Application.routes.draw do
   match '/auth/:provider/callback', :to => 'user_sessions#create'
   match '/auth/failure', :to => 'user_sessions#failure'
 
+  #BOOKS
+  match "books/get_next_chapter_number" => "books#get_next_chapter_number"
+
   #CHAPTERS
   match "chapters/update_status" => "chapters#update_status"
+  match "chapters/publish" => "chapters#publish"
+  match "chapters/add" => "chapters#add"
 
   #QUESTIONS
   match "questions/save_question" => "questions#save_question", :as => :save_question_path
