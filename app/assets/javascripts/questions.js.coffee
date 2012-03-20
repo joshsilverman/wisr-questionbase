@@ -20,12 +20,16 @@ class Builder
 			data: data	
 			success: (e) => window.location = "/books/#{e.book_id}"
 	loadKeywords: () =>
-		params = "questions": @questions
+		params = "question_ids": (question.question_id for question in @questions)
 		$.ajax
 			url: "/keywords/get_questions_keywords"
 			type: "POST"
 			data: params
-			# success: (keywords) => 
+			success: (keywords) => 
+				for question in @questions
+					keyword_array = []
+					(keyword_array.push({"id": keyword.id, "name": keyword.keyword}) for keyword in keywords[question.question_id].keywords)
+					question.populateKeywords(keyword_array)
 
 
 class Question
@@ -112,7 +116,6 @@ class Question
 			if @answers.length < 4
 				@answers.push new Answer this 
 				@save
-		@getKeywords()
 		$(@dom_group).find(".token-input-list-facebook").hide()
 		# @dom_group.find(".keyword_field").on "keydown", (e) => console.log e
 			# if e.keyCode == 9 and @question.answers.length == 4 and $(@dom_element).next(".answer").length < 1

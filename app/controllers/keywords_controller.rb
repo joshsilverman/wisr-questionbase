@@ -117,9 +117,12 @@ class KeywordsController < ApplicationController
     render :nothing => true
   end
 
-  def get_questions_keywords
-    puts "yeah son"
-    render :nothing => true
+  def get_questions_keywords(keywords_hash = {})
+    Question.find(params[:question_ids], :include => :keywords).each do |question|
+      keywords_hash[question.id] = {:keywords => []}
+      question.keywords.each {|keyword| keywords_hash[question.id][:keywords] << keyword}
+    end
+    render :json => keywords_hash
   end
    
 end
