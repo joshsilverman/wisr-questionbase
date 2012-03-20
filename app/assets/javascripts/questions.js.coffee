@@ -93,7 +93,8 @@ class Question
 				$('html, body').animate({scrollTop: $(document).height() - $(window).height()}, 600)
 				@dom_group.find(".question_area").focus()
 		@activity_content = $(@dom_group).find(".activity_content")[0]
-		$(@dom_group).find(".header_text_container").on "click", () => $(@activity_content).toggle 400
+		$(@dom_group).find(".header_text_container").on "click", (e) =>  
+			$(@activity_content).toggle 400, => $.scrollTo e.srcElement
 		$(@dom_group).find(".delete_question_container").on "click", (e) => 
 			if @question_id
 				data = 
