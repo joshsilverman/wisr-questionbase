@@ -494,9 +494,11 @@ class MediaController
 		$("#image_search_preview").attr "src", null	
 		$("#search_preview")[0].innerHTML = ""	
 		$("#video_search_results")[0].innerHTML = ""
+		$("#next_page, #previous_page").css "visibility", "hidden"
 	parseYouTubeID: (url) => String(url.match("v=[A-Za-z0-9_-]*")).split("=")[1]	
 	imageSearchComplete: () =>
 		$("#search_preview")[0].innerHTML = ""
+		$("#next_page, #previous_page").css "visibility", "visible"
 		for result in @imageSearch.results
 			image_container = $("#image_container_template").clone().attr("id", "image_container")
 			$(image_container).find("img")[0].src = result.url

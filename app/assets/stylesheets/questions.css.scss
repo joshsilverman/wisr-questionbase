@@ -385,6 +385,7 @@ li.token-input-input-token-facebook {
     height: 300px;
     margin: 15px 15px 0px 0px;
     float: right;
+    background: white;
 }
 
 #image_preview {
@@ -403,14 +404,22 @@ li.token-input-input-token-facebook {
     width: 100%;
 }
 
+
+
 #next_page {
     font-size: 24px;
     display: inline;
+    cursor: pointer;
+    float:  right;
+    margin-right: 85px;
+    visibility: hidden;
 }
 
 #previous_page {
     font-size: 24px;   
     display: inline;
+    cursor: pointer;
+    visibility: hidden;
 }
 /*.question_area {
     height: 100px;
