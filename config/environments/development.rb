@@ -5,7 +5,7 @@ OauthClientDemo::Application.configure do
   # every request.  This slows down response time but is perfect for development
   # since you don't have to restart the web server when you make code changes.
 
-  config.action_mailer.default_url_options = { :host => 'lvh.me:3001' }
+  config.action_mailer.default_url_options = { :host => 'localhost:3001' }
 
 
   config.cache_classes = false

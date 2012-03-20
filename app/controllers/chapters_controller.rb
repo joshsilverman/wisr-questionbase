@@ -45,8 +45,7 @@ class ChaptersController < ApplicationController
   def create
     @chapter = Chapter.new(params[:chapter])
     @chapter.book_id = params[:book_id]
-    @current_book = Book.find_by_id(@chapter.book_id)
-
+    @current_book = Book.find_by_id(params[:book_id])
     respond_to do |format|
       if @chapter.save
         format.html { redirect_to(@chapter, :notice => 'Chapter was successfully created.') }
@@ -84,6 +83,25 @@ class ChaptersController < ApplicationController
       format.html { redirect_to(Book.find_by_id(@chapter.book_id)) }
       format.xml  { head :ok }
     end
+  end
+
+  def publish
+    redirect_to "/" if current_user.user_type != "ADMIN" && current_user.user_type != "QC"
+    @chapters = Chapter.where(:status => 2)
+  end
+
+  def add
+    redirect_to "/" if current_user.user_type != "ADMIN"
+    @books = Book.all
+  end
+
+  def update_status
+    puts params.to_json
+    chapter = Chapter.find(params[:id])
+    chapter.status = params[:status] 
+    chapter.author_id = current_user.id if params[:type] == "START"
+    chapter.save
+    render :json => chapter
   end
 
   def export_to_csv

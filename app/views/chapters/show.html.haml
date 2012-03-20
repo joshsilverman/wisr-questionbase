@@ -4,16 +4,20 @@
 = render :partial => "menu"
 %br
 
+- if @chapter.media_url
+	#media_container
+		= link_to "Chapter Media", @chapter.media_url, :target => "_blank", :id => "media_link"
+
 %div{:id => "activities"}
-     - @chapter.questions.each_with_index do |question, i|
-          .activity_group{:id => "activity_group_" + question.id.to_s}
-               = render :partial => "header", :locals => {:question => question, :i => i}
-               %br
-               .activity_content{:id => "activity_content_" + question.id.to_s}
-                    .activity_left_column
-                         = render :partial => "answers", :locals => {:question => question}
-                    .activity_right_column
-                         = render :partial => "media", :locals => {:question => question}
+	- @chapter.questions.each_with_index do |question, i|
+		.activity_group{:id => "activity_group_" + question.id.to_s}
+			= render :partial => "header", :locals => {:question => question, :i => i}
+			%br
+			.activity_content{:id => "activity_content_" + question.id.to_s}
+				.activity_left_column
+					= render :partial => "answers", :locals => {:question => question}
+				.activity_right_column
+					= render :partial => "media", :locals => {:question => question}
 
 = hidden_field_tag "chapter_id", @chapter.id
 = render :partial => "templates"

@@ -1,4 +1,8 @@
 OauthClientDemo::Application.routes.draw do
+  ActiveAdmin.routes(self)
+
+  devise_for :admin_users, ActiveAdmin::Devise.config
+
   match "users/sign_up" => redirect("/")
 
   devise_for :users
@@ -6,6 +10,14 @@ OauthClientDemo::Application.routes.draw do
   # omniauth
   match '/auth/:provider/callback', :to => 'user_sessions#create'
   match '/auth/failure', :to => 'user_sessions#failure'
+
+  #BOOKS
+  match "books/get_next_chapter_number" => "books#get_next_chapter_number"
+
+  #CHAPTERS
+  match "chapters/update_status" => "chapters#update_status"
+  match "chapters/publish" => "chapters#publish"
+  match "chapters/add" => "chapters#add"
 
   #QUESTIONS
   match "questions/save_question" => "questions#save_question", :as => :save_question_path
@@ -22,6 +34,7 @@ OauthClientDemo::Application.routes.draw do
   match "keywords/add_keyword" => "keywords#add_keyword"
   match "keywords/get_keywords" => "keywords#get_keywords"
   match "keywords/remove_keyword" => "keywords#remove_keyword"
+  match "keywords/get_questions_keywords" => "keywords#get_questions_keywords"
 
   #EXPORT
   match "chapters/:id/export" => "chapters#export_to_csv"  
@@ -52,5 +65,5 @@ OauthClientDemo::Application.routes.draw do
   resources :chapters
   resources :questions
    
-  root :to => "static#home"
+  root :to => "books#index"
 end

@@ -13,10 +13,10 @@
 					%td= f.label :number, "Chapter number", :class => "form_label"
 					%td= f.number_field :number, :class => "form_field"
 				%br/
-				.field
-					%td= f.check_box :published, :class => "checkbox"
-					%td= f.label :published, :class => "checkbox_label"				
-				%br/				
+				/ .field
+				/ 	%td= f.check_box :published, :class => "checkbox"
+				/ 	%td= f.label :published, :class => "checkbox_label"				
+				/ %br/				
 				=hidden_field_tag("book_id", @current_book.id)
 
 				.actions

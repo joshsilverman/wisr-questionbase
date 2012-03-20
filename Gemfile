@@ -10,12 +10,12 @@ group :production do
 end
 
 group :assets do
-  gem 'sass-rails'
   gem 'coffee-rails'
   gem 'uglifier'
   gem 'therubyracer'
 end
 
+gem 'sass-rails'
 gem 'haml'
 gem 'devise'
 gem 'rails', '3.1.3'
@@ -28,4 +28,4 @@ gem 'zip'
 gem 'nokogiri'
 gem 'watir-webdriver'
 gem 'newrelic_rpm'
-gem 'devise'
+gem 'activeadmin'
