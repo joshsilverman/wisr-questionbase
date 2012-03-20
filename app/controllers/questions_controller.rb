@@ -75,7 +75,7 @@ class QuestionsController < ApplicationController
   # DELETE /questions/1.xml
   def destroy
     @question = Question.find(params[:id])
-    @question.delete
+    @question.destroy
     render :nothing => true
     # respond_to do |format|
     #   format.html { redirect_to(Chapter.find_by_id(@question.chapter_id)) }
