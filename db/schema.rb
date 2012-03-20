@@ -13,38 +13,12 @@
 
 ActiveRecord::Schema.define(:version => 20120320173935) do
 
-<<<<<<< HEAD
-  create_table "answers", :force => true do |t|
-    t.integer   "question_id"
-    t.text      "answer"
-    t.boolean   "correct"
-    t.timestamp "created_at"
-    t.timestamp "updated_at"
-    t.text      "feedback"
-  end
-
-  create_table "books", :force => true do |t|
-    t.string   "name"
-    t.string   "author"
-    t.integer  "edition"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-    t.boolean  "public",     :default => false
-    t.integer  "user_id"
-  end
-
-  create_table "chapters", :force => true do |t|
-    t.string   "name"
-    t.integer  "number"
-    t.integer  "book_id"
-=======
   create_table "active_admin_comments", :force => true do |t|
     t.string   "resource_id",   :null => false
     t.string   "resource_type", :null => false
     t.integer  "author_id"
     t.string   "author_type"
     t.text     "body"
->>>>>>> 442a6276d12cf595e892b15afe017d2feed21cea
     t.datetime "created_at"
     t.datetime "updated_at"
     t.string   "namespace"
