@@ -417,7 +417,7 @@ class MediaController
 			title: "Add Media"
 			buttons: 
 				"Cancel": -> media.clearModalFields()			
-				"Done": () -> 
+				"Save": () -> 
 					# Close modal.
 					$(this).dialog("close")	
 									
