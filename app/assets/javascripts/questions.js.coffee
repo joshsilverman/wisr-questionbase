@@ -2,10 +2,12 @@
 ## One existing answer resource
 
 class Builder
+	questions: []
 	constructor: -> 
 		$("#tabs").tabs()
 		for activity in $("#activities").find(".activity_group")
-			new Question activity
+			@questions.push(new Question activity)
+		@loadKeywords()
 	newQuestion: -> new Question
 	completeChapter: -> 
 		data = 
@@ -17,6 +19,13 @@ class Builder
 			type: "POST"
 			data: data	
 			success: (e) => window.location = "/books/#{e.book_id}"
+	loadKeywords: () =>
+		params = "questions": @questions
+		$.ajax
+			url: "/keywords/get_questions_keywords"
+			type: "POST"
+			data: params
+			# success: (keywords) => 
 
 
 class Question

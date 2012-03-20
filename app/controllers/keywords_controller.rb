@@ -116,5 +116,10 @@ class KeywordsController < ApplicationController
     end
     render :nothing => true
   end
+
+  def get_questions_keywords
+    puts "yeah son"
+    render :nothing => true
+  end
    
 end

@@ -30,6 +30,7 @@ OauthClientDemo::Application.routes.draw do
   match "keywords/add_keyword" => "keywords#add_keyword"
   match "keywords/get_keywords" => "keywords#get_keywords"
   match "keywords/remove_keyword" => "keywords#remove_keyword"
+  match "keywords/get_questions_keywords" => "keywords#get_questions_keywords"
 
   #EXPORT
   match "chapters/:id/export" => "chapters#export_to_csv"  
