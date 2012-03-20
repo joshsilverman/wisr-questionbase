@@ -85,9 +85,19 @@
 }
 
 .indicator_mark {
-    display: inline;
+  display: inline;
 }
 
+.correct {
+  width: 30px;
+  height: 30px; 
+  margin-top: -6px; 
+}
+
+.incorrect {
+  width: 20px;
+  height: 20px;  
+}
 .answer_space {
     width: 88%;
     float: right;
@@ -100,6 +110,7 @@
     text-decoration: underline;
     width: 20%;
     text-align: right;
+    cursor: pointer;
 }
 
 .add_answer:hover {
@@ -168,7 +179,8 @@ li.token-input-input-token-facebook {
 .header_text {
     font-size: 16px;
     color: black;
-    white-space: nowrap;      
+    white-space: nowrap; 
+    display: inline;     
 }
 
 .delete_question_container {
@@ -197,7 +209,7 @@ li.token-input-input-token-facebook {
   left: 15px;
   top: 127px;
   width: 75px;
-  height: 120px;    
+  height: 100px;    
   padding-top: 10px;
   margin-top: -2.5em;
   text-align: center;

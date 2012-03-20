@@ -94,7 +94,8 @@ class Question
 				@dom_group.find(".question_area").focus()
 		@activity_content = $(@dom_group).find(".activity_content")[0]
 		$(@dom_group).find(".header_text_container").on "click", (e) =>  
-			$(@activity_content).toggle 400, => $.scrollTo e.srcElement
+			$(@activity_content).toggle 400, => 
+				$.scrollTo e.srcElement unless $(@activity_content).is(":hidden")
 		$(@dom_group).find(".delete_question_container").on "click", (e) => 
 			if @question_id
 				data = 
@@ -118,9 +119,6 @@ class Question
 				@answers.push new Answer this 
 				@save
 		$(@dom_group).find(".token-input-list-facebook").hide()
-		# @dom_group.find(".keyword_field").on "keydown", (e) => console.log e
-			# if e.keyCode == 9 and @question.answers.length == 4 and $(@dom_element).next(".answer").length < 1
-			# 	new Question			
 	save: (event) =>
 		[submit_url, method] = if @question_id then ["/questions/" + @question_id, "PUT"] else ["/questions", "POST"]
 		question_data = 
@@ -188,11 +186,12 @@ class Answer
 		if answer_element # If initializing existing answer
 			@dom_element = answer_element
 			@answer_id = $(@dom_element).find("input")[0].getAttribute "answer_id"
-			if @correct then $(@dom_element).find(".indicator_mark")[0].innerHTML = "O" else $(@dom_element).find(".indicator_mark")[0].innerHTML = "X"
 		else # If new answer
-			@dom_element = $('#answer').clone().removeAttr("id").attr("class", "answer")
+			if @correct 
+				@dom_element = $('#correct_answer').clone().removeAttr("id").attr("class", "answer")
+			else 
+				@dom_element = $('#incorrect_answer').clone().removeAttr("id").attr("class", "answer")
 			$(question.dom_group).find(".add_answer").before(@dom_element)
-			if @correct then $(@dom_element).find(".indicator_mark")[0].innerHTML = "O" else $(@dom_element).find(".indicator_mark")[0].innerHTML = "X"
 			$(@dom_element).find("input").focus()
 		$(@dom_element).on "change", @save
 		$(@dom_element).on "keydown", (e) =>
