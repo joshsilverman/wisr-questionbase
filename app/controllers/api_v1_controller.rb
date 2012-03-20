@@ -10,7 +10,7 @@ class ApiV1Controller < ApplicationController
 
   def get_book_details
     @book = Book.find(params[:id])
-    @chapters = @book.chapters.where(:published => true).sort{|a, b| a.number <=> b.number}
+    @chapters = @book.chapters.where(:status => 3).sort{|a, b| a.number <=> b.number}
     respond_to :json
   end
   
@@ -22,7 +22,7 @@ class ApiV1Controller < ApplicationController
   
   def get_lessons
     @lesson_ids = params[:ids].split('+')
-    book_ids = Chapter.select(:book_id).where(:id => @lesson_ids, :published => true).group("chapters.book_id, chapters.id").collect(&:book_id)
+    book_ids = Chapter.select(:book_id).where(:id => @lesson_ids, :status => 3).group("chapters.book_id, chapters.id").collect(&:book_id)
     @books = Book.where(:id => book_ids)
     respond_to :json
   end
