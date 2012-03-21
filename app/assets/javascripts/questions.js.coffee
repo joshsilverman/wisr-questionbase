@@ -2,11 +2,34 @@
 ## One existing answer resource
 
 class Builder
+	questions: []
 	constructor: -> 
 		$("#tabs").tabs()
 		for activity in $("#activities").find(".activity_group")
-			new Question activity
+			@questions.push(new Question activity)
+		@loadKeywords()
 	newQuestion: -> new Question
+	completeChapter: -> 
+		data = 
+			"id" : $(chapter_id)[0].value
+			"status": 2
+			"type": "COMPLETE"
+		$.ajax
+			url: "/chapters/update_status"
+			type: "POST"
+			data: data	
+			success: (e) => window.location = "/books/#{e.book_id}"
+	loadKeywords: () =>
+		params = "question_ids": (question.question_id for question in @questions)
+		$.ajax
+			url: "/keywords/get_questions_keywords"
+			type: "POST"
+			data: params
+			success: (keywords) => 
+				for question in @questions
+					keyword_array = []
+					(keyword_array.push({"id": keyword.id, "name": keyword.keyword}) for keyword in keywords[question.question_id].keywords)
+					question.populateKeywords(keyword_array)
 
 
 class Question
@@ -52,8 +75,6 @@ class Question
 			@dom_group = $($('#activity_group')[0]).clone().removeAttr("id").attr("class", "activity_group")
 			@dom_group.appendTo $('#activities')[0]
 			keyword_field = $(@dom_group).find(".keyword_field").hide()
-
-			##QUESTION RES
 			question_resource = $(@dom_group).find(".question_media_box").hide()
 			question_resource.on "click", (e) => 
 				if $(e.srcElement).attr "resource_id"
@@ -72,7 +93,9 @@ class Question
 				$('html, body').animate({scrollTop: $(document).height() - $(window).height()}, 600)
 				@dom_group.find(".question_area").focus()
 		@activity_content = $(@dom_group).find(".activity_content")[0]
-		$(@dom_group).find(".header_text_container").on "click", () => $(@activity_content).toggle 400
+		$(@dom_group).find(".header_text_container").on "click", (e) =>  
+			$(@activity_content).toggle 400, => 
+				$.scrollTo e.srcElement unless $(@activity_content).is(":hidden")
 		$(@dom_group).find(".delete_question_container").on "click", (e) => 
 			if @question_id
 				data = 
@@ -83,6 +106,7 @@ class Question
 					data: data	
 					success: (e) => if e then window.media.confirm("question", @delete) else alert "Cannot delete that question!"
 			else @dom_group.hide()				
+		@dom_group.find(".question_group").on "change", @save
 		$(@dom_group.find(".question_group")).on "keydown", (e) => 
 			if e.keyCode == 9 and @answers.length < 1
 				e.preventDefault() 
@@ -90,13 +114,11 @@ class Question
 				@save
 			$(@dom_group).find(".question_media_box").fadeIn 600
 			$(@dom_group).find(".token-input-list-facebook").fadeIn 600				
-		@dom_group.find(".question_group").on "change", @save
-		@dom_group.find($('.add_answer')).on "click", () => @answers.push new Answer this if @answers.length < 4
-		@getKeywords()
+		@dom_group.find($('.add_answer')).on "click", () => 
+			if @answers.length < 4
+				@answers.push new Answer this 
+				@save
 		$(@dom_group).find(".token-input-list-facebook").hide()
-		# @dom_group.find(".keyword_field").on "keydown", (e) => console.log e
-			# if e.keyCode == 9 and @question.answers.length == 4 and $(@dom_element).next(".answer").length < 1
-			# 	new Question			
 	save: (event) =>
 		[submit_url, method] = if @question_id then ["/questions/" + @question_id, "PUT"] else ["/questions", "POST"]
 		question_data = 
@@ -164,20 +186,25 @@ class Answer
 		if answer_element # If initializing existing answer
 			@dom_element = answer_element
 			@answer_id = $(@dom_element).find("input")[0].getAttribute "answer_id"
-			if @correct then $(@dom_element).find(".indicator_mark")[0].innerHTML = "O" else $(@dom_element).find(".indicator_mark")[0].innerHTML = "X"
 		else # If new answer
-			@dom_element = $('#answer').clone().removeAttr("id").attr("class", "answer")
+			if @correct 
+				@dom_element = $('#correct_answer').clone().removeAttr("id").attr("class", "answer")
+			else 
+				@dom_element = $('#incorrect_answer').clone().removeAttr("id").attr("class", "answer")
 			$(question.dom_group).find(".add_answer").before(@dom_element)
-			if @correct then $(@dom_element).find(".indicator_mark")[0].innerHTML = "O" else $(@dom_element).find(".indicator_mark")[0].innerHTML = "X"
 			$(@dom_element).find("input").focus()
 		$(@dom_element).on "change", @save
 		$(@dom_element).on "keydown", (e) =>
-			if e.keyCode == 9 and @question.answers.length < 4 and $(@dom_element).next(".answer").length < 1
+			next_answer = $(@dom_element).next(".answer")
+			if e.keyCode == 9 and @question.answers.length < 4 and (next_answer.length < 1 or next_answer.css("display") == "none")
 				e.preventDefault()
 				@question.answers.push new Answer @question
 				@save
 				@question.save
 			$(@question.dom_group).find(".answer_media_box").fadeIn 600	
+		$(@dom_element).find("#delete_answer_" + @answer_id).on "click", (event) =>
+			event.preventDefault()
+			window.media.confirm("answer", @delete)
 	save: (event) =>
 		[submit_url, method] = if @answer_id then ["/answers/" + @answer_id, "PUT"] else ["/answers", "POST"]
 		answer_data = 
@@ -190,6 +217,13 @@ class Answer
 			type: method
 			data: answer_data
 			success: (e) => @answer_id = e
+	delete: () => 
+		$.ajax
+			url: "/answers/" + @answer_id
+			type: "DELETE"
+			success: =>
+				@question.answers.splice(@question.answers.indexOf(@), 1)
+				$(@dom_element).hide()
 
 
 class Resource
@@ -341,7 +375,7 @@ class MediaController
 		$("#dialog-confirm").dialog({
 			resizable: false
 			modal: true
-			title: "Delete this question?"
+			title: "Delete this #{context}?"
 			context: context
 			buttons: { 
 				"Cancel": -> $(this).dialog("close")
@@ -459,9 +493,11 @@ class MediaController
 		$("#image_search_preview").attr "src", null	
 		$("#search_preview")[0].innerHTML = ""	
 		$("#video_search_results")[0].innerHTML = ""
+		$("#next_page, #previous_page").css "visibility", "hidden"
 	parseYouTubeID: (url) => String(url.match("v=[A-Za-z0-9_-]*")).split("=")[1]	
 	imageSearchComplete: () =>
 		$("#search_preview")[0].innerHTML = ""
+		$("#next_page, #previous_page").css "visibility", "visible"
 		for result in @imageSearch.results
 			image_container = $("#image_container_template").clone().attr("id", "image_container")
 			$(image_container).find("img")[0].src = result.url

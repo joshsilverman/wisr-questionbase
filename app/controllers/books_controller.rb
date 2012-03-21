@@ -83,4 +83,8 @@ class BooksController < ApplicationController
       format.xml  { head :ok }
     end
   end
+
+  def get_next_chapter_number
+    render :json => Book.find(params[:book_id]).chapters.maximum(:number) + 1
+  end
 end

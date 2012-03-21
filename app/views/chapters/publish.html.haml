@@ -1,0 +1,14 @@
+= render :partial => "shared/header"
+
+.content_container
+  .column_content
+    %h1.column_header= "Review for Publication"
+    %br
+    %hr.dotted_line
+    %br
+    - @chapters.each do |chapter|
+      .chapter_container
+        .status.publish{:chapter_id => chapter.id}
+          Publish
+        =link_to("#{Book.find(chapter.book_id).name} - #{chapter.name}", chapter, :chapter_number => chapter.number, :class => "line_title") + " ( " + link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link")        
+        )        

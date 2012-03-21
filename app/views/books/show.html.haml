@@ -2,30 +2,47 @@
 = render :partial => "shared/header", :locals => { :back => @back } 
 
 .content_container
-    .left_column
-        .column_content
-            %h1{:class => "column_header"}= @book.name + " (" + @book.edition.to_s + "e)"
-            (
-            =link_to('new chapter', new_chapter_path({:book_id => @book.id}), :class => "edit_link")
+  .column_content
+    %h1.column_header= @book.name
+    (
+    =link_to('add chapter', new_chapter_path({:book_id => @book.id}), :class => "edit_link")
+    )
+    %br
+    %hr.dotted_line
+    %br
+    - if @chapters.empty?
+      %p.line_placeholder= "- No chapters yet! -"
+    -else
+      - @chapters.each do |chapter|
+        - next if chapter.name.nil?  
+        .chapter_container
+          - if chapter.status == 0
+            .status.inactive{:chapter_id => chapter.id}
+              Start
+          - elsif chapter.status == 1
+            .status.active{:chapter_id => chapter.id}
+              Active
+          - elsif chapter.status == 2
+            .status.complete{:chapter_id => chapter.id}
+              Submitted
+          - elsif chapter.status == 3
+            .status.published{:chapter_id => chapter.id}
+              Published 
+          - if chapter.status == 0
+            %p.inactive_line_title= "Chapter " + chapter.number.to_s + " - " + chapter.name
+            - if Book.find_by_id(chapter.book_id).user_id.to_i == current_user.id.to_i
+              (
+              = link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link")
+              |
+              = link_to('delete', chapter, :confirm => 'Are you sure want to delete this chapter? This cannot be undone.', :method => :delete, :class => "edit_link")
+              )            
+          - else    
+            - if Book.find(chapter.book_id).user_id.to_i == current_user.id.to_i
+              =link_to("Chapter " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title") + " ( " + link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link")
+            - else
+              =link_to("Chapter " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title")
+            - if Book.find_by_id(chapter.book_id).user_id.to_i == current_user.id.to_i
+              |
+              = link_to('delete', chapter, :confirm => 'Are you sure want to delete this chapter? This cannot be undone.', :method => :delete, :class => "edit_link")
             )
-            %br
-            %hr{:class => "dotted_line"}
-            %br
-            -if @chapters.empty?
-                %p{:class => "line_placeholder"}= "- No chapters yet! -"
-            -else
-                %ul
-                    - @chapters.each do |chapter|
-                        - if chapter.name.nil?
-                            - if Book.find(chapter.book_id).user_id.to_i == current_user.id.to_i
-                                %li{:class => "line_item"}= link_to("Chapter " + chapter.number.to_s, chapter, :chapter_number => chapter.number, :class => "line_title") + " (" + link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link") + ")"
-                            - else
-                                %li{:class => "line_item"}= link_to("Chapter " + chapter.number.to_s, chapter, :chapter_number => chapter.number, :class => "line_title")   
-                        - else
-                            - if Book.find(chapter.book_id).user_id.to_i == current_user.id.to_i
-                                %li{:class => "line_item"}= link_to("Chapter " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title") + " (" + link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link") + ")"
-                            - else
-                                %li{:class => "line_item"}= link_to("Chapter " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title")
-                        - if Book.find_by_id(chapter.book_id).user_id.to_i == current_user.id.to_i
-                            = link_to('Delete', chapter, :confirm => 'Are you sure want to delete this chapter? This cannot be undone.', :method => :delete)    
-                %br
+      %br

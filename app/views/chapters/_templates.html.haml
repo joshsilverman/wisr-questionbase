@@ -23,11 +23,16 @@
                     #answer_resource_2{:class => "answer_media_box"}
                          = image_tag placeholder, :class => "media_preview" 
                          %br
-     %div{:id => "answer"}
+     %div{:id => "correct_answer"}
           .indicator
-               = label(nil, "X", :class => "indicator_mark")
+               = image_tag("correct.png", :class => "indicator_mark correct")
           .answer_space
                = text_field nil, nil, :id => "answer_field", :placeholder => "Answer", :class => "answer_field"
+     %div{:id => "incorrect_answer"}
+          .indicator
+               = image_tag("incorrect.png", :class => "indicator_mark incorrect")
+          .answer_space
+               = text_field nil, nil, :id => "answer_field", :placeholder => "Answer", :class => "answer_field"               
      = text_field nil, nil, :placeholder => "URL", :class => "resource_field", :id => "resource"  
      #video_search_result_template{:class => "video_search_result"}
           = label nil, "", :class => "video_search_result_label" 
@@ -51,8 +56,8 @@
                               %input{:id => "image_link_input", :name => "name", :type => "text", :placeholder => "Type to search or paste image URL", :class => "media_input"}
                               %button{:id => "image_search_button"}= "Search"
                               #search_preview
-                              #previous_page <<
-                              #next_page >>
+                              #previous_page << Previous
+                              #next_page Next >>
                          #image_preview_container
                               = image_tag placeholder, :id => "image_search_preview"
           #tabs-2

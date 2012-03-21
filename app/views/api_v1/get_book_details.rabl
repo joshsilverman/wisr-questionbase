@@ -3,7 +3,7 @@ object @book
 attributes :id, :name
 
 node :icon_url do
-    "#{STUDYEGG_STORE_PATH}/assets/eggs/0.png"
+    "#{STUDYEGG_QUESTIONS_PATH}/assets/eggs/0.png"
 end
 
 child @chapters do

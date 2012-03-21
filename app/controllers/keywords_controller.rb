@@ -56,7 +56,7 @@ class KeywordsController < ApplicationController
   # PUT /keywords/1
   # PUT /keywords/1.json
   def update
-    puts params.to_json
+    # puts params.to_json
     @keyword = keyword.find(params[:id])
     @keyword.update_attributes(params[:keyword])
     render :json => @keyword.id
@@ -115,6 +115,14 @@ class KeywordsController < ApplicationController
       keywords.delete(Keyword.find_by_keyword(params[:keyword_text]))
     end
     render :nothing => true
+  end
+
+  def get_questions_keywords(keywords_hash = {})
+    Question.find(params[:question_ids], :include => :keywords).each do |question|
+      keywords_hash[question.id] = {:keywords => []}
+      question.keywords.each {|keyword| keywords_hash[question.id][:keywords] << keyword}
+    end
+    render :json => keywords_hash
   end
    
 end

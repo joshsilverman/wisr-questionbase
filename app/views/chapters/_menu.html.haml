@@ -1,5 +1,3 @@
 .menu
-     = link_to_function "Add Question", "window.builder.newQuestion()"
-     %br
-     %br
-     = link_to_function "Top", "window.control.scrollToTop()"
+	= link_to_function "Submit", "window.builder.completeChapter()", :class => "menu_link top"
+	= link_to_function "Add Question", "window.builder.newQuestion()", :class => "menu_link menu_bottom_link"

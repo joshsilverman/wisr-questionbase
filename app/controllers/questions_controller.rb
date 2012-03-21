@@ -75,8 +75,7 @@ class QuestionsController < ApplicationController
   # DELETE /questions/1.xml
   def destroy
     @question = Question.find(params[:id])
-    puts @question.to_json
-    @question.delete
+    @question.destroy
     render :nothing => true
     # respond_to do |format|
     #   format.html { redirect_to(Chapter.find_by_id(@question.chapter_id)) }
@@ -133,7 +132,6 @@ class QuestionsController < ApplicationController
     chapter.name = xml.css("title").text
     chapter.number = 2
     chapter.save
-    puts chapter.to_json
 
     sections = xml.css("question")
     sections.each do |section|
@@ -160,7 +158,7 @@ class QuestionsController < ApplicationController
           answer.feedback = strip_tags(section.css("feedback-a").text)
           answer.question_id = question.id
           answer.save
-          puts answer.to_json
+          # puts answer.to_json
         end
 
         if section.css("choice-b").text
@@ -170,7 +168,7 @@ class QuestionsController < ApplicationController
           answer.feedback = strip_tags(section.css("feedback-b").text)
           answer.question_id = question.id
           answer.save
-          puts answer.to_json
+          # puts answer.to_json
         end
         
         if section.css("choice-c").text    
@@ -180,7 +178,7 @@ class QuestionsController < ApplicationController
           answer.feedback = strip_tags(section.css("feedback-c").text)
           answer.question_id = question.id
           answer.save
-          puts answer.to_json
+          # puts answer.to_json
         end
 
         if section.css("choice-d").text   
@@ -190,7 +188,7 @@ class QuestionsController < ApplicationController
           answer.feedback = strip_tags(section.css("feedback-d").text)
           answer.question_id = question.id  
           answer.save 
-          puts answer.to_json
+          # puts answer.to_json
         end
       elsif question.question_type == "sa" or question.question_type == "nr" or question.question_type == "es"
         answer = Answer.new
@@ -198,9 +196,9 @@ class QuestionsController < ApplicationController
         answer.correct = true
         answer.question_id = question.id
         answer.save
-        puts answer.to_json
+        # puts answer.to_json
       else
-        puts "Unsupported question type found!"
+        # puts "Unsupported question type found!"
       end
 
       if !section.attribute("narrative").blank?
@@ -215,7 +213,7 @@ class QuestionsController < ApplicationController
             resource.contains_answer = false
             resource.question_id = question.id
             resource.save
-            puts resource.to_json
+            # puts resource.to_json
           end
         elsif !narrative.search("table").empty?
           narrative.search(".//table").each_with_index do |table, i|
@@ -227,7 +225,7 @@ class QuestionsController < ApplicationController
             resource.table = table.to_s()
             resource.article_text = strip_tags(narrative.css("text").inner_html().split("<tabl")[0])
             resource.save
-            puts resource.to_json
+            # puts resource.to_json
           end
         else
           resource = Resource.new
@@ -237,7 +235,7 @@ class QuestionsController < ApplicationController
           resource.contains_answer = false
           resource.question_id = question.id
           resource.save
-          puts resource.to_json          
+          # puts resource.to_json          
         end
       else
         content = section.css("text")
@@ -252,7 +250,7 @@ class QuestionsController < ApplicationController
             resource.contains_answer = false
             resource.question_id = question.id
             resource.save
-            puts resource.to_json
+            # puts resource.to_json
             image.remove
           end
         end
@@ -265,7 +263,7 @@ class QuestionsController < ApplicationController
             resource.contains_answer = false
             resource.question_id = question.id
             resource.save
-            puts resource.to_json
+            # puts resource.to_json
           end
           content.search(".//equation").remove
         end
@@ -277,8 +275,8 @@ class QuestionsController < ApplicationController
       text.search(".//equation").remove
       question.question = strip_tags(text.first.inner_html())
       question.save
-      puts question.to_json
-      puts "\n\n\n"
+      # puts question.to_json
+      # puts "\n\n\n"
     end
 
 
