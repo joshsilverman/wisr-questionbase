@@ -13,12 +13,16 @@ class ChaptersController < ApplicationController
   # GET /chapters/1
   # GET /chapters/1.xml
   def show
-    @chapter = Chapter.find(params[:id])
-    @book = Book.find_by_id(@chapter.book_id)
-    @questions = @chapter.questions.sort!{|a, b| a.created_at <=> b.created_at}
-    respond_to do |format|
-      format.html # show.html.erb
-      format.json  { render :text => "#{params[:callback]}(#{@questions.to_json})", :content_type => 'text/javascript' }
+    get_chapter(params[:id])
+    if @chapter
+      @book = Book.find_by_id(@chapter.book_id)
+      @questions = @chapter.questions.sort!{|a, b| a.created_at <=> b.created_at}
+      respond_to do |format|
+        format.html # show.html.erb
+        format.json  { render :text => "#{params[:callback]}(#{@questions.to_json})", :content_type => 'text/javascript' }
+      end
+    else
+      redirect_to "/"
     end
   end
 
@@ -36,8 +40,12 @@ class ChaptersController < ApplicationController
 
   # GET /chapters/1/edit
   def edit
-    @chapter = Chapter.find(params[:id])
-    @current_book = Book.find_by_id(@chapter.book_id)
+    get_chapter(params[:id])
+    if @chapter && @e
+      @current_book = Book.find_by_id(@chapter.book_id)
+    else
+      redirect_to "/" 
+    end
   end
 
   # POST /chapters
@@ -60,29 +68,36 @@ class ChaptersController < ApplicationController
   # PUT /chapters/1
   # PUT /chapters/1.xml
   def update
-    @chapter = Chapter.find(params[:id])
-    @current_book = Book.find_by_id(@chapter.book_id)
-    respond_to do |format|
-      if @chapter.update_attributes(params[:chapter])
-        format.html { redirect_to "/books/#{@current_book.id}" }
-        format.xml  { head :ok }
-      else
-        format.html { render :action => "edit" }
-        format.xml  { render :json => @chapter.errors, :status => :unprocessable_entity }
-      end
-    end 
+    get_chapter(params[:id])
+    if @chapter && @e
+      @current_book = Book.find_by_id(@chapter.book_id)
+      respond_to do |format|
+        if @chapter.update_attributes(params[:chapter])
+          format.html { redirect_to "/books/#{@current_book.id}" }
+          format.xml  { head :ok }
+        else
+          format.html { render :action => "edit" }
+          format.xml  { render :json => @chapter.errors, :status => :unprocessable_entity }
+        end
+      end 
+    else
+      redirect_to "/"
+    end       
   end
 
   # DELETE /chapters/1
   # DELETE /chapters/1.xml
   def destroy
-    @chapter = Chapter.find(params[:id])
-    @chapter.destroy
-
-    respond_to do |format|
-      format.html { redirect_to(Book.find_by_id(@chapter.book_id)) }
-      format.xml  { head :ok }
-    end
+    get_chapter(params[:id])
+    if @chapter && @e
+      @chapter.destroy
+      respond_to do |format|
+        format.html { redirect_to(Book.find_by_id(@chapter.book_id)) }
+        format.xml  { head :ok }
+      end
+    else
+      redirect_to "/"
+    end 
   end
 
   def publish
@@ -96,7 +111,6 @@ class ChaptersController < ApplicationController
   end
 
   def update_status
-    puts params.to_json
     chapter = Chapter.find(params[:id])
     chapter.status = params[:status] 
     chapter.author_id = current_user.id if params[:type] == "START"
@@ -138,6 +152,21 @@ class ChaptersController < ApplicationController
 
   private
 
+  def get_chapter(id)
+    chapter = Chapter.find_by_id(id)
+    get_permission(chapter)
+    @chapter = chapter if @w or @e
+  end
+
+  def get_permission(chapter)
+    @e = @w = false
+    return if chapter.nil?
+    if Book.find(chapter.book_id).user_id == current_user.id || current_user.user_type == "ADMIN"
+      @e = @w = true
+    elsif Book.find(chapter.book_id).public
+      @w = true
+    end
+  end
 
   def clean_markup_from_desc(str)
     return str if str.nil?

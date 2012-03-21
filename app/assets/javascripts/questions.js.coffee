@@ -30,6 +30,8 @@ class Builder
 					keyword_array = []
 					(keyword_array.push({"id": keyword.id, "name": keyword.keyword}) for keyword in keywords[question.question_id].keywords)
 					question.populateKeywords(keyword_array)
+					# for keyword in keywords
+					# 	@keywords.push new Keyword keyword, @, @dom_group.find(".keyword_field")
 
 
 class Question
@@ -75,6 +77,7 @@ class Question
 			@dom_group = $($('#activity_group')[0]).clone().removeAttr("id").attr("class", "activity_group")
 			@dom_group.appendTo $('#activities')[0]
 			keyword_field = $(@dom_group).find(".keyword_field").hide()
+			@populateKeywords(null)
 			question_resource = $(@dom_group).find(".question_media_box").hide()
 			question_resource.on "click", (e) => 
 				if $(e.srcElement).attr "resource_id"
@@ -113,6 +116,7 @@ class Question
 				@answers.push new Answer this
 				@save
 			$(@dom_group).find(".question_media_box").fadeIn 600
+			console.log $(@dom_group).find(".token-input-list-facebook")
 			$(@dom_group).find(".token-input-list-facebook").fadeIn 600				
 		@dom_group.find($('.add_answer')).on "click", () => 
 			if @answers.length < 4
