@@ -5,20 +5,29 @@ class Builder
 	questions: []
 	constructor: -> 
 		$("#tabs").tabs()
+		$(".menu").on "click", () => @newQuestion()
 		for activity in $("#activities").find(".activity_group")
 			@questions.push(new Question activity)
 		@loadKeywords()
 	newQuestion: -> new Question
-	completeChapter: -> 
+	submitChapter: -> 
 		data = 
 			"id" : $(chapter_id)[0].value
 			"status": 2
-			"type": "COMPLETE"
 		$.ajax
 			url: "/chapters/update_status"
 			type: "POST"
 			data: data	
 			success: (e) => window.location = "/books/#{e.book_id}"
+	unsubmitChapter: -> 
+		data = 
+			"id" : $(chapter_id)[0].value
+			"status": 1
+		$.ajax
+			url: "/chapters/update_status"
+			type: "POST"
+			data: data	
+			success: (e) => window.location = "/chapters/#{$(chapter_id)[0].value}"
 	loadKeywords: () =>
 		params = "question_ids": (question.question_id for question in @questions)
 		$.ajax

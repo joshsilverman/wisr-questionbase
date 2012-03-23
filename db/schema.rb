@@ -66,14 +66,14 @@ ActiveRecord::Schema.define(:version => 20120320173935) do
   end
 
   create_table "chapters", :force => true do |t|
-    t.string    "name"
-    t.integer   "number"
-    t.integer   "book_id"
-    t.timestamp "created_at"
-    t.timestamp "updated_at"
-    t.integer   "status",     :default => 0
-    t.text      "media_url"
-    t.integer   "author_id"
+    t.string   "name"
+    t.integer  "number"
+    t.integer  "book_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.integer  "status",     :default => 0
+    t.text     "media_url"
+    t.integer  "author_id"
   end
 
   create_table "keywords", :force => true do |t|
