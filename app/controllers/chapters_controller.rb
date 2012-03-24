@@ -113,7 +113,7 @@ class ChaptersController < ApplicationController
   def update_status
     chapter = Chapter.find(params[:id])
     chapter.status = params[:status] 
-    chapter.author_id = current_user.id if params[:type] == "START"
+    chapter.author_id = current_user.id if params[:status] == 0
     chapter.save
     render :json => chapter
   end
