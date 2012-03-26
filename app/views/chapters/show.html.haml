@@ -1,12 +1,30 @@
 - @back = link_to('Back to Chapters', '/books/' + @book.id.to_s)
 = render :partial => "shared/header", :locals => { :back => @back }  
 
+.status_bar
+	- if @chapter.media_url
+		= link_to "Open Chapter Media", @chapter.media_url, :target => "_blank", :id => "media_link"	
+	#chapter_status
+		Chapter status:
+		- if @chapter.status == 1
+			.status.active{:chapter_id => @chapter.id}
+				Active
+			(
+			= link_to_function "Submit", "window.builder.submitChapter()", :class => "edit_link"
+			)
+		- elsif @chapter.status == 2
+			.status.complete{:chapter_id => @chapter.id}
+				Submitted
+			(
+			= link_to_function "Un-Submit", "window.builder.unsubmitChapter()", :class => "edit_link"
+			)				
+		- elsif @chapter.status == 3
+			.status.published{:chapter_id => @chapter.id}
+				Published 	
+
 = render :partial => "menu"
 %br
 
-- if @chapter.media_url
-	#media_container
-		= link_to "Chapter Media", @chapter.media_url, :target => "_blank", :id => "media_link"
 
 %div{:id => "activities"}
 	- @chapter.questions.each_with_index do |question, i|
