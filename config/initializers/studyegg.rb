@@ -7,3 +7,9 @@ STUDYEGG_STORE_PATH = studyegg_config[:store]
 STUDYEGG_QUESTIONS_PATH = studyegg_config[:qb]
 STUDYEGG_USER_MANAGER_PATH = studyegg_config[:auth]
 STUDYEGG_API_KEY = "JKD673890RTSDFG45FGHJSUY"
+
+if ENV["RAILS_ENV"] == "test"
+	DatabaseCleaner.strategy = :truncation
+	DatabaseCleaner.clean
+	Rails.application.load_seed
+end
