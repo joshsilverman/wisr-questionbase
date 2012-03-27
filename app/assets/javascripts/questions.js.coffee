@@ -30,6 +30,7 @@ class Builder
 			success: (e) => window.location = "/chapters/#{$(chapter_id)[0].value}"
 	loadKeywords: () =>
 		params = "question_ids": (question.question_id for question in @questions)
+		return if params["question_ids"].length == 0
 		$.ajax
 			url: "/keywords/get_questions_keywords"
 			type: "POST"
