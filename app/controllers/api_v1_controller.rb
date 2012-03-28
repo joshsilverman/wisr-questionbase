@@ -108,6 +108,11 @@ class ApiV1Controller < ApplicationController
     respond_to :json
   end
 
+  def get_public_with_lessons
+    @book = @books = Book.includes(:chapters).where(:public => true)
+    respond_to :json
+  end
+
   protected
 
   def valid_key?
