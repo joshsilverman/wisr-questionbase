@@ -7,5 +7,5 @@ node :icon_url do
 end
 
 child :chapters do
-  attributes :id, :name
+  attributes :id, :name, :status
 end

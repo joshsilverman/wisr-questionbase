@@ -109,7 +109,9 @@ class ApiV1Controller < ApplicationController
   end
 
   def get_public_with_lessons
-    @book = @books = Book.includes(:chapters).where(:public => true)
+    # @book = @books = Book.find(:all, :include => :chapters, :conditions => ["public = true AND chapters.status = 3"])
+    @book = @books = Book.where(:public => true).includes(:chapters)
+    puts @books[1].chapters.to_json
     respond_to :json
   end
 
