@@ -24,6 +24,7 @@ class ApiV1Controller < ApplicationController
     @lesson_ids = params[:ids].split('+')
     book_ids = Chapter.select(:book_id).where(:id => @lesson_ids, :status => 3).group("chapters.book_id, chapters.id").collect(&:book_id)
     @books = Book.where(:id => book_ids)
+    # puts @books.to_json
     respond_to :json
   end
   
