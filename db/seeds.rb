@@ -1,4 +1,8 @@
 book = Book.create!(:name => 'Book #1', :author => 'StudyEgg', :edition => 1, :public => true, :user_id => 1)
+
+book2 = Book.create!(:name => 'Book #2', :author => 'StudyEgg', :edition => 1, :public => true, :user_id => 1)
+book2.chapters << Chapter.create!(:book_id => book2.id, :name => 'Chapter #1', :number => 1, :status => 3)
+
 chapters = []
 chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #1', :number => 1, :status => 3)
 chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #2', :number => 2, :status => 3)

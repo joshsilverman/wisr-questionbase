@@ -23,8 +23,7 @@ class ApiV1Controller < ApplicationController
   def get_lessons
     @lesson_ids = params[:ids].split('+')
     book_ids = Chapter.select(:book_id).where(:id => @lesson_ids, :status => 3).group("chapters.book_id, chapters.id").collect(&:book_id)
-    @books = Book.where(:id => book_ids)
-    # puts @books.to_json
+    @books = Book.where(:id => book_ids).includes(:chapters).where("chapters.id IN (?)", @lesson_ids)
     respond_to :json
   end
   
@@ -39,15 +38,6 @@ class ApiV1Controller < ApplicationController
 
   def get_all_questions
     @questions = Chapter.find(params[:id]).questions.includes(:answers, :resources).sort!{|a, b| a.created_at <=> b.created_at}
-    # puts @questions.to_json
-    # json = @questions.to_json \
-    #   :only => [:id, :question],
-    #   :include => {
-    #   :answers => {:only => [:id, :answer, :correct]},
-    #   :resources => {:only => [:url, :contains_answer, :media_type, :begin, :end, :article_text]}
-    # }
-    # puts json
-    # render :json => json
     respond_to :json
   end
 
@@ -74,7 +64,8 @@ class ApiV1Controller < ApplicationController
     if keywords.blank?
       render :nothing => true
     else
-      keywords.uniq!.each do |keyword|
+      keywords = keywords.uniq if keywords.uniq
+      keywords.each do |keyword|
         keywords_questions = []
         keyword.questions.each {|question| keywords_questions << question.id if question_ids.include? question.id.to_s }
         topics_questions << {:keyword => keyword.keyword, :questions => keywords_questions}
@@ -112,7 +103,6 @@ class ApiV1Controller < ApplicationController
   def get_public_with_lessons
     # @book = @books = Book.find(:all, :include => :chapters, :conditions => ["public = true AND chapters.status = 3"])
     @book = @books = Book.where(:public => true).includes(:chapters)
-    puts @books[1].chapters.to_json
     respond_to :json
   end
 
