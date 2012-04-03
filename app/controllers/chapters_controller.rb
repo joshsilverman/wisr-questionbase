@@ -41,7 +41,7 @@ class ChaptersController < ApplicationController
   # GET /chapters/1/edit
   def edit
     get_chapter(params[:id])
-    if @chapter && @e
+    if @chapter# && @e
       @current_book = Book.find_by_id(@chapter.book_id)
     else
       redirect_to "/" 
@@ -69,7 +69,7 @@ class ChaptersController < ApplicationController
   # PUT /chapters/1.xml
   def update
     get_chapter(params[:id])
-    if @chapter && @e
+    if @chapter# && @e
       @current_book = Book.find_by_id(@chapter.book_id)
       respond_to do |format|
         if @chapter.update_attributes(params[:chapter])
