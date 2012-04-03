@@ -30,18 +30,12 @@
               Published 
           - if chapter.status == 0
             %p.inactive_line_title= "Chapter " + chapter.number.to_s + " - " + chapter.name
-            - if Book.find_by_id(chapter.book_id).user_id.to_i == current_user.id.to_i
-              (
-              = link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link")
-              |
-              = link_to('delete', chapter, :confirm => 'Are you sure want to delete this chapter? This cannot be undone.', :method => :delete, :class => "edit_link")
-              )            
-          - else    
-            - if Book.find(chapter.book_id).user_id.to_i == current_user.id.to_i
-              =link_to("Chapter " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title") + " ( " + link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link")
-              |
-              = link_to('delete', chapter, :confirm => 'Are you sure want to delete this chapter? This cannot be undone.', :method => :delete, :class => "edit_link")
-              )
-            - else
-              =link_to("Chapter " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title")
+          - else 
+            =link_to("Chapter " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title")
+          (
+          = link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link")
+          - if Book.find_by_id(chapter.book_id).user_id.to_i == current_user.id.to_i
+            |
+            = link_to('delete', chapter, :confirm => 'Are you sure want to delete this chapter? This cannot be undone.', :method => :delete, :class => "edit_link")
+          )   
       %br
