@@ -145,8 +145,12 @@ class Question
 			success: (e) => 
 				@question_id = e
 				header = $(event.srcElement).parents(".activity_content").prevAll("div.header")
-				number = $(header).parents(".activity_group").prev().find("p.header_text").text().split(".")[0]
-				header.find("p.header_text").text("#{parseInt(number) + 1}. #{event.srcElement.value}")
+				prev_header = $(header).parents(".activity_group").prev().find("p.header_text")
+				if prev_header.length != 0
+					number = parseInt(prev_header.text().split(".")[0]) + 1
+				else 
+					number = 1
+				header.find("p.header_text").text("#{number}. #{event.srcElement.value}")
 	delete: () =>
 		@dom_group.remove()
 		$.ajax
