@@ -126,7 +126,6 @@ class Question
 				@answers.push new Answer this
 				@save
 			$(@dom_group).find(".question_media_box").fadeIn 600
-			console.log $(@dom_group).find(".token-input-list-facebook")
 			$(@dom_group).find(".token-input-list-facebook").fadeIn 600				
 		@dom_group.find($('.add_answer')).on "click", () => 
 			if @answers.length < 4
@@ -143,9 +142,13 @@ class Question
 			url: submit_url
 			type: method
 			data: question_data
-			success: (e) => @question_id = e
+			success: (e) => 
+				@question_id = e
+				header = $(event.srcElement).parents(".activity_content").prevAll("div.header")
+				number = $(header).parents(".activity_group").prev().find("p.header_text").text().split(".")[0]
+				header.find("p.header_text").text("#{parseInt(number) + 1}. #{event.srcElement.value}")
 	delete: () =>
-		@dom_group.hide()
+		@dom_group.remove()
 		$.ajax
 			url: "/questions/" + @question_id
 			type: "DELETE"	

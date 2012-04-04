@@ -29,9 +29,12 @@
             .status.published{:chapter_id => chapter.id}
               Published 
           - if chapter.status == 0
-            %p.inactive_line_title= "Chapter " + chapter.number.to_s + " - " + chapter.name
+            %p.inactive_line_title= "Chapter #{chapter.number.to_s} - #{chapter.name} " 
           - else 
             =link_to("Chapter " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title")
+          - if chapter.author_id
+            - user = User.find(chapter.author_id)
+            = "(#{user.first_name} #{user.last_name[0]}.)"
           (
           = link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link")
           - if Book.find_by_id(chapter.book_id).user_id.to_i == current_user.id.to_i

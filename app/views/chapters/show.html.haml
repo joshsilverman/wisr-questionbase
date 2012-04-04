@@ -3,9 +3,9 @@
 
 .status_bar
 	- if @chapter.media_url
-		= link_to "Open Chapter Media", @chapter.media_url, :target => "_blank", :id => "media_link"	
+		= link_to "Open Chapter Media", @chapter.media_url, :target => "_blank", :id => "media_link"
+	%p.status_bar_title= "#{@chapter.name}"
 	#chapter_status
-		Chapter status:
 		- if @chapter.status == 1
 			.status.active{:chapter_id => @chapter.id}
 				Active

@@ -84,7 +84,7 @@ class QuestionsController < ApplicationController
   end
 
   def get_permission
-    render :json => Question.find(params[:id]).user_id.to_i == current_user.id.to_i
+    render :json => Question.find(params[:id]).user_id.to_i == current_user.id.to_i || current_user.user_type == "ADMIN"
   end
 
   def save_question
