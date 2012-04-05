@@ -10,5 +10,10 @@
       .chapter_container
         .status.publish{:chapter_id => chapter.id}
           Publish
-        =link_to("#{Book.find(chapter.book_id).name} - #{chapter.name}", chapter, :chapter_number => chapter.number, :class => "line_title") + " ( " + link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link")        
-        )        
+        =link_to("#{Book.find(chapter.book_id).name} - #{chapter.name}", chapter, :chapter_number => chapter.number, :class => "line_title")         
+        - if chapter.author_id
+          - user = User.find(chapter.author_id)
+          = "(#{user.first_name} #{user.last_name[0]}.)"
+        (
+        =link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link")
+        ) 
