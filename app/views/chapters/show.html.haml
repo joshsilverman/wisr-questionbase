@@ -37,7 +37,7 @@
 				.activity_right_column
 					= render :partial => "media", :locals => {:question => question}
 
-%iframe{:style => "width: 100%; height: 700px;", :src => "http://www.studyegg.com"}
+%iframe{:style => "width: 100%; height: 700px;", :src => "http://localhost:3000/review/#{@chapter.id}/embed"}
 
 = hidden_field_tag "chapter_id", @chapter.id
 = render :partial => "templates"

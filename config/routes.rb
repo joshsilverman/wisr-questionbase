@@ -51,7 +51,7 @@ OauthClientDemo::Application.routes.draw do
   match "api-V1/:api_key/get_book_by_chapter_id/:id" => "api_v1#get_book_by_chapter_id"
   match "api-V1/:api_key/get_lessons/:ids" => "api_v1#get_lessons"
   match "api-V1/:api_key/get_all_lesson_questions/:id" => "api_v1#get_all_questions"
-  match "api-V1/:api_key/get_lesson_questions/:ids" => "api_v1#get_questions"
+  match "api-V1/:api_key/get_questions/:ids" => "api_v1#get_questions"
   match "api-V1/:api_key/get_public" => "api_v1#get_public"
   match "api-V1/:api_key/get_public_with_lessons" => "api_v1#get_public_with_lessons"
   match "api-V1/:api_key/get_lesson_details/:ids" => "api_v1#get_lesson_details"
