@@ -40,6 +40,8 @@
           = label nil, "", :class => "header_text"  
      #image_container_template
           = image_tag placeholder, :id => "image_preview"
+#preview_modal{:class => "ui-widget ui-helper-hidden"}
+     %iframe{:id => "preview", :style => "width: 99%; height: 99%;"}
 #media-dialog{:class => "ui-widget ui-helper-hidden"}
      #tabs
           %ul

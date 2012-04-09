@@ -17,6 +17,8 @@ class ChaptersController < ApplicationController
     if @chapter
       @book = Book.find_by_id(@chapter.book_id)
       @questions = @chapter.questions.sort!{|a, b| a.created_at <=> b.created_at}
+      @preview_path = "#{STUDYEGG_PATH}/review/#{(@chapter.id)}/embed"
+      puts @preview_path
       respond_to do |format|
         format.html # show.html.erb
         format.json  { render :text => "#{params[:callback]}(#{@questions.to_json})", :content_type => 'text/javascript' }

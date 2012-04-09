@@ -4,6 +4,7 @@
 class Builder
 	questions: []
 	constructor: -> 
+		window.preview_path = $("#preview_path").attr "value"
 		$("#tabs").tabs()
 		$(".menu").on "click", () => @newQuestion()
 		for activity in $("#activities").find(".activity_group")
@@ -370,6 +371,18 @@ class MediaController
 		$("#video_search_button").on "click", (e) => 
 			e.preventDefault()
 			@videoSearch($("#video_link_input")[0].value)
+		$("#preview_link").on "click", (e) =>
+			e.preventDefault()
+			$("#preview").attr "src", preview_path
+			$("#preview_modal").dialog({
+				title: "Lesson Preview"
+				closeOnEscape: true
+				draggable: false
+				resizable: false
+				modal: true
+				height: 700
+				width: "90%"
+			})
 	updatePreview: (url) =>
 		params = "url" : url
 		$.ajax

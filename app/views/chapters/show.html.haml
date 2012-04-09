@@ -1,10 +1,13 @@
 - @back = link_to('Back to Chapters', '/books/' + @book.id.to_s)
 = render :partial => "shared/header", :locals => { :back => @back }  
+= hidden_field_tag :preview_path, @preview_path
 
 .status_bar
+	= link_to "Preview", nil, :id => "preview_link"
 	- if @chapter.media_url
-		= link_to "Open Chapter Media", @chapter.media_url, :target => "_blank", :id => "media_link"
-	%p.status_bar_title= "#{@chapter.name}"
+		= link_to "#{@chapter.name}", @chapter.media_url, :target => "_blank", :class => "status_bar_title"
+	- else
+		%p.status_bar_title= "#{@chapter.name}"
 	#chapter_status
 		- if @chapter.status == 1
 			.status.active{:chapter_id => @chapter.id}
@@ -26,7 +29,7 @@
 %br
 
 
-%div{:id => "activities"}
+%div#activities
 	- @chapter.questions.each_with_index do |question, i|
 		.activity_group{:id => "activity_group_" + question.id.to_s}
 			= render :partial => "header", :locals => {:question => question, :i => i}
@@ -36,8 +39,6 @@
 					= render :partial => "answers", :locals => {:question => question}
 				.activity_right_column
 					= render :partial => "media", :locals => {:question => question}
-
-%iframe{:style => "width: 100%; height: 700px;", :src => "http://localhost:3000/review/#{@chapter.id}/embed"}
 
 = hidden_field_tag "chapter_id", @chapter.id
 = render :partial => "templates"
