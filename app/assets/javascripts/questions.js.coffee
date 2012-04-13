@@ -10,6 +10,12 @@ class Builder
 		for activity in $("#activities").find(".activity_group")
 			@questions.push(new Question activity)
 		@loadKeywords()
+		@lockChapter()
+	lockChapter: ->
+		$(".question_area").attr "disabled", "disabled"
+		$(".answer_field").attr "disabled", "disabled"
+		$(".token-input-list-facebook input").attr "disabled", "disabled"
+		$(".menu").on "click", () => alert "This chapter is locked."
 	newQuestion: -> new Question
 	submitChapter: -> 
 		data = 
