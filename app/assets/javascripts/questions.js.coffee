@@ -5,6 +5,9 @@ class Builder
 	questions: []
 	published: null
 	constructor: -> 
+		window.media = new MediaController
+		google.setOnLoadCallback(window.media.initializeImageSearch)	
+		$(".activity_content").hide()
 		@published = $.trim($(".status").text()) == "Published"
 		window.preview_path = $("#preview_path").attr "value"
 		$("#tabs").tabs()
@@ -594,16 +597,4 @@ class MediaController
 					element.appendTo $("#video_search_results")
 
 
-
-class Controller
-	constructor: -> @hideActivities()
-	scrollToTop: -> $.scrollTo 0, 500
-	scrollToBottom: -> $.scrollTo document.body.scrollHeight, 500
-	hideActivities: -> $(".activity_content").hide()	
-
-
-$ -> 
-	window.controller = new Controller
-	window.media = new MediaController
-	google.setOnLoadCallback(window.media.initializeImageSearch)
-	window.builder = new Builder
+$ -> window.builder = new Builder
