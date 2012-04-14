@@ -588,7 +588,6 @@ class MediaController
 						source = event.srcElement
 						source = $(source).parent() if $(source).is "label"
 						$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{$(source).attr 'video_id'}&start=#{$(source).attr 'time'}"
-						# media.createVideoSlider($(e.srcElement).attr("video_id"), $(e.srcElement).attr("time"))
 						start_minutes = Math.floor($(source).attr("time") / 60)
 						start_seconds = $(source).attr("time") - (start_minutes * 60)
 						if start_seconds < 10 then start_seconds = '0' + start_seconds
