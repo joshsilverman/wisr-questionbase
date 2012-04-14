@@ -23,7 +23,11 @@
 			)				
 		- elsif @chapter.status == 3
 			.status.published{:chapter_id => @chapter.id}
-				Published 	
+				Published 
+			- if @e
+				(
+				= link_to_function "Un-Publish", "window.builder.unpublishChapter()", :class => "edit_link"
+				)				
 
 = render :partial => "menu"
 %br

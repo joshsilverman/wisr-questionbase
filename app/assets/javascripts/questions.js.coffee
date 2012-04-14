@@ -3,19 +3,31 @@
 
 class Builder
 	questions: []
+	published: null
 	constructor: -> 
+		@published = $.trim($(".status").text()) == "Published"
 		window.preview_path = $("#preview_path").attr "value"
 		$("#tabs").tabs()
 		$(".menu").on "click", () => @newQuestion()
 		for activity in $("#activities").find(".activity_group")
 			@questions.push(new Question activity)
 		@loadKeywords()
-		@lockChapter()
+	pageLoaded: => @lockChapter() if @published
 	lockChapter: ->
 		$(".question_area").attr "disabled", "disabled"
 		$(".answer_field").attr "disabled", "disabled"
 		$(".token-input-list-facebook input").attr "disabled", "disabled"
-		$(".menu").on "click", () => alert "This chapter is locked."
+		$(".token-input-token-facebook token-input-selected-token-facebook").off "click"
+		$(".token-input-delete-token-facebook").off "click"
+		$(".menu").off "click"
+		$('.add_answer').off "click"
+		$(".delete_question_container").off "click"
+		$(".question_media_box").off "click"
+		$(".answer_media_box").off "click"
+		$(".remove_resource").off "click"
+		$(".remove_resource").on "click", (e) => e.preventDefault()
+		$(".delete_answer").off "click"
+		$(".delete_answer").on "click", (e) => e.preventDefault()
 	newQuestion: -> new Question
 	submitChapter: -> 
 		data = 
@@ -35,6 +47,15 @@ class Builder
 			type: "POST"
 			data: data	
 			success: (e) => window.location = "/chapters/#{$(chapter_id)[0].value}"
+	unpublishChapter: -> 
+		data = 
+			"id" : $(chapter_id)[0].value
+			"status": 1
+		$.ajax
+			url: "/chapters/update_status"
+			type: "POST"
+			data: data	
+			success: (e) => window.location = "/chapters/#{$(chapter_id)[0].value}"	
 	loadKeywords: () =>
 		params = "question_ids": (question.question_id for question in @questions)
 		return if params["question_ids"].length == 0
@@ -47,8 +68,8 @@ class Builder
 					keyword_array = []
 					(keyword_array.push({"id": keyword.id, "name": keyword.keyword}) for keyword in keywords[question.question_id].keywords)
 					question.populateKeywords(keyword_array)
-					# for keyword in keywords
-					# 	@keywords.push new Keyword keyword, @, @dom_group.find(".keyword_field")
+				@pageLoaded()
+			error: => @pageLoaded()
 
 
 class Question
@@ -182,8 +203,8 @@ class Question
 			onAdd: (e) => @addKeyword(e, @)
 			onDelete: (e) => @removeKeyword(e, @)
 			prePopulate: keywords
-			hintText: "Add a topic or select from existing"
-		})		
+			hintText: false#"Add a topic or select from existing"
+		})
 		if @dom_group.find(".token-input-list-facebook p").length < 1
 			@dom_group.find(".token-input-list-facebook input").attr "placeholder", "Add topic"
 	addKeyword: (keyword, question) =>
@@ -300,8 +321,7 @@ class Resource
 		$.ajax
 			url: "/resources/" + @resource_id
 			type: "DELETE"
-			success: =>
-				$($("#media_preview_" + @resource_id)[0]).attr "src", "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg"
+			success: => $($("#media_preview_" + @resource_id)[0]).attr "src", "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg"
 	show: (id) =>
 		$.ajax
 			url: "/resources/" + id + ".json"

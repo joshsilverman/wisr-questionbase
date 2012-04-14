@@ -41,4 +41,4 @@ class Builder
 	redirectToChapter: (element) => window.location = "/chapters/#{$(element).attr("chapter_id")}"
 	updatePublishButton: (element) => $(element).removeClass("publish").addClass("published").text("Published")
 
-$ -> new Builder
+$ -> window.status = new Builder
