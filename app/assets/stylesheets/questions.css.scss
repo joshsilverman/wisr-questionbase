@@ -539,8 +539,12 @@ li.token-input-input-token-facebook {
   }
 
   #preview_link {
+    cursor: pointer;
     position: absolute;
     left: 35px;
+    top: -5px;
+    color: blue;
+    font-size: 13px;
   }
 
   a {

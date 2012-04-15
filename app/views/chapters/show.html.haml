@@ -3,7 +3,7 @@
 = hidden_field_tag :preview_path, @preview_path
 
 .status_bar
-	= link_to "Preview", nil, :id => "preview_link"
+	%p#preview_link= "Preview"
 	- if @chapter.media_url
 		= link_to "#{@chapter.name}", @chapter.media_url, :target => "_blank", :class => "status_bar_title"
 	- else

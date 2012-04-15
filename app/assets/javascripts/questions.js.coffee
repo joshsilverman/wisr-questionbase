@@ -10,6 +10,7 @@ class Builder
 		$(".activity_content").hide()
 		@published = $.trim($(".status").text()) == "Published"
 		window.preview_path = $("#preview_path").attr "value"
+		console.log window.preview_path
 		$("#tabs").tabs()
 		$(".menu").on "click", () => @newQuestion()
 		for activity in $("#activities").find(".activity_group")
@@ -402,7 +403,8 @@ class MediaController
 			@videoSearch($("#video_link_input")[0].value)
 		$("#preview_link").on "click", (e) =>
 			e.preventDefault()
-			# alert "Coming soon!"
+			console.log "path:"
+			console.log preview_path
 			$("#preview").attr "src", preview_path
 			$("#preview_modal").dialog({
 				title: "Lesson Preview"
