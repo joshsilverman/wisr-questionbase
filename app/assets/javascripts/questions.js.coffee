@@ -16,7 +16,7 @@ class Builder
 		for activity in $("#activities").find(".activity_group")
 			@questions.push(new Question activity)
 		@loadKeywords()
-	pageLoaded: => @lockChapter() if @published
+	pageLoaded: => @lockChapter() if @published and $("#admin").attr("value") == "false"
 	lockChapter: ->
 		$(".question_area").attr "disabled", "disabled"
 		$(".answer_field").attr "disabled", "disabled"

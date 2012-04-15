@@ -1,6 +1,7 @@
 - @back = link_to('Back to Chapters', '/books/' + @book.id.to_s)
 = render :partial => "shared/header", :locals => { :back => @back }  
 = hidden_field_tag :preview_path, @preview_path
+= hidden_field_tag :admin, @e
 
 .status_bar
 	%p#preview_link= "Preview"
