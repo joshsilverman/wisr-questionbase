@@ -17,4 +17,4 @@ production:
  auth: http://auth.studyegg.com
  qb: http://questionbase.studyegg.com
  store: http://store.studyegg.com
- studyegg: studyegg.com
+ studyegg: http://studyegg.com
