@@ -2,7 +2,7 @@
 .content_container
   .left_column
     .column_content
-      %h1.column_header= "My books"
+      %h1.column_header= "My Courses"
       (
       = link_to('add book', new_book_path, :class => "edit_link")
       )
@@ -10,7 +10,7 @@
       %hr.dotted_line
       %br
       - if @my_books.empty?
-        %p.line_placeholder= "No books yet!"
+        %p.line_placeholder= "No courses yet!"
       - else            
         %ul
           - @my_books.each do |my_book|
@@ -21,12 +21,12 @@
               )                      
   .right_column
     .column_content
-      %h1.column_header= "Shared books"
+      %h1.column_header= "Shared Courses"
       %br
       %hr.dotted_line
       %br
       - if @shared_books.empty?
-        %p.line_placeholder= "No books yet!"
+        %p.line_placeholder= "No courses yet!"
       -else        
         %ul
           - @shared_books.each do |shared_book|

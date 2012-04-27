@@ -1,17 +1,17 @@
-- @back = link_to('Back to Books', books_path)
+- @back = link_to('Back to Courses', books_path)
 = render :partial => "shared/header", :locals => { :back => @back } 
 
 .content_container
   .column_content
     %h1.column_header= @book.name
     (
-    =link_to('add chapter', new_chapter_path({:book_id => @book.id}), :class => "edit_link")
+    =link_to('add lesson', new_chapter_path({:book_id => @book.id}), :class => "edit_link")
     )
     %br
     %hr.dotted_line
     %br
     - if @chapters.empty?
-      %p.line_placeholder= "- No chapters yet! -"
+      %p.line_placeholder= "- No lessons yet! -"
     -else
       - @chapters.each do |chapter|
         - next if chapter.name.nil?  
@@ -29,9 +29,9 @@
             .status.published{:chapter_id => chapter.id}
               Published 
           - if chapter.status == 0
-            %p.inactive_line_title= "Chapter #{chapter.number.to_s} - #{chapter.name} " 
+            %p.inactive_line_title= "Lesson #{chapter.number.to_s} - #{chapter.name} " 
           - else 
-            =link_to("Chapter " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title")
+            =link_to("Lesson " + chapter.number.to_s + " - " + chapter.name, chapter, :chapter_number => chapter.number, :class => "line_title")
           - if chapter.author_id
             - user = User.find(chapter.author_id)
             = "(#{user.first_name} #{user.last_name[0]}.)"
@@ -39,6 +39,6 @@
           = link_to('edit', edit_chapter_path(chapter.id), :class => "edit_link")
           - if Book.find_by_id(chapter.book_id).user_id.to_i == current_user.id.to_i
             |
-            = link_to('delete', chapter, :confirm => 'Are you sure want to delete this chapter? This cannot be undone.', :method => :delete, :class => "edit_link")
+            = link_to('delete', chapter, :confirm => 'Are you sure want to delete this lesson? This cannot be undone.', :method => :delete, :class => "edit_link")
           )   
       %br
