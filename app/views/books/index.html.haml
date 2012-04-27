@@ -21,16 +21,16 @@
               )                      
   .right_column
     .column_content
-      %h1.column_header= "Public books"
+      %h1.column_header= "Shared books"
       %br
       %hr.dotted_line
       %br
-      - if @public_books.empty?
+      - if @shared_books.empty?
         %p.line_placeholder= "No books yet!"
       -else        
         %ul
-          - @public_books.each do |public_book|
-            - if public_book.user_id.to_i == current_user.id.to_i
-              %li.line_item= link_to(public_book.name + " by " + public_book.author, public_book, :class => "line_title") + " ( " + link_to('edit', edit_book_path(public_book), :class => "edit_link") + " ) "
+          - @shared_books.each do |shared_book|
+            - if shared_book.user_id.to_i == current_user.id.to_i
+              %li.line_item= link_to(shared_book.name + " by " + shared_book.author, shared_book, :class => "line_title") + " ( " + link_to('edit', edit_book_path(shared_book), :class => "edit_link") + " ) "
             - else
-              %li.line_item= link_to(public_book.name + " by " + public_book.author, public_book, :class => "line_title")                       
+              %li.line_item= link_to(shared_book.name + " by " + shared_book.author, shared_book, :class => "line_title")                       

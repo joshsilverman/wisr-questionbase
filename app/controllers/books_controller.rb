@@ -4,7 +4,7 @@ class BooksController < ApplicationController
   # GET /books.xml
   def index
     @my_books = Book.all(:conditions => {:user_id => current_user.id})
-    @public_books = Book.all(:conditions => {:public => true})
+    @shared_books = Book.find_all_by_id(Authorship.where(:user_id => current_user.id).collect(&:book_id))
     respond_to do |format|
       format.html # index.html.erb
       format.xml  { render :xml => @books }

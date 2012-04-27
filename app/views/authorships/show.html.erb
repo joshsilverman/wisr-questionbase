@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>User:</b>
+  <%= @authorship.user_id %>
+</p>
+
+<p>
+  <b>Book:</b>
+  <%= @authorship.book_id %>
+</p>
+
+
+<%= link_to 'Edit', edit_authorship_path(@authorship) %> |
+<%= link_to 'Back', authorships_path %>
