@@ -1,3 +1,47 @@
+#login {
+  text-align: center;
+  position: relative;
+  top: 100px;
+  background: white;
+  padding: 20px;
+  -moz-box-shadow: 2px 2px 2px 2px #ccc;
+  -webkit-box-shadow: 2px 2px 2px 2px #ccc;
+  box-shadow: 6px 6px 15px 6px #ccc;    
+  
+  h2 {
+    color: #781A1A;
+    font-weight: bold;
+  }
+
+  #login_fields {
+    padding: 5px;
+  }
+
+  .login_field {
+    height: 30px;
+    width: 325px;
+    margin: 10px;
+    font-size: 24px;
+  }
+
+  #submit {
+    padding: 20px;
+
+    .input_button {
+      height: 40px;
+      width: 80px;
+      font-size: 24px;
+    }
+  }
+
+  #email {
+
+  }
+  #password {
+
+  }
+}
+
 .header_container {
     height: 60px;
     line-height:4em;

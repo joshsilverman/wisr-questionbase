@@ -1,0 +1,14 @@
+#login
+  %h2 QuestionBase Login
+  = form_for(resource, :as => resource_name, :url => session_path(resource_name)) do |f|
+    #login_fields
+      #email
+        = f.email_field :email, :placeholder => "email", :class => "login_field"
+      #password
+        = f.password_field :password, :placeholder => "password", :class => "login_field"
+    - if devise_mapping.rememberable?
+      #submit
+        = f.check_box :remember_me
+        = f.label :remember_me
+        = f.submit "Sign in", :class => "input_button"
+  = render :partial => "devise/shared/links"
