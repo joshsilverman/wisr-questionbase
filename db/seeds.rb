@@ -1,6 +1,23 @@
 book = Book.create!(:name => 'Book #1', :author => 'StudyEgg', :edition => 1, :public => true, :user_id => 1)
-
 book2 = Book.create!(:name => 'Book #2', :author => 'StudyEgg', :edition => 1, :public => true, :user_id => 1)
+
+biology = Book.new
+biology.name = 'Biology (Khan Academy)'
+biology.author = 'StudyEgg'
+biology.edition = 1
+biology.public = true
+biology.user_id = 1
+biology.id = 13
+biology.save
+
+chemistry = Book.new
+chemistry.name = 'Chemistry (Khan Academy)'
+chemistry.author = 'StudyEgg'
+chemistry.edition = 1
+chemistry.public = true
+chemistry.user_id = 1
+chemistry.id = 14
+chemistry.save
 
 chapters = []
 chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #1', :number => 1, :status => 3)
@@ -19,6 +36,9 @@ demo_chapter.save
 chapters << demo_chapter
 
 book2.chapters << Chapter.create!(:book_id => book2.id, :name => 'Chapter #1', :number => 1, :status => 3)
+
+biology.chapters << Chapter.create!(:book_id => biology.id, :name => 'Biology Chapter #1', :number => 1, :status => 3)
+chemistry.chapters << Chapter.create!(:book_id => chemistry.id, :name => 'Biology Chapter #1', :number => 1, :status => 3)
 
 strengths = []
 for k in 1..3
