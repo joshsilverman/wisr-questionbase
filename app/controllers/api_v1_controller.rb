@@ -48,7 +48,7 @@ class ApiV1Controller < ApplicationController
 
   def get_questions
     @question_ids = params[:ids].split('+')
-    @questions = Question.includes(:answers, :resources).where(:id => @question_ids).sort!{|a, b| a.created_at <=> b.created_at}
+    @questions = Question.includes(:answers, :resources).where(:id => @question_ids).sort!{|a, b| @question_ids.index(a["id"].to_s) <=> @question_ids.index(b["id"].to_s)}
     respond_to :json
   end
   
