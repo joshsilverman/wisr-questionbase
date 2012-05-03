@@ -403,8 +403,6 @@ class MediaController
 			@videoSearch($("#video_link_input")[0].value)
 		$("#preview_link").on "click", (e) =>
 			e.preventDefault()
-			console.log "path:"
-			console.log preview_path
 			$("#preview").attr "src", preview_path
 			$("#preview_modal").dialog({
 				title: "Lesson Preview"

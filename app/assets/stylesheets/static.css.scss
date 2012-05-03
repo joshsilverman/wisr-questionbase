@@ -43,19 +43,37 @@
 }
 
 .header_container {
-    height: 60px;
-    line-height:4em;
-    text-align: center;
-    background-color: #F5F5F5;
-}
+  height: 60px;
+  line-height:4em;
+  background-color: #F5F5F5;
+  position: relative;
+  text-align: center;
+  
+  a {
+    color: blue;
+    text-decoration: none;
+  }
 
-.title {
+  .back_link {
+    display: inline;
+    position: absolute;
+    left: 50px;
+    top: 3px;
+  }
+
+  .title {
     font-size: 30px;
     font-weight: bold;
     color: #781A1A;
+    position: relative;
     display: inline;
-    left: 41%;
+  }    
+
+  .login {
+    display: inline;
     position: absolute;
+    right: 0px;    
+  }
 }
 
 .home {
@@ -97,8 +115,7 @@
   display: inline;  
 }
 
-.login {
-}
+
 
 .welcome {
   font-weight: bold;
@@ -118,11 +135,7 @@
   float: left;
 }
 
-.back_link {
-    display: inline;
-    float: left;
-    padding-left: 50px;
-}
+
 
 .shadow {
   -moz-box-shadow: 2px 2px 2px 2px #ccc;
