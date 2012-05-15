@@ -104,7 +104,8 @@ class ChaptersController < ApplicationController
 
   def publish
     redirect_to "/" if current_user.user_type != "ADMIN" && current_user.user_type != "QC"
-    @chapters = Chapter.where(:status => 2)
+    book_ids = Authorship.where(:user_id => current_user.id).collect(&:book_id)
+    @chapters = Chapter.where(:book_id => book_ids, :status => 2)
   end
 
   def add
