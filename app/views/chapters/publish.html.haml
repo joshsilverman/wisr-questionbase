@@ -1,4 +1,5 @@
-= render :partial => "shared/header"
+- @back = link_to('Back to Courses', "/")
+= render :partial => "shared/header", :locals => { :back => @back } 
 
 .content_container
   .column_content
