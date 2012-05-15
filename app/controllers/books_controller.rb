@@ -49,6 +49,7 @@ class BooksController < ApplicationController
     @book.user_id = current_user.id
     respond_to do |format|
       if @book.save
+        Authorship.create!(:book_id => @book.id, :user_id => current_user.id)
         format.html { redirect_to(@book, :notice => 'Book was successfully created.') }
         format.xml  { render :xml => @book, :status => :created, :location => @book }
       else

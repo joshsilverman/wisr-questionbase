@@ -55,6 +55,7 @@ class ChaptersController < ApplicationController
   def create
     @chapter = Chapter.new(params[:chapter])
     @chapter.book_id = params[:book_id]
+    @chapter.status = 1
     @current_book = Book.find_by_id(params[:book_id])
     respond_to do |format|
       if @chapter.save
