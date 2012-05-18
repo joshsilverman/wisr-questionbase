@@ -479,6 +479,7 @@ class MediaController
 					$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{resource.url}&start=#{resource.begin}" 
 		$("#media-dialog").dialog({
 			title: "Add Media"
+			# close: () => console.log $("#video_preview_frame").getPlayerState()
 			buttons: 
 				"Cancel": -> media.clearModalFields()			
 				"Save": () -> 

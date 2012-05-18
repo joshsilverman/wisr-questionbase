@@ -19,7 +19,17 @@ class ApiV1Controller < ApplicationController
     @book = Book.find(@chapter.book_id)
     respond_to :json
   end
-  
+
+  def get_book_id_by_chapter_id
+    chapter = Chapter.find(params[:id])
+    if chapter
+      course_id = chapter.book_id
+    else
+      course_id = nil
+    end
+    render :json => course_id
+  end
+ 
   def get_lessons
     @lesson_ids = params[:ids].split('+')
     book_ids = Chapter.select(:book_id).where(:id => @lesson_ids, :status => 3).group("chapters.book_id, chapters.id").collect(&:book_id)
