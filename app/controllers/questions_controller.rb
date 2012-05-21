@@ -113,6 +113,23 @@ class QuestionsController < ApplicationController
     render :json => @question.id
   end
 
+  def get_feedback
+    render :json => Question.find(params[:id]).feedback
+  end
+
+  def set_feedback
+    puts params.to_json
+    question = Question.find(params[:question_id])
+    if question.feedback.nil?
+      feedback = Feedback.new
+      puts params[:feedback].to_json
+    else
+
+    end
+    render :nothing => true  
+  end
+
+
   def examview_uploader
     render "upload"
   end

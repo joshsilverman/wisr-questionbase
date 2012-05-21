@@ -8,6 +8,7 @@ class Builder
 		window.media = new MediaController
 		google.setOnLoadCallback(window.media.initializeImageSearch)	
 		$(".activity_content").hide()
+		$(".feedback_body").hide()
 		@published = $.trim($(".status").text()) == "Published"
 		window.preview_path = $("#preview_path").attr "value"
 		console.log window.preview_path
@@ -84,12 +85,19 @@ class Question
 	question_media: null
 	answer_media: []
 	keywords: []
+	feedback: null
 	constructor: (dom_group) ->
 		@answers = []
 		@keywords = []
 		if dom_group # Initializing existing question
 			@dom_group = $(dom_group)
-			@question_id = $(@dom_group[0]).find($("textarea"))[0].getAttribute "question_id"
+			@question_id = @dom_group.find(".header").attr "question_id"
+			@dom_group.find(".feedback_link").on "click", =>
+				if @feedback == null
+					@feedback = new Feedback @
+				else
+					console.log "feedback found!"
+				@dom_group.find(".feedback_body").toggle 400
 			for answer_element in @dom_group.find(".answer_group").find(".answer")
 				@answers.push new Answer(this, answer_element)
 			for question_resource in $(@dom_group).find(".question_media_box")
@@ -355,6 +363,45 @@ class Keyword
 				@id = e
 	delete: () => 
 		console.log "delete"
+
+
+class Feedback
+	question: null
+	long: null
+	hard: null
+	easy: null
+	correct: null
+	missing: null
+	accurate: null
+	timing: null
+	relevant: null
+	constructor: (question) -> 
+		@question = question
+		$.ajax
+			url: "/questions/get_feedback/#{@question.question_id}"
+			type: "POST"
+			success: (e) => console.log e
+		$(question.dom_group.find(".feedback_comment input")[0]).on "click", (e) => 
+			e.preventDefault()
+			@update()
+	update: =>
+		params = {}
+		params["question_id"] = @question.question_id
+		params["feedback"] = {}
+		if @question.dom_group.find(".long").attr("checked") == "checked" then params["feedback"]["long"] = true else params["feedback"]["long"] = false
+		if @question.dom_group.find(".hard").attr("checked") == "checked" then params["feedback"]["hard"] = true else params["feedback"]["hard"] = false
+		if @question.dom_group.find(".easy").attr("checked") == "checked" then params["feedback"]["easy"] = true else params["feedback"]["easy"] = false
+		if @question.dom_group.find(".correct").attr("checked") == "checked" then params["feedback"]["correct"] = true else params["feedback"]["correct"] = false
+		if @question.dom_group.find(".missing").attr("checked") == "checked" then params["feedback"]["missing"] = true else params["feedback"]["missing"] = false
+		if @question.dom_group.find(".accurate").attr("checked") == "checked" then params["feedback"]["accurate"] = true else params["feedback"]["accurate"] = false
+		if @question.dom_group.find(".timing").attr("checked") == "checked" then params["feedback"]["timing"] = true else params["feedback"]["timing"] = false
+		if @question.dom_group.find(".relevant").attr("checked") == "checked" then params["feedback"]["relevant"] = true else params["feedback"]["relevant"] = false
+		$.ajax
+			url: "/questions/set_feedback"
+			type: "POST"
+			data: params
+			success: (e) => 
+				console.log e
 
 
 class MediaController

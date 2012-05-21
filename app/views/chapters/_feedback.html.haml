@@ -1,0 +1,36 @@
+.feedback_body
+	.feedback_select
+		.question_feedback
+			Question
+			.feedback_item
+				= check_box nil, nil, :class => "long"
+				= label nil, "Too long"
+			.feedback_item
+				= check_box nil, nil, :class => "hard"
+				= label nil, "Too hard"
+			.feedback_item
+				= check_box nil, nil, :class => "easy"
+				= label nil, "Too easy"
+			.feedback_item
+				= check_box nil, nil, :class => "check_correct"
+				= label nil, "Correct?"
+		.topics_feedback
+			Tags
+			.feedback_item
+				= check_box nil, nil, :class => "missing"
+				= label nil, "Missing important"
+			.feedback_item
+				= check_box nil, nil, :class => "accurate"
+				= label nil, "Unnecessary"
+		.media_feedback
+			Video
+			.feedback_item
+				= check_box nil, nil, :class => "timing"
+				= label nil, "Video timing"
+			.feedback_item
+				= check_box nil, nil, :class => "relevant"
+				= label nil, "Relevant?"
+
+	.feedback_comment
+		= text_area nil, nil, :class => "comment", :placeholder => "Comment"
+		= button_to "Submit", :id => "submit_feedback"

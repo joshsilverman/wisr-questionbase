@@ -38,6 +38,7 @@
 	- @chapter.questions.each_with_index do |question, i|
 		.activity_group{:id => "activity_group_" + question.id.to_s}
 			= render :partial => "header", :locals => {:question => question, :i => i}
+			= render :partial => "feedback"
 			%br
 			.activity_content{:id => "activity_content_" + question.id.to_s}
 				.activity_left_column

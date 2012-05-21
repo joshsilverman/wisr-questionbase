@@ -4,4 +4,5 @@ class Question < ActiveRecord::Base
   belongs_to :user
   has_many :answers, :dependent => :destroy
   has_many :resources, :dependent => :destroy
+  belongs_to :feedback
 end

@@ -182,6 +182,63 @@ li.token-input-input-token-facebook {
     display: inline;     
 }
 
+.question_feedback_container {
+  width: 3%;
+  height: 100%;
+  float: right;
+  display: inline;
+  text-align: center; 
+}
+
+.feedback_body {
+  background: white;
+  width: 98%;
+  height: 125px;
+  margin: auto;
+  -moz-border-radius: 0px 0px 15px 15px;
+  -webkit-border-radius: 0px 0px 15px 15px;
+  -khtml-border-radius: 0px 0px 15px 15px;
+  border-radius: 0px 0px 15px 15px;    
+  
+  .feedback_select {
+    height: 100%;
+    width: 60%;
+    float: left;
+
+    .feedback_item {
+      display: block;
+    }
+
+    .question_feedback {
+      width: 33%;
+      float: left;
+    }
+
+    .media_feedback {
+      width: 33%;
+      float: right;
+    }
+
+    .topics_feedback {
+      width: 33%;
+      float: right;
+    }
+  }
+
+  .feedback_comment {
+    height: 100%;
+    width: 40%;
+    /*background: #ccc;*/
+    float: right;
+
+    textarea {
+      height: 100px;
+      margin: 10px;
+      font-size:16px;
+    }
+  }
+}
+
 .delete_question_container {
     width: 3%;
     height: 100%;
