@@ -92,11 +92,8 @@ class Question
 			@dom_group = $(dom_group)
 			@question_id = @dom_group.find(".header").attr "question_id"
 			@dom_group.find(".feedback_link").on "click", =>
-				if @feedback == null
-					@feedback = new Feedback @
-				else
-					console.log "feedback found!"
-				@dom_group.find(".feedback_body").toggle 400
+				@feedback = new Feedback @ if @feedback == null
+				if @dom_group.find(".feedback_body").is(':hidden') then @dom_group.find(".feedback_body").fadeIn 400 else @dom_group.find(".feedback_body").fadeOut 400
 			for answer_element in @dom_group.find(".answer_group").find(".answer")
 				@answers.push new Answer(this, answer_element)
 			for question_resource in $(@dom_group).find(".question_media_box")
