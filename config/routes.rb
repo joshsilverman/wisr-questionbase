@@ -62,6 +62,7 @@ OauthClientDemo::Application.routes.draw do
   match "api-V1/:api_key/get_question_count/:chapter_id" => "api_v1#get_question_count"
   match "api-V1/:api_key/get_all_question_ids_from_lesson/:id" => "api_v1#get_all_question_ids_from_lesson"
   match "api-V1/:api_key/get_book_id_by_chapter_id/:id" => "api_v1#get_book_id_by_chapter_id"
+  match "api-V1/:api_key/get_courses_lessons/:ids" => "api_v1#get_courses_lessons"
 
   resources :keywords
   resources :resources

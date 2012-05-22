@@ -37,6 +37,11 @@ class ApiV1Controller < ApplicationController
     respond_to :json
   end
   
+  def get_courses_lessons
+    course_ids = params[:ids].split('+')
+    render :json => Chapter.select(:id).where(:book_id => course_ids, :status => 3).collect(&:id)
+  end
+
   def get_lesson_details
     chapters = []
     params[:ids].split('+').each do |id|
