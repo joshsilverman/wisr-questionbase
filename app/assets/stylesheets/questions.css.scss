@@ -167,7 +167,7 @@ li.token-input-input-token-facebook {
 }
 
 .header_text_container {
-    width: 97%;
+    width: 95%;
     height: 100%;
     display: inline;
     float: left;
@@ -180,14 +180,6 @@ li.token-input-input-token-facebook {
     color: black;
     white-space: nowrap; 
     display: inline;     
-}
-
-.question_feedback_container {
-  width: 3%;
-  height: 100%;
-  float: right;
-  display: inline;
-  text-align: center; 
 }
 
 .feedback_body {
@@ -246,23 +238,47 @@ li.token-input-input-token-facebook {
   }
 }
 
-.delete_question_container {
+.controls {
+  background: gray;
+  width: 60px;
+  height: 100%;
+  float: right;
+  display: inline;
+  text-align: center; 
+
+  .question_feedback_container {
+    width: 3%;
+    height: 100%;
+    float: right;
+    display: inline;
+    text-align: center; 
+    background: green;
+
+    img {
+      height: 21px;
+    }
+  }
+
+  .delete_question_container {
     width: 3%;
     height: 100%;
     float: right;
     display: inline;
     text-align: center;
+    background: red;
+
+    .delete_question {
+        float: right;
+        margin: 2px 5px 0px 0px;
+    }
+
+    .delete_question:hover {
+        color: blue;
+        cursor: default;
+    }        
+  }
 }
 
-.delete_question {
-    float: right;
-    margin: 2px 5px 0px 0px;
-}
-
-.delete_question:hover {
-    color: blue;
-    cursor: default;
-}
 
 
 .menu {
