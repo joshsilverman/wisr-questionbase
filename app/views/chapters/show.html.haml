@@ -25,7 +25,7 @@
 		- elsif @chapter.status == 3
 			.status.published{:chapter_id => @chapter.id}
 				Published 
-			- if @e
+			- if current_user.user_type == "ADMIN" || current_user.user_type == "QC"
 				(
 				= link_to_function "Un-Publish", "window.builder.unpublishChapter()", :class => "edit_link"
 				)				

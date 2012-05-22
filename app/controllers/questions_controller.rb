@@ -140,8 +140,11 @@ class QuestionsController < ApplicationController
   end
 
   def remove_feedback
-    puts params.to_json
-    render :json => Question.find(params[:id]).feedback.delete
+    question = Question.find(params[:id])
+    question.feedback.delete
+    question.feedback_id = nil
+    question.save
+    render :json => question
   end
 
   def examview_uploader

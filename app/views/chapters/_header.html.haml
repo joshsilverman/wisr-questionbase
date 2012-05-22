@@ -8,7 +8,7 @@
 		- if current_user.user_type == "ADMIN" || current_user.user_type == "QC"
 			.question_feedback_container
 				- if question.feedback
-					= image_tag("flag_red.png")
+					= image_tag("flag_red.png", :title => "Note: questions with a red flag will not be visible to students!")
 				- else
-					= image_tag("flag_gray.png")
+					= image_tag("flag_gray.png", :title => "Note: questions with a red flag will not be visible to students!")
 

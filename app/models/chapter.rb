@@ -5,6 +5,6 @@ class Chapter < ActiveRecord::Base
 
     validates_presence_of :number
     def question_count
-      questions.count
+      questions.where(:feedback_id => nil).count
     end
 end
