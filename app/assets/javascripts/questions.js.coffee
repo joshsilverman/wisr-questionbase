@@ -91,9 +91,14 @@ class Question
 		if dom_group # Initializing existing question
 			@dom_group = $(dom_group)
 			@question_id = @dom_group.find(".header").attr "question_id"
-			@dom_group.find(".feedback_link").on "click", =>
+			@dom_group.find(".question_feedback_container img").on "click", (e) =>
 				@feedback = new Feedback @ if @feedback == null
-				if @dom_group.find(".feedback_body").is(':hidden') then @dom_group.find(".feedback_body").fadeIn 400 else @dom_group.find(".feedback_body").fadeOut 400
+				if @dom_group.find(".feedback_body").is(':hidden')
+					@dom_group.find(".feedback_body").fadeIn 400 
+					$(@activity_content).toggle(400, => $.scrollTo e.srcElement) if $(@activity_content).is(":hidden")
+				else 
+					@dom_group.find(".feedback_body").fadeOut 400
+					# $(@activity_content).toggle 400
 			for answer_element in @dom_group.find(".answer_group").find(".answer")
 				@answers.push new Answer(this, answer_element)
 			for question_resource in $(@dom_group).find(".question_media_box")
@@ -143,8 +148,8 @@ class Question
 				@dom_group.find(".question_area").focus()
 		@activity_content = $(@dom_group).find(".activity_content")[0]
 		$(@dom_group).find(".header_text_container").on "click", (e) =>  
-			$(@activity_content).toggle 400, => 
-				$.scrollTo e.srcElement unless $(@activity_content).is(":hidden")
+			@dom_group.find(".feedback_body").fadeOut(400) unless $(@activity_content).is(":hidden")
+			$(@activity_content).toggle 400, => $.scrollTo e.srcElement unless $(@activity_content).is(":hidden")
 		$(@dom_group).find(".delete_question_container").on "click", (e) => 
 			if @question_id
 				data = 
@@ -377,9 +382,12 @@ class Feedback
 			url: "/questions/get_feedback/#{@question.question_id}"
 			type: "POST"
 			success: (e) => @populateFeedback(e)
-		$(question.dom_group.find(".feedback_comment input")[0]).on "click", (e) => 
+		$(question.dom_group.find(".submit_feedback")).on "click", (e) => 
 			e.preventDefault()
-			@update()
+			@update(@question.dom_group.find(".question_feedback_container img").attr "src", "/assets/flag_red.png")
+		$(question.dom_group.find(".clear_feedback")).on "click", (e) => 
+			e.preventDefault()
+			@clear()
 	populateFeedback: (feedback) =>
 		return if feedback == null
 		@question.dom_group.find(".long").attr("checked", "checked") if feedback.long == true
@@ -390,7 +398,8 @@ class Feedback
 		@question.dom_group.find(".accurate").attr("checked", "checked") if feedback.topic_appropriate == true
 		@question.dom_group.find(".timing").attr("checked", "checked") if feedback.media_timing == true
 		@question.dom_group.find(".relevant").attr("checked", "checked") if feedback.media_relevant == true
-	update: =>
+		@question.dom_group.find(".comment").val(feedback.comment)
+	update: (callback) =>
 		params = {}
 		params["question_id"] = @question.question_id
 		params["feedback"] = {}
@@ -402,12 +411,28 @@ class Feedback
 		if @question.dom_group.find(".accurate").attr("checked") == "checked" then params["feedback"]["accurate"] = true else params["feedback"]["accurate"] = false
 		if @question.dom_group.find(".timing").attr("checked") == "checked" then params["feedback"]["timing"] = true else params["feedback"]["timing"] = false
 		if @question.dom_group.find(".relevant").attr("checked") == "checked" then params["feedback"]["relevant"] = true else params["feedback"]["relevant"] = false
+		params["feedback"]["comment"] = @question.dom_group.find(".comment").val()
 		$.ajax
 			url: "/questions/set_feedback"
 			type: "POST"
 			data: params
-			success: (e) => 
-				console.log e
+			success: (e) => callback
+	clear: =>
+		@question.dom_group.find(".long").removeAttr("checked")
+		@question.dom_group.find(".hard").removeAttr("checked")
+		@question.dom_group.find(".easy").removeAttr("checked")
+		@question.dom_group.find(".correct").removeAttr("checked")
+		@question.dom_group.find(".missing").removeAttr("checked")
+		@question.dom_group.find(".accurate").removeAttr("checked")
+		@question.dom_group.find(".timing").removeAttr("checked")
+		@question.dom_group.find(".relevant").removeAttr("checked")
+		@question.dom_group.find(".comment").val("")
+		params = {"id": @question.question_id}
+		$.ajax
+			url: "/questions/remove_feedback"
+			type: "POST"
+			data: params
+			success: (e) => @question.dom_group.find(".question_feedback_container img").attr "src", "/assets/flag_gray.png"		
 
 
 class MediaController

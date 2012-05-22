@@ -167,7 +167,7 @@ li.token-input-input-token-facebook {
 }
 
 .header_text_container {
-    width: 95%;
+    width: 94%;
     height: 100%;
     display: inline;
     float: left;
@@ -194,8 +194,13 @@ li.token-input-input-token-facebook {
   
   .feedback_select {
     height: 100%;
-    width: 60%;
+    width: 55%;
     float: left;
+    padding: 5px 0px 0px 20px;
+
+    h3 {
+      line-height: 2px;
+    }
 
     .feedback_item {
       display: block;
@@ -224,35 +229,32 @@ li.token-input-input-token-facebook {
 
     textarea {
       height: 75px;
-      margin: 10px;
+      margin-top: 16px;
       width: 90%;
       font-size:16px;
+      background-color: #F7F7F7;
     }
 
     input {
       position: relative;
-      bottom: 8px;
+      bottom: 1px;
       float: right;
-      right: 7%;
+      right: 9%;
     }
   }
 }
 
 .controls {
-  background: gray;
   width: 60px;
-  height: 100%;
-  float: right;
-  display: inline;
-  text-align: center; 
+  height: 25px;
+  position: absolute;
+  right: 28px;
 
   .question_feedback_container {
-    width: 3%;
     height: 100%;
     float: right;
     display: inline;
     text-align: center; 
-    background: green;
 
     img {
       height: 21px;
@@ -260,16 +262,14 @@ li.token-input-input-token-facebook {
   }
 
   .delete_question_container {
-    width: 3%;
     height: 100%;
     float: right;
     display: inline;
     text-align: center;
-    background: red;
 
     .delete_question {
         float: right;
-        margin: 2px 5px 0px 0px;
+        margin: 2px 5px 0px 10px;
     }
 
     .delete_question:hover {

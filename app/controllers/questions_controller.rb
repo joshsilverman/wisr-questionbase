@@ -120,33 +120,29 @@ class QuestionsController < ApplicationController
   def set_feedback
     question = Question.find(params[:question_id])
     if question.feedback.nil?
-      feedback = Feedback.create!({
-        :long => params[:feedback][:long],
-        :hard => params[:feedback][:hard],
-        :easy => params[:feedback][:easy],
-        :correct => params[:feedback][:correct],
-        :topic_missing => params[:feedback][:missing],
-        :topic_appropriate => params[:feedback][:accurate],
-        :media_timing => params[:feedback][:timing],
-        :media_relevant => params[:feedback][:relevant]
-      })
+      feedback = Feedback.create!()
       question.update_attribute(:feedback_id, feedback.id)
     else
       feedback = question.feedback
-      feedback.update_attributes!({
-        :long => params[:feedback][:long],
-        :hard => params[:feedback][:hard],
-        :easy => params[:feedback][:easy],
-        :correct => params[:feedback][:correct],
-        :topic_missing => params[:feedback][:missing],
-        :topic_appropriate => params[:feedback][:accurate],
-        :media_timing => params[:feedback][:timing],
-        :media_relevant => params[:feedback][:relevant]
-      })
     end
+    feedback.update_attributes!({
+      :long => params[:feedback][:long],
+      :hard => params[:feedback][:hard],
+      :easy => params[:feedback][:easy],
+      :correct => params[:feedback][:correct],
+      :topic_missing => params[:feedback][:missing],
+      :topic_appropriate => params[:feedback][:accurate],
+      :media_timing => params[:feedback][:timing],
+      :media_relevant => params[:feedback][:relevant],
+      :comment => params[:feedback][:comment]
+    })    
     render :nothing => true  
   end
 
+  def remove_feedback
+    puts params.to_json
+    render :json => Question.find(params[:id]).feedback.delete
+  end
 
   def examview_uploader
     render "upload"

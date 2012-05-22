@@ -1,36 +1,37 @@
 .feedback_body
 	.feedback_select
 		.question_feedback
-			Question
+			%h3 Question
 			.feedback_item
-				= check_box nil, nil, :class => "long"
-				= label nil, "Too long"
+				= check_box "question_#{question.id}_feedback", "long", :class => "long"
+				= label nil, "Too long", :for => "question_#{question.id}_feedback_long"
 			.feedback_item
-				= check_box nil, nil, :class => "hard"
-				= label nil, "Too hard"
+				= check_box "question_#{question.id}_feedback", "hard", :class => "hard"
+				= label nil, "Too hard", :for => "question_#{question.id}_feedback_hard"
 			.feedback_item
-				= check_box nil, nil, :class => "easy"
-				= label nil, "Too easy"
+				= check_box "question_#{question.id}_feedback", "easy", :class => "easy"
+				= label nil, "Too easy", :for => "question_#{question.id}_feedback_easy"
 			.feedback_item
-				= check_box nil, nil, :class => "check_correct"
-				= label nil, "Correct?"
+				= check_box "question_#{question.id}_feedback", "check_correct", :class => "check_correct"
+				= label nil, "Correct?", :for => "question_#{question.id}_feedback_check_correct"
 		.topics_feedback
-			Tags
+			%h3 Tags
 			.feedback_item
-				= check_box nil, nil, :class => "missing"
-				= label nil, "Missing important"
+				= check_box "question_#{question.id}_feedback", "missing", :class => "missing"
+				= label nil, "Missing important", :for => "question_#{question.id}_feedback_missing"
 			.feedback_item
-				= check_box nil, nil, :class => "accurate"
-				= label nil, "Unnecessary"
+				= check_box "question_#{question.id}_feedback", "accurate", :class => "accurate"
+				= label nil, "Unnecessary", :for => "question_#{question.id}_feedback_accurate"
 		.media_feedback
-			Video
+			%h3 Video
 			.feedback_item
-				= check_box nil, nil, :class => "timing"
-				= label nil, "Video timing"
+				= check_box "question_#{question.id}_feedback", "timing", :class => "timing"
+				= label nil, "Video timing", :for => "question_#{question.id}_feedback_timing"
 			.feedback_item
-				= check_box nil, nil, :class => "relevant"
-				= label nil, "Relevant?"
+				= check_box "question_#{question.id}_feedback", "relevant", :class => "relevant"
+				= label nil, "Relevant?", :for => "question_#{question.id}_feedback_relevant"
 
 	.feedback_comment
 		= text_area nil, nil, :class => "comment", :placeholder => "Comment"
-		= button_to "Submit", :id => "submit_feedback"
+		= button_to "Save", nil, :class => "submit_feedback"
+		= button_to "Remove Feedback", nil, :class => "clear_feedback"
