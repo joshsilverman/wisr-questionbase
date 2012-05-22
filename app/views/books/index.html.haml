@@ -1,8 +1,8 @@
-- if current_user.user_type == "ADMIN" or current_user.user_type == "QC"
-  - @back = link_to('Publish Chapters', "/chapters/publish")
-  = render :partial => "shared/header", :locals => { :back => @back } 
-- else
-  = render :partial => "shared/header"
+/ - if current_user.user_type == "ADMIN" or current_user.user_type == "QC"
+/   - @back = link_to('Publish Chapters', "/chapters/publish")
+/   = render :partial => "shared/header", :locals => { :back => @back } 
+/ - else
+= render :partial => "shared/header"
   
 .content_container
   .left_column
