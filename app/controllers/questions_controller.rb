@@ -113,6 +113,40 @@ class QuestionsController < ApplicationController
     render :json => @question.id
   end
 
+  def get_feedback
+    render :json => Question.find(params[:id]).feedback
+  end
+
+  def set_feedback
+    question = Question.find(params[:question_id])
+    if question.feedback.nil?
+      feedback = Feedback.create!()
+      question.update_attribute(:feedback_id, feedback.id)
+    else
+      feedback = question.feedback
+    end
+    feedback.update_attributes!({
+      :long => params[:feedback][:long],
+      :hard => params[:feedback][:hard],
+      :easy => params[:feedback][:easy],
+      :correct => params[:feedback][:correct],
+      :topic_missing => params[:feedback][:missing],
+      :topic_appropriate => params[:feedback][:accurate],
+      :media_timing => params[:feedback][:timing],
+      :media_relevant => params[:feedback][:relevant],
+      :comment => params[:feedback][:comment]
+    })    
+    render :nothing => true  
+  end
+
+  def remove_feedback
+    question = Question.find(params[:id])
+    question.feedback.delete
+    question.feedback_id = nil
+    question.save
+    render :json => question
+  end
+
   def examview_uploader
     render "upload"
   end

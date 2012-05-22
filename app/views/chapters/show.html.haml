@@ -25,7 +25,7 @@
 		- elsif @chapter.status == 3
 			.status.published{:chapter_id => @chapter.id}
 				Published 
-			- if @e
+			- if current_user.user_type == "ADMIN" || current_user.user_type == "QC"
 				(
 				= link_to_function "Un-Publish", "window.builder.unpublishChapter()", :class => "edit_link"
 				)				
@@ -38,6 +38,7 @@
 	- @chapter.questions.each_with_index do |question, i|
 		.activity_group{:id => "activity_group_" + question.id.to_s}
 			= render :partial => "header", :locals => {:question => question, :i => i}
+			= render :partial => "feedback", :locals => {:question => question} if current_user.user_type == "ADMIN" || current_user.user_type == "QC"
 			%br
 			.activity_content{:id => "activity_content_" + question.id.to_s}
 				.activity_left_column

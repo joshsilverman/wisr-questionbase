@@ -8,9 +8,9 @@ class Builder
 		window.media = new MediaController
 		google.setOnLoadCallback(window.media.initializeImageSearch)	
 		$(".activity_content").hide()
+		$(".feedback_body").hide()
 		@published = $.trim($(".status").text()) == "Published"
 		window.preview_path = $("#preview_path").attr "value"
-		console.log window.preview_path
 		$("#tabs").tabs()
 		$(".menu").on "click", () => @newQuestion()
 		for activity in $("#activities").find(".activity_group")
@@ -84,12 +84,21 @@ class Question
 	question_media: null
 	answer_media: []
 	keywords: []
+	feedback: null
 	constructor: (dom_group) ->
 		@answers = []
 		@keywords = []
 		if dom_group # Initializing existing question
 			@dom_group = $(dom_group)
-			@question_id = $(@dom_group[0]).find($("textarea"))[0].getAttribute "question_id"
+			@question_id = @dom_group.find(".header").attr "question_id"
+			@dom_group.find(".question_feedback_container img").on "click", (e) =>
+				@feedback = new Feedback @ if @feedback == null
+				if @dom_group.find(".feedback_body").is(':hidden')
+					@dom_group.find(".feedback_body").fadeIn 400 
+					$(@activity_content).toggle(400, => $.scrollTo e.srcElement) if $(@activity_content).is(":hidden")
+				else 
+					@dom_group.find(".feedback_body").fadeOut 400
+					# $(@activity_content).toggle 400
 			for answer_element in @dom_group.find(".answer_group").find(".answer")
 				@answers.push new Answer(this, answer_element)
 			for question_resource in $(@dom_group).find(".question_media_box")
@@ -139,8 +148,8 @@ class Question
 				@dom_group.find(".question_area").focus()
 		@activity_content = $(@dom_group).find(".activity_content")[0]
 		$(@dom_group).find(".header_text_container").on "click", (e) =>  
-			$(@activity_content).toggle 400, => 
-				$.scrollTo e.srcElement unless $(@activity_content).is(":hidden")
+			@dom_group.find(".feedback_body").fadeOut(400) unless $(@activity_content).is(":hidden")
+			$(@activity_content).toggle 400, => $.scrollTo e.srcElement unless $(@activity_content).is(":hidden")
 		$(@dom_group).find(".delete_question_container").on "click", (e) => 
 			if @question_id
 				data = 
@@ -355,6 +364,75 @@ class Keyword
 				@id = e
 	delete: () => 
 		console.log "delete"
+
+
+class Feedback
+	question: null
+	long: null
+	hard: null
+	easy: null
+	correct: null
+	missing: null
+	accurate: null
+	timing: null
+	relevant: null
+	constructor: (question) -> 
+		@question = question
+		$.ajax
+			url: "/questions/get_feedback/#{@question.question_id}"
+			type: "POST"
+			success: (e) => @populateFeedback(e)
+		$(question.dom_group.find(".submit_feedback")).on "click", (e) => 
+			e.preventDefault()
+			@update(@question.dom_group.find(".question_feedback_container img").attr "src", "/assets/flag_red.png")
+		$(question.dom_group.find(".clear_feedback")).on "click", (e) => 
+			e.preventDefault()
+			@clear()
+	populateFeedback: (feedback) =>
+		return if feedback == null
+		@question.dom_group.find(".long").attr("checked", "checked") if feedback.long == true
+		@question.dom_group.find(".hard").attr("checked", "checked") if feedback.hard == true
+		@question.dom_group.find(".easy").attr("checked", "checked") if feedback.easy == true
+		@question.dom_group.find(".correct").attr("checked", "checked") if feedback.correct == true
+		@question.dom_group.find(".missing").attr("checked", "checked") if feedback.topic_missing == true
+		@question.dom_group.find(".accurate").attr("checked", "checked") if feedback.topic_appropriate == true
+		@question.dom_group.find(".timing").attr("checked", "checked") if feedback.media_timing == true
+		@question.dom_group.find(".relevant").attr("checked", "checked") if feedback.media_relevant == true
+		@question.dom_group.find(".comment").val(feedback.comment)
+	update: (callback) =>
+		params = {}
+		params["question_id"] = @question.question_id
+		params["feedback"] = {}
+		if @question.dom_group.find(".long").attr("checked") == "checked" then params["feedback"]["long"] = true else params["feedback"]["long"] = false
+		if @question.dom_group.find(".hard").attr("checked") == "checked" then params["feedback"]["hard"] = true else params["feedback"]["hard"] = false
+		if @question.dom_group.find(".easy").attr("checked") == "checked" then params["feedback"]["easy"] = true else params["feedback"]["easy"] = false
+		if @question.dom_group.find(".correct").attr("checked") == "checked" then params["feedback"]["correct"] = true else params["feedback"]["correct"] = false
+		if @question.dom_group.find(".missing").attr("checked") == "checked" then params["feedback"]["missing"] = true else params["feedback"]["missing"] = false
+		if @question.dom_group.find(".accurate").attr("checked") == "checked" then params["feedback"]["accurate"] = true else params["feedback"]["accurate"] = false
+		if @question.dom_group.find(".timing").attr("checked") == "checked" then params["feedback"]["timing"] = true else params["feedback"]["timing"] = false
+		if @question.dom_group.find(".relevant").attr("checked") == "checked" then params["feedback"]["relevant"] = true else params["feedback"]["relevant"] = false
+		params["feedback"]["comment"] = @question.dom_group.find(".comment").val()
+		$.ajax
+			url: "/questions/set_feedback"
+			type: "POST"
+			data: params
+			success: (e) => callback
+	clear: =>
+		@question.dom_group.find(".long").removeAttr("checked")
+		@question.dom_group.find(".hard").removeAttr("checked")
+		@question.dom_group.find(".easy").removeAttr("checked")
+		@question.dom_group.find(".correct").removeAttr("checked")
+		@question.dom_group.find(".missing").removeAttr("checked")
+		@question.dom_group.find(".accurate").removeAttr("checked")
+		@question.dom_group.find(".timing").removeAttr("checked")
+		@question.dom_group.find(".relevant").removeAttr("checked")
+		@question.dom_group.find(".comment").val("")
+		params = {"id": @question.question_id}
+		$.ajax
+			url: "/questions/remove_feedback"
+			type: "POST"
+			data: params
+			success: (e) => @question.dom_group.find(".question_feedback_container img").attr "src", "/assets/flag_gray.png"		
 
 
 class MediaController

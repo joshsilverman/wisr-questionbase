@@ -1,4 +1,6 @@
 OauthClientDemo::Application.routes.draw do
+  resources :feedbacks
+
   resources :authorships
 
   ActiveAdmin.routes(self)
@@ -26,6 +28,9 @@ OauthClientDemo::Application.routes.draw do
   match "compare_question" => "questions#compare_question"
   match "questions/update_question_scores/:winner_id/:loser_id/:tie" => "questions#update_question_scores"
   match "questions/get_permission" => "questions#get_permission"
+  match "questions/get_feedback/:id" => "questions#get_feedback"
+  match "questions/set_feedback" => "questions#set_feedback"
+  match "questions/remove_feedback" => "questions#remove_feedback"
 
   #RESOURCES
   match "parse_article" => "resources#parse_article"

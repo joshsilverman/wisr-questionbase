@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120427193127) do
+ActiveRecord::Schema.define(:version => 20120521182527) do
 
   create_table "active_admin_comments", :force => true do |t|
     t.string    "resource_id",   :null => false
@@ -56,10 +56,10 @@ ActiveRecord::Schema.define(:version => 20120427193127) do
   end
 
   create_table "authorships", :force => true do |t|
-    t.string   "user_id"
-    t.integer  "book_id"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.integer   "user_id"
+    t.integer   "book_id"
+    t.timestamp "created_at"
+    t.timestamp "updated_at"
   end
 
   create_table "books", :force => true do |t|
@@ -81,6 +81,20 @@ ActiveRecord::Schema.define(:version => 20120427193127) do
     t.integer   "status",     :default => 0
     t.text      "media_url"
     t.integer   "author_id"
+  end
+
+  create_table "feedbacks", :force => true do |t|
+    t.boolean  "long",              :default => false
+    t.boolean  "hard",              :default => false
+    t.boolean  "easy",              :default => false
+    t.boolean  "correct",           :default => false
+    t.boolean  "media_timing",      :default => false
+    t.boolean  "media_relevant",    :default => false
+    t.boolean  "topic_missing",     :default => false
+    t.boolean  "topic_appropriate", :default => false
+    t.text     "comment"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "invoices", :force => true do |t|
@@ -105,20 +119,21 @@ ActiveRecord::Schema.define(:version => 20120427193127) do
   end
 
   create_table "questions", :force => true do |t|
-    t.text      "question"
-    t.string    "topic"
-    t.integer   "user_id"
-    t.integer   "chapter_id"
-    t.integer   "score"
-    t.timestamp "created_at"
-    t.timestamp "updated_at"
-    t.text      "rationale"
-    t.string    "difficulty"
-    t.string    "reference"
-    t.text      "objective"
-    t.string    "state_objective"
-    t.string    "state"
-    t.string    "question_type"
+    t.text     "question"
+    t.string   "topic"
+    t.integer  "user_id"
+    t.integer  "chapter_id"
+    t.integer  "score"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.text     "rationale"
+    t.string   "difficulty"
+    t.string   "reference"
+    t.text     "objective"
+    t.string   "state_objective"
+    t.string   "state"
+    t.string   "question_type"
+    t.integer  "feedback_id"
   end
 
   create_table "resources", :force => true do |t|

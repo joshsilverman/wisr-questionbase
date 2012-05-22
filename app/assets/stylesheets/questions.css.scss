@@ -167,7 +167,7 @@ li.token-input-input-token-facebook {
 }
 
 .header_text_container {
-    width: 97%;
+    width: 94%;
     height: 100%;
     display: inline;
     float: left;
@@ -182,24 +182,103 @@ li.token-input-input-token-facebook {
     display: inline;     
 }
 
-.delete_question_container {
-    width: 3%;
+.feedback_body {
+  background: white;
+  width: 98%;
+  height: 130px;
+  margin: auto;
+  -moz-border-radius: 0px 0px 15px 15px;
+  -webkit-border-radius: 0px 0px 15px 15px;
+  -khtml-border-radius: 0px 0px 15px 15px;
+  border-radius: 0px 0px 15px 15px;    
+  
+  .feedback_select {
+    height: 100%;
+    width: 55%;
+    float: left;
+    padding: 5px 0px 0px 20px;
+
+    h3 {
+      line-height: 2px;
+    }
+
+    .feedback_item {
+      display: block;
+    }
+
+    .question_feedback {
+      width: 33%;
+      float: left;
+    }
+
+    .media_feedback {
+      width: 33%;
+      float: right;
+    }
+
+    .topics_feedback {
+      width: 33%;
+      float: right;
+    }
+  }
+
+  .feedback_comment {
+    height: 100%;
+    width: 40%;
+    float: right;
+
+    textarea {
+      height: 75px;
+      margin-top: 16px;
+      width: 90%;
+      font-size:16px;
+      background-color: #F7F7F7;
+    }
+
+    input {
+      position: relative;
+      bottom: 1px;
+      float: right;
+      right: 9%;
+    }
+  }
+}
+
+.controls {
+  width: 60px;
+  height: 25px;
+  position: absolute;
+  right: 28px;
+
+  .question_feedback_container {
     height: 100%;
     float: right;
     display: inline;
-    /*text-decoration: underline;*/
-    text-align: center;
-}
+    text-align: center; 
 
-.delete_question {
+    img {
+      height: 21px;
+    }
+  }
+
+  .delete_question_container {
+    height: 100%;
     float: right;
-    margin: 2px 5px 0px 0px;
+    display: inline;
+    text-align: center;
+
+    .delete_question {
+        float: right;
+        margin: 2px 5px 0px 10px;
+    }
+
+    .delete_question:hover {
+        color: blue;
+        cursor: default;
+    }        
+  }
 }
 
-.delete_question:hover {
-    color: blue;
-    cursor: default;
-}
 
 
 .menu {
