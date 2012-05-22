@@ -134,7 +134,8 @@ class QuestionsController < ApplicationController
       :topic_appropriate => params[:feedback][:accurate],
       :media_timing => params[:feedback][:timing],
       :media_relevant => params[:feedback][:relevant],
-      :comment => params[:feedback][:comment]
+      :comment => params[:feedback][:comment],
+      :user_id => current_user.id
     })    
     render :nothing => true  
   end
