@@ -228,13 +228,20 @@ li.token-input-input-token-facebook {
   .feedback_comment {
     height: 100%;
     width: 40%;
-    /*background: #ccc;*/
     float: right;
 
     textarea {
-      height: 100px;
+      height: 75px;
       margin: 10px;
+      width: 90%;
       font-size:16px;
+    }
+
+    input {
+      position: relative;
+      bottom: 8px;
+      float: right;
+      right: 7%;
     }
   }
 }
@@ -244,7 +251,6 @@ li.token-input-input-token-facebook {
     height: 100%;
     float: right;
     display: inline;
-    /*text-decoration: underline;*/
     text-align: center;
 }
 

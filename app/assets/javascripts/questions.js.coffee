@@ -11,7 +11,6 @@ class Builder
 		$(".feedback_body").hide()
 		@published = $.trim($(".status").text()) == "Published"
 		window.preview_path = $("#preview_path").attr "value"
-		console.log window.preview_path
 		$("#tabs").tabs()
 		$(".menu").on "click", () => @newQuestion()
 		for activity in $("#activities").find(".activity_group")
@@ -380,10 +379,20 @@ class Feedback
 		$.ajax
 			url: "/questions/get_feedback/#{@question.question_id}"
 			type: "POST"
-			success: (e) => console.log e
+			success: (e) => @populateFeedback(e)
 		$(question.dom_group.find(".feedback_comment input")[0]).on "click", (e) => 
 			e.preventDefault()
 			@update()
+	populateFeedback: (feedback) =>
+		return if feedback == null
+		@question.dom_group.find(".long").attr("checked", "checked") if feedback.long == true
+		@question.dom_group.find(".hard").attr("checked", "checked") if feedback.hard == true
+		@question.dom_group.find(".easy").attr("checked", "checked") if feedback.easy == true
+		@question.dom_group.find(".correct").attr("checked", "checked") if feedback.correct == true
+		@question.dom_group.find(".missing").attr("checked", "checked") if feedback.topic_missing == true
+		@question.dom_group.find(".accurate").attr("checked", "checked") if feedback.topic_appropriate == true
+		@question.dom_group.find(".timing").attr("checked", "checked") if feedback.media_timing == true
+		@question.dom_group.find(".relevant").attr("checked", "checked") if feedback.media_relevant == true
 	update: =>
 		params = {}
 		params["question_id"] = @question.question_id
