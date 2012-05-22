@@ -14,14 +14,14 @@
 			.feedback_item
 				= check_box "question_#{question.id}_feedback", "check_correct", :class => "check_correct"
 				= label nil, "Incorrect", :for => "question_#{question.id}_feedback_check_correct"
-		.topics_feedback
-			%h3 Tags:
-			.feedback_item
-				= check_box "question_#{question.id}_feedback", "missing", :class => "missing"
-				= label nil, "Missing important", :for => "question_#{question.id}_feedback_missing"
-			.feedback_item
-				= check_box "question_#{question.id}_feedback", "accurate", :class => "accurate"
-				= label nil, "Innapropriate", :for => "question_#{question.id}_feedback_accurate"
+		/ .topics_feedback
+		/ 	%h3 Tags:
+		/ 	.feedback_item
+		/ 		= check_box "question_#{question.id}_feedback", "missing", :class => "missing"
+		/ 		= label nil, "Missing important", :for => "question_#{question.id}_feedback_missing"
+		/ 	.feedback_item
+		/ 		= check_box "question_#{question.id}_feedback", "accurate", :class => "accurate"
+		/ 		= label nil, "Innapropriate", :for => "question_#{question.id}_feedback_accurate"
 		.media_feedback
 			%h3 Video:
 			.feedback_item
