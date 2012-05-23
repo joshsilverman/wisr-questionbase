@@ -393,11 +393,11 @@ class Feedback
 		@question.dom_group.find(".long").attr("checked", "checked") if feedback.long == true
 		@question.dom_group.find(".hard").attr("checked", "checked") if feedback.hard == true
 		@question.dom_group.find(".easy").attr("checked", "checked") if feedback.easy == true
-		@question.dom_group.find(".correct").attr("checked", "checked") if feedback.correct == true
+		@question.dom_group.find(".check_correct").attr("checked", "checked") if feedback.correct == true
 		# @question.dom_group.find(".missing").attr("checked", "checked") if feedback.topic_missing == true
-		@question.dom_group.find(".accurate").attr("checked", "checked") if feedback.topic_appropriate == true
+		# @question.dom_group.find(".accurate").attr("checked", "checked") if feedback.topic_appropriate == true
 		@question.dom_group.find(".timing").attr("checked", "checked") if feedback.media_timing == true
-		# @question.dom_group.find(".relevant").attr("checked", "checked") if feedback.media_relevant == true
+		@question.dom_group.find(".relevant").attr("checked", "checked") if feedback.media_relevant == true
 		@question.dom_group.find(".comment").val(feedback.comment)
 	update: (callback) =>
 		params = {}
@@ -406,11 +406,11 @@ class Feedback
 		if @question.dom_group.find(".long").attr("checked") == "checked" then params["feedback"]["long"] = true else params["feedback"]["long"] = false
 		if @question.dom_group.find(".hard").attr("checked") == "checked" then params["feedback"]["hard"] = true else params["feedback"]["hard"] = false
 		if @question.dom_group.find(".easy").attr("checked") == "checked" then params["feedback"]["easy"] = true else params["feedback"]["easy"] = false
-		if @question.dom_group.find(".correct").attr("checked") == "checked" then params["feedback"]["correct"] = true else params["feedback"]["correct"] = false
+		if @question.dom_group.find(".check_correct").attr("checked") == "checked" then params["feedback"]["correct"] = true else params["feedback"]["correct"] = false
 		# if @question.dom_group.find(".missing").attr("checked") == "checked" then params["feedback"]["missing"] = true else params["feedback"]["missing"] = false
-		if @question.dom_group.find(".accurate").attr("checked") == "checked" then params["feedback"]["accurate"] = true else params["feedback"]["accurate"] = false
+		# if @question.dom_group.find(".accurate").attr("checked") == "checked" then params["feedback"]["accurate"] = true else params["feedback"]["accurate"] = false
 		if @question.dom_group.find(".timing").attr("checked") == "checked" then params["feedback"]["timing"] = true else params["feedback"]["timing"] = false
-		# if @question.dom_group.find(".relevant").attr("checked") == "checked" then params["feedback"]["relevant"] = true else params["feedback"]["relevant"] = false
+		if @question.dom_group.find(".relevant").attr("checked") == "checked" then params["feedback"]["relevant"] = true else params["feedback"]["relevant"] = false
 		params["feedback"]["comment"] = @question.dom_group.find(".comment").val()
 		$.ajax
 			url: "/questions/set_feedback"
@@ -421,9 +421,9 @@ class Feedback
 		@question.dom_group.find(".long").removeAttr("checked")
 		@question.dom_group.find(".hard").removeAttr("checked")
 		@question.dom_group.find(".easy").removeAttr("checked")
-		@question.dom_group.find(".correct").removeAttr("checked")
-		@question.dom_group.find(".missing").removeAttr("checked")
-		@question.dom_group.find(".accurate").removeAttr("checked")
+		@question.dom_group.find(".check_correct").removeAttr("checked")
+		# @question.dom_group.find(".missing").removeAttr("checked")
+		# @question.dom_group.find(".accurate").removeAttr("checked")
 		@question.dom_group.find(".timing").removeAttr("checked")
 		@question.dom_group.find(".relevant").removeAttr("checked")
 		@question.dom_group.find(".comment").val("")
