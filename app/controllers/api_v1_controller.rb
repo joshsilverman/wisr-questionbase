@@ -52,23 +52,25 @@ class ApiV1Controller < ApplicationController
   end
 
   def get_all_questions
-    @questions = Chapter.find(params[:id]).questions.where(:feedback_id => nil).includes(:answers, :resources).sort!{|a, b| a.created_at <=> b.created_at}
-    respond_to :json
+    chapter = Chapter.find(params[:id])
+    questions = chapter.questions.includes(:answers, :resources).sort!{|a, b| a.created_at <=> b.created_at}
+    lesson = {:name => chapter.name, :book_name => Book.find(chapter.book_id).name, :questions => questions}
+    render :json => lesson
   end
 
   def get_all_question_ids_from_lesson
-    @question_ids = Question.where(:feedback_id => nil).select('id').where(:chapter_id => params[:id]).collect(&:id)
+    @question_ids = Question.select('id').where(:chapter_id => params[:id]).collect(&:id)
     render :json => @question_ids
   end
 
   def get_questions
     @question_ids = params[:ids].split('+')
-    @questions = Question.where(:feedback_id => nil).includes(:answers, :resources).where(:id => @question_ids).sort!{|a, b| @question_ids.index(a["id"].to_s) <=> @question_ids.index(b["id"].to_s)}
+    @questions = Question.includes(:answers, :resources).where(:id => @question_ids).sort!{|a, b| @question_ids.index(a["id"].to_s) <=> @question_ids.index(b["id"].to_s)}
     respond_to :json
   end
   
   def get_question_count
-    render :json => Chapter.find(params[:chapter_id]).questions.where(:feedback_id => nil).count
+    render :json => Chapter.find(params[:chapter_id]).questions.count
   end
 
   def get_questions_topics(keywords = [], topics_questions = [])
@@ -82,7 +84,7 @@ class ApiV1Controller < ApplicationController
       keywords = keywords.uniq if keywords.uniq
       keywords.each do |keyword|
         keywords_questions = []
-        keyword.questions.where(:feedback_id => nil).each {|question| keywords_questions << question.id if question_ids.include? question.id.to_s }
+        keyword.questions.each {|question| keywords_questions << question.id if question_ids.include? question.id.to_s }
         topics_questions << {:keyword => keyword.keyword, :questions => keywords_questions}
       end
       render :json => topics_questions
