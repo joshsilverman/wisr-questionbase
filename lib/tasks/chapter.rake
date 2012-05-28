@@ -28,15 +28,16 @@ task :clear_collapsed_chapters => :environment do
 end
 
 task :guess_media_urls => :environment do
-  book_ids = [13, 14]
+  book_ids = [13, 14, 15, 16, 17, 19]
   Chapter.where(:book_id => book_ids, :media_url => nil).each do |chapter|
-    media_url = nil
-    unless media_url
-      # puts chapter.to_json
-
+    unless chapter.media_url
       chapter.questions.each do |question|
-        resource = question.resources.where(:media_type => "video").first
-        chapter.media_url = resource.url if resource
+        unless chapter.media_url
+          resource = question.resources.where(:media_type => "video").first
+          chapter.media_url = "http://www.youtube.com/watch?v=#{resource.url}" if resource
+          chapter.save
+          puts chapter.to_json          
+        end
       end
     end
   end
