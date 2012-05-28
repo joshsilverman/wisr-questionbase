@@ -1,11 +1,19 @@
-collection @questions
+object @lesson
 
-attributes :id, :question
+attributes :name
 
-child(:answers) do
-  attributes :id, :answer, :correct
+node :book_name do
+    @book_name
 end
 
-child(:resources) do
-  attributes :url, :contains_answer, :media_type, :begin, :end, :article_text
+child(:questions) do
+  	attributes :id, :question, :correct
+	
+	child(:answers) do
+	  attributes :id, :answer, :correct
+	end
+
+	child(:resources) do
+	  attributes :url, :contains_answer, :media_type, :begin, :end
+	end
 end
