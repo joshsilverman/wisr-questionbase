@@ -54,7 +54,7 @@ class ApiV1Controller < ApplicationController
   def get_all_questions
     chapter = Chapter.find(params[:id])
     questions = chapter.questions.includes(:answers, :resources).sort!{|a, b| a.created_at <=> b.created_at}
-    lesson = {:name => chapter.name, :book_name => Book.find(chapter.book_id).name, :questions => questions}
+    lesson = {:name => chapter.name, :book_name => Book.find(chapter.book_id).name, :media_url => chapter.media_url, :questions => questions}
     render :json => lesson
   end
 
