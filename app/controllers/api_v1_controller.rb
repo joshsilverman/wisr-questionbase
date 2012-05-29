@@ -43,12 +43,7 @@ class ApiV1Controller < ApplicationController
   end
 
   def get_lesson_details
-    chapters = []
-    params[:ids].split('+').each do |id|
-      chapter = Chapter.find(id)
-      chapters << {:id => chapter.id, :name => chapter.name}
-    end
-    render :json => chapters
+    render :json => Chapter.where(:id => params[:ids].split('+')).select([:id, :name])
   end
 
   def get_all_questions
