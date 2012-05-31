@@ -53,7 +53,8 @@ class ApiV1Controller < ApplicationController
   end
 
   def get_all_question_ids_from_lesson
-    @question_ids = Question.select('id').where(:chapter_id => params[:id]).collect(&:id)
+    @question_ids = params[:ids].split('+')
+    @question_ids = Question.select('id').where(:chapter_id => @question_ids).collect(&:id)
     render :json => @question_ids
   end
 
