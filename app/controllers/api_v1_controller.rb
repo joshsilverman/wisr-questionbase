@@ -64,6 +64,10 @@ class ApiV1Controller < ApplicationController
     respond_to :json
   end
   
+  def get_lessons_questions
+    render :json => Question.select([:id, :chapter_id]).where(:chapter_id => params[:ids].split('+')).group_by(&:chapter_id)
+  end
+
   def get_question_count
     render :json => Chapter.find(params[:chapter_id]).questions.count
   end
