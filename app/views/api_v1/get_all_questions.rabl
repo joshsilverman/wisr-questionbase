@@ -1,6 +1,6 @@
 object @lesson
 
-attributes :name, :media_url
+attributes :name, :media_url, :media_duration
 
 node :book_name do
     @book_name

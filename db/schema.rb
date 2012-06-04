@@ -85,28 +85,18 @@ ActiveRecord::Schema.define(:version => 20120604155649) do
   end
 
   create_table "feedbacks", :force => true do |t|
-    t.boolean  "long",              :default => false
-    t.boolean  "hard",              :default => false
-    t.boolean  "easy",              :default => false
-    t.boolean  "correct",           :default => false
-    t.boolean  "media_timing",      :default => false
-    t.boolean  "media_relevant",    :default => false
-    t.boolean  "topic_missing",     :default => false
-    t.boolean  "topic_appropriate", :default => false
-    t.text     "comment"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-    t.integer  "user_id"
-  end
-
-  create_table "invoices", :force => true do |t|
-    t.integer  "user_id"
-    t.float    "hours"
-    t.text     "task"
-    t.boolean  "paid",       :default => false
-    t.float    "cost"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.boolean   "long",              :default => false
+    t.boolean   "hard",              :default => false
+    t.boolean   "easy",              :default => false
+    t.boolean   "correct",           :default => false
+    t.boolean   "media_timing",      :default => false
+    t.boolean   "media_relevant",    :default => false
+    t.boolean   "topic_missing",     :default => false
+    t.boolean   "topic_appropriate", :default => false
+    t.text      "comment"
+    t.timestamp "created_at"
+    t.timestamp "updated_at"
+    t.integer   "user_id"
   end
 
   create_table "keywords", :force => true do |t|
@@ -121,21 +111,21 @@ ActiveRecord::Schema.define(:version => 20120604155649) do
   end
 
   create_table "questions", :force => true do |t|
-    t.text     "question"
-    t.string   "topic"
-    t.integer  "user_id"
-    t.integer  "chapter_id"
-    t.integer  "score"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-    t.text     "rationale"
-    t.string   "difficulty"
-    t.string   "reference"
-    t.text     "objective"
-    t.string   "state_objective"
-    t.string   "state"
-    t.string   "question_type"
-    t.integer  "feedback_id"
+    t.text      "question"
+    t.string    "topic"
+    t.integer   "user_id"
+    t.integer   "chapter_id"
+    t.integer   "score"
+    t.timestamp "created_at"
+    t.timestamp "updated_at"
+    t.text      "rationale"
+    t.string    "difficulty"
+    t.string    "reference"
+    t.text      "objective"
+    t.string    "state_objective"
+    t.string    "state"
+    t.string    "question_type"
+    t.integer   "feedback_id"
   end
 
   create_table "resources", :force => true do |t|
