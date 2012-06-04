@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120522215303) do
+ActiveRecord::Schema.define(:version => 20120604155649) do
 
   create_table "active_admin_comments", :force => true do |t|
     t.string    "resource_id",   :null => false
@@ -78,9 +78,10 @@ ActiveRecord::Schema.define(:version => 20120522215303) do
     t.integer   "book_id"
     t.timestamp "created_at"
     t.timestamp "updated_at"
-    t.integer   "status",     :default => 0
+    t.integer   "status",         :default => 0
     t.text      "media_url"
     t.integer   "author_id"
+    t.integer   "media_duration"
   end
 
   create_table "feedbacks", :force => true do |t|

@@ -42,3 +42,23 @@ task :guess_media_urls => :environment do
     end
   end
 end
+
+task :add_media_durations => :environment do
+  Chapter.where("media_url is NOT NULL AND media_duration IS NULl").each do |chapter|
+    id = chapter.media_url.split("=")[1]
+    url = URI.parse("http://gdata.youtube.com/feeds/api/videos/#{id}")
+    req = Net::HTTP::Get.new(url.path)
+    res = Net::HTTP.start(url.host, url.port) {|http|
+      http.request(req)
+    }
+    begin
+      duration = Hash.from_xml(res.body)["entry"]["group"]["duration"]["seconds"]
+    rescue
+      puts "No duration found for #{id}"
+      duration = 0
+    end
+    chapter.media_duration = duration if duration
+    chapter.save
+    sleep 1
+  end
+end
