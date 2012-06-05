@@ -46,6 +46,32 @@ class ApiV1Controller < ApplicationController
     render :json => Chapter.where(:id => params[:ids].split('+')).select([:id, :name])
   end
 
+  def get_index_data
+    course_ids = params["course_ids"].split("+")
+    lesson_ids = params["lesson_ids"].split("+") 
+    lessons_course_ids = Chapter.select(:book_id).where("id IN (?) AND book_id NOT IN (?)", lesson_ids, course_ids).collect(&:book_id).uniq!#.includes(:questions).select(:id)
+    courses = Book.where("id IN (?) OR id in (?)", course_ids, lessons_course_ids).select([:name, :id])
+    lessons = Chapter.where("book_id IN (?) OR id IN (?)", course_ids, lesson_ids).select([:id, :book_id, :name])
+    all_lesson_ids = lessons.collect(&:id)
+    lessons = lessons.group_by(&:book_id)
+    questions = Question.where(:chapter_id => all_lesson_ids).select([:id, :chapter_id]).group_by(&:chapter_id)
+    hash = {:courses => []}
+    courses.as_json.each do |course|
+      course["lessons"] = []
+      lessons[course["id"]].as_json.each do |lesson|
+        lesson["questions"] = []
+        if lessons_questions = questions[lesson["id"]]
+          lessons_questions.each do |q|
+            lesson["questions"] << q["id"]
+          end
+        end
+        course["lessons"] << lesson
+      end
+      hash[:courses] << course.as_json
+    end
+    render :json => hash
+  end
+
   def get_all_questions
     @lesson = Chapter.find(params[:id])
     @book_name = Book.find(@lesson.book_id).name
