@@ -48,8 +48,9 @@ class ApiV1Controller < ApplicationController
 
   def get_index_data
     course_ids = params["course_ids"].split("+")
-    lesson_ids = params["lesson_ids"].split("+") 
-    lessons_course_ids = Chapter.select(:book_id).where("id IN (?) AND book_id NOT IN (?)", lesson_ids, course_ids).collect(&:book_id).uniq!#.includes(:questions).select(:id)
+    lesson_ids = params["lesson_ids"].split("+")
+    lessons_course_ids = Chapter.select(:book_id).where("id IN (?) AND book_id NOT IN (?)", lesson_ids, course_ids).collect(&:book_id)
+    lessons_course_ids = lessons_course_ids.uniq if lessons_course_ids.uniq
     courses = Book.where("id IN (?) OR id in (?)", course_ids, lessons_course_ids).select([:name, :id])
     lessons = Chapter.where("book_id IN (?) OR id IN (?)", course_ids, lesson_ids).select([:id, :book_id, :name])
     all_lesson_ids = lessons.collect(&:id)
