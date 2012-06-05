@@ -20,11 +20,11 @@ chemistry.id = 14
 chemistry.save
 
 chapters = []
-chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #1', :number => 1, :status => 3)
-chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #2', :number => 2, :status => 3)
-chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #3', :number => 3, :status => 3)
-chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #4', :number => 4, :status => 3)
-chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #5', :number => 5, :status => 3)
+chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #1', :number => 1, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
+chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #2', :number => 2, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
+chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #3', :number => 3, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
+chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #4', :number => 4, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
+chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #5', :number => 5, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
 
 demo_chapter = Chapter.new
 demo_chapter.book_id = book.id
@@ -32,13 +32,15 @@ demo_chapter.name = 'Chapter #5'
 demo_chapter.number = 6
 demo_chapter.status = 3
 demo_chapter.id = 112
+demo_chapter.media_url = "http://www.youtube.com/watch?v=_-vZ_g7K6P0"
+demo_chapter.media_duration = 1685
 demo_chapter.save
 chapters << demo_chapter
 
-book2.chapters << Chapter.create!(:book_id => book2.id, :name => 'Chapter #1', :number => 1, :status => 3)
+book2.chapters << Chapter.create!(:book_id => book2.id, :name => 'Chapter #1', :number => 1, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
 
-biology.chapters << Chapter.create!(:book_id => biology.id, :name => 'Biology Chapter #1', :number => 1, :status => 3)
-chemistry.chapters << Chapter.create!(:book_id => chemistry.id, :name => 'Biology Chapter #1', :number => 1, :status => 3)
+biology.chapters << Chapter.create!(:book_id => biology.id, :name => 'Biology Chapter #1', :number => 1, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
+chemistry.chapters << Chapter.create!(:book_id => chemistry.id, :name => 'Biology Chapter #1', :number => 1, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
 
 strengths = []
 for k in 1..3
@@ -69,7 +71,7 @@ chapters.each do |chapter|
 				q.keywords << keyword
 			end
 		end
-	  q.resources << Resource.create!(:question_id => q.id,
+	  	q.resources << Resource.create!(:question_id => q.id,
 			:url => 'http://weeklyguiltypleasure.files.wordpress.com/2011/07/rick-astley.jpg',
 			:contains_answer => false,
 			:media_type => 'image',
@@ -79,12 +81,14 @@ chapters.each do |chapter|
 			:table => nil,
 			:required => false
 		)	
+		start_time = i * 80
+		end_time = start_time + 10
 		q.resources << Resource.create!(:question_id => q.id,
 			:url => "kpCJyQ2usJ4",
 			:contains_answer => true,
 			:media_type => "video",
-			:begin => 5,
-			:end => 15,
+			:begin => start_time,
+			:end => end_time,
 			:article_text => nil,
 			:table => nil,
 			:required => false
