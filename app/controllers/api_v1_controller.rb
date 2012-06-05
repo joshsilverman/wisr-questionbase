@@ -49,50 +49,27 @@ class ApiV1Controller < ApplicationController
   def get_index_data
     course_ids = params["course_ids"].split("+")
     lesson_ids = params["lesson_ids"].split("+") 
-
-    # @courses = Book.select(["books.id", "books.name", "chapters.id", "questions.id"]).find(course_ids, :include => {:chapters => :questions})
-    # puts @courses.to_json(:include => {:chapters => {:include => :questions}})
     lessons_course_ids = Chapter.select(:book_id).where("id IN (?) AND book_id NOT IN (?)", lesson_ids, course_ids).collect(&:book_id).uniq!#.includes(:questions).select(:id)
     courses = Book.where("id IN (?) OR id in (?)", course_ids, lessons_course_ids).select([:name, :id])
-    
-    # courses = {:courses => courses.to_json}#.to_json
-    # puts courses
-    lessons = Chapter.where("book_id IN (?) OR id IN (?)", course_ids, lesson_ids).select([:id, :book_id]).group_by(&:book_id)
-
-    # puts lessons.to_json
-
-    questions = Question.where(:chapter_id => lesson_ids).select([:id, :chapter_id]).group_by(&:chapter_id)
-    # lessons = {:lessons => lessons.as_json}
-    # puts lessons
-    # puts questions
+    lessons = Chapter.where("book_id IN (?) OR id IN (?)", course_ids, lesson_ids).select([:id, :book_id, :name])
+    all_lesson_ids = lessons.collect(&:id)
+    lessons = lessons.group_by(&:book_id)
+    questions = Question.where(:chapter_id => all_lesson_ids).select([:id, :chapter_id]).group_by(&:chapter_id)
     hash = {:courses => []}
     courses.as_json.each do |course|
-      # puts course
+      course["lessons"] = []
+      lessons[course["id"]].as_json.each do |lesson|
+        lesson["questions"] = []
+        if lessons_questions = questions[lesson["id"]]
+          lessons_questions.each do |q|
+            lesson["questions"] << q["id"]
+          end
+        end
+        course["lessons"] << lesson
+      end
       hash[:courses] << course.as_json
-      # lessons[course["id"]].each do |lesson|
-      #   puts lesson["id"]
-      #   puts questions[lesson["id"]].as_json
-      # end
-      # puts "\n\n"
     end
-    puts hash.to_json
-
-    # Chapter.where("id IN lesson_ids")
-    # puts lessons.to_json(:include => :questions)
-    # courses = Book.find(course_ids, :include => {:chapters => :questions})
-    # puts courses.to_json(:include => {:chapters => {:include => :questions}})
-    # courses = Book.where(:id => course_ids)
-    # chapters = Chapter.where(:id => @lesson_ids).includes(:questions).select(:id)
-    # @courses = Book.find(course_ids)
-    # chapters.each do |c|
-    #   c.questions.each do |q|
-    #     puts q.id
-    #   end
-    # end
-    # puts chapters.to_json
-    # puts course_ids.to_json, lesson_ids.to_json
-    # render :json => chapters
-    # respond_to :json
+    render :json => hash
   end
 
   def get_all_questions
