@@ -52,7 +52,7 @@ class ApiV1Controller < ApplicationController
     lessons_course_ids = Chapter.select(:book_id).where("id IN (?) AND book_id NOT IN (?)", lesson_ids, course_ids).collect(&:book_id)
     lessons_course_ids = lessons_course_ids.uniq if lessons_course_ids.uniq
     courses = Book.where("id IN (?) OR id in (?)", course_ids, lessons_course_ids).select([:name, :id])
-    lessons = Chapter.where("book_id IN (?) OR id IN (?)", course_ids, lesson_ids).select([:id, :book_id, :name])
+    lessons = Chapter.where("(book_id IN (?) OR id IN (?)) AND status = (?)", course_ids, lesson_ids, 3).select([:id, :book_id, :name])
     all_lesson_ids = lessons.collect(&:id)
     lessons = lessons.group_by(&:book_id)
     questions = Question.where(:chapter_id => all_lesson_ids).select([:id, :chapter_id]).group_by(&:chapter_id)
