@@ -71,18 +71,19 @@ chapters.each do |chapter|
 				q.keywords << keyword
 			end
 		end
-	  	q.resources << Resource.create!(:question_id => q.id,
-			:url => 'http://weeklyguiltypleasure.files.wordpress.com/2011/07/rick-astley.jpg',
-			:contains_answer => false,
-			:media_type => 'image',
-			:begin => nil,
-			:end => nil,
-			:article_text => nil,
-			:table => nil,
-			:required => false
-		)	
-		start_time = i * 80
-		end_time = start_time + 10
+	 #  	q.resources << Resource.create!(:question_id => q.id,
+		# 	:url => 'http://weeklyguiltypleasure.files.wordpress.com/2011/07/rick-astley.jpg',
+		# 	:contains_answer => false,
+		# 	:media_type => 'image',
+		# 	:begin => nil,
+		# 	:end => nil,
+		# 	:article_text => nil,
+		# 	:table => nil,
+		# 	:required => false
+		# )	
+		start_time = (i * 80) - 80
+		# puts start_time
+		end_time = start_time + 5
 		q.resources << Resource.create!(:question_id => q.id,
 			:url => "kpCJyQ2usJ4",
 			:contains_answer => true,
@@ -93,15 +94,15 @@ chapters.each do |chapter|
 			:table => nil,
 			:required => false
 		)
-		q.resources << Resource.create!(:question_id => q.id,
-			:url => nil,
-			:contains_answer => true,
-			:media_type => 'text', 
-			:begin => nil,
-			:end => nil,
-			:article_text => "<h1>Test Article</h1><p>This is a text article</p>",
-			:table => nil,
-			:required => false
-		)	
+		# q.resources << Resource.create!(:question_id => q.id,
+		# 	:url => nil,
+		# 	:contains_answer => true,
+		# 	:media_type => 'text', 
+		# 	:begin => nil,
+		# 	:end => nil,
+		# 	:article_text => "<h1>Test Article</h1><p>This is a text article</p>",
+		# 	:table => nil,
+		# 	:required => false
+		# )	
 	end
 end
