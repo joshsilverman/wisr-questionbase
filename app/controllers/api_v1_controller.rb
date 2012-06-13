@@ -59,6 +59,7 @@ class ApiV1Controller < ApplicationController
     hash = {:courses => []}
     courses.as_json.each do |course|
       course["lessons"] = []
+      next unless lessons[course["id"]]
       lessons[course["id"]].as_json.each do |lesson|
         lesson["questions"] = []
         if lessons_questions = questions[lesson["id"]]
