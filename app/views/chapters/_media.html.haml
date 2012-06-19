@@ -11,5 +11,5 @@
           = image_tag preview, :id => "media_preview_#{answer_resource.id}", :class => "media_preview", :resource_id => answer_resource.id, :resource_url => answer_resource.url, :resource_type => answer_resource.media_type
           = link_to "Remove", nil, :id => "delete_resource_#{answer_resource.id}", :class => "remove_resource"
      - else 
-          = image_tag blank_placeholder, :class => "media_preview", :title => "Click to add media to show after the learner has answered the question." 
+          %p.resource_label Include a video clip.
      %br

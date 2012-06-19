@@ -121,7 +121,7 @@ class Question
 					@answer_media.push new Resource resource, this, answer_resource
 				## Add Media
 				$(answer_resource).on "click", (e) =>
-					return unless $(e.srcElement).is "img"
+					# return unless $(e.srcElement).is "img"
 					resource_ids = (String(resource.resource_id) for resource in @answer_media)
 					window.media.addMedia @, @answer_media[resource_ids.indexOf($(e.srcElement).attr("resource_id"))], e.srcElement, true
 		else # Creating new question
@@ -533,87 +533,57 @@ class MediaController
 		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')
 	showMediaModal: (question, resource, element, contains_answer) =>
 		media = @
-		if resource
-			switch resource.media_type
-				when "text"
-					$("#article_link_input")[0].value = resource.url
-					$("#article_preview_field").html resource.article_text					
-					$($("#media-dialog").find("#tabs")).tabs({selected:1})
-				when "image"
-					$("#image_link_input")[0].value = resource.url
-					$($("#media-dialog").find("#tabs")).tabs({selected:0})
-					$("#image_search_preview")[0].src = resource.url
-				when "video" 
-					$("#video_link_input")[0].value = "http://www.youtube.com/watch?v=#{resource.url}&t=0m#{resource.begin}s"
-					start_seconds = (resource.begin % 60)
-					end_seconds = (resource.end % 60)
-					start_seconds = '0' + start_seconds if start_seconds < 10
-					end_seconds = '0' + end_seconds if end_seconds < 10
-					$("#video_start_input_minute")[0].value = Math.floor(resource.begin / 60)
-					$("#video_start_input_second")[0].value = start_seconds				
-					$("#video_end_input_minute")[0].value = Math.floor(resource.end / 60)	
-					$("#video_end_input_second")[0].value = end_seconds
-					$($("#media-dialog").find("#tabs")).tabs({selected:2})
-					$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{resource.url}&start=#{resource.begin}" 
+		if resource != null && resource != undefined
+			$("#video_link_input")[0].value = "http://www.youtube.com/watch?v=#{resource.url}&t=0m#{resource.begin}s"
+			start_seconds = (resource.begin % 60)
+			end_seconds = (resource.end % 60)
+			start_seconds = '0' + start_seconds if start_seconds < 10
+			end_seconds = '0' + end_seconds if end_seconds < 10
+			$("#video_start_input_minute")[0].value = Math.floor(resource.begin / 60)
+			$("#video_start_input_second")[0].value = start_seconds				
+			$("#video_end_input_minute")[0].value = Math.floor(resource.end / 60)	
+			$("#video_end_input_second")[0].value = end_seconds
+			$($("#media-dialog").find("#tabs")).tabs({selected:2})
+			$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{resource.url}&start=#{resource.begin}" 
 		$("#media-dialog").dialog({
-			title: "Add Media"
+			title: "Add Video"
 			# close: () => console.log $("#video_preview_frame").getPlayerState()
 			buttons: 
 				"Cancel": -> media.clearModalFields()			
 				"Save": () -> 
 					# Close modal.
 					$(this).dialog("close")	
-									
-					switch $(this).find("#tabs").tabs("option", "selected")
-						when 0 
-							if $(this).find("#image_link_input")[0].value.match(/(^|\s)((https?:\/\/)?[\w-]+(\.[\w-]+)+\.?(:\d+)?(\/\S*)?)/gi) then url = $(this).find("#image_link_input")[0].value else url = $("#image_search_preview")[0].src
-							break if url == ""
-							preview = url
-							begin = null
-							end = null
-							media_type = "image"
-							article_text = null
-						when 1
-							break if $(this).find("#article_link_input")[0].value == ""
-							url = "http://en.wikipedia.org/wiki/" + $(this).find("#article_link_input")[0].value.replace(/\ /g, '_')
-							preview = media.article_placeholder_url
-							begin = null
-							end = null
-							media_type = "text"
-							article_text = $(this).find("#article_preview_field")[0].innerHTML
-						when 2
-							break if !$($(this).find("#video_preview_frame")).attr "src"
-							url = String($(this).find("#video_preview_frame").attr("src").match("v/[A-Za-z0-9_-]*")).split("/")[1]
-							preview = media.video_placeholder_url
-							begin = (parseInt(($("#video_start_input_minute")[0].value * 60)) + parseInt(($("#video_start_input_second")[0].value)))
-							end = (parseInt(($("#video_end_input_minute")[0].value * 60)) + parseInt(($("#video_end_input_second")[0].value)))
-							media_type = "video"
-							article_text = null
-					media.clearModalFields()
-										
-					# Set preview image.
-					$(element).attr "src", preview
+					if $($(this).find("#video_preview_frame")).attr("src") != undefined
+						url = String($(this).find("#video_preview_frame").attr("src").match("v/[A-Za-z0-9_-]*")).split("/")[1]
+						preview = media.video_placeholder_url
+						begin = (parseInt(($("#video_start_input_minute")[0].value * 60)) + parseInt(($("#video_start_input_second")[0].value)))
+						end = (parseInt(($("#video_end_input_minute")[0].value * 60)) + parseInt(($("#video_end_input_second")[0].value)))
+						media_type = "video"
+						article_text = null
 
-					# Create/update resource.
-					if resource
-						resource.url = url
-						resource.begin = begin
-						resource.end = end
-						resource.media_type = media_type
-						resource.article_text = article_text
-						resource.save()
-					else
-						resource = 
-	                        "resource":
-	                            url: url
-	                            contains_answer: contains_answer
-	                            media_type: media_type
-	                            begin: begin
-	                            end: end
-	                            article_text: article_text
-	                    new_resource = new Resource resource, question, element
-	                    new_resource.save()
-	                    if contains_answer then question.answer_media.push(new_resource) else question.question_media = new_resource       
+						if resource != null && resource != undefined
+							resource.url = url
+							resource.begin = begin
+							resource.end = end
+							resource.media_type = media_type
+							resource.article_text = article_text
+							resource.save()
+						else
+							resource = 
+		                        "resource":
+		                            url: url
+		                            contains_answer: contains_answer
+		                            media_type: media_type
+		                            begin: begin
+		                            end: end
+		                            article_text: article_text
+		                    new_resource = new Resource resource, question, element
+		                    new_resource.save()
+		                    if contains_answer then question.answer_media.push(new_resource) else question.question_media = new_resource       					
+					$(element).attr "src", preview
+					console.log $(element).find("p")
+					# $(element).empty().html("<img src=#{preview} id=media_preview_ class=media_preview resource_url=#{url} resource_type=video></img>")
+					media.clearModalFields()
 			closeOnEscape: true
 			draggable: true
 			resizable: false
@@ -624,19 +594,13 @@ class MediaController
 		$(".ui-widget-overlay").click -> media.clearModalFields()
 	clearModalFields: =>
 		$(".ui-dialog-titlebar-close").trigger('click')
-		$("#image_link_input")[0].value = ""
-		$("#article_link_input")[0].value = ""
 		$("#video_link_input")[0].value = ""
 		$("#video_start_input_minute")[0].value = ""
 		$("#video_start_input_second")[0].value = ""
 		$("#video_end_input_minute")[0].value = ""
 		$("#video_end_input_second")[0].value = ""
-		$("#article_preview_field").html null
-		$("#video_preview_frame").attr "src", null
-		$("#image_search_preview").attr "src", null	
-		$("#search_preview")[0].innerHTML = ""	
+		$("#video_preview_frame").attr "src", null	
 		$("#video_search_results")[0].innerHTML = ""
-		$("#next_page, #previous_page").css "visibility", "hidden"
 	parseYouTubeID: (url) => String(url.match("v=[A-Za-z0-9_-]*")).split("=")[1]	
 	imageSearchComplete: () =>
 		$("#search_preview")[0].innerHTML = ""

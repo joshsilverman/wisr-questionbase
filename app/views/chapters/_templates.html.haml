@@ -18,7 +18,7 @@
                          = text_field nil, nil, :placeholder => "Topics", :class => "keyword_field"
                .activity_right_column  
                     #answer_resource_1{:class => "answer_media_box"}
-                         = image_tag placeholder, :class => "media_preview"
+                         %p.resource_label Include a video clip.
      %div{:id => "correct_answer"}
           .indicator
                = image_tag("correct.png", :class => "indicator_mark correct")
@@ -39,52 +39,25 @@
 #preview_modal{:class => "ui-widget ui-helper-hidden"}
      %iframe{:id => "preview", :style => "width: 99%; height: 99%;"}
 #media-dialog{:class => "ui-widget ui-helper-hidden"}
-     #tabs
-          %ul
-               %li
-                    %a{:href => "#tabs-1"} Image
-               %li
-                    %a{:href => "#tabs-2"} Text
-               %li
-                    %a{:href => "#tabs-3"} Video                    
-          #tabs-1
-               %form
-                    %fieldset
-                         #image_search_controls
-                              %input{:id => "image_link_input", :name => "name", :type => "text", :placeholder => "Type to search or paste image URL", :class => "media_input"}
-                              %button{:id => "image_search_button"}= "Search"
-                              #search_preview
-                              #previous_page << Previous
-                              #next_page Next >>
-                         #image_preview_container
-                              = image_tag placeholder, :id => "image_search_preview"
-          #tabs-2
-               %form
-                    %fieldset
-                         %input{:id => "article_link_input", :name => "name", :type => "text", :placeholder => "Search wikipedia", :class => "media_input"}
-                         %button{:id => "article_preview_button"}= "Search"
+     %form
+          %fieldset
+               #video_area
+                    #video_data
+                         %input{:id => "video_link_input", :name => "name", :type => "text", :placeholder => "Search or paste link to YOUTUBE video", :class => "media_input"}
+                         %button{:id => "video_search_button"}= "Search"
                          %br
-                         #article_preview_field
-          #tabs-3
-               %form
-                    %fieldset
-                         #video_area
-                              #video_data
-                                   %input{:id => "video_link_input", :name => "name", :type => "text", :placeholder => "Search or paste link to YOUTUBE video", :class => "media_input"}
-                                   %button{:id => "video_search_button"}= "Search"
-                                   %br
-                                   #video_search_results
-                              #video_preview
-                                   %iframe{:id => "video_preview_frame", :width => 400, :height => 325}             
-                                   #video_time_container
-                                        Start
-                                        %input{:id => "video_start_input_minute", :name => "name", :type => "text", :placeholder => "min", :class => "time_input"}
-                                        \:
-                                        %input{:id => "video_start_input_second", :name => "name", :type => "text", :placeholder => "sec", :class => "time_input"}
-                                        End
-                                        %input{:id => "video_end_input_minute", :name => "name", :type => "text", :placeholder => "min", :class => "time_input"}
-                                        \:
-                                        %input{:id => "video_end_input_second", :name => "name", :type => "text", :placeholder => "sec", :class => "time_input"}
+                         #video_search_results
+                    #video_preview
+                         %iframe{:id => "video_preview_frame", :width => 400, :height => 325}             
+                         #video_time_container
+                              Start
+                              %input{:id => "video_start_input_minute", :name => "name", :type => "text", :placeholder => "min", :class => "time_input"}
+                              \:
+                              %input{:id => "video_start_input_second", :name => "name", :type => "text", :placeholder => "sec", :class => "time_input"}
+                              End
+                              %input{:id => "video_end_input_minute", :name => "name", :type => "text", :placeholder => "min", :class => "time_input"}
+                              \:
+                              %input{:id => "video_end_input_second", :name => "name", :type => "text", :placeholder => "sec", :class => "time_input"}
                                 
 #dialog-confirm{:class => "ui-widget ui-helper-hidden", :title => "Delete this question?"}
      %p This action cannot be undone. Are you sure?

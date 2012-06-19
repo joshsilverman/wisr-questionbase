@@ -344,8 +344,9 @@ li.token-input-input-token-facebook {
     border-style: dashed;
     border-width: 2px;
     border-color: gray;
-    margin-top: 16px;
+    margin-top: 9px;
     position: relative;
+    background: #F7F7F7;
 }
 
 .answer_media_box a {
@@ -638,4 +639,11 @@ li.token-input-input-token-facebook {
     position: relative;
     top: 1px;
   }  
+}
+
+.resource_label {
+  color: gray;
+  margin: auto;
+  text-align: center;
+  margin-top: 64px;
 }
