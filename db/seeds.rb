@@ -26,6 +26,13 @@ chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #3', :number 
 chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #4', :number => 4, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
 chapters << Chapter.create!(:book_id => book.id, :name => 'Chapter #5', :number => 5, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
 
+chapter = Chapter.create!(:book_id => book2.id, :name => 'Chapter #1', :number => 1, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
+book2.chapters << chapter
+chapters << chapter
+
+biology.chapters << Chapter.create!(:book_id => biology.id, :name => 'Biology Chapter #1', :number => 1, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
+chemistry.chapters << Chapter.create!(:book_id => chemistry.id, :name => 'Biology Chapter #1', :number => 1, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
+
 demo_chapter = Chapter.new
 demo_chapter.book_id = book.id
 demo_chapter.name = 'Chapter #5'
@@ -36,11 +43,6 @@ demo_chapter.media_url = "http://www.youtube.com/watch?v=_-vZ_g7K6P0"
 demo_chapter.media_duration = 1685
 demo_chapter.save
 chapters << demo_chapter
-
-book2.chapters << Chapter.create!(:book_id => book2.id, :name => 'Chapter #1', :number => 1, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
-
-biology.chapters << Chapter.create!(:book_id => biology.id, :name => 'Biology Chapter #1', :number => 1, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
-chemistry.chapters << Chapter.create!(:book_id => chemistry.id, :name => 'Biology Chapter #1', :number => 1, :status => 3, :media_url => "http://www.youtube.com/watch?v=_-vZ_g7K6P0", :media_duration => 1685)
 
 strengths = []
 for k in 1..3
