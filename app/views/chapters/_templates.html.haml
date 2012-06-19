@@ -1,12 +1,13 @@
 - placeholder = "http://www.mediatehawaii.org/wp-content/uploads/placeholder.jpg"
 %div{:id => "templates"}
-     %div{:id => "activity_group"}
-          .header
+     %div{:id => "activity_group"}   
+          .header{:id => "header_", :question_id => -1}
                .header_text_container
                     %p.header_text
-               .delete_question_container
-                    .delete_question
-                         = image_tag "close.gif"                        
+               .controls 
+                    .delete_question_container
+                         .delete_question
+                              = image_tag "close.gif"
           %br  
           .activity_content
                .activity_left_column
@@ -16,13 +17,8 @@
                          .add_answer Add Answer  
                          = text_field nil, nil, :placeholder => "Topics", :class => "keyword_field"
                .activity_right_column  
-                    .question_media_box
-                         = image_tag placeholder, :class => "media_preview"
                     #answer_resource_1{:class => "answer_media_box"}
                          = image_tag placeholder, :class => "media_preview"
-                    #answer_resource_2{:class => "answer_media_box"}
-                         = image_tag placeholder, :class => "media_preview" 
-                         %br
      %div{:id => "correct_answer"}
           .indicator
                = image_tag("correct.png", :class => "indicator_mark correct")
