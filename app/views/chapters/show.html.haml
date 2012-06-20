@@ -5,7 +5,7 @@
 = hidden_field_tag :ytID, @ytID
 
 .status_bar
-	%p#preview_link= "Preview"
+	/ %p#preview_link= "Preview"
 	- if @chapter.media_url
 		= link_to "#{@chapter.name}", @chapter.media_url, :target => "_blank", :class => "status_bar_title"
 	- else
