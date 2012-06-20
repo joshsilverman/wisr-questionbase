@@ -4,9 +4,11 @@
 class Builder
 	questions: []
 	published: null
+	media_url: null
 	constructor: -> 
 		window.media = new MediaController
-		google.setOnLoadCallback(window.media.initializeImageSearch)	
+		window.ytID = $("#ytID").val()
+		# google.setOnLoadCallback(window.media.initializeImageSearch)	
 		$(".activity_content").hide()
 		$(".feedback_body").hide()
 		@published = $.trim($(".status").text()) == "Published"
@@ -135,12 +137,13 @@ class Question
 					window.media.addMedia @, @question_media, e.srcElement, false
 				else
 					window.media.addMedia @, null, e.srcElement, false
-			answer_resources = $(@dom_group).find(".answer_media_box").hide()
+			answer_resources = $(@dom_group).find(".answer_media_box")#.hide()
 			for answer_resource in answer_resources
 				$(answer_resource).on "click", (e) => 
-					if $(e.srcElement).attr "resource_id"
+					if $(e.srcElement).closest(".answer_media_box").attr "resource_id"
+						element = $(e.srcElement).closest(".answer_media_box")
 						resource_ids = (String(resource.resource_id) for resource in @answer_media)
-						window.media.addMedia @, @answer_media[resource_ids.indexOf($(e.srcElement).attr("resource_id"))], e.srcElement, true
+						window.media.addMedia @, @answer_media[resource_ids.indexOf(element.attr("resource_id"))], element, true
 					else
 						window.media.addMedia @, null, e.srcElement, true
 			@dom_group.find(".activity_content").toggle 400, () => 
@@ -173,6 +176,7 @@ class Question
 				@answers.push new Answer this 
 				@save
 		$(@dom_group).find(".token-input-list-facebook").hide()
+
 	save: (event) =>
 		[submit_url, method] = if @question_id then ["/questions/" + @question_id, "PUT"] else ["/questions", "POST"]
 		question_data = 
@@ -234,6 +238,8 @@ class Question
 			url: "/keywords/remove_keyword"
 			type: "POST"
 			data: params
+	# removeAnswer: () =>
+	# 	console.log "broto"
 		
 
 class Answer
@@ -255,7 +261,7 @@ class Answer
 				@dom_element = $('#incorrect_answer').clone().removeAttr("id").attr("class", "answer")
 			$(question.dom_group).find(".add_answer").before(@dom_element)
 			$(@dom_element).find("input").focus()
-		$(@dom_element).on "change", @save
+		$(@dom_element).on "change", (e) => @save(e)
 		$(@dom_element).on "keydown", (e) =>
 			next_answer = $(@dom_element).next(".answer")
 			if e.keyCode == 9 and @question.answers.length < 4 and (next_answer.length < 1 or next_answer.css("display") == "none")
@@ -264,9 +270,12 @@ class Answer
 				@save
 				@question.save
 			$(@question.dom_group).find(".answer_media_box").fadeIn 600	
-		$(@dom_element).find("#delete_answer_" + @answer_id).on "click", (event) =>
-			event.preventDefault()
-			window.media.confirm("answer", @delete)
+		$(@dom_element).find(".delete_answer").on "click", (e) =>
+			e.preventDefault()
+			if @answer_id
+				window.media.confirm("answer", @delete) 
+			else
+				$(@dom_element).hide()
 	save: (event) =>
 		[submit_url, method] = if @answer_id then ["/answers/" + @answer_id, "PUT"] else ["/answers", "POST"]
 		answer_data = 
@@ -436,8 +445,8 @@ class Feedback
 
 
 class MediaController
-	article_placeholder_url: "http://www.elitetranslingo.com/css/css/images/doc.png"
-	video_placeholder_url: "http://cache.gizmodo.com/assets/images/4/2010/09/youtube-video-player-loading.png"
+	# article_placeholder_url: "http://www.elitetranslingo.com/css/css/images/doc.png"
+	video_placeholder_url: "/assets/video_placeholder.png"
 	imageSearch = null
 	constructor: -> 
 		$("#article_link_input").autocomplete
@@ -533,8 +542,8 @@ class MediaController
 		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')
 	showMediaModal: (question, resource, element, contains_answer) =>
 		media = @
+		$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{window.ytID}"
 		if resource != null && resource != undefined
-			$("#video_link_input")[0].value = "http://www.youtube.com/watch?v=#{resource.url}&t=0m#{resource.begin}s"
 			start_seconds = (resource.begin % 60)
 			end_seconds = (resource.end % 60)
 			start_seconds = '0' + start_seconds if start_seconds < 10
@@ -544,13 +553,13 @@ class MediaController
 			$("#video_end_input_minute")[0].value = Math.floor(resource.end / 60)	
 			$("#video_end_input_second")[0].value = end_seconds
 			$($("#media-dialog").find("#tabs")).tabs({selected:2})
-			$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{resource.url}&start=#{resource.begin}" 
+			$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{window.ytID}&start=#{resource.begin}" 
 		$("#media-dialog").dialog({
-			title: "Add Video"
-			# close: () => console.log $("#video_preview_frame").getPlayerState()
+			title: "Add a clip"
+			# close: () => $("#video_preview_frame")
 			buttons: 
 				"Cancel": -> media.clearModalFields()			
-				"Save": () -> 
+				"Save Clip": () -> 
 					# Close modal.
 					$(this).dialog("close")	
 					if $($(this).find("#video_preview_frame")).attr("src") != undefined
@@ -580,27 +589,25 @@ class MediaController
 		                    new_resource = new Resource resource, question, element
 		                    new_resource.save()
 		                    if contains_answer then question.answer_media.push(new_resource) else question.question_media = new_resource       					
-					$(element).attr "src", preview
-					console.log $(element).find("p")
-					# $(element).empty().html("<img src=#{preview} id=media_preview_ class=media_preview resource_url=#{url} resource_type=video></img>")
+					# $(element).attr "src", preview
+					$(element).find("p").remove()
+					$(element).append("<img src=#{preview} id=media_preview_ class=media_preview resource_url=#{url} resource_type=video></img>")
 					media.clearModalFields()
 			closeOnEscape: true
 			draggable: true
 			resizable: false
 			modal: true
-			height: 600
-			width: "80%"
+			height: 550
+			width: 500
 		})
 		$(".ui-widget-overlay").click -> media.clearModalFields()
 	clearModalFields: =>
 		$(".ui-dialog-titlebar-close").trigger('click')
-		$("#video_link_input")[0].value = ""
 		$("#video_start_input_minute")[0].value = ""
 		$("#video_start_input_second")[0].value = ""
 		$("#video_end_input_minute")[0].value = ""
 		$("#video_end_input_second")[0].value = ""
 		$("#video_preview_frame").attr "src", null	
-		$("#video_search_results")[0].innerHTML = ""
 	parseYouTubeID: (url) => String(url.match("v=[A-Za-z0-9_-]*")).split("=")[1]	
 	imageSearchComplete: () =>
 		$("#search_preview")[0].innerHTML = ""

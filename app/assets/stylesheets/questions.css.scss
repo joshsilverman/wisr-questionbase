@@ -44,7 +44,8 @@
     float: right;
     margin: 8px 0px 8px 0px;
     font-size: 22px;
-    background-color: #F7F7F7;
+    background-color: white;
+    /*background-color: #F7F7F7;*/
 }
 
 
@@ -124,7 +125,8 @@
     float: right;
     margin: 8px 0px 8px 0px;
     font-size: 18px;
-    background-color: #F7F7F7;    
+    /*background-color: #F7F7F7;    */
+    background-color: white;
 }
 
 ul.token-input-list-facebook {
@@ -156,7 +158,8 @@ li.token-input-input-token-facebook {
     overflow: hidden;
     text-overflow: ellipsis;
     /*background-color: #F5F5F5;*/
-    background-color: #FFFFFF;
+    /*background-color: #FFFFFF;*/
+    background: url(groovepaper.png);
     -moz-box-shadow: 4px 4px 10px 1px #BFBFBF;
     -webkit-box-shadow: 4px 4px 10px 1px #BFBFBF;
     box-shadow: 4px 4px 10px 1px #BFBFBF;
@@ -282,7 +285,7 @@ li.token-input-input-token-facebook {
 
 
 .menu {
-  background-color: #F5F5F5;
+  background: url(groovepaper.png);
   position: fixed;
   left: 15px;
   top: 172px;
@@ -346,7 +349,9 @@ li.token-input-input-token-facebook {
     border-color: gray;
     margin-top: 9px;
     position: relative;
-    background: #F7F7F7;
+    /*background: #F7F7F7;*/
+    background: white;
+    cursor: pointer;
 }
 
 .answer_media_box a {
@@ -436,6 +441,10 @@ li.token-input-input-token-facebook {
     box-shadow: 1px 3px 2px 0px #ccc;      
 }
 
+#video_area {
+  margin-top: 25px;
+}
+
 #video_time_container {
     text-align: center;
     padding-top: 10px;    
@@ -448,9 +457,14 @@ li.token-input-input-token-facebook {
 #video_preview {
     /*width: 45%;   */
     display: inline;
-    float: right;
-    padding: 0px;
-    margin: 0px;
+    /*float: right;*/
+    /*padding: 0px;*/
+    /*margin: 0px;*/
+
+    iframe {
+      position: relative;
+      left: 35px;
+    }
 }
 
 #video_preview_frame {
@@ -645,5 +659,6 @@ li.token-input-input-token-facebook {
   color: gray;
   margin: auto;
   text-align: center;
-  margin-top: 64px;
+  margin-top: 66px;
+  cursor: pointer;
 }

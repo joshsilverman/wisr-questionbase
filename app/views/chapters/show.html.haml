@@ -2,6 +2,7 @@
 = render :partial => "shared/header", :locals => { :back => @back }  
 = hidden_field_tag :preview_path, @preview_path
 = hidden_field_tag :admin, @e
+= hidden_field_tag :ytID, @ytID
 
 .status_bar
 	%p#preview_link= "Preview"
@@ -48,5 +49,5 @@
 
 = hidden_field_tag "chapter_id", @chapter.id
 = render :partial => "templates"
-= javascript_include_tag "https://www.google.com/jsapi?key=ABQIAAAAS-XIIVzob1PDZ6UIwlNICxTJQa0g3IQ9GZqIMmInSLzwtGDKaBTJJypBQNMZogW_q9uhEuf13Y041Q"
-= javascript_tag 'google.load("search", "1")'
+/ # = javascript_include_tag "https://www.google.com/jsapi?key=ABQIAAAAS-XIIVzob1PDZ6UIwlNICxTJQa0g3IQ9GZqIMmInSLzwtGDKaBTJJypBQNMZogW_q9uhEuf13Y041Q"
+/ # = javascript_tag 'google.load("search", "1")'

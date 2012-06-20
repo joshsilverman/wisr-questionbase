@@ -8,7 +8,11 @@
 				.field
 					%td= f.label :name, "Lesson name", :class => "form_label"
 					%td= f.text_field :name, :class => "form_field"
-				%br/			
+				%br/
+				.field
+					%td= f.label :media_url, "Link to your video", :class => "form_label"
+					%td= f.text_field :media_url, :class => "form_field"
+				%br/								
 				.field
 					%td= f.label :number, "Lesson number", :class => "form_label"
 					%td= f.number_field :number, :class => "form_field"

@@ -17,8 +17,8 @@ class ChaptersController < ApplicationController
     if @chapter
       @book = Book.find_by_id(@chapter.book_id)
       @questions = @chapter.questions.sort!{|a, b| a.created_at <=> b.created_at}
+      @ytID = @chapter.media_url.match("v=[a-zA-Z0-9\--_]*").to_s.gsub("v=", "") if @chapter.media_url
       @preview_path = "#{STUDYEGG_PATH}/review/#{(@chapter.id)}/embed"
-      puts @preview_path
       respond_to do |format|
         format.html # show.html.erb
         format.json  { render :text => "#{params[:callback]}(#{@questions.to_json})", :content_type => 'text/javascript' }
@@ -74,8 +74,10 @@ class ChaptersController < ApplicationController
     get_chapter(params[:id])
     if @chapter# && @e
       @current_book = Book.find_by_id(@chapter.book_id)
+      media_url = params[:chapter][:media_url] if @chapter.media_url != params[:chapter][:media_url]
       respond_to do |format|
-        if @chapter.update_attributes(params[:chapter])
+        if @chapter.update_attributes(params[:chapter]) 
+          @chapter.get_media_duration(media_url) if media_url
           format.html { redirect_to "/books/#{@current_book.id}" }
           format.xml  { head :ok }
         else
