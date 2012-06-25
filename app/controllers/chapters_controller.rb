@@ -59,6 +59,7 @@ class ChaptersController < ApplicationController
     @current_book = Book.find_by_id(params[:book_id])
     respond_to do |format|
       if @chapter.save
+        @chapter.get_media_duration(@chapter.media_url)
         format.html { redirect_to(@chapter, :notice => 'Chapter was successfully created.') }
         format.xml  { render :json => @chapter, :status => :created, :location => @chapter }
       else
