@@ -5,7 +5,7 @@
 = hidden_field_tag :ytID, @ytID
 
 .status_bar
-	/ %p#preview_link= "Preview"
+	%p#preview_link= "Preview"
 	- if @chapter.media_url
 		= link_to "#{@chapter.name}", @chapter.media_url, :target => "_blank", :class => "status_bar_title"
 	- else
@@ -15,20 +15,20 @@
 			.status.active{:chapter_id => @chapter.id}
 				Active
 			(
-			= link_to_function "Submit", "window.builder.submitChapter()", :class => "edit_link"
+			= link_to_function "Submit", "window.chapter.submitChapter()", :class => "edit_link"
 			)
 		- elsif @chapter.status == 2
 			.status.complete{:chapter_id => @chapter.id}
 				Submitted
 			(
-			= link_to_function "Un-Submit", "window.builder.unsubmitChapter()", :class => "edit_link"
+			= link_to_function "Un-Submit", "window.chapter.unsubmitChapter()", :class => "edit_link"
 			)				
 		- elsif @chapter.status == 3
 			.status.published{:chapter_id => @chapter.id}
 				Published 
 			- if current_user.user_type == "ADMIN" || current_user.user_type == "QC"
 				(
-				= link_to_function "Un-Publish", "window.builder.unpublishChapter()", :class => "edit_link"
+				= link_to_function "Un-Publish", "window.chapter.unpublishChapter()", :class => "edit_link"
 				)				
 
 = render :partial => "menu"

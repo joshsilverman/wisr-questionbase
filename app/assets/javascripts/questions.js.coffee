@@ -1,7 +1,7 @@
 ## Delete resource not working
 ## One existing answer resource
 
-class Builder
+class Chapter
 	questions: []
 	published: null
 	media_url: null
@@ -34,7 +34,7 @@ class Builder
 		$(".remove_resource").on "click", (e) => e.preventDefault()
 		$(".delete_answer").off "click"
 		$(".delete_answer").on "click", (e) => e.preventDefault()
-	newQuestion: -> new Question
+	newQuestion: -> window.chapter.questions.push(new Question)
 	submitChapter: -> 
 		data = 
 			"id" : $(chapter_id)[0].value
@@ -238,8 +238,6 @@ class Question
 			url: "/keywords/remove_keyword"
 			type: "POST"
 			data: params
-	# removeAnswer: () =>
-	# 	console.log "broto"
 		
 
 class Answer
@@ -490,16 +488,23 @@ class MediaController
 			@videoSearch($("#video_link_input")[0].value)
 		$("#preview_link").on "click", (e) =>
 			e.preventDefault()
-			$("#preview").attr "src", preview_path
-			$("#preview_modal").dialog({
-				title: "Lesson Preview"
-				closeOnEscape: true
-				draggable: false
-				resizable: false
-				modal: true
-				height: 700
-				width: "90%"
-			})
+			if window.chapter.questions.length < 1
+				alert "Add some questions first!"
+			else
+				$("#preview").attr "src", preview_path
+				$("#preview_modal").dialog({
+					close: () => $(".ui-widget-overlay").off "click"
+					title: "Lesson Preview"
+					closeOnEscape: true
+					draggable: false
+					resizable: false
+					modal: true
+					height: 725
+					width: "90%"
+				})
+				$(".ui-widget-overlay").on "click", -> 
+					$(".ui-dialog-titlebar-close").trigger('click')
+					$(".ui-widget-overlay").off "click"					
 	updatePreview: (url) =>
 		params = "url" : url
 		$.ajax
@@ -525,6 +530,7 @@ class MediaController
 	confirm: (context, callback) =>
 		$("#dialog-confirm").dialog({
 			resizable: false
+			close: () => $(".ui-widget-overlay").off "click"
 			modal: true
 			title: "Delete this #{context}?"
 			context: context
@@ -539,7 +545,9 @@ class MediaController
 			resizable: false
 			height: 180
 		})
-		$(".ui-widget-overlay").click -> $(".ui-dialog-titlebar-close").trigger('click')
+		$(".ui-widget-overlay").on "click", -> 
+			$(".ui-dialog-titlebar-close").trigger('click')
+			$(".ui-widget-overlay").off "click"		
 	showMediaModal: (question, resource, element, contains_answer) =>
 		media = @
 		$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{window.ytID}"
@@ -556,7 +564,7 @@ class MediaController
 			$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{window.ytID}&start=#{resource.begin}" 
 		$("#media-dialog").dialog({
 			title: "Add a clip"
-			# close: () => $("#video_preview_frame")
+			close: () => $(".ui-widget-overlay").off "click"
 			buttons: 
 				"Cancel": -> media.clearModalFields()			
 				"Save Clip": () -> 
@@ -600,7 +608,9 @@ class MediaController
 			height: 550
 			width: 500
 		})
-		$(".ui-widget-overlay").click -> media.clearModalFields()
+		$(".ui-widget-overlay").on "click", -> 
+			$(".ui-dialog-titlebar-close").trigger('click')
+			$(".ui-widget-overlay").off "click"		
 	clearModalFields: =>
 		$(".ui-dialog-titlebar-close").trigger('click')
 		$("#video_start_input_minute")[0].value = ""
@@ -647,4 +657,4 @@ class MediaController
 					element.appendTo $("#video_search_results")
 
 
-$ -> window.builder = new Builder
+$ -> window.chapter = new Chapter
