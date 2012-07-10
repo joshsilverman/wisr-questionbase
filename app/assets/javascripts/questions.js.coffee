@@ -178,10 +178,13 @@ class Question
 		$(@dom_group).find(".token-input-list-facebook").hide()
 
 	save: (event) =>
+		console.log event
+		console.log event.target
+		console.log "save"
 		[submit_url, method] = if @question_id then ["/questions/" + @question_id, "PUT"] else ["/questions", "POST"]
 		question_data = 
 			"question":
-				question: event.srcElement.value
+				question: event.target.value
 				chapter_id: $(chapter_id)[0].value
 		$.ajax
 			url: submit_url
@@ -195,7 +198,7 @@ class Question
 					number = parseInt(prev_header.text().split(".")[0]) + 1
 				else 
 					number = 1
-				header.find("p.header_text").text("#{number}. #{event.srcElement.value}")
+				header.find("p.header_text").text("#{number}. #{event.target.value}")
 	delete: () =>
 		@dom_group.remove()
 		$.ajax
@@ -549,6 +552,7 @@ class MediaController
 			$(".ui-dialog-titlebar-close").trigger('click')
 			$(".ui-widget-overlay").off "click"		
 	showMediaModal: (question, resource, element, contains_answer) =>
+		element = $(element).parent() if $(element).is "p"
 		media = @
 		$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{window.ytID}"
 		if resource != null && resource != undefined
@@ -560,17 +564,18 @@ class MediaController
 			$("#video_start_input_second")[0].value = start_seconds				
 			$("#video_end_input_minute")[0].value = Math.floor(resource.end / 60)	
 			$("#video_end_input_second")[0].value = end_seconds
-			$($("#media-dialog").find("#tabs")).tabs({selected:2})
+			# $($("#media-dialog").find("#tabs")).tabs({selected:2})
 			$("#video_preview_frame").attr "src", "http://www.youtube.com/v/#{window.ytID}&start=#{resource.begin}" 
+		$("#media-dialog").on "keyup", (e) =>
+			if e.which == 13 then $(".ui-dialog-buttonpane").find("button").last().trigger "click"#.ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only")#"save and close"
 		$("#media-dialog").dialog({
 			title: "Add a clip"
-			close: () => $(".ui-widget-overlay").off "click"
 			buttons: 
 				"Cancel": -> media.clearModalFields()			
 				"Save Clip": () -> 
-					# Close modal.
 					$(this).dialog("close")	
 					if $($(this).find("#video_preview_frame")).attr("src") != undefined
+						# question.dom_group.find(".question_area").trigger "change"
 						url = String($(this).find("#video_preview_frame").attr("src").match("v/[A-Za-z0-9_-]*")).split("/")[1]
 						preview = media.video_placeholder_url
 						begin = (parseInt(($("#video_start_input_minute")[0].value * 60)) + parseInt(($("#video_start_input_second")[0].value)))
@@ -596,21 +601,22 @@ class MediaController
 		                            article_text: article_text
 		                    new_resource = new Resource resource, question, element
 		                    new_resource.save()
-		                    if contains_answer then question.answer_media.push(new_resource) else question.question_media = new_resource       					
-					# $(element).attr "src", preview
-					$(element).find("p").remove()
-					$(element).append("<img src=#{preview} id=media_preview_ class=media_preview resource_url=#{url} resource_type=video></img>")
+		                    if contains_answer then question.answer_media.push(new_resource) else question.question_media = new_resource
+					if $(element).find(".resource_label").length > 0
+						$(element).find(".resource_label").remove()
+						$(element).append("<img src=#{preview} id=media_preview_ class=media_preview resource_url=#{url} resource_type=video></img>")
 					media.clearModalFields()
 			closeOnEscape: true
-			draggable: true
+			draggable: false
 			resizable: false
 			modal: true
 			height: 550
 			width: 500
 		})
-		$(".ui-widget-overlay").on "click", -> 
-			$(".ui-dialog-titlebar-close").trigger('click')
-			$(".ui-widget-overlay").off "click"		
+		$("#media-dialog").parent().find('a.ui-dialog-titlebar-close').hide()
+		# $(".ui-widget-overlay").on "click", -> 
+			# $(".ui-dialog-titlebar-close").trigger('click')
+			# $(".ui-widget-overlay").off "click"		
 	clearModalFields: =>
 		$(".ui-dialog-titlebar-close").trigger('click')
 		$("#video_start_input_minute")[0].value = ""
