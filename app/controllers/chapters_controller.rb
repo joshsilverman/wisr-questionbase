@@ -168,7 +168,7 @@ class ChaptersController < ApplicationController
   def get_permission(chapter)
     @e = @w = false
     return if chapter.nil?
-    if Book.find(chapter.book_id).user_id == current_user.id || current_user.user_type == "ADMIN"
+    if Book.find(chapter.book_id).user_id == current_user.id || current_user.user_type == "ADMIN" || Authorship.find_by_user_id_and_book_id(current_user.id, chapter.book_id)
       @e = @w = true
     elsif Book.find(chapter.book_id).public
       @w = true
