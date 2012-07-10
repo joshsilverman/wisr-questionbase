@@ -14,7 +14,9 @@ class BooksController < ApplicationController
   # GET /books/1
   # GET /books/1.xml
   def show
+    puts "bro"
     get_book(params[:id])
+    puts @book.to_json
     if @book
       @chapters = @book.chapters.sort!{|a, b| a.number <=> b.number}
       respond_to do |format|
@@ -108,7 +110,7 @@ class BooksController < ApplicationController
   def get_permission(book)
     @e = @w = false
     return if book.nil?
-    if book.user_id == current_user.id || current_user.user_type == "ADMIN"
+    if book.user_id == current_user.id || current_user.user_type == "ADMIN" || Authorship.find_by_user_id_and_book_id(current_user.id, book.id)
       @e = @w = true
     elsif book.public
       @w = true
