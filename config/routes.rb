@@ -7,7 +7,7 @@ OauthClientDemo::Application.routes.draw do
 
   devise_for :admin_users, ActiveAdmin::Devise.config
 
-  match "users/sign_up" => redirect("/")
+  # match "users/sign_up" => redirect("/")
 
   devise_for :users
 
