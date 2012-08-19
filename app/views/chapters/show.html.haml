@@ -13,9 +13,9 @@
 	#chapter_status
 		- if @chapter.status == 1
 			.status.active{:chapter_id => @chapter.id}
-				Active
+				In Progress
 			(
-			= link_to_function "Submit", "window.chapter.submitChapter()", :class => "edit_link"
+			= link_to_function "publish", "", :class => "edit_link", :id => "publish_chapter", :chapter_id => @chapter.id
 			)
 		- elsif @chapter.status == 2
 			.status.complete{:chapter_id => @chapter.id}

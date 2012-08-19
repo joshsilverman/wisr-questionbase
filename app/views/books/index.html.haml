@@ -9,7 +9,7 @@
     .column_content
       %h1.column_header= "My Courses"
       (
-      = link_to('add course', new_book_path, :class => "edit_link")
+      = link_to('add a course', new_book_path, :class => "edit_link")
       )
       %br
       %hr.dotted_line
@@ -20,22 +20,23 @@
         %ul
           - @my_books.each do |my_book|
             %li{:class => "line_item"}
-              =link_to(my_book.name + " by " + my_book.author, my_book, :class => "line_title") + " ( " + link_to('edit', edit_book_path(my_book), :class => "edit_link")
+              / =link_to(my_book.name + " by " + my_book.author, my_book, :class => "line_title") + " ( " + link_to('edit', edit_book_path(my_book), :class => "edit_link")
+              = link_to(my_book.name, my_book, :class => "line_title") + " ( " + link_to('edit', edit_book_path(my_book), :class => "edit_link")
               |
-              = link_to('delete', my_book, :confirm => 'Are you sure want to delete this book? This cannot be undone.', :method => :delete, :class => "edit_link")  
+              = link_to('delete', my_book, :confirm => 'Are you sure want to delete this course and all of it\'s videos? This cannot be undone.', :method => :delete, :class => "edit_link")  
               )                      
-  .right_column
-    .column_content
-      %h1.column_header= "Shared Courses"
-      %br
-      %hr.dotted_line
-      %br
-      - if @shared_books.empty?
-        %p.line_placeholder= "No courses yet!"
-      -else        
-        %ul
-          - @shared_books.each do |shared_book|
-            - if shared_book.user_id.to_i == current_user.id.to_i
-              %li.line_item= link_to(shared_book.name + " by " + shared_book.author, shared_book, :class => "line_title") + " ( " + link_to('edit', edit_book_path(shared_book), :class => "edit_link") + " ) "
-            - else
-              %li.line_item= link_to(shared_book.name + " by " + shared_book.author, shared_book, :class => "line_title")                       
+  / .right_column
+  /   .column_content
+  /     %h1.column_header= "Shared Courses"
+  /     %br
+  /     %hr.dotted_line
+  /     %br
+  /     - if @shared_books.empty?
+  /       %p.line_placeholder= "No courses yet!"
+  /     -else        
+  /       %ul
+  /         - @shared_books.each do |shared_book|
+  /           - if shared_book.user_id.to_i == current_user.id.to_i
+  /             %li.line_item= link_to(shared_book.name + " by " + shared_book.author, shared_book, :class => "line_title") + " ( " + link_to('edit', edit_book_path(shared_book), :class => "edit_link") + " ) "
+  /           - else
+  /             %li.line_item= link_to(shared_book.name + " by " + shared_book.author, shared_book, :class => "line_title")                       

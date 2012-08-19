@@ -77,7 +77,11 @@ class ApiV1Controller < ApplicationController
   def get_all_questions
     @lesson = Chapter.find(params[:id])
     @book_name = Book.find(@lesson.book_id).name
-    respond_to :json
+    if @lesson.status == 3
+      respond_to :json
+    else
+      render :text => "That video is not published!"
+    end
   end
 
   def get_all_question_ids_from_lesson

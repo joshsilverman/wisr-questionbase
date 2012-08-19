@@ -5,9 +5,9 @@
         .title
             QuestionBase
         .login
-            - name = (current_user.first_name.nil?) ? "" : current_user.first_name
-            %p.welcome= "Welcome " + name + "!"
+            / - name = (current_user.first_name.nil?) ? "" : current_user.first_name
+            %p.welcome= "Welcome " + current_user.email + "!"
             (
-            =link_to "Sign out", destroy_user_session_path, :method => :delete, :class => "edit_link"
+            = link_to "sign out", destroy_user_session_path, :method => :delete, :class => "edit_link"
             )
 %br

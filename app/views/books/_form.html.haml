@@ -5,7 +5,7 @@
     .column_content
       = form_for(@book) do |f|
         .field
-          = f.label :name, :class => "form_label"
+          = f.label "Course name", :class => "form_label"
           = f.text_field :name, :class => "form_field"
         %br/
         .field

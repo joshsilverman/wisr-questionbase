@@ -2,8 +2,18 @@ class Builder
 	book_id: null
 	constructor: -> @initializeListeners()
 	initializeListeners: =>
-		$(".status.inactive").on "click", (e) => @updateStatus(e.srcElement, 1, @redirectToChapter)
-		$(".status.publish").on "click", (e) => @updateStatus(e.srcElement, 3, @updatePublishButton)
+		$(".status.inactive").on "click", (e) => @updateStatus($(e).attr("chapter_id"), e.srcElement, 1, @redirectToChapter)
+		$(".status.publish").on "click", (e) => @updateStatus($(e).attr("chapter_id"), e.srcElement, 3, @updatePublishButton)
+		$("#publish_chapter").on "click", (e) => 
+			data = 
+				"id": $(e.target).attr("chapter_id")
+				"status": 3
+				"type": "START"
+			$.ajax
+				url: "/chapters/update_status"
+				type: "POST"
+				data: data	
+				success: () => window.location.reload()
 		$("#add_chapters_action").on "click", (e) => 
 			e.preventDefault()
 			@addChapters($("#book_name").attr "value")
@@ -28,9 +38,9 @@ class Builder
 						data: data
 						success: () => $("#add_chapters_area").val("")
 					number += 1
-	updateStatus: (element, status, callback) =>
+	updateStatus: (chapter_id, element, status, callback) =>
 		data = 
-			"id": $(element).attr("chapter_id")
+			"id": chapter_id
 			"status": status
 			"type": "START"
 		$.ajax
