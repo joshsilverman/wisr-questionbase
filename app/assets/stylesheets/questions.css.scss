@@ -7,6 +7,28 @@
     /*visibility: hidden;*/
 }
 
+#share {
+  height: 40px;
+  position: relative;
+  top: -10px;
+
+  .message {
+    position: absolute;
+    right: 19px;
+    
+    .notice {
+      font-size: 10px;
+      float: right;
+      margin: 0px;
+    }
+
+    p {
+      display: inline;
+      /*font-size: 10px;*/
+    }
+  }
+}
+
 #activities {
     margin: 0px 15px 0px 105px;
 }
@@ -62,18 +84,20 @@
     position: relative;  
 }
 
-.answer a {
+.answer p {
     position: absolute;
     top: 10px;
     right: 5px;
-    display: none;
+    display: block;
     font-size: 16px;
-    color: blue;
+    cursor: pointer;
+    /*color: blue;*/
 }
 
-.answer:hover a {
+.answer > p:hover {
     display: block;
-    background-color: #F5F5F5;
+    /*background-color: #F5F5F5;*/
+    color: red;
 }
 
 .indicator {
@@ -288,7 +312,7 @@ li.token-input-input-token-facebook {
   background: url(groovepaper.png);
   position: fixed;
   left: 15px;
-  top: 172px;
+  top: 234px;
   width: 75px;
   height: 68px;    
   padding-top: 10px;
@@ -331,7 +355,7 @@ li.token-input-input-token-facebook {
     top: 0px;
     right: 5px;
     display: none;
-    color: blue;
+    /*color: blue;*/
 }
 
 .question_media_box:hover a {
@@ -394,6 +418,10 @@ li.token-input-input-token-facebook {
 }
 
 
+#dialog-confirm > p {
+  margin: 0px;
+}
+
 .highlighted > p {
     background: #E3EB5B;    
 }
@@ -442,7 +470,7 @@ li.token-input-input-token-facebook {
 }
 
 #video_area {
-  margin-top: 25px;
+  margin-top: 16px;
 }
 
 #video_time_container {
@@ -548,7 +576,9 @@ li.token-input-input-token-facebook {
 
 .status {
   display: inline-block;
-  width: 80px;
+  width: 90px;
+  height: 17px;
+  line-height: 19px;
   text-align: center;
   padding: 2px 2px 4px 2px;
   color: white; 
@@ -590,7 +620,7 @@ li.token-input-input-token-facebook {
   height: 50px;
   
   #media_link {  
-    color: blue;
+    /*color: blue;*/
     font-size: 16px;
   }  
 }
@@ -638,12 +668,18 @@ li.token-input-input-token-facebook {
     position: absolute;
     left: 38px;
     top: -5px;
-    color: blue;
+    /*color: blue;*/
     font-size: 13px;
   }
 
+  #share {
+    position: absolute;
+    padding-left: 10px;
+    padding-top: 15px;
+  }
+
   a {
-    color: blue;
+    /*color: blue;*/
     position: relative;
     top: 7px;
   }

@@ -1,0 +1,1 @@
+$ -> $("#learn_more").on "click", => $.scrollTo($("#how_arrow"), 1000)

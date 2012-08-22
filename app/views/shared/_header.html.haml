@@ -1,13 +1,14 @@
 .shadow
     .header_container
         .back_link
-            = @back
+            = @back if @back
         .title
             QuestionBase
         .login
             / - name = (current_user.first_name.nil?) ? "" : current_user.first_name
-            %p.welcome= "Welcome " + current_user.email + "!"
-            (
-            = link_to "sign out", destroy_user_session_path, :method => :delete, :class => "edit_link"
-            )
+            - if current_user
+                %p.welcome= "Welcome " + current_user.email + "!"
+                (
+                = link_to "sign out", destroy_user_session_path, :method => :delete, :class => "edit_link"
+                )
 %br

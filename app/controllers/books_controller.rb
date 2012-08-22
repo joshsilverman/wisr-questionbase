@@ -1,13 +1,18 @@
 class BooksController < ApplicationController
+  skip_before_filter :authenticate_user!, :only => :index
 
   # GET /books
   # GET /books.xml
   def index
-    @my_books = Book.all(:conditions => {:user_id => current_user.id})
-    @shared_books = Book.find_all_by_id(Authorship.where(:user_id => current_user.id).collect(&:book_id))
-    respond_to do |format|
-      format.html # index.html.erb
-      format.xml  { render :xml => @books }
+    if current_user
+      @my_books = Book.all(:conditions => {:user_id => current_user.id})
+      @shared_books = Book.find_all_by_id(Authorship.where(:user_id => current_user.id).collect(&:book_id))
+      respond_to do |format|
+        format.html # index.html.erb
+        format.xml  { render :xml => @books }
+      end
+    else  
+      redirect_to "/home"
     end
   end
 

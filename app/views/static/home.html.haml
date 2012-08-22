@@ -1,13 +1,75 @@
--if current_user
-    - name = (current_user.first_name.nil?) ? "" : current_user.first_name
-    = "Welcome " + name + "!"
-    =link_to "Sign out", signout_path 
--else
-    =image_tag('books.jpg', :class => 'home_image')
-    .home
-        .home_box
-            .home_text
-                Welcome to Questionbase. Please log in with Facebook to get started!
-                %br
-                %br
-                =link_to image_tag('fb_login.png'), "auth/facebook", :class => "fb_button"
+/ -if current_user
+/     - name = (current_user.first_name.nil?) ? "" : current_user.first_name
+/     = "Welcome " + name + "!"
+/     =link_to "Sign out", signout_path 
+/ -else
+/     =image_tag('books.jpg', :class => 'home_image')
+/     .home
+/         .home_box
+/             .home_text
+/                 Welcome to Questionbase. Please log in with Facebook to get started!
+/                 %br
+/                 %br
+/                 =link_to image_tag('fb_login.png'), "auth/facebook", :class => "fb_button"
+
+- content_for :title, "Flipped Video Lessons for Continuous Assessment"
+
+.teach#quiz
+  = render "layouts/header"
+  #above_fold_container{:class => ("ie" if request.env['HTTP_USER_AGENT'] =~ /MSIE/)}
+    #try_arrow
+      = image_tag('home/try_it_arrow.png')
+    #above_fold
+      #splash
+        .message
+          %h1.large
+            Effective video learning.
+          %h2.small
+            Ready to flip your classroom? StudyEgg offers a suite of tools to
+            %br 
+            make it easy. Record video lectures or screencasts right from your
+            %br
+            browser, embed assessments, share with students, and monitor 
+            %br
+            their progress and performance. It's everything you need to take 
+            %br
+            your teaching to the next level.
+        .cta
+          %a{:href => "/users/sign_up"}
+            %button.button.yellow#get_started Get started
+          %p= "- or - "
+          %button.button.blue#learn_more Learn more
+        #scene 
+          =image_tag("scene.png")
+  #demo
+    %iframe{:src => "http://www.studyegg.com/review/116/embed"}
+    #how_arrow
+      = image_tag('home/how_arrow.png')
+  .clr
+  #below_fold_container
+    #below_fold 
+      #rows
+        .row.first
+          .img= image_tag "home/youtube.png"
+          .copy
+            %h3 1. Create a video.
+            %p Tailor a lecture to the needs of your students! Use our browser-based technology to record a video or screencast of yourself teaching. 
+            %p Don't worry about hosting or uploading your video, we handle everything behind the scenes.
+          .clr
+        .clr
+        .row.second
+          .img= image_tag "home/create_questions.png"
+          .copy
+            %h3 2. Make it interactive.
+            %p Easy-to-use tools let you embed questions to test understanding anywhere throughout your video. 
+            %p You choose the question format, we support multiple choice, T/F, and fill-in-the-blank.
+          .clr
+        .clr
+        .row.third
+          .img= image_tag "home/ss2-2.png"
+          .copy
+            %h3 3. Distribute and analyze.
+            %p Share your video with students and monitor their response. Our detailed dashboard lets you review who has watched your video and how they have answered your questions. 
+            %p Don't want to use our dashboard? We integrate with many third party gradebooks!
+          .clr
+        .clr

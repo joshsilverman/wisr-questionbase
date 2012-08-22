@@ -271,6 +271,7 @@ class Answer
 				@save
 				@question.save
 			$(@question.dom_group).find(".answer_media_box").fadeIn 600	
+		close = $(@dom_element).find(".delete_answer")
 		$(@dom_element).find(".delete_answer").on "click", (e) =>
 			e.preventDefault()
 			if @answer_id

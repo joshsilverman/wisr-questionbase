@@ -1,0 +1,26 @@
+#header
+  .shell
+    #head
+      .row-top
+        %h2#logo
+          QuestionBase
+          / %a.notext{:href=>"/"} Logo
+        .usernav
+          - unless current_user.nil?
+            - if current_user.user_type == "TEACHER"
+              %a.first.active{:href => "/dashboard"} Dashboard
+            %a.first.active{:href=>"/"} My Lessons
+            %a.active{:href=>"/library"} Library
+          - if current_user.nil?
+            %ul
+              %li
+                %a.first#sign_up{:href=>"/users/sign_up"} Sign up
+              %li
+                %a#sign_in{:href=>"/users/sign_in"} Login
+          - else
+            %ul
+              %li
+                %a.first{:href=>"/users/edit"} Account
+              %li
+                =link_to "Logout", destroy_user_session_path, :method => 'DELETE', :id => 'logout'
+        .cl

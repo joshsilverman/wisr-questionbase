@@ -4,8 +4,19 @@
 = hidden_field_tag :admin, @e
 = hidden_field_tag :ytID, @ytID
 
+#share
+	.message
+		%p= "Shareable link to your video: "
+		%a{:href => "http://www.studyegg.com/review/#{@chapter.id}", :target => "_blank"}= "www.studyegg.com/review/#{@chapter.id}"
+		%br
+		%p.notice
+			= "Note: your video must be published before using this link."
+			= link_to "Need help?", "http://www.youtube.com/watch?v=XXRIUoLBbWc", :class => "edit_link", :target => "_blank"	
+
 .status_bar
-	%p#preview_link= "Preview"
+	/ %p#preview_link
+	#share
+		= link_to "Preview", "http://www.studyegg.com/review/#{@chapter.id}", :target => "_blank", :class => "edit_link"
 	- if @chapter.media_url
 		= link_to "#{@chapter.name}", @chapter.media_url, :target => "_blank", :class => "status_bar_title"
 	- else
@@ -26,10 +37,10 @@
 		- elsif @chapter.status == 3
 			.status.published{:chapter_id => @chapter.id}
 				Published 
-			- if current_user.user_type == "ADMIN" || current_user.user_type == "QC"
-				(
-				= link_to_function "Un-Publish", "window.chapter.unpublishChapter()", :class => "edit_link"
-				)				
+			/ - if current_user.user_type == "ADMIN" || current_user.user_type == "QC"
+			(
+			= link_to_function "Un-Publish", "window.chapter.unpublishChapter()", :class => "edit_link"
+			)				
 
 = render :partial => "menu"
 %br
