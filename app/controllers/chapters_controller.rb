@@ -53,6 +53,8 @@ class ChaptersController < ApplicationController
   # POST /chapters
   # POST /chapters.xml
   def create
+    media_url = params[:chapter][:media_url]
+    params[:chapter][:media_url] = "http://www.youtube.com/watch?v=#{media_url.match('v=[A-Za-z0-9_-]*').to_s.split('=')[1]}"
     @chapter = Chapter.new(params[:chapter])
     @chapter.book_id = params[:book_id]
     @chapter.status = 1
