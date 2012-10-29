@@ -585,3 +585,26 @@ fieldset {
     }
   }  
 }
+
+.banner {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #FFB32C), color-stop(1, #FFA300));
+  background: -moz-linear-gradient(center top, #FFB32C 5%, #FFA300 100%);
+  text-align: center;
+  padding: 10px 0px;
+  /*-moz-box-shadow: 2px 3px 5px #888;*/
+  /*-webkit-box-shadow: 2px 3px 5px #888;*/
+  /*box-shadow: 2px 3px 5px #888;*/
+  border-bottom: 1px dotted #999;
+
+  .content {
+    width: 940px;
+    margin: auto;
+    font-weight: bold;
+    color: #000000;
+    font-size: 13px;
+
+    a {
+      color: #0252AA;
+    }
+  }
+}
