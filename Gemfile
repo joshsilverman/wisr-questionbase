@@ -1,4 +1,5 @@
 source :rubygems
+ruby '2.0.0'
 
 group :test do
   gem 'sqlite3'
@@ -6,7 +7,8 @@ group :test do
 end
 
 group :production do
-  gem 'pg', :require => false
+  gem 'pg'
+  gem 'rails_12factor'
 end
 
 group :assets do
