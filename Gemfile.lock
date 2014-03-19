@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     actionmailer (3.2.17)
       actionpack (= 3.2.17)
@@ -178,8 +178,8 @@ GEM
     ref (1.0.5)
     responders (1.0.0)
       railties (>= 3.2, < 5)
-    rubyzip (1.1.0)
-    sass (3.3.3)
+    rubyzip (1.1.2)
+    sass (3.2.16)
     sass-rails (3.2.6)
       railties (~> 3.2.0)
       sass (>= 3.1.10)
@@ -239,6 +239,7 @@ DEPENDENCIES
   rabl
   rails (= 3.2.17)
   rails_12factor
+  sass (~> 3.2.5)
   sass-rails
   sqlite3
   therubyracer

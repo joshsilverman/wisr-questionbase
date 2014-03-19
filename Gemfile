@@ -1,4 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 ruby '2.0.0'
 
 group :test do
@@ -21,6 +21,7 @@ group :development do
   gem 'pry-rails'
 end
 
+gem "sass", "~> 3.2.5"
 gem 'sass-rails'
 gem 'haml'
 gem 'devise', "1.5.4"
