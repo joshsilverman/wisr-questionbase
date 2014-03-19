@@ -26,7 +26,7 @@ gem 'sass-rails'
 gem 'haml'
 gem 'devise', "1.5.4"
 gem 'rails', '3.2.17'
-gem 'jquery-rails', "< 3.0.0"
+gem 'jquery-rails', "2.1.4"
 gem 'omniauth'
 gem 'omniauth-oauth2'
 gem 'httparty'
