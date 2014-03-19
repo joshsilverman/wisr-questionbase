@@ -19,7 +19,6 @@ class BooksController < ApplicationController
   # GET /books/1
   # GET /books/1.xml
   def show
-    puts "bro"
     get_book(params[:id])
     puts @book.to_json
     if @book
